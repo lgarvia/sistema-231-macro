@@ -3,9 +3,10 @@ tipo: tesis_estructural
 id: TESIS_05
 estado: en_validacion
 soporte: moderado
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-19
+corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
 corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W37 TASK_099; revisión de tesis sobre evidencia admitida en fases 1-4"
+alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -76,14 +77,16 @@ Hasta construir una serie base comparable, estos puntos son **puertas de evidenc
 - Evidencia de que la demanda de T-bills es neutral por sustitución completa de otros compradores.
 - Crisis repetidas de paridad o custodia que impidan su uso como dinero o colateral fiable.
 
-## 7. Calibración actual — 29/08/2026
+## 7. Calibración actual — 19/09/2026 (precierre W38)
 
-- **Estado:** en validación.
-- **Grado de soporte:** moderado.
-- **Evidencia favorable:** escala cercana a 300 B$, predominio del dólar, reservas invertidas en activos cortos y mayor integración analítica y regulatoria con las finanzas tradicionales.
-- **Evidencia contradictoria:** el BIS identifica fallos estructurales; no hay evidencia de indispensabilidad para SOFR o subastas ni una serie homogénea de demanda neta, liquidación o migración de depósitos.
-- **Actualización de ventana:** No se localizó un documento primario nuevo sobre reservas, liquidación DvP o migración de depósitos. El cruce de $40T, las recompras de liquidez, el PCE de julio y la doctrina Warsh no acreditan demanda tokenizada ni activan una puerta de evidencia.
-- **Cambio de esta revisión:** se mantiene el paquete dedicado de cinco sensores y se impide abrir un evento antes de construir una línea base comparable.
+- **Soporte:** Moderado; en validación.
+- **A favor:** Ningún dato nuevo admitido mide demanda incremental de Treasuries o movilización de colateral por canales tokenizados.
+- **Contraevidencia y límites:** No se incorpora una refutación cuantitativa nueva. Las medidas OFAC contra intermediarios cripto muestran fricción regulatoria, no eficacia del colateral tokenizado.
+- **Ambigüedad causal:** TGA, repos convencionales, TIC y uso de cripto en pagos no acreditan por sí mismos el nexo soberano tokenizado.
+- **Próxima falsación:** Exigir reservas verificables, volúmenes y uso de colateral con comparador convencional; no promover anuncios o sanciones a prueba de adopción.
+- **Juicio técnico:** Se mantiene moderado y en validación; puerta de evidencia sin cumplir.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [ofac2](https://home.treasury.gov/news/press-releases/sb0632/)
 
 ## 8. Fuentes de seguimiento
 
@@ -105,3 +108,22 @@ Se conserva **en validación · soporte moderado**, según su frontmatter y crit
 - **Evidencia W37:** no se admite evidencia primaria nueva sobre reservas de stablecoins, demanda neta adicional de T-bills, liquidación DvP, uso de bonos tokenizados como colateral o migración de depósitos.
 - **Límite de imputación:** BCE, JGB, TGA, H.4.1 y recompras del Tesoro pertenecen a la arquitectura monetaria general. Sin un nexo tokenizado verificable no refuerzan TESIS_05 ni autorizan una ficha de evento.
 - **Juicio:** se conserva la hipótesis y su paquete dedicado de cinco sensores. La ausencia de nueva evidencia no la refuta, pero impide elevar soporte o pasarla a vigente.
+
+## Revisión W38 — TASK_116
+
+Se mantiene moderado y en validación; puerta de evidencia sin cumplir. El soporte resulta de la revisión explícita de §7, no de una instrucción de conservarlo. Los grados históricos no se reinterpretan como nueva evidencia.
+
+<details>
+<summary>Calibración anterior sustituida</summary>
+
+### Calibración anterior — 29/08/2026
+
+- **Estado:** en validación.
+- **Grado de soporte:** moderado.
+- **Evidencia favorable:** escala cercana a 300 B$, predominio del dólar, reservas invertidas en activos cortos y mayor integración analítica y regulatoria con las finanzas tradicionales.
+- **Evidencia contradictoria:** el BIS identifica fallos estructurales; no hay evidencia de indispensabilidad para SOFR o subastas ni una serie homogénea de demanda neta, liquidación o migración de depósitos.
+- **Actualización de ventana:** No se localizó un documento primario nuevo sobre reservas, liquidación DvP o migración de depósitos. El cruce de $40T, las recompras de liquidez, el PCE de julio y la doctrina Warsh no acreditan demanda tokenizada ni activan una puerta de evidencia.
+- **Cambio de esta revisión:** se mantiene el paquete dedicado de cinco sensores y se impide abrir un evento antes de construir una línea base comparable.
+
+
+</details>

@@ -2,7 +2,8 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-ultima_revision: "2026-09-12"
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: "2026-09-19"
 triggers_activos: 0
 triggers_parciales: 0
 ---
@@ -16,7 +17,11 @@ triggers_parciales: 0
 - **Triggers parciales:** Ninguno
 - **Condición de dominancia:** No activa
 - **Restricción dominante actual:** Productividad, envejecimiento, vivienda y sostenibilidad fiscal de transferencias.
-- **Razón del semáforo:** La presión demográfica y fiscal estructural permanece moderada, sin triggers completos o parciales. BYD confirma 11.943 matriculaciones de eléctricos puros en España entre enero y agosto y actúa como sensor de escala industrial china, pero no demuestra fuga neta de CAPEX europeo ni captura de renta. W37 no añade liquidación contributiva, vivienda homogénea o desplazamiento financiero observado; la tendencia sigue estable.
+- **Razón del semáforo:** La revisión W38 no incorpora una nueva liquidación contributiva comparable, una serie homogénea de vivienda ni evidencia de desplazamiento fiscal de CAPEX. Se mantiene presión moderada y → sobre la base anterior, con actualización factual limitada. La ausencia de evidencia nueva no refuta el mecanismo secular ni justifica subir soporte.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición sistémica desde manufacturas tradicionales hacia la electrificación, digitalización de plantas y automatización industrial, cruzada con el envejecimiento demográfico y la erosión fiscal del factor trabajo.
@@ -30,13 +35,10 @@ El entramado industrial tradicional del siglo XX sufre un proceso de obsolescenc
 **Tesis asociada:** [[TESIS_03_Captura_de_Renta]] / [[TESIS_06_IA_como_silicio_y_energia]]
 
 ## 3. ESTADO ESTRUCTURAL
-Domina un régimen de presión demográfica de largo plazo donde el envejecimiento y el coste de las clases pasivas condicionan el presupuesto. La nómina ordinaria de pensiones contributivas de España alcanzó €14.034,8M en junio para 10.498.828 pensiones, y la pensión media aumentó un 4,6% interanual hasta €1.371,4. La afiliación, sin embargo, superó 22,5 millones en la serie diaria de la primera quincena de julio, por lo que los datos publicados no permiten activar ni aproximar mecánicamente el umbral anual de 1,4 cotizantes por pensionista.
 
-La comparación industrial exige periodos y métricas homogéneos. Eurostat recoge para junio 0,0% mensual y +0,1% anual en la eurozona (antecedente, no novedad de W36). Para agosto de 2026, [ISM, publicado el 01-sep](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/) registra **54,6** frente a 55,6 en julio, y [BLS, publicado el 04-sep](https://www.bls.gov/news.release/archives/empsit_09042026.htm) registra **+16.000 empleos manufactureros**. Consulta de ambos: 06-sep. La expansión estadounidense más lenta no permite describir todo Occidente como industria en contracción. Ninguno de estos datos mensuales satisface por sí solo los cuatro triggers seculares de V05.
+La revisión W38 no incorpora una nueva liquidación contributiva comparable, una serie homogénea de vivienda ni evidencia de desplazamiento fiscal de CAPEX. Se mantiene presión moderada y → sobre la base anterior, con actualización factual limitada. La ausencia de evidencia nueva no refuta el mecanismo secular ni justifica subir soporte.
 
-La divergencia industrial China-Europa gana evidencia física, aunque todavía no una métrica comparativa completa. Unitree comenzó a cotizar el 19-ago con un plan de inversión de 4.200 M de yuanes destinado a I+D y capacidad productiva; Alibaba comprometió 80.000 M HK$ de inversión en IA. Son señales de escala de capital en robótica, infraestructura y automatización. No permiten inferir automáticamente pérdida equivalente de CAPEX europeo ni activan el Trigger 03.
-
-El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos políticos y confiscación de bienes para Xu Jiayin, junto con condenas a otros 56 acusados en el caso Evergrande. El pasivo aproximado de $300.000M dimensiona el cierre judicial de la crisis corporativa. Interpretar esta sentencia como una decisión de Pekín para desviar capital inmobiliario hacia silicio es una hipótesis de tesis —coherente con el patrón inversor—, no un hecho contenido en el fallo.
+Los antecedentes conservados al final no son cotizaciones ni estados vigentes. La interpretación de régimen permanece falsable; el estado operativo se determina en §0.
 
 ## 4. MECANIZACIÓN OPERACIONAL
 ### Métricas Verificables
@@ -96,3 +98,34 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
 Presión moderada y tendencia estable. TESIS_03 conserva soporte moderado-alto: BYD es evidencia compatible con divergencia industrial, no con el mecanismo fiscal completo. TESIS_06 mantiene soporte alto por su cadena física, sin imputar a V05 la carga primaria de Grid o CoWoS.
+
+## Revisión W38 — TASK_116
+
+La revisión W38 no incorpora una nueva liquidación contributiva comparable, una serie homogénea de vivienda ni evidencia de desplazamiento fiscal de CAPEX. Se mantiene presión moderada y → sobre la base anterior, con actualización factual limitada. La ausencia de evidencia nueva no refuta el mecanismo secular ni justifica subir soporte.
+
+[[ACTUALIZACION_SEMANAL_231_2026_09_20]] documenta fuentes, imputación primaria y límites. No se suman transmisiones secundarias a la carga.
+
+<details>
+<summary>Estado anterior sustituido — memoria de calibración W37</summary>
+
+### Estado operativo anterior
+- **Presión actual:** 🟡 MODERADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** Ninguno
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Productividad, envejecimiento, vivienda y sostenibilidad fiscal de transferencias.
+- **Razón del semáforo:** La presión demográfica y fiscal estructural permanece moderada, sin triggers completos o parciales. BYD confirma 11.943 matriculaciones de eléctricos puros en España entre enero y agosto y actúa como sensor de escala industrial china, pero no demuestra fuga neta de CAPEX europeo ni captura de renta. W37 no añade liquidación contributiva, vivienda homogénea o desplazamiento financiero observado; la tendencia sigue estable.
+
+
+### Contexto estructural anterior
+Domina un régimen de presión demográfica de largo plazo donde el envejecimiento y el coste de las clases pasivas condicionan el presupuesto. La nómina ordinaria de pensiones contributivas de España alcanzó €14.034,8M en junio para 10.498.828 pensiones, y la pensión media aumentó un 4,6% interanual hasta €1.371,4. La afiliación, sin embargo, superó 22,5 millones en la serie diaria de la primera quincena de julio, por lo que los datos publicados no permiten activar ni aproximar mecánicamente el umbral anual de 1,4 cotizantes por pensionista.
+
+La comparación industrial exige periodos y métricas homogéneos. Eurostat recoge para junio 0,0% mensual y +0,1% anual en la eurozona (antecedente, no novedad de W36). Para agosto de 2026, [ISM, publicado el 01-sep](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/) registra **54,6** frente a 55,6 en julio, y [BLS, publicado el 04-sep](https://www.bls.gov/news.release/archives/empsit_09042026.htm) registra **+16.000 empleos manufactureros**. Consulta de ambos: 06-sep. La expansión estadounidense más lenta no permite describir todo Occidente como industria en contracción. Ninguno de estos datos mensuales satisface por sí solo los cuatro triggers seculares de V05.
+
+La divergencia industrial China-Europa gana evidencia física, aunque todavía no una métrica comparativa completa. Unitree comenzó a cotizar el 19-ago con un plan de inversión de 4.200 M de yuanes destinado a I+D y capacidad productiva; Alibaba comprometió 80.000 M HK$ de inversión en IA. Son señales de escala de capital en robótica, infraestructura y automatización. No permiten inferir automáticamente pérdida equivalente de CAPEX europeo ni activan el Trigger 03.
+
+El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos políticos y confiscación de bienes para Xu Jiayin, junto con condenas a otros 56 acusados en el caso Evergrande. El pasivo aproximado de $300.000M dimensiona el cierre judicial de la crisis corporativa. Interpretar esta sentencia como una decisión de Pekín para desviar capital inmobiliario hacia silicio es una hipótesis de tesis —coherente con el patrón inversor—, no un hecho contenido en el fallo.
+
+
+</details>

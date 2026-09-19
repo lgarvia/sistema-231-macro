@@ -1,6 +1,6 @@
 # PROMPT CANÓNICO — ACTUALIZACIÓN DEL SISTEMA 231
 
-> **Versión:** 0.5 — 2026-09-06 (TASK_090)  
+> **Versión:** 0.6 — 2026-09-19 (TASK_116)
 > **Frecuencia recomendada:** semanal y tras un trigger crítico
 
 ## 1. Ontología en Cuatro Niveles
@@ -67,8 +67,23 @@ Las inferencias y tesis nunca se anotan como hechos consumados del mundo.
 
 - Verificar el año y el periodo dentro del documento primario: una coincidencia de mes o una URL institucional no basta.
 - Diferenciar antecedente, hecho nuevo, inferencia y previsión. Una presentación confidencial de S-1 no equivale a cotización efectiva.
-- Calcular la carga desde presión/peso/tendencia actuales de las cinco fichas, una vez por vector primario; no copiar el total del informe anterior.
+- Calcular la carga desde presión/peso/tendencia actuales del inventario de fichas activas, una vez por vector primario; no copiar el total del informe anterior.
 - Reconciliar tendencias, soportes de tesis y fechas de corte entre fichas, informe, índices, Salud, Dashboard y Snapshot. No renovar el corte global de otros proyectos por una reparación local.
 - Verificar enlaces al radar activo frente a referencias históricas al radar archivado; no renombrar el destino sin reparar consumidores.
 - Declarar por separado presencia de enlaces y contraste factual realizado; no usar porcentajes de «verificado» sin denominador, método y documentos comprobados.
 - Conservar rectificaciones fechadas y el texto histórico suplantado, sin permitir que alimente el estado vigente.
+
+## 8. Contrato de ejecución semanal corregido
+
+Ejecuta la calibración con autonomía dentro del alcance autorizado y conserva la arquitectura actual. Lee el protocolo del vault, el inventario y la última revisión. Antes de modificar, comprueba tareas concurrentes y cambios locales; preserva los ajenos.
+
+1. **Fijar el corte.** Registra semana ISO, fecha nominal del informe y hora/zona del corte factual real. Si el domingo aún no ha terminado, entrega un precierre. Cubre también el intervalo desde el corte anterior para no perder noticias del fin de semana. No incorpores información publicada después del corte aunque se conozca durante la ejecución.
+2. **Verificar hechos.** Usa documentos primarios específicos con periodo, unidad, publicación, vigencia y fecha de consulta. Separa observación, anuncio, proyección, antecedente e inferencia. En revisiones de series, registra el valor previo y el nuevo. Un calendario no acredita un resultado; una norma no prueba cobro ni efecto económico.
+3. **Auditar eventos y vectores.** Evalúa cada cláusula de cada trigger: umbral, duración, población, geografía, fuente y causalidad. Usa activo, parcial, no activado con evidencia, no verificable o periodo incompleto, según corresponda. No reduzcas requisitos para obtener una conclusión. Distingue triggers de evento y de vector. Presión, clase, peso y tendencia se justifican por separado; ni la clase ni el total vienen impuestos por el encargo.
+4. **Calcular y revisar tesis.** Deriva carga desde el inventario resultante: presión × peso × tendencia, una vez por vector primario. Explica toda variación. Revisa las seis tesis con apoyo, contraevidencia, ambigüedad y próxima falsación; conserva o cambia soporte por evidencia, no por cuota ni por vínculos.
+5. **Resolver y renovar radar.** Retira de futuros los hitos vencidos y asigna resolución con fuente, conservando IDs e historial. Admite nuevos solo si cumplen mecanismo, fecha y sensor; no fijes número de filas. Calcula horizonte desde el corte real con la convención de Prompt_Radar_Eventos. No confundas anuncio y fecha efectiva, ni supongas que una reunión repite decisiones anteriores.
+6. **Reconciliar y entregar.** Actualiza fichas, vectores, tesis, índices, Salud, mapa e informe; sincroniza solo los bloques 231 del Dashboard y Snapshot. Conserva rectificaciones fechadas. Archiva el informe sustituido tras comprobar el nuevo. Valida cuentas, fechas, enlaces y ausencia de contradicciones en el estado vivo. Registra COMM y, cuando esté autorizado, crea commit con archivos explícitos y push ordinario; informa por separado qué quedó local, confirmado y publicado. No atribuyas validación humana a una decisión técnica.
+
+**Criterio de finalización:** resultado coherente y trazable, con lagunas declaradas y sin tareas ejecutables pendientes. No exige certeza total, un total de carga predeterminado, cinco eventos eternos ni 25 filas de radar. Si falta una fuente decisiva, entrega el resto y explicita qué conclusión queda pendiente; no completes cifras por analogía.
+
+**Correcciones sobre la instrucción W38 original:** se eliminan la carga 86,4 y las tendencias impuestas como objetivos; la fecha 20/09 se conserva solo como nominal; el orden vuelve a hechos → eventos/vectores → carga → tesis → radar → superficies. Las cifras del informe anterior son comparadores, nunca resultados a conservar por mandato.

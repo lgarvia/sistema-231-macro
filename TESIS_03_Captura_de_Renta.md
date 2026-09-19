@@ -3,9 +3,10 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-19
+corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
 corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W37 TASK_099; revisión de tesis sobre evidencia admitida en fases 1-4"
+alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
 ---
 
@@ -65,14 +66,16 @@ La validación exige separar tres capas: **(1) vivienda y demografía**, **(2) f
 - Expansión material de oferta residencial que reduzca el esfuerzo de acceso.
 - Equilibrio contributivo estable sin detracción de inversión pública productiva.
 
-## 7. Calibración actual — 29/08/2026
+## 7. Calibración actual — 19/09/2026 (precierre W38)
 
-- **Estado:** vigente.
-- **Grado de soporte:** moderado-alto agregado; alto para vivienda y presión demográfica, todavía moderado para el flujo contributivo y el mecanismo fiscal completo.
-- **Evidencia favorable:** vivienda +12,2%, pensión media +4,6%, producción industrial europea prácticamente estancada en junio y nueva evidencia de escala de inversión industrial y tecnológica china.
-- **Corpus interpretativo:** las piezas sobre acceso a vivienda, déficit europeo de capital de escala y cierre de Evergrande se conservan como hipótesis propias. Unitree, Alibaba y la sentencia verifican hechos puntuales, no la causalidad completa de desplazamiento de capital.
-- **Contrapeso factual:** afiliación al alza en julio; amplía la base laboral y desaconseja una lectura automática de deterioro contributivo.
-- **Evidencia pendiente:** liquidación comparable de cotizaciones, gasto y transferencias; ratio cotizantes/pensionistas; distribución del esfuerzo por edad y renta.
+- **Soporte:** Moderado-alto; vigente.
+- **A favor:** No se añade apoyo directo nuevo al mecanismo de captura fiscal; permanece la base histórica diferenciada de vivienda, demografía y flujo contributivo.
+- **Contraevidencia y límites:** No se admite contraevidencia nueva decisiva; tampoco se ha demostrado desplazamiento causal de ahorro o inversión con los datos W38.
+- **Ambigüedad causal:** Tipos altos, ingresos tecnológicos o sanciones no son mediciones de captura de renta. El grado no aumenta por ausencia de refutación.
+- **Próxima falsación:** Exigir liquidaciones contributivas homogéneas y evidencia de desplazamiento de inversión; productividad y ahorro sostenidos bajo menor carga debilitarían el mecanismo.
+- **Juicio técnico:** Se conserva moderado-alto como evaluación heredada, con cobertura semanal limitada y sin validación adicional.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. No se declara búsqueda exhaustiva de todas las fuentes estructurales de esta tesis.
 
 ## 8. Fuentes de seguimiento
 
@@ -98,3 +101,22 @@ La falsa contracción industrial estadounidense queda retirada: ISM de agosto 54
 - **Evidencia compatible, no diagnóstica:** las 11.943 matriculaciones de eléctricos puros de BYD en España y la escala de inversión tecnológica china son coherentes con una divergencia industrial, pero no miden captura de renta, fuga neta de CAPEX europeo ni desplazamiento de ahorro productivo.
 - **Contraevidencia y límites:** W37 no aporta una liquidación comparable de cotizaciones, prestaciones y transferencias, ni nuevos datos homogéneos de vivienda, salarios reales o esfuerzo por edad. El Banco de Inglaterra señala poca o ninguna evidencia actual de desplazamiento de financiación por el CAPEX de IA.
 - **Juicio:** no se promueven BYD ni la competencia por liquidez a evidencia causal de TESIS_03. El soporte sigue alto en vivienda/demografía y solo moderado en el mecanismo fiscal completo; el agregado permanece moderado-alto.
+
+## Revisión W38 — TASK_116
+
+Se conserva moderado-alto como evaluación heredada, con cobertura semanal limitada y sin validación adicional. El soporte resulta de la revisión explícita de §7, no de una instrucción de conservarlo. Los grados históricos no se reinterpretan como nueva evidencia.
+
+<details>
+<summary>Calibración anterior sustituida</summary>
+
+### Calibración anterior — 29/08/2026
+
+- **Estado:** vigente.
+- **Grado de soporte:** moderado-alto agregado; alto para vivienda y presión demográfica, todavía moderado para el flujo contributivo y el mecanismo fiscal completo.
+- **Evidencia favorable:** vivienda +12,2%, pensión media +4,6%, producción industrial europea prácticamente estancada en junio y nueva evidencia de escala de inversión industrial y tecnológica china.
+- **Corpus interpretativo:** las piezas sobre acceso a vivienda, déficit europeo de capital de escala y cierre de Evergrande se conservan como hipótesis propias. Unitree, Alibaba y la sentencia verifican hechos puntuales, no la causalidad completa de desplazamiento de capital.
+- **Contrapeso factual:** afiliación al alza en julio; amplía la base laboral y desaconseja una lectura automática de deterioro contributivo.
+- **Evidencia pendiente:** liquidación comparable de cotizaciones, gasto y transferencias; ratio cotizantes/pensionistas; distribución del esfuerzo por edad y renta.
+
+
+</details>

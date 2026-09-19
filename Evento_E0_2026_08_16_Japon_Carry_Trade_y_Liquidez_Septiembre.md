@@ -7,56 +7,50 @@ vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 moc: "[[MOC_Politica_Monetaria]]"
 tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
 tipo: evento
+ultima_revision: 2026-09-19
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
 aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
 ---
 
 # EVENTO: E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre
 
 ## 1. SNAPSHOT ACTUAL
-- **Estado:** 🟠 En observación intensificada — E0; NORMALIZACIÓN JAPONESA / TEST DE LIQUIDEZ DE SEPTIEMBRE
+- **Estado:** E0 — En observación intensificada
 - **Nivel de presión:** ELEVADA (P4)
-- **Dirección de tendencia:** → Estable
+- **Dirección de tendencia:** ↑ Acelerando
 - **Peso estructural:** 4
-- **Última actualización:** 2026-09-12 (precierre W37; corte 21:21 CEST)
-- **Contribución primaria:** 4 × 4 × 1,0 = **16,0**
+- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
+- **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
 - **Vector primario:** [[VECTOR_01_Arquitectura_monetaria_global]]
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
-- **KPIs Actuales:**
-  - JGB a 30 años: la subasta oficial del 03/09/2026 (Issue 91) cortó con rendimiento medio de **4,079%**, yield al precio mínimo aceptado de **4,100%** (precio de corte 98,65), precio medio de 98,93 y cupón nominal del 4,0%. La cobertura competitiva se situó en **3,79x** (oferta de ¥1.728,1B frente a ¥456,2B aceptados), con demanda competitiva superior al importe aceptado. La tabla no identifica la residencia del comprador final. Fuente específica: [MOF, 03/09/2026](https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260903.htm).
-  - JGB a 10 años: la subasta oficial del 01/09/2026 registró rendimiento medio de **2,995%** y rendimiento al precio mínimo aceptado de **3,011%**; el 30Y está alrededor del 4,1%, no cerca del 5%.
-  - Tipo oficial del BoJ: alrededor de **1,0% desde el 17/06/2026**; confirmado en 1,0% el 31/07. Próxima reunión MPM el **17–18 de septiembre**, según [calendario BoJ](https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm).
-  - Tenencias japonesas de Treasuries: **1.116,7 mil millones de dólares** (TIC junio 2026, publicado en agosto). Próxima entrega de datos TIC a mediados de septiembre.
-  - TIC de junio: entrada neta total de 133,5 B$ y compras extranjeras netas de valores estadounidenses a largo plazo de 207,1 B$; no existe retirada extranjera agregada.
-  - Flujos MOF de agosto: los inversores designados registraron **−¥143,0B** netos en deuda extranjera a largo plazo, pero el total de inversión de cartera fue **+¥136,6B**; en la semana 30/08–05/09 la deuda extranjera a largo plazo volvió a **+¥111,9B**. Hay un mes negativo, no dos meses consecutivos acreditados.
-  - Liquidez al 09/09 (Fed H.4.1): TGA en **843,705 B$** y reservas bancarias en **3.036,508 B$**. El umbral doble del Trigger B ya no se cumple simultáneamente y la ventana causal del 15/09 aún no ha ocurrido.
-  - Repo / Fontanería: SOFR en **3,64%** frente a IORB de **3,65%** hasta el 09/09; sin uso material de la SRF ni señal que active C o D.
-  - Ventana de estrés identificada: 15 al 30 de septiembre (pagos fiscales corporativos, absorción de emisiones Treasury, recarga de TGA y cierre de trimestre Q3).
+- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
 
----
+- BoJ: decisión del 18/09 de elevar el objetivo a **1,25%**, efectiva el **24/09**; al corte sigue en torno al **1,00%**. [BoJ, decisión y anexo](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf).
+- Fed: alza de 25 pb a **3,75–4,00%**; IORB **3,90%** desde el 17/09. [FOMC](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) y [implementación](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm).
+- H.4.1 publicado el 17/09, observación puntual del 16/09: TGA **991,708 B$**, reservas **2.921,536 B$**. No son promedios semanales. [Fed H.4.1](https://www.federalreserve.gov/releases/h41/Current/).
+- DTS: caja al cierre del 14/09 **871,224 B$**, 15/09 **991,557 B$**, 16/09 **991,708 B$**, 17/09 **972,675 B$**. El 15/09 entran **51,579 B$** de impuestos corporativos; la emisión neta de deuda aporta también **43,261 B$**. [DTS caja](https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/operating_cash_balance?filter=record_date:gte:2026-09-14,record_date:lte:2026-09-17&page[size]=100) y [DTS flujos](https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/deposits_withdrawals_operating_cash?filter=record_date:eq:2026-09-15&page[size]=500).
+- SOFR–IORB: **−3, −1, −3 y −5 pb** para 14–17/09. SRF: **0, 102, 254, 2 y 1 M$** diarios, 14–18/09, sumando las dos operaciones de cada día. SOFR del 18/09 todavía no disponible al corte. [SOFR](https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-09-12&endDate=2026-09-18&type=rate) y [repo/SRF](https://markets.newyorkfed.org/api/rp/results/search.json?startDate=2026-09-14&endDate=2026-09-18&operationTypes=Repo).
+- TIC julio publicado el 16/09: stock japonés **1.103,9 B$** frente a **1.116,7 B$** en junio; variación **−12,8 B$**, que no equivale a ventas netas. Entrada TIC agregada **83,7 B$**; no es flujo japonés. [TIC julio](https://home.treasury.gov/news/press-releases/sb0631/) y [tenencias por país](https://ticdata.treasury.gov/resource-center/data-chart-center/tic/Documents/slt_table5.html).
+- MOF publicado el 17/09: compras netas japonesas de deuda exterior a largo plazo de **1.082,9 miles de millones de yenes**, semana 06–12/09; la anterior queda revisada a **111,4**, frente a 111,9 en W37. Agosto mensual sigue en **−143,0**. [MOF semanal](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) y [MOF mensual](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/monthEng.pdf).
+
+**Decisión técnica:** La tendencia pasa de → a ↑ por el aumento observado de TGA y la caída de reservas dentro de la ventana fiscal, junto a la nueva decisión japonesa. La clase sigue E0 porque B está parcialmente acreditado y A/C/D no alcanzan activación completa. La señal no equivale a desarme de carry ni a crisis repo.
+
+Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 
 ## 2. CONDICIONES DE ACTIVACIÓN (TRIGGERS)
 
-- **Trigger A (Flujos de Ahorro Japonés y Deuda Exterior):** El diferencial de rentabilidad entre el JGB a 30 años y el U.S. Treasury a 30 años cubierto a yenes se mantiene favorable al bono japonés durante más de 15 días hábiles consecutivos, acompañado por dos meses consecutivos de compras netas negativas (o desinversión/no reinversión) de bonos extranjeros por parte de inversores institucionales japoneses según datos del Ministerio de Finanzas de Japón o el Treasury International Capital (TIC). **Estado: no activado. Agosto aporta un mes negativo en deuda extranjera a largo plazo (−¥143,0B), pero el total de cartera fue positivo y la semana 30/08–05/09 volvió a compras netas; tampoco se ha verificado el diferencial cubierto durante 15 días.**
-- **Trigger B (Drenaje Fiscal TGA y Reservas):** Los pagos de impuestos corporativos del 15 de septiembre elevan la Treasury General Account (TGA) por encima de 900 B$, provocando un drenaje de reservas bancarias agregadas por debajo de los 3,1 billones de dólares en la misma quincena. **Estado: no activado. Al 09/09 la TGA está por debajo de 900 B$, aunque las reservas siguen por debajo de 3,1 T$; falta además la ventana causal posterior al 15/09.**
-- **Trigger C (Stress en Mercados Monetarios / SOFR):** El tipo de interés garantizado a un día (SOFR) cotiza por encima del tipo de interés sobre saldos de reservas (IORB) en más de 8 puntos básicos durante 3 días hábiles consecutivos, o la dispersión del percentil 99 en repo general collateral supera los 25 bps. **Estado: no activado. Al 09/09 el SOFR está 1 pb por debajo de IORB.**
-- **Trigger D (Uso de Facilidad de Respaldo SRF):** La Standing Repo Facility (SRF) de la Reserva Federal registra operaciones de absorción de liquidez superiores a 20 B$ diarios durante más de dos días consecutivos alrededor del cierre de trimestre (25–30 de septiembre). **Estado: no activado (uso en $0M).**
+- **Trigger A (Flujos de Ahorro Japonés y Deuda Exterior):** El diferencial de rentabilidad entre el JGB a 30 años y el U.S. Treasury a 30 años cubierto a yenes se mantiene favorable al bono japonés durante más de 15 días hábiles consecutivos, acompañado por dos meses consecutivos de compras netas negativas (o desinversión/no reinversión) de bonos extranjeros por parte de inversores institucionales japoneses según datos del Ministerio de Finanzas de Japón o el Treasury International Capital (TIC). **Estado al corte: NO ACREDITADO COMPLETO. Falta una serie de >15 días hábiles del diferencial 30Y cubierto y dos meses consecutivos de flujo institucional comparable. El descenso de stock TIC no suple el flujo; MOF semanal positivo es contraevidencia de retirada inmediata, no refuta por sí solo dos meses negativos.**
+- **Trigger B (Drenaje Fiscal TGA y Reservas):** Los pagos de impuestos corporativos del 15 de septiembre elevan la Treasury General Account (TGA) por encima de 900 B$, provocando un drenaje de reservas bancarias agregadas por debajo de los 3,1 billones de dólares en la misma quincena. **Estado al corte: PARCIAL. Umbrales cuantitativos simultáneos y ventana temporal cumplidos al 16/09. Los impuestos contribuyen a la caja, pero también la financiación; las reservas ya estaban bajo 3,1 T$ antes del pago. No se acredita íntegramente la causalidad y el cruce exigidos por la redacción canónica. No se rebaja el umbral ni se declara inactivo.**
+- **Trigger C (Stress en Mercados Monetarios / SOFR):** El tipo de interés garantizado a un día (SOFR) cotiza por encima del tipo de interés sobre saldos de reservas (IORB) en más de 8 puntos básicos durante 3 días hábiles consecutivos, o la dispersión del percentil 99 en repo general collateral supera los 25 bps. **Estado al corte: RAMA SOFR NO ACTIVADA en los cuatro días publicados. La alternativa de dispersión del percentil 99 de repo GC no es plenamente evaluable: el protocolo no define contra qué referencia medirla. El rango p99–mediana de SOFR es solo diagnóstico y no se sustituye por GC.**
+- **Trigger D (Uso de Facilidad de Respaldo SRF):** La Standing Repo Facility (SRF) de la Reserva Federal registra operaciones de provisión de liquidez superiores a 20 B$ diarios durante más de dos días consecutivos alrededor del cierre de trimestre (25–30 de septiembre). **Estado al corte: VENTANA PENDIENTE (25–30/09). Fuera de ella, el máximo diario observado de 254 M$ no cruza 20 B$. Se corrige «absorción» por «provisión» de liquidez, conservando importe y duración.**
 
 ---
 
 ## 3. CONTEXTO Y SEÑAL DOMINANTE
 
-Durante décadas, los tipos japoneses muy bajos incentivaron la búsqueda de rendimiento exterior y la financiación en yenes. El BoJ puso fin al tipo negativo y al marco de control de curva el **19/03/2024**, no en 2026. En 2026 la señal relevante es una fase posterior de normalización: tipo oficial en torno al 1,0% y rendimientos largos próximos al 4%.
+La tendencia pasa de → a ↑ por el aumento observado de TGA y la caída de reservas dentro de la ventana fiscal, junto a la nueva decisión japonesa. La clase sigue E0 porque B está parcialmente acreditado y A/C/D no alcanzan activación completa. La señal no equivale a desarme de carry ni a crisis repo.
 
-La subida de los rendimientos de los bonos a muy largo plazo modifica el retorno relativo de los activos domésticos:
-> **Japón no necesita que su ahorro vuelva de golpe; le basta con que deje de salir.**
-
-Cuando la deuda pública estadounidense ofrece cerca del 5% pero el coste de cobertura cambiaria del dólar cuesta varios puntos, el retorno neto cubierto para un inversor japonés pasa a ser inferior al de sus propios bonos soberanos domésticos. El mecanismo de ajuste no requiere una liquidación forzosa de carteras; basta con no reinvertir los vencimientos de deuda foránea y canalizar el nuevo ahorro hacia activos japoneses.
-
-Eso puede reducir el incentivo marginal a adquirir duración exterior cubierta, pero el stock TIC no prueba ventas ni permite inferir una retirada automática del comprador japonés. La ficha mide esa hipótesis mediante flujos oficiales y separa el canal japonés del posible estrés estacional de la TGA, el repo y el cierre trimestral en Estados Unidos.
-
-En Estados Unidos, la deuda bruta federal cruzó los **40 billones de dólares** el 18/08. El Tesoro anunció el 19/08 que duplicaría, como mínimo, las recompras de apoyo de liquidez en los tramos nominales de 10–20 y 20–30 años desde el 09/09. Es una señal de gestión de liquidez del tramo largo, no una reducción de deuda ni una operación de la Reserva Federal. Al 09/09, la TGA ha bajado a 843,705 B$ y las reservas ascienden a 3.036,508 B$; la fontanería no muestra tensión y el test causal posterior a los impuestos del 15/09 continúa en el futuro.
-
----
+Los antecedentes anteriores conservan su fecha en el historial; el estado vivo es §1 y la evaluación de triggers es §2.
 
 ## 4. TESIS (Luis)
 
@@ -108,3 +102,63 @@ La política monetaria en 2026 ya no se juega en las ruedas de prensa sobre tipo
 ## Rectificación y reconciliación — 06/09/2026 (TASK_090)
 
 El calendario oficial sitúa la reunión en **17–18 sep**, no 18–19 sep ([BoJ](https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm)). El resultado MOF acredita yield medio/corte e importes ofertados/adjudicados, pero no identifica por sí solo al comprador final: queda suplantada cualquier atribución de «absorción doméstica» basada exclusivamente en esa tabla. Fuente: [MOF, subasta 03/09](https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260903.htm); consulta 06/09. No se cambian clase, presión, tendencia ni triggers.
+
+## Revisión W38 — 19/09/2026 (TASK_116)
+
+- BoJ: decisión del 18/09 de elevar el objetivo a **1,25%**, efectiva el **24/09**; al corte sigue en torno al **1,00%**. [BoJ, decisión y anexo](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf).
+- Fed: alza de 25 pb a **3,75–4,00%**; IORB **3,90%** desde el 17/09. [FOMC](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) y [implementación](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm).
+- H.4.1 publicado el 17/09, observación puntual del 16/09: TGA **991,708 B$**, reservas **2.921,536 B$**. No son promedios semanales. [Fed H.4.1](https://www.federalreserve.gov/releases/h41/Current/).
+- DTS: caja al cierre del 14/09 **871,224 B$**, 15/09 **991,557 B$**, 16/09 **991,708 B$**, 17/09 **972,675 B$**. El 15/09 entran **51,579 B$** de impuestos corporativos; la emisión neta de deuda aporta también **43,261 B$**. [DTS caja](https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/operating_cash_balance?filter=record_date:gte:2026-09-14,record_date:lte:2026-09-17&page[size]=100) y [DTS flujos](https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/deposits_withdrawals_operating_cash?filter=record_date:eq:2026-09-15&page[size]=500).
+- SOFR–IORB: **−3, −1, −3 y −5 pb** para 14–17/09. SRF: **0, 102, 254, 2 y 1 M$** diarios, 14–18/09, sumando las dos operaciones de cada día. SOFR del 18/09 todavía no disponible al corte. [SOFR](https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-09-12&endDate=2026-09-18&type=rate) y [repo/SRF](https://markets.newyorkfed.org/api/rp/results/search.json?startDate=2026-09-14&endDate=2026-09-18&operationTypes=Repo).
+- TIC julio publicado el 16/09: stock japonés **1.103,9 B$** frente a **1.116,7 B$** en junio; variación **−12,8 B$**, que no equivale a ventas netas. Entrada TIC agregada **83,7 B$**; no es flujo japonés. [TIC julio](https://home.treasury.gov/news/press-releases/sb0631/) y [tenencias por país](https://ticdata.treasury.gov/resource-center/data-chart-center/tic/Documents/slt_table5.html).
+- MOF publicado el 17/09: compras netas japonesas de deuda exterior a largo plazo de **1.082,9 miles de millones de yenes**, semana 06–12/09; la anterior queda revisada a **111,4**, frente a 111,9 en W37. Agosto mensual sigue en **−143,0**. [MOF semanal](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) y [MOF mensual](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/monthEng.pdf).
+
+La tendencia pasa de → a ↑ por el aumento observado de TGA y la caída de reservas dentro de la ventana fiscal, junto a la nueva decisión japonesa. La clase sigue E0 porque B está parcialmente acreditado y A/C/D no alcanzan activación completa. La señal no equivale a desarme de carry ni a crisis repo.
+
+Ejecución autorizada por Luis el 19/09; juicio técnico del agente, sin atribuir validación posterior al Front Office. Detalle: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+<details>
+<summary>Snapshot y contexto sustituidos de W37 — memoria, no estado vigente</summary>
+
+### Snapshot anterior
+- **Estado:** 🟠 En observación intensificada — E0; NORMALIZACIÓN JAPONESA / TEST DE LIQUIDEZ DE SEPTIEMBRE
+- **Nivel de presión:** ELEVADA (P4)
+- **Dirección de tendencia:** → Estable
+- **Peso estructural:** 4
+- **Última actualización:** 2026-09-12 (precierre W37; corte 21:21 CEST)
+- **Contribución primaria:** 4 × 4 × 1,0 = **16,0**
+- **Vector primario:** [[VECTOR_01_Arquitectura_monetaria_global]]
+- **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
+- **KPIs Actuales:**
+  - JGB a 30 años: la subasta oficial del 03/09/2026 (Issue 91) cortó con rendimiento medio de **4,079%**, yield al precio mínimo aceptado de **4,100%** (precio de corte 98,65), precio medio de 98,93 y cupón nominal del 4,0%. La cobertura competitiva se situó en **3,79x** (oferta de ¥1.728,1B frente a ¥456,2B aceptados), con demanda competitiva superior al importe aceptado. La tabla no identifica la residencia del comprador final. Fuente específica: [MOF, 03/09/2026](https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260903.htm).
+  - JGB a 10 años: la subasta oficial del 01/09/2026 registró rendimiento medio de **2,995%** y rendimiento al precio mínimo aceptado de **3,011%**; el 30Y está alrededor del 4,1%, no cerca del 5%.
+  - Tipo oficial del BoJ: alrededor de **1,0% desde el 17/06/2026**; confirmado en 1,0% el 31/07. Próxima reunión MPM el **17–18 de septiembre**, según [calendario BoJ](https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm).
+  - Tenencias japonesas de Treasuries: **1.116,7 mil millones de dólares** (TIC junio 2026, publicado en agosto). Próxima entrega de datos TIC a mediados de septiembre.
+  - TIC de junio: entrada neta total de 133,5 B$ y compras extranjeras netas de valores estadounidenses a largo plazo de 207,1 B$; no existe retirada extranjera agregada.
+  - Flujos MOF de agosto: los inversores designados registraron **−¥143,0B** netos en deuda extranjera a largo plazo, pero el total de inversión de cartera fue **+¥136,6B**; en la semana 30/08–05/09 la deuda extranjera a largo plazo volvió a **+¥111,9B**. Hay un mes negativo, no dos meses consecutivos acreditados.
+  - Liquidez al 09/09 (Fed H.4.1): TGA en **843,705 B$** y reservas bancarias en **3.036,508 B$**. El umbral doble del Trigger B ya no se cumple simultáneamente y la ventana causal del 15/09 aún no ha ocurrido.
+  - Repo / Fontanería: SOFR en **3,64%** frente a IORB de **3,65%** hasta el 09/09; sin uso material de la SRF ni señal que active C o D.
+  - Ventana de estrés identificada: 15 al 30 de septiembre (pagos fiscales corporativos, absorción de emisiones Treasury, recarga de TGA y cierre de trimestre Q3).
+
+---
+
+
+### Contexto anterior
+
+Durante décadas, los tipos japoneses muy bajos incentivaron la búsqueda de rendimiento exterior y la financiación en yenes. El BoJ puso fin al tipo negativo y al marco de control de curva el **19/03/2024**, no en 2026. En 2026 la señal relevante es una fase posterior de normalización: tipo oficial en torno al 1,0% y rendimientos largos próximos al 4%.
+
+La subida de los rendimientos de los bonos a muy largo plazo modifica el retorno relativo de los activos domésticos:
+> **Japón no necesita que su ahorro vuelva de golpe; le basta con que deje de salir.**
+
+Cuando la deuda pública estadounidense ofrece cerca del 5% pero el coste de cobertura cambiaria del dólar cuesta varios puntos, el retorno neto cubierto para un inversor japonés pasa a ser inferior al de sus propios bonos soberanos domésticos. El mecanismo de ajuste no requiere una liquidación forzosa de carteras; basta con no reinvertir los vencimientos de deuda foránea y canalizar el nuevo ahorro hacia activos japoneses.
+
+Eso puede reducir el incentivo marginal a adquirir duración exterior cubierta, pero el stock TIC no prueba ventas ni permite inferir una retirada automática del comprador japonés. La ficha mide esa hipótesis mediante flujos oficiales y separa el canal japonés del posible estrés estacional de la TGA, el repo y el cierre trimestral en Estados Unidos.
+
+En Estados Unidos, la deuda bruta federal cruzó los **40 billones de dólares** el 18/08. El Tesoro anunció el 19/08 que duplicaría, como mínimo, las recompras de apoyo de liquidez en los tramos nominales de 10–20 y 20–30 años desde el 09/09. Es una señal de gestión de liquidez del tramo largo, no una reducción de deuda ni una operación de la Reserva Federal. Al 09/09, la TGA ha bajado a 843,705 B$ y las reservas ascienden a 3.036,508 B$; la fontanería no muestra tensión y el test causal posterior a los impuestos del 15/09 continúa en el futuro.
+
+---
+
+
+</details>
+
+**Rectificación de redacción (19/09):** el Trigger D decía «operaciones de absorción de liquidez». Una repo SRF provee liquidez contra colateral. Solo se corrige la dirección del flujo; >20 B$, >2 días y ventana 25–30/09 se conservan. La alternativa p99 de C queda metodológicamente pendiente; no se inventa un denominador retrospectivo.

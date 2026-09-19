@@ -7,34 +7,42 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
+ultima_revision: 2026-09-19
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
 ---
 
 # EVENTO: E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb
 
 ## 1. SNAPSHOT ACTUAL
-- **Estado:** 🟠 En curso / Reescalada (E1) — FRICCIÓN FÍSICA ACTIVA
+- **Estado:** E1 — En curso
 - **Nivel de presión:** ELEVADA (P4)
 - **Dirección de tendencia:** ↑ Acelerando
 - **Peso estructural:** 4
-- **Última actualización:** 2026-09-12 (precierre W37; corte 21:21 CEST)
+- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
 - **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
 - **Vector primario:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_01_Arquitectura_monetaria_global]]
-- **KPIs Actuales:**
-  - Listed Areas: **JWLA-034**, revisión publicada en julio de 2026, es la lista pública vigente del JWC.
-  - Ormuz / Oriente Medio: **75 incidentes confirmados y 22 marinos fallecidos** según la actualización oficial de la OMI del 10/09/2026.
-  - Incidentes nuevos W37: daños al *HORIZON 1*, *HERCULES STAR* y *NEW ANDROS* entre el 08 y el 09/09; el incidente del *HERCULES STAR* dejó un fallecido. La OMI no reporta contaminación asociada.
-  - Daño / interrupción: no se verifica todavía hundimiento o daño estructural crítico de un VLCC/LNG de bandera neutral/comercial en tránsitos habituales que paralice más de 5 Mb/d durante más de 48 horas (Triggers B y D inactivos).
-  - Prima War Risk: sin benchmark oficial del JWC; primas negociadas caso a caso.
+- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+
+- OMI, comunicado del **16/09**: **80 ataques verificados y al menos 22 fallecidos** desde el 28/02 en el estrecho de Ormuz y sus proximidades. La base W37 era 75/22. El recuento no corresponde al mar Rojo. [OMI 16/09](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx).
+- **JWLA-035**, fechada el **16/09** y listada por IUA el 17/09, sustituye JWLA-034. Revisa el área del mar Negro; Ormuz y las zonas pertinentes del golfo de Adén/mar Rojo siguen listadas. [Circular JWLA-035](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf).
+- Una zona listada no fija una prima. No hay dos cotizaciones comparables ≥1,5%, retirada demostrada ≥48 horas ni métrica de flujo paralizado >5 Mb/d durante >48 horas admitidas en esta revisión.
+
+**Decisión técnica:** Se mantiene E1 · P4 · ↑ por nuevos incidentes físicos, conservando el E1 heredado. No se declara una nueva activación A–D ni se usa la circular del mar Negro para inferir encarecimiento del seguro de Ormuz.
+
+Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 
 ## 2. CONDICIONES DE ACTIVACIÓN
-- **Trigger A:** Dos brokers marítimos independientes o una circular verificable de mercado LMA/Lloyd's documentan una prima adicional de guerra igual o superior al 1,5% del valor de casco para el mismo corredor de Ormuz o Bab el-Mandeb, o la retirada/denegación efectiva de cobertura durante al menos 48 horas. **Estado: no activado.**
-- **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado: no activado. Pese a los impactos en el SIDR y Senegal Prosperity, no se acredita hundimiento o daño estructural crítico con interrupción de flota.**
-- **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado.
-- **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas.
+- **Trigger A:** Dos brokers marítimos independientes o una circular verificable de mercado LMA/Lloyd's documentan una prima adicional de guerra igual o superior al 1,5% del valor de casco para el mismo corredor de Ormuz o Bab el-Mandeb, o la retirada/denegación efectiva de cobertura durante al menos 48 horas. **Estado al corte: NO VERIFICABLE COMPLETO. JWLA-035 acredita listado de zonas, no prima ≥1,5% ni denegación efectiva ≥48 horas. Faltan las cotizaciones o la prueba de retirada requeridas.**
+- **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
+- **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
+- **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
 
 ## 3. CONTEXTO Y SEÑAL DOMINANTE
-La lista pública vigente es JWLA-034. La inclusión de un área obliga a evaluar y negociar la cobertura, pero el JWC no publica una tarifa de prima: describir la prima de guerra como «arancel en la sombra» pertenece a la tesis, no al registro factual de una cotización. La transmisión material se mide mediante dos cotizaciones independientes, retirada de cobertura, daño crítico a VLCC/LNG, saturación de rutas alternativas o interrupción física de flujo. En W37 la OMI elevó el balance a 75 incidentes y 22 víctimas mortales e incorporó tres buques dañados, uno con un fallecido. La recurrencia física justifica mantener E1 · P4 · ↑, pero no acredita por sí sola ninguno de los Triggers A–D.
+
+Se mantiene E1 · P4 · ↑ por nuevos incidentes físicos, conservando el E1 heredado. No se declara una nueva activación A–D ni se usa la circular del mar Negro para inferir encarecimiento del seguro de Ormuz.
+
+Los antecedentes anteriores conservan su fecha en el historial; el estado vivo es §1 y la evaluación de triggers es §2.
 
 ## 4. TESIS (Luis)
 El poder naval de Occidente ha fracasado en asegurar el *global commons*. La globalización eficiente ha muerto; ahora es tarifada por el riesgo. El seguro marítimo se ha convertido en un actor geopolítico, y la prima de riesgo (War Risk) opera como un arancel global en la sombra, inyectando inflación física que los bancos centrales no pueden combatir con tipos de interés.
@@ -72,3 +80,39 @@ El poder naval de Occidente ha fracasado en asegurar el *global commons*. La glo
 - **29/08/2026:** actualización W35 y mantenimiento E1 · P4 · ↑ ejecutados por instrucción de Front Office.
 - **06/09/2026:** contraste forense de incidentes UKMTO/OMI (72 incidentes, 21 víctimas) y CENTCOM 05/09 ejecutado; tendencia fijada en ↑ por instrucción de Front Office en auditoría canónica W36.
 - **12/09/2026:** precierre W37, balance OMI 75/22 y mantenimiento E1 · P4 · ↑ ejecutados por instrucción de Front Office; A–D permanecen inactivos.
+
+## Revisión W38 — 19/09/2026 (TASK_116)
+
+- OMI, comunicado del **16/09**: **80 ataques verificados y al menos 22 fallecidos** desde el 28/02 en el estrecho de Ormuz y sus proximidades. La base W37 era 75/22. El recuento no corresponde al mar Rojo. [OMI 16/09](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx).
+- **JWLA-035**, fechada el **16/09** y listada por IUA el 17/09, sustituye JWLA-034. Revisa el área del mar Negro; Ormuz y las zonas pertinentes del golfo de Adén/mar Rojo siguen listadas. [Circular JWLA-035](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf).
+- Una zona listada no fija una prima. No hay dos cotizaciones comparables ≥1,5%, retirada demostrada ≥48 horas ni métrica de flujo paralizado >5 Mb/d durante >48 horas admitidas en esta revisión.
+
+Se mantiene E1 · P4 · ↑ por nuevos incidentes físicos, conservando el E1 heredado. No se declara una nueva activación A–D ni se usa la circular del mar Negro para inferir encarecimiento del seguro de Ormuz.
+
+Ejecución autorizada por Luis el 19/09; juicio técnico del agente, sin atribuir validación posterior al Front Office. Detalle: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+<details>
+<summary>Snapshot y contexto sustituidos de W37 — memoria, no estado vigente</summary>
+
+### Snapshot anterior
+- **Estado:** 🟠 En curso / Reescalada (E1) — FRICCIÓN FÍSICA ACTIVA
+- **Nivel de presión:** ELEVADA (P4)
+- **Dirección de tendencia:** ↑ Acelerando
+- **Peso estructural:** 4
+- **Última actualización:** 2026-09-12 (precierre W37; corte 21:21 CEST)
+- **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
+- **Vector primario:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
+- **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_01_Arquitectura_monetaria_global]]
+- **KPIs Actuales:**
+  - Listed Areas: **JWLA-034**, revisión publicada en julio de 2026, es la lista pública vigente del JWC.
+  - Ormuz / Oriente Medio: **75 incidentes confirmados y 22 marinos fallecidos** según la actualización oficial de la OMI del 10/09/2026.
+  - Incidentes nuevos W37: daños al *HORIZON 1*, *HERCULES STAR* y *NEW ANDROS* entre el 08 y el 09/09; el incidente del *HERCULES STAR* dejó un fallecido. La OMI no reporta contaminación asociada.
+  - Daño / interrupción: no se verifica todavía hundimiento o daño estructural crítico de un VLCC/LNG de bandera neutral/comercial en tránsitos habituales que paralice más de 5 Mb/d durante más de 48 horas (Triggers B y D inactivos).
+  - Prima War Risk: sin benchmark oficial del JWC; primas negociadas caso a caso.
+
+
+### Contexto anterior
+La lista pública vigente es JWLA-034. La inclusión de un área obliga a evaluar y negociar la cobertura, pero el JWC no publica una tarifa de prima: describir la prima de guerra como «arancel en la sombra» pertenece a la tesis, no al registro factual de una cotización. La transmisión material se mide mediante dos cotizaciones independientes, retirada de cobertura, daño crítico a VLCC/LNG, saturación de rutas alternativas o interrupción física de flujo. En W37 la OMI elevó el balance a 75 incidentes y 22 víctimas mortales e incorporó tres buques dañados, uno con un fallecido. La recurrencia física justifica mantener E1 · P4 · ↑, pero no acredita por sí sola ninguno de los Triggers A–D.
+
+
+</details>

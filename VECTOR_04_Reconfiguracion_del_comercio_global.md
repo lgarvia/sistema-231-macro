@@ -2,7 +2,8 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-ultima_revision: "2026-09-12"
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: "2026-09-19"
 triggers_activos: 1
 triggers_parciales: 1
 ---
@@ -16,7 +17,11 @@ triggers_parciales: 1
 - **Triggers parciales:** 1 (Trigger 02 - Volatilidad de fletes por desvíos)
 - **Condición de dominancia:** No activa
 - **Restricción dominante actual:** Sustitución del recargo global estadounidense de la Sección 122 por una superposición de instrumentos arancelarios vinculantes, bilaterales y sectoriales, combinada con nuevas barreras aduaneras en la UE.
-- **Razón del semáforo:** Canadá hizo efectivas el 08-sep contramedidas del 15%, 25% y 50% sobre 27.600 M CAD de importaciones estadounidenses, completando el Trigger B de Tariff Stack. Estados Unidos respondió con cinco proclamaciones Section 338, con ejecución prevista el 15 y 29-sep. La pila jurídica acelera, pero todavía no existen series de desabastecimiento, producción o precios que activen C–E ni la dominancia del vector.
+- **Razón del semáforo:** La fase jurídica Section 338 del 15/09 entra en el intervalo consumido; las prohibiciones del 29/09 siguen futuras. Se mantiene ↑ por escalonamiento normativo. Cobro por producto, pérdidas de fabricantes, contracción sectorial e inflación causal no se consideran verificados por la mera publicación de la norma.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición operativa hacia el neomercantilismo bilateral, la reubicación de cadenas de suministro (friend-shoring) y la resiliencia en costes sobre la eficiencia de flujos libres.
@@ -30,9 +35,12 @@ El consenso de libre comercio global se encuentra estructuralmente quebrado. La 
 **Tesis asociada:** [[TESIS_02_Frictionless_Stabilization]] / [[TESIS_04_Multipolaridad_Logistica]]
 
 ## 3. ESTADO ESTRUCTURAL
-Domina un régimen de proteccionismo administrado donde las empresas absorben las nuevas barreras de entrada mediante inversión directa localizada y rediseño de cadenas. Desde el 1-jul, la UE aplica un derecho temporal de €3 por cada categoría arancelaria contenida en envíos de hasta €150, vigente en principio hasta el 1-jul-2028. En Estados Unidos, el recargo global del 10% de la Sección 122 expiró el 24-jul, pero fue sustituido por instrumentos más duraderos: aranceles Section 301 del 10% o 12,5% sobre la mayoría de importaciones de 60 economías, un 25% sobre determinados productos de Brasil y un 50% sobre importaciones canadienses en vehículos, alcohol y lácteos. Tras la suspensión temporal del 19 al 22-ago, Section 338 se mantiene materialmente aplicada desde el 22-ago. El Gobierno canadiense mantiene publicadas sus contramedidas arancelarias del 15%, 25% y 50% sobre $27.600M de importaciones estadounidenses con fecha oficial de aplicación fijada para el 08-sep. A fecha de corte (05-sep), este hito constituye un acto normativo inminente de radar, pendiente de verificar el cobro en aduana y las primeras métricas de recaudación, desvío de inventarios o sustitución de proveedores.
 
-A nivel agregado, la OMC estima que la proporción del comercio mundial bajo trato de nación más favorecida cayó del 80% en 2024 al 72% a comienzos de 2026. Sin embargo, su barómetro de bienes de junio se situó en 101,7: el comercio continúa por encima de tendencia, con transporte aéreo y contenedores en expansión más lenta y componentes electrónicos como principal excepción positiva. La fragmentación ya es arancelaria, regulatoria y de bloques, pero todavía no produce un colapso físico generalizado de inventarios; por eso la condición de dominancia permanece inactiva.
+La fase jurídica Section 338 del 15/09 entra en el intervalo consumido; las prohibiciones del 29/09 siguen futuras. Se mantiene ↑ por escalonamiento normativo. Cobro por producto, pérdidas de fabricantes, contracción sectorial e inflación causal no se consideran verificados por la mera publicación de la norma.
+
+Fuentes primarias consultadas 19/09: [tariff](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/) · [law](https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf).
+
+Los antecedentes conservados al final no son cotizaciones ni estados vigentes. La interpretación de régimen permanece falsable; el estado operativo se determina en §0.
 
 ## 4. MECANIZACIÓN OPERACIONAL
 ### Métricas Verificables
@@ -90,3 +98,30 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
 La tendencia vuelve de → a ↑ por un cambio jurídico semanal verificable, no por repetir presión acumulada. Tariff Stack permanece E1 · P4; A y B están activos y C–E inactivos. TESIS_02 mantiene soporte alto: se refuerza la coerción modular sin demostrar todavía ruptura física del comercio.
+
+## Revisión W38 — TASK_116
+
+La fase jurídica Section 338 del 15/09 entra en el intervalo consumido; las prohibiciones del 29/09 siguen futuras. Se mantiene ↑ por escalonamiento normativo. Cobro por producto, pérdidas de fabricantes, contracción sectorial e inflación causal no se consideran verificados por la mera publicación de la norma.
+
+[[ACTUALIZACION_SEMANAL_231_2026_09_20]] documenta fuentes, imputación primaria y límites. No se suman transmisiones secundarias a la carga.
+
+<details>
+<summary>Estado anterior sustituido — memoria de calibración W37</summary>
+
+### Estado operativo anterior
+- **Presión actual:** 🔴 Crítica
+- **Tendencia:** ↑ Acelerando
+- **Triggers completos:** 1 (Trigger 01 - Escalada arancelaria)
+- **Triggers parciales:** 1 (Trigger 02 - Volatilidad de fletes por desvíos)
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Sustitución del recargo global estadounidense de la Sección 122 por una superposición de instrumentos arancelarios vinculantes, bilaterales y sectoriales, combinada con nuevas barreras aduaneras en la UE.
+- **Razón del semáforo:** Canadá hizo efectivas el 08-sep contramedidas del 15%, 25% y 50% sobre 27.600 M CAD de importaciones estadounidenses, completando el Trigger B de Tariff Stack. Estados Unidos respondió con cinco proclamaciones Section 338, con ejecución prevista el 15 y 29-sep. La pila jurídica acelera, pero todavía no existen series de desabastecimiento, producción o precios que activen C–E ni la dominancia del vector.
+
+
+### Contexto estructural anterior
+Domina un régimen de proteccionismo administrado donde las empresas absorben las nuevas barreras de entrada mediante inversión directa localizada y rediseño de cadenas. Desde el 1-jul, la UE aplica un derecho temporal de €3 por cada categoría arancelaria contenida en envíos de hasta €150, vigente en principio hasta el 1-jul-2028. En Estados Unidos, el recargo global del 10% de la Sección 122 expiró el 24-jul, pero fue sustituido por instrumentos más duraderos: aranceles Section 301 del 10% o 12,5% sobre la mayoría de importaciones de 60 economías, un 25% sobre determinados productos de Brasil y un 50% sobre importaciones canadienses en vehículos, alcohol y lácteos. Tras la suspensión temporal del 19 al 22-ago, Section 338 se mantiene materialmente aplicada desde el 22-ago. El Gobierno canadiense mantiene publicadas sus contramedidas arancelarias del 15%, 25% y 50% sobre $27.600M de importaciones estadounidenses con fecha oficial de aplicación fijada para el 08-sep. A fecha de corte (05-sep), este hito constituye un acto normativo inminente de radar, pendiente de verificar el cobro en aduana y las primeras métricas de recaudación, desvío de inventarios o sustitución de proveedores.
+
+A nivel agregado, la OMC estima que la proporción del comercio mundial bajo trato de nación más favorecida cayó del 80% en 2024 al 72% a comienzos de 2026. Sin embargo, su barómetro de bienes de junio se situó en 101,7: el comercio continúa por encima de tendencia, con transporte aéreo y contenedores en expansión más lenta y componentes electrónicos como principal excepción positiva. La fragmentación ya es arancelaria, regulatoria y de bloques, pero todavía no produce un colapso físico generalizado de inventarios; por eso la condición de dominancia permanece inactiva.
+
+
+</details>

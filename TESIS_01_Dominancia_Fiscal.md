@@ -3,9 +3,10 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-19
+corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
 corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W37 TASK_099; revisión de tesis sobre evidencia admitida en fases 1-4"
+alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -49,7 +50,7 @@ La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, 
 - **Transmisores:** [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Evento sensor activo:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]].
 - **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]] y [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_07_02_US_NFP]].
-- **Próximos sensores:** Test de septiembre (15-sep pagos TGA, 16-sep FOMC, 18-sep BoJ, 30-sep quarter-end).
+- **Próximos sensores:** [[Radar_Eventos_2026_09]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
 
 ## 6. Criterios de validación o refutación
 
@@ -63,13 +64,16 @@ La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, 
 - Endurecimiento monetario sostenido pese a pérdidas fiscales, sin apoyo extraordinario al mercado soberano.
 - Absorción privada estable de la deuda con spreads repo, SRF y subastas dentro de rangos normales.
 
-## 7. Calibración actual — 29/08/2026
+## 7. Calibración actual — 19/09/2026 (precierre W38)
 
-- **Estado:** vigente, en monitorización de cara a septiembre.
-- **Grado de soporte:** moderado.
-- **Evidencia favorable:** deuda bruta por encima de $40T, recompras de soporte de liquidez en duración y descenso de $93,2B del stock japonés de Treasuries entre abril y junio refuerzan el problema de absorción.
-- **Evidencia contradictoria:** el TIC de junio registró fuertes compras extranjeras netas de valores estadounidenses a largo plazo; no hay repatriación japonesa demostrada ni tensión material en SOFR o SRF. Warsh reafirma el 2% y una reacción monetaria ortodoxa, mientras el PCE al 3,7% eleva el coste de una eventual acomodación.
-- **Juicio:** el grado de soporte permanece moderado. La evidencia refuerza el sensor fiscal, pero la doctrina de Jackson Hole y la ausencia de estrés niegan una validación presente. El salto cualitativo exigiría fallo de absorción, estrés de colateral o intervención monetaria explícitamente vinculada a financiación soberana.
+- **Soporte:** Moderado; vigente.
+- **A favor:** El aumento de TGA y la reducción de reservas muestran la restricción de distribución de liquidez; la decisión del BoJ intensifica el sensor de absorción exterior.
+- **Contraevidencia y límites:** La Fed sube tipos; SOFR–IORB sigue negativo y la SRF tiene uso reducido. MOF semanal vuelve a compras y TIC agregado mantiene entrada positiva.
+- **Ambigüedad causal:** Gestión de reservas y refinanciación no prueban subordinación del banco central al Tesoro. La variación de stock japonés no acredita ventas.
+- **Próxima falsación:** Comprobar si el cierre 25–30/09 exige intervención extraordinaria ligada a deuda soberana y si persiste absorción privada sin estrés.
+- **Juicio técnico:** Se mantiene moderado: más presión fiscal observable, sin dominancia ejecutada.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) · [impl](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm) · [h41](https://www.federalreserve.gov/releases/h41/Current/) · [mofweek](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) · [srf](https://markets.newyorkfed.org/api/rp/results/search.json?startDate=2026-09-14&endDate=2026-09-18&operationTypes=Repo)
 
 ## 8. Fuentes de seguimiento
 
@@ -101,3 +105,21 @@ Empleo de agosto: +162.000, paro 4,1% y salarios +0,3% mensual / +3,1% anual (BL
 - **Refuerzo W37:** los JGB 10Y y 30Y consolidan rendimientos largos elevados y agosto registra −¥143,0B en deuda extranjera a largo plazo. Francia mantiene una previsión de déficit del 5,1% e Italia una deuda observada del 138,9% del PIB en 1T26. Son señales de coste y absorción soberana, no prueba de subordinación monetaria.
 - **Contraevidencia y límites:** las subastas japonesas no muestran fallo de demanda; la semana 30/08–05/09 vuelve a compras netas de deuda larga. Al 09/09, TGA, reservas, SOFR–IORB y SRF no acreditan estrés. El BCE eleva tipos 25 pb pese al trasfondo fiscal europeo, conducta incompatible con una dominancia ya ejecutada.
 - **Juicio:** la restricción fiscal existe, pero no se observa todavía que un banco central altere su función de reacción para sostener financiación soberana. La tesis no sube hasta que exista fallo de absorción, estrés de colateral o intervención con nexo fiscal explícito.
+
+## Revisión W38 — TASK_116
+
+Se mantiene moderado: más presión fiscal observable, sin dominancia ejecutada. El soporte resulta de la revisión explícita de §7, no de una instrucción de conservarlo. Los grados históricos no se reinterpretan como nueva evidencia.
+
+<details>
+<summary>Calibración anterior sustituida</summary>
+
+### Calibración anterior — 29/08/2026
+
+- **Estado:** vigente, en monitorización de cara a septiembre.
+- **Grado de soporte:** moderado.
+- **Evidencia favorable:** deuda bruta por encima de $40T, recompras de soporte de liquidez en duración y descenso de $93,2B del stock japonés de Treasuries entre abril y junio refuerzan el problema de absorción.
+- **Evidencia contradictoria:** el TIC de junio registró fuertes compras extranjeras netas de valores estadounidenses a largo plazo; no hay repatriación japonesa demostrada ni tensión material en SOFR o SRF. Warsh reafirma el 2% y una reacción monetaria ortodoxa, mientras el PCE al 3,7% eleva el coste de una eventual acomodación.
+- **Juicio:** el grado de soporte permanece moderado. La evidencia refuerza el sensor fiscal, pero la doctrina de Jackson Hole y la ausencia de estrés niegan una validación presente. El salto cualitativo exigiría fallo de absorción, estrés de colateral o intervención monetaria explícitamente vinculada a financiación soberana.
+
+
+</details>

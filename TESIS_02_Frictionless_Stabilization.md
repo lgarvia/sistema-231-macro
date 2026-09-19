@@ -3,9 +3,10 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: alto
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-19
+corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
 corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W37 TASK_099; revisión de tesis sobre evidencia admitida en fases 1-4"
+alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 ---
 
@@ -61,13 +62,16 @@ La estabilización es táctica, no una reconciliación: reduce la fricción visi
 - Restablecimiento duradero del multilateralismo con reducción material de aranceles y controles.
 - Normalización de rutas, seguros y reglas comerciales a niveles previos sin nuevas capas de coerción.
 
-## 7. Calibración actual — 29/08/2026
+## 7. Calibración actual — 19/09/2026 (precierre W38)
 
-- **Estado:** vigente.
-- **Grado de soporte:** alto.
-- **Evidencia favorable:** caída de la cuota NMF, expansión de medidas selectivas, secuencia de pausa-negociación-aplicación de Section 338 y respuesta canadiense escalonada: la coerción se modula sin desmantelar el intercambio.
-- **Evidencia contradictoria:** el comercio mundial sigue siendo mayoritariamente multilateral y la OMC proyecta crecimiento de mercancías, no colapso.
-- **Cambio de esta revisión:** la respuesta canadiense ya no es una posibilidad del radar sino una medida anunciada con fecha y lista de productos. El soporte sigue alto; todavía no hay datos de transmisión física ni ruptura de flujos.
+- **Soporte:** Alto; vigente.
+- **A favor:** La ejecución jurídica escalonada de Section 338 y las medidas OFAC muestran instrumentos selectivos de coerción.
+- **Contraevidencia y límites:** La recurrencia de ataques marítimos y las prohibiciones previstas pueden erosionar la contención; todavía falta medir su alcance material.
+- **Ambigüedad causal:** Modularidad normativa es observable; estabilización efectiva de flujos no se demuestra mediante el acto jurídico.
+- **Próxima falsación:** Verificar el 29/09, los flujos sectoriales y si la coerción permite continuidad o deriva en ruptura sostenida.
+- **Juicio técnico:** Se mantiene alto sobre el corpus previo; esta semana refuerza modularidad, no garantiza estabilización.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [law](https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf) · [tariff](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/) · [ofac1](https://home.treasury.gov/news/press-releases/sb0629/) · [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx)
 
 ## 8. Fuentes de seguimiento
 
@@ -92,3 +96,21 @@ Tariff Stack permanece E1 · P4 · →; el 08-sep es una comprobación futura de
 - **Refuerzo W37:** Canadá hizo vinculantes sus contramedidas el 08/09 y Estados Unidos respondió con cinco proclamaciones Section 338, con nuevas fechas de ejecución el 15 y 29/09. La secuencia confirma sustitución y apilamiento de instrumentos coercitivos sin ruptura total del intercambio.
 - **Contraevidencia y límites:** todavía no hay dos meses de caída sectorial, desabastecimiento, transmisión demostrada a precios ni cierre bilateral de flujos. La aceleración observada es jurídica; no permite declarar desacoplamiento físico.
 - **Juicio:** W37 refuerza el mecanismo central y justifica Tariff Stack ↑, pero la tesis ya estaba en soporte alto. Se conserva el grado para no confundir mayor densidad normativa con validación completa de sus consecuencias económicas.
+
+## Revisión W38 — TASK_116
+
+Se mantiene alto sobre el corpus previo; esta semana refuerza modularidad, no garantiza estabilización. El soporte resulta de la revisión explícita de §7, no de una instrucción de conservarlo. Los grados históricos no se reinterpretan como nueva evidencia.
+
+<details>
+<summary>Calibración anterior sustituida</summary>
+
+### Calibración anterior — 29/08/2026
+
+- **Estado:** vigente.
+- **Grado de soporte:** alto.
+- **Evidencia favorable:** caída de la cuota NMF, expansión de medidas selectivas, secuencia de pausa-negociación-aplicación de Section 338 y respuesta canadiense escalonada: la coerción se modula sin desmantelar el intercambio.
+- **Evidencia contradictoria:** el comercio mundial sigue siendo mayoritariamente multilateral y la OMC proyecta crecimiento de mercancías, no colapso.
+- **Cambio de esta revisión:** la respuesta canadiense ya no es una posibilidad del radar sino una medida anunciada con fecha y lista de productos. El soporte sigue alto; todavía no hay datos de transmisión física ni ruptura de flujos.
+
+
+</details>

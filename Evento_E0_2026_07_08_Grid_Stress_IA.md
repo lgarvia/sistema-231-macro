@@ -7,40 +7,46 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
+ultima_revision: 2026-09-19
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
 ---
 
 # EVENTO: E0_2026_07_08_Grid_Stress_IA
 
 ## 1. SNAPSHOT ACTUAL
-- **Estado:** 🟠 En observación intensificada — E0; ESTRÉS FÍSICO DE RED / VÍNCULO CPD PARCIAL
+- **Estado:** E0 — En observación intensificada
 - **Nivel de presión:** ELEVADA (P4)
 - **Dirección de tendencia:** → Estable
 - **Peso estructural:** 4
-- **Última actualización:** 2026-09-12 (precierre W37; corte 21:21 CEST)
+- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
 - **Contribución primaria:** 4 × 4 × 1,0 = **16,0**
 - **Vector primario:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
 - **Vectores secundarios:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]], [[VECTOR_05_Transformacion_industrial_y_demografia]]
-- **KPIs Actuales:**
-  - Orden DOE 202-26-39: prolonga la disponibilidad obligatoria de J.H. Campbell desde el 17/08/2026 hasta el 14/11/2026.
-  - Orden DOE 202-26-40: efectiva del 23/08/2026 al 20/11/2026, mantiene disponibles Eddystone 3 y 4 en PJM citando expresamente la carga de centros de datos e IA.
-  - Orden DOE 202-26-25A: prolonga la disponibilidad de Wagner 4 del 20/08/2026 al 17/11/2026 a petición de PJM.
-  - Orden DOE 202-26-38 (Stanton / Florida): expiró el 01/09/2026 sin colapso de red ni prórroga adicional requerida.
-  - Orden DOE 202-26-41 (PJM): emitida el 01/09 y expirada el 08/09/2026; acredita una intervención temporal de fiabilidad, pero no atribuye la emergencia a CPDs ni impone reducción o autogeneración forzada a una gran carga.
-  - Alerta sistémica: no se verifica una EEA2/EEA3 causada específicamente por la demanda conjunta de climatización y centros de datos.
-  - FERC: el 14/08 concedió 90 días de suspensión a los seis expedientes EL26-67 a EL26-72; el proceso tarifario y de interconexión para grandes cargas sigue abierto sin resolución material en la semana.
-  - Restricción hídrica / EED: no se verifica todavía un Trigger E o F en España, Irlanda o la UE.
+- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+
+- Nueva **Orden DOE 202-26-45**, emitida el 17/09 para PJM durante **17–18/09**. Documenta EEA1 y TLR aplicado el 15/09. La demanda de 133.285 MW y la insuficiencia de aproximadamente 700 MW son previsiones del expediente, no resultados realizados. [Orden completa](https://www.energy.gov/documents/doe-order-no-202-26-45).
+- La autorización alcanza generación de respaldo bajo condiciones de activación; no acredita por sí sola una obligación sobre CPDs o grandes cargas >50 MW durante ≥4 horas. Tampoco convierte EEA1 en EEA2.
+- La **202-26-44 (TransAlta)** fue emitida el 11/09 y rige del 13/09 al 11/12: antecedente con entrada efectiva en el intervalo cubierto. [DOE TransAlta](https://www.energy.gov/ceser/federal-power-act-section-202c-transalta-order-no-202-26-44).
+- El corte en Madrid equivale al 18/09 a las 23:29 en Nueva York. La Orden 45 expresa fechas, no hora de terminación: no se declara ya expirada.
+
+**Decisión técnica:** Se mantiene E0 · P4 · →. El expediente confirma tensión general de red, pero no acredita aceleración específica del impedimento a CPDs conforme a los triggers. D–F quedan con cobertura explícitamente incompleta, sin convertir falta de evidencia en ausencia del fenómeno.
+
+Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 
 ## 2. CONDICIONES DE ACTIVACIÓN (TRIGGERS)
-- **Trigger A (Electricidad):** Publicación de moratorias oficiales de energía o denegaciones de derechos de conexión en el corredor de Loudoun County (Virginia) para proyectos de CPDs de IA superiores a 50 MW. (Parcial)
-- **Trigger B (Electricidad — NO VERIFICADO):** Emisión de alerta de emergencia eléctrica de Nivel 2 o superior por parte de PJM o ERCOT debido a sobrecarga generada por la demanda conjunta de climatización residencial y CPDs en picos de calor estivales.
-- **Trigger C (Electricidad):** Emisión de una orden vinculante de DOE, FERC o un RTO/ISO que obligue explícitamente a operadores de CPDs o grandes cargas superiores a 50 MW —o a recursos de generación *behind the meter* asociados a esas instalaciones— a activar generación propia o reducir su consumo de red durante al menos cuatro horas. **Estado: no activado; las órdenes DOE 202(c) activas ordenan mantener generación en despacho económico a centrales de carbón/gas, sin imponer curtailment o autogeneración forzada a CPDs.**
-- **Trigger D (Electricidad):** Entrada en vigor de protocolos de desconexión forzada (curtailment) por parte de Ofgem o EirGrid que limiten activamente la potencia de CPDs de IA en operación comercial por encima de los 100 MW conjuntos.
-- **Trigger E (Agua):** Publicación de moratorias municipales o estatales de agua en España o Irlanda que impidan de facto la concesión de licencias hídricas a nuevos CPDs de IA superiores a 50 MW.
-- **Trigger F (Agua):** Sanciones o demandas regulatorias de la Comisión Europea derivadas de datos del registro EED que demuestren un WUE del sector superior a 0.5 L/kWh promedio en el bloque.
+- **Trigger A (Electricidad):** Publicación de moratorias oficiales de energía o denegaciones de derechos de conexión en el corredor de Loudoun County (Virginia) para proyectos de CPDs de IA superiores a 50 MW. **Estado al corte: NO ACREDITADO COMPLETO. No se incorpora una denegación o moratoria primaria nueva en Loudoun que cumpla >50 MW; el antiguo rótulo «Parcial» no identificaba evidencia suficiente.**
+- **Trigger B (Electricidad):** Emisión de alerta de emergencia eléctrica de Nivel 2 o superior por parte de PJM o ERCOT debido a sobrecarga generada por la demanda conjunta de climatización residencial y CPDs en picos de calor estivales. **Estado al corte: NO ACREDITADO. La Orden 45 documenta EEA1; falta EEA≥2 y el nexo conjunto climatización/CPDs.**
+- **Trigger C (Electricidad):** Emisión de una orden vinculante de DOE, FERC o un RTO/ISO que obligue explícitamente a operadores de CPDs o grandes cargas superiores a 50 MW —o a recursos de generación *behind the meter* asociados a esas instalaciones— a activar generación propia o reducir su consumo de red durante al menos cuatro horas. **Estado al corte: NO ACREDITADO COMPLETO. La nueva orden contempla respaldo, pero no se han verificado conjuntamente sujeto CPD/gran carga >50 MW, obligación operativa y duración ≥4 horas.**
+- **Trigger D (Electricidad):** Entrada en vigor de protocolos de desconexión forzada (curtailment) por parte de Ofgem o EirGrid que limiten activamente la potencia de CPDs de IA en operación comercial por encima de los 100 MW conjuntos. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. No se incorporó un acto Ofgem/EirGrid que documente desconexión comercial conjunta >100 MW.**
+- **Trigger E (Agua):** Publicación de moratorias municipales o estatales de agua en España o Irlanda que impidan de facto la concesión de licencias hídricas a nuevos CPDs de IA superiores a 50 MW. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. No se incorporó una moratoria hídrica oficial española o irlandesa que cumpla el alcance >50 MW.**
+- **Trigger F (Agua):** Sanciones o demandas regulatorias de la Comisión Europea derivadas de datos del registro EED que demuestren un WUE del sector superior a 0.5 L/kWh promedio en el bloque. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. No se incorporó una sanción o demanda de la Comisión con WUE sectorial >0,5 L/kWh.**
 
 ## 3. CONTEXTO Y SEÑAL DOMINANTE
-El despliegue de grandes cargas de cómputo depende de capacidad de generación, transmisión, interconexión y refrigeración. La Orden 202-26-39 prolonga hasta el 14/11 la obligación de mantener disponible J.H. Campbell, la 202-26-25A prolonga Wagner 4 hasta el 17/11 y la 202-26-40 mantiene Eddystone hasta el 20/11 citando el crecimiento de centros de datos e IA en la previsión de carga de PJM. En W37, la Orden 202-26-41 para PJM expiró el 08/09: confirma estrés físico temporal, pero no demuestra causalidad específica de CPDs ni obliga a operadores de IA a reducir carga o autogenerar. FERC mantiene en suspensión de 90 días los procedimientos tarifarios EL26-67..72. Tampoco se verifica moratoria hídrica europea. La señal dominante sigue siendo restricción física activa con vínculo CPD parcial, sin aceleración incremental suficiente ni ejecución de A–F.
+
+Se mantiene E0 · P4 · →. El expediente confirma tensión general de red, pero no acredita aceleración específica del impedimento a CPDs conforme a los triggers. D–F quedan con cobertura explícitamente incompleta, sin convertir falta de evidencia en ausencia del fenómeno.
+
+Los antecedentes anteriores conservan su fecha en el historial; el estado vivo es §1 y la evaluación de triggers es §2.
 
 ## 4. TESIS (Luis)
 La IA no es una nube virtual desmaterializada; es cobre, subestaciones eléctricas y agua de refrigeración. La restricción de la computación avanzada ya no se mide en FLOPS, se mide en megavatios (MW) y en litros de agua. En un entorno donde las redes de distribución nacionales están saturadas y los recursos hídricos locales están protegidos, las restricciones físicas de red y de enfriamiento limitarán el ritmo de la IA mucho antes de que los modelos de software alcancen límites de datos. La transición digital requiere una sobreestructura física que Occidente no tiene la agilidad institucional para construir a tiempo.
@@ -79,3 +85,43 @@ La IA no es una nube virtual desmaterializada; es cobre, subestaciones eléctric
 - **29/08/2026:** corrección Eddystone y mantenimiento E0 · P4 · ↑ ejecutados por instrucción de Front Office.
 - **06/09/2026:** actualización W36, mantenimiento E0 · P4 y ajuste de tendencia a → ejecutados por instrucción de Front Office en auditoría canónica.
 - **12/09/2026:** precierre W37 y mantenimiento E0 · P4 · → ejecutados por instrucción de Front Office; sin promoción de la Orden 202-26-41 a trigger CPD.
+
+## Revisión W38 — 19/09/2026 (TASK_116)
+
+- Nueva **Orden DOE 202-26-45**, emitida el 17/09 para PJM durante **17–18/09**. Documenta EEA1 y TLR aplicado el 15/09. La demanda de 133.285 MW y la insuficiencia de aproximadamente 700 MW son previsiones del expediente, no resultados realizados. [Orden completa](https://www.energy.gov/documents/doe-order-no-202-26-45).
+- La autorización alcanza generación de respaldo bajo condiciones de activación; no acredita por sí sola una obligación sobre CPDs o grandes cargas >50 MW durante ≥4 horas. Tampoco convierte EEA1 en EEA2.
+- La **202-26-44 (TransAlta)** fue emitida el 11/09 y rige del 13/09 al 11/12: antecedente con entrada efectiva en el intervalo cubierto. [DOE TransAlta](https://www.energy.gov/ceser/federal-power-act-section-202c-transalta-order-no-202-26-44).
+- El corte en Madrid equivale al 18/09 a las 23:29 en Nueva York. La Orden 45 expresa fechas, no hora de terminación: no se declara ya expirada.
+
+Se mantiene E0 · P4 · →. El expediente confirma tensión general de red, pero no acredita aceleración específica del impedimento a CPDs conforme a los triggers. D–F quedan con cobertura explícitamente incompleta, sin convertir falta de evidencia en ausencia del fenómeno.
+
+Ejecución autorizada por Luis el 19/09; juicio técnico del agente, sin atribuir validación posterior al Front Office. Detalle: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+<details>
+<summary>Snapshot y contexto sustituidos de W37 — memoria, no estado vigente</summary>
+
+### Snapshot anterior
+- **Estado:** 🟠 En observación intensificada — E0; ESTRÉS FÍSICO DE RED / VÍNCULO CPD PARCIAL
+- **Nivel de presión:** ELEVADA (P4)
+- **Dirección de tendencia:** → Estable
+- **Peso estructural:** 4
+- **Última actualización:** 2026-09-12 (precierre W37; corte 21:21 CEST)
+- **Contribución primaria:** 4 × 4 × 1,0 = **16,0**
+- **Vector primario:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
+- **Vectores secundarios:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]], [[VECTOR_05_Transformacion_industrial_y_demografia]]
+- **KPIs Actuales:**
+  - Orden DOE 202-26-39: prolonga la disponibilidad obligatoria de J.H. Campbell desde el 17/08/2026 hasta el 14/11/2026.
+  - Orden DOE 202-26-40: efectiva del 23/08/2026 al 20/11/2026, mantiene disponibles Eddystone 3 y 4 en PJM citando expresamente la carga de centros de datos e IA.
+  - Orden DOE 202-26-25A: prolonga la disponibilidad de Wagner 4 del 20/08/2026 al 17/11/2026 a petición de PJM.
+  - Orden DOE 202-26-38 (Stanton / Florida): expiró el 01/09/2026 sin colapso de red ni prórroga adicional requerida.
+  - Orden DOE 202-26-41 (PJM): emitida el 01/09 y expirada el 08/09/2026; acredita una intervención temporal de fiabilidad, pero no atribuye la emergencia a CPDs ni impone reducción o autogeneración forzada a una gran carga.
+  - Alerta sistémica: no se verifica una EEA2/EEA3 causada específicamente por la demanda conjunta de climatización y centros de datos.
+  - FERC: el 14/08 concedió 90 días de suspensión a los seis expedientes EL26-67 a EL26-72; el proceso tarifario y de interconexión para grandes cargas sigue abierto sin resolución material en la semana.
+  - Restricción hídrica / EED: no se verifica todavía un Trigger E o F en España, Irlanda o la UE.
+
+
+### Contexto anterior
+El despliegue de grandes cargas de cómputo depende de capacidad de generación, transmisión, interconexión y refrigeración. La Orden 202-26-39 prolonga hasta el 14/11 la obligación de mantener disponible J.H. Campbell, la 202-26-25A prolonga Wagner 4 hasta el 17/11 y la 202-26-40 mantiene Eddystone hasta el 20/11 citando el crecimiento de centros de datos e IA en la previsión de carga de PJM. En W37, la Orden 202-26-41 para PJM expiró el 08/09: confirma estrés físico temporal, pero no demuestra causalidad específica de CPDs ni obliga a operadores de IA a reducir carga o autogenerar. FERC mantiene en suspensión de 90 días los procedimientos tarifarios EL26-67..72. Tampoco se verifica moratoria hídrica europea. La señal dominante sigue siendo restricción física activa con vínculo CPD parcial, sin aceleración incremental suficiente ni ejecución de A–F.
+
+
+</details>

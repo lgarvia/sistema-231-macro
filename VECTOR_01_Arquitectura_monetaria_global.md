@@ -1,22 +1,26 @@
 ---
 presion: "🟠 ELEVADA"
-tendencia: "→ Estable"
+tendencia: "↑ Acelerando"
 tipo: vector
-ultima_revision: "2026-09-12"
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: "2026-09-19"
 triggers_activos: 0
-triggers_parciales: 1
+triggers_parciales: 0
 ---
 
 # 📝 Arquitectura monetaria global
 
 ## 0. ESTADO OPERATIVO
 - **Presión actual:** 🟠 ELEVADA
-- **Tendencia:** → Estable
+- **Tendencia:** ↑ Acelerando
 - **Triggers completos:** Ninguno
-- **Triggers parciales:** 1 (normalización japonesa / posible repatriación); septiembre permanece como ventana crítica de liquidez
+- **Triggers parciales del vector:** 0 acreditados con sus umbrales propios; B parcial pertenece al evento Japón y no se cuenta como trigger de V01.
 - **Condición de dominancia:** No activa
 - **Restricción dominante actual:** Absorción de deuda soberana y distribución de reservas ante la normalización japonesa y el cierre de trimestre de septiembre.
-- **Razón del semáforo:** Los JGB 10Y y 30Y consolidan rendimientos medios del 2,995% y 4,079%, mientras agosto registra −¥143,0B en deuda extranjera a largo plazo. La señal justifica vigilancia, pero una semana posterior positiva y unas subastas ordenadas impiden inferir retirada persistente. Al 09-sep, TGA 843,705 B$, reservas 3.036,508 B$ y SOFR 3,64% frente a IORB 3,65% no acreditan estrés. El BCE eleva 25 pb sus tipos, señal material de V01 sin activar dominancia fiscal.
+- **Razón del semáforo:** TGA 991,708 B$ y reservas 2.921,536 B$ al 16/09 acreditan menor holgura dentro de la quincena fiscal. La contribución de impuestos no prueba toda la causalidad del Trigger B de Japón. Fed y BoJ elevan 25 pb sus tipos, con vigencias distintas; SOFR–IORB sigue negativo y SRF diaria ≤254 M$. V01 pasa a ↑, sin dominancia fiscal acreditada ni trigger completo del vector nuevo.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición de un sistema regido por tipos de interés a uno regido por la gestión de la liquidez sistémica interbancaria y soberana.
@@ -30,13 +34,12 @@ La dominancia fiscal interviene el sistema operativo monetario. Los tipos de int
 **Tesis asociada:** [[TESIS_01_Dominancia_Fiscal]] / [[TESIS_05_Tokenizacion_del_Colateral]]
 
 ## 3. ESTADO ESTRUCTURAL
-Domina un régimen de Dominancia Fiscal de largo plazo donde los balances soberanos condicionan las políticas de control inflacionario tradicionales. La deuda federal bruta de Estados Unidos se sitúa en $40,031T al 03-sep ($32,27T en manos del público y $7,76T en tenencias intragubernamentales). El cruce y consolidación sobre $40T es una señal de stock y capacidad de absorción, no un trigger autónomo. El 19-ago, el Tesoro elevó de un máximo de $2B a al menos $4B por operación sus recompras de soporte de liquidez en los tramos nominales de 10-20 y 20-30 años para el periodo 9-sep–4-nov. Son operaciones de gestión de deuda y liquidez de mercado: no reducen la deuda neta ni equivalen a QE de la Reserva Federal.
 
-La ventana inmediata no muestra fallo de fontanería monetaria. El informe H.4.1 de la Reserva Federal al 02-sep (publicado el 03-sep) situó las reservas bancarias en $2,912T y la TGA en $959,380B; el saldo de la facilidad SRF se mantuvo en $0M y el tipo SOFR continuó oscilando en 3,63%–3,64% frente a un IORB de 3,65%. Se cumplen precondiciones de menor holgura, pero no el estrés de mercado ni la ventana fiscal del 15-sep exigidos por el evento.
+TGA 991,708 B$ y reservas 2.921,536 B$ al 16/09 acreditan menor holgura dentro de la quincena fiscal. La contribución de impuestos no prueba toda la causalidad del Trigger B de Japón. Fed y BoJ elevan 25 pb sus tipos, con vigencias distintas; SOFR–IORB sigue negativo y SRF diaria ≤254 M$. V01 pasa a ↑, sin dominancia fiscal acreditada ni trigger completo del vector nuevo.
 
-El sensor emergente es la normalización japonesa. En Japón, la subasta del JGB a 30 años del 03-sep (Issue 91) cortó a un rendimiento medio del 4,079% (yield al precio mínimo aceptado: 4,100%; precio medio: 98,93; cupón: 4,0%) con una cobertura competitiva de 3,79x (¥1.728,1B demandados / ¥456,2B aceptados), confirmando la normalización estructural de los rendimientos a muy largo plazo por encima del 4% y una absorción doméstica ordenada. El stock declarado de Treasuries atribuido a Japón descendió desde $1.209,9B en abril a $1.143,1B en mayo y $1.116,7B en junio; el TIC de junio, sin embargo, registró entradas netas totales de $133,5B y compras extranjeras netas de valores estadounidenses a largo plazo de $207,1B. Por limitaciones de custodia y valoración, la caída del stock japonés es evidencia parcial, no prueba limpia de ventas o repatriación. Las actas del FOMC de julio reiteran un régimen de reservas amplias y no introducen una decisión nueva sobre composición de balance.
+Fuentes primarias consultadas 19/09: [fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) · [impl](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm) · [boj](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf) · [h41](https://www.federalreserve.gov/releases/h41/Current/) · [dts](https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/operating_cash_balance?filter=record_date:gte:2026-09-14,record_date:lte:2026-09-17&page[size]=100) · [sofr](https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-09-12&endDate=2026-09-18&type=rate) · [srf](https://markets.newyorkfed.org/api/rp/results/search.json?startDate=2026-09-14&endDate=2026-09-18&operationTypes=Repo) · [tic](https://home.treasury.gov/news/press-releases/sb0631/).
 
-El PCE de julio avanzó un 3,7% interanual y el subyacente un 3,3%, ambos un 0,2% mensual. En Jackson Hole, Kevin Warsh reafirmó el 2% como objetivo firme, señaló un desempleo del 4,1%, criticó el *forward guidance* y el «salón de espejos» de comunicación, y sostuvo que los tipos cortos siguen siendo el instrumento principal. Es una ruptura doctrinal con el marco comunicativo de 2021 y una señal de mayor reacción frente a inflación persistente; opera como contrapeso a la tesis de dominancia fiscal, salvo que futuras decisiones subordinen de hecho el control de precios a la financiación soberana.
+Los antecedentes conservados al final no son cotizaciones ni estados vigentes. La interpretación de régimen permanece falsable; el estado operativo se determina en §0.
 
 ## 4. MECANIZACIÓN OPERACIONAL
 ### Métricas Verificables
@@ -111,3 +114,34 @@ El PCE de julio avanzó un 3,7% interanual y el subyacente un 3,3%, ambos un 0,2
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
 Presión elevada y tendencia estable. La ficha Japón permanece E0 · P4 · → y TESIS_01 conserva soporte moderado; TESIS_05 sigue en validación · moderado porque ninguna señal W37 aporta nexo tokenizado. Próximos tests: TGA 15/09, TIC/FOMC 16/09, BoJ 17–18/09 y cierre trimestral 30/09.
+
+## Revisión W38 — TASK_116
+
+TGA 991,708 B$ y reservas 2.921,536 B$ al 16/09 acreditan menor holgura dentro de la quincena fiscal. La contribución de impuestos no prueba toda la causalidad del Trigger B de Japón. Fed y BoJ elevan 25 pb sus tipos, con vigencias distintas; SOFR–IORB sigue negativo y SRF diaria ≤254 M$. V01 pasa a ↑, sin dominancia fiscal acreditada ni trigger completo del vector nuevo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_09_20]] documenta fuentes, imputación primaria y límites. No se suman transmisiones secundarias a la carga.
+
+<details>
+<summary>Estado anterior sustituido — memoria de calibración W37</summary>
+
+### Estado operativo anterior
+- **Presión actual:** 🟠 ELEVADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** 1 (normalización japonesa / posible repatriación); septiembre permanece como ventana crítica de liquidez
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Absorción de deuda soberana y distribución de reservas ante la normalización japonesa y el cierre de trimestre de septiembre.
+- **Razón del semáforo:** Los JGB 10Y y 30Y consolidan rendimientos medios del 2,995% y 4,079%, mientras agosto registra −¥143,0B en deuda extranjera a largo plazo. La señal justifica vigilancia, pero una semana posterior positiva y unas subastas ordenadas impiden inferir retirada persistente. Al 09-sep, TGA 843,705 B$, reservas 3.036,508 B$ y SOFR 3,64% frente a IORB 3,65% no acreditan estrés. El BCE eleva 25 pb sus tipos, señal material de V01 sin activar dominancia fiscal.
+
+
+### Contexto estructural anterior
+Domina un régimen de Dominancia Fiscal de largo plazo donde los balances soberanos condicionan las políticas de control inflacionario tradicionales. La deuda federal bruta de Estados Unidos se sitúa en $40,031T al 03-sep ($32,27T en manos del público y $7,76T en tenencias intragubernamentales). El cruce y consolidación sobre $40T es una señal de stock y capacidad de absorción, no un trigger autónomo. El 19-ago, el Tesoro elevó de un máximo de $2B a al menos $4B por operación sus recompras de soporte de liquidez en los tramos nominales de 10-20 y 20-30 años para el periodo 9-sep–4-nov. Son operaciones de gestión de deuda y liquidez de mercado: no reducen la deuda neta ni equivalen a QE de la Reserva Federal.
+
+La ventana inmediata no muestra fallo de fontanería monetaria. El informe H.4.1 de la Reserva Federal al 02-sep (publicado el 03-sep) situó las reservas bancarias en $2,912T y la TGA en $959,380B; el saldo de la facilidad SRF se mantuvo en $0M y el tipo SOFR continuó oscilando en 3,63%–3,64% frente a un IORB de 3,65%. Se cumplen precondiciones de menor holgura, pero no el estrés de mercado ni la ventana fiscal del 15-sep exigidos por el evento.
+
+El sensor emergente es la normalización japonesa. En Japón, la subasta del JGB a 30 años del 03-sep (Issue 91) cortó a un rendimiento medio del 4,079% (yield al precio mínimo aceptado: 4,100%; precio medio: 98,93; cupón: 4,0%) con una cobertura competitiva de 3,79x (¥1.728,1B demandados / ¥456,2B aceptados), confirmando la normalización estructural de los rendimientos a muy largo plazo por encima del 4% y una absorción doméstica ordenada. El stock declarado de Treasuries atribuido a Japón descendió desde $1.209,9B en abril a $1.143,1B en mayo y $1.116,7B en junio; el TIC de junio, sin embargo, registró entradas netas totales de $133,5B y compras extranjeras netas de valores estadounidenses a largo plazo de $207,1B. Por limitaciones de custodia y valoración, la caída del stock japonés es evidencia parcial, no prueba limpia de ventas o repatriación. Las actas del FOMC de julio reiteran un régimen de reservas amplias y no introducen una decisión nueva sobre composición de balance.
+
+El PCE de julio avanzó un 3,7% interanual y el subyacente un 3,3%, ambos un 0,2% mensual. En Jackson Hole, Kevin Warsh reafirmó el 2% como objetivo firme, señaló un desempleo del 4,1%, criticó el *forward guidance* y el «salón de espejos» de comunicación, y sostuvo que los tipos cortos siguen siendo el instrumento principal. Es una ruptura doctrinal con el marco comunicativo de 2021 y una señal de mayor reacción frente a inflación persistente; opera como contrapeso a la tesis de dominancia fiscal, salvo que futuras decisiones subordinen de hecho el control de precios a la financiación soberana.
+
+
+</details>

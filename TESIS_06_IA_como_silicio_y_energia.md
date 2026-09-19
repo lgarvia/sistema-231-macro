@@ -3,9 +3,10 @@ tipo: tesis_estructural
 id: TESIS_06
 estado: vigente
 soporte: alto
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-19
+corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
 corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W37 TASK_099; revisión de tesis sobre evidencia admitida en fases 1-4"
+alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
 vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 ---
 
@@ -64,13 +65,16 @@ La tesis identifica una **restricción de cadena de conversión**: el cuello de 
 - Despliegue masivo sin restricciones de interconexión, fabricación o refrigeración.
 - Descenso sostenido del coste total por unidad de servicio de IA y mejoras de eficiencia energética que, junto con la expansión de capacidad, eviten congestión, aplazamientos y aumento de lead times a lo largo de la cadena.
 
-## 7. Calibración actual — 29/08/2026
+## 7. Calibración actual — 19/09/2026 (precierre W38)
 
-- **Estado:** vigente.
-- **Grado de soporte:** alto.
-- **Evidencia favorable:** NVIDIA confirma escala y aceleración de demanda, Rubin eleva el mix y los compromisos de capacidad muestran contratación anticipada; Apple amplía la frontera de inferencia local; tres órdenes DOE prolongan generación firme y FERC mantiene abierto el proceso de grandes cargas.
-- **Evidencia contradictoria:** ningún trigger CoWoS está activado; la oferta restringida no ha provocado retraso oficial AP7 ni incumplimiento de guidance. Las órdenes DOE no prueban causalidad exclusiva de CPDs y FERC ha diferido 90 días una respuesta sustantiva.
-- **Cambio de esta revisión:** el soporte permanece alto y la tendencia de V03 pasa a ↑. Se rechazan dos simplificaciones del corpus: «HBM/CoWoS sin cuellos de botella» contradice la guía de NVIDIA y «token a coste marginal cero» sólo es válido como ausencia de tarifa cloud, no como coste económico total.
+- **Soporte:** Alto; vigente.
+- **A favor:** La nueva orden DOE acredita restricciones generales de energía; TSMC y NVIDIA sostienen como antecedentes la escala material de ingresos e inversión.
+- **Contraevidencia y límites:** No se demuestra que la orden obligue a CPDs >50 MW durante ≥4 horas, ni deterioro nuevo de AP7/yields/entregas. La expansión de oferta puede aliviar la restricción.
+- **Ambigüedad causal:** Ingresos son demanda agregada; una guía es prospectiva; tensión de red no demuestra causalidad exclusiva de IA ni saturación terminal.
+- **Próxima falsación:** Contrastar Micron 30/09 y métricas directas de AP7, lead times y restricciones CPD. Capacidad suficiente, plazos menores y menores costes de despliegue debilitarían el cuello de botella.
+- **Juicio técnico:** Se mantiene alto en su formulación física, sin nueva activación de Grid o CoWoS.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [doe](https://www.energy.gov/documents/doe-order-no-202-26-45) · [tsmc](https://pr.cld.tsmc.com/english/news/3340) · [nv](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx) · [micron](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx)
 
 ## 8. Fuentes de seguimiento
 
@@ -104,3 +108,21 @@ Grid y CoWoS permanecen E0 · P4 · →; la persistencia de inversión y cuellos
 - **Refuerzo W37:** TSMC publica 514.806 M NT$ de ingresos en agosto (+53,3% interanual), confirmando la escala de demanda física. La Orden DOE 202-26-41 añade otro episodio temporal de intervención de fiabilidad en PJM.
 - **Contraevidencia y límites:** la facturación no desglosa CoWoS, AP7, *yields*, entregas ni *lead times*; la orden DOE no atribuye causalidad exclusiva a centros de datos ni impone el *curtailment* definido por Grid. El Banco de Inglaterra identifica riesgo potencial de competencia por financiación, pero poca o ninguna evidencia actual de desplazamiento.
 - **Juicio:** W37 refuerza la cadena silicio–red–capital, no la existencia de un bloqueo generalizado. CoWoS y Grid permanecen E0 · P4 · → y el soporte de TESIS_06 continúa alto, sin promoción adicional.
+
+## Revisión W38 — TASK_116
+
+Se mantiene alto en su formulación física, sin nueva activación de Grid o CoWoS. El soporte resulta de la revisión explícita de §7, no de una instrucción de conservarlo. Los grados históricos no se reinterpretan como nueva evidencia.
+
+<details>
+<summary>Calibración anterior sustituida</summary>
+
+### Calibración anterior — 29/08/2026
+
+- **Estado:** vigente.
+- **Grado de soporte:** alto.
+- **Evidencia favorable:** NVIDIA confirma escala y aceleración de demanda, Rubin eleva el mix y los compromisos de capacidad muestran contratación anticipada; Apple amplía la frontera de inferencia local; tres órdenes DOE prolongan generación firme y FERC mantiene abierto el proceso de grandes cargas.
+- **Evidencia contradictoria:** ningún trigger CoWoS está activado; la oferta restringida no ha provocado retraso oficial AP7 ni incumplimiento de guidance. Las órdenes DOE no prueban causalidad exclusiva de CPDs y FERC ha diferido 90 días una respuesta sustantiva.
+- **Cambio de esta revisión:** el soporte permanece alto y la tendencia de V03 pasa a ↑. Se rechazan dos simplificaciones del corpus: «HBM/CoWoS sin cuellos de botella» contradice la guía de NVIDIA y «token a coste marginal cero» sólo es válido como ausencia de tarifa cloud, no como coste económico total.
+
+
+</details>

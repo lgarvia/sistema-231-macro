@@ -29,7 +29,7 @@ El sistema articula la realidad económica a través de cuatro capas interconect
    * Hipótesis fundamentales sobre la dominancia fiscal, la estabilización de liquidez, la captura de rentas, la multipolaridad logística, la tokenización del colateral y el nexo entre IA, silicio y energía.
 
 3. **Eventos Activos y Cerrados (`Evento_*.md`):**
-   * Shocks concretos monitorizados en tiempo real bajo condiciones de activación y métricas de presión (aranceles, cuellos de botella marítimos, descompresiones de deuda, capacidad de empaquetado de chips, etc.).
+   * Shocks concretos revisados por cortes fechados bajo condiciones de activación y métricas de presión (aranceles, cuellos de botella marítimos, descompresiones de deuda, capacidad de empaquetado de chips, etc.).
 
 4. **Radar Rodante 60 días (`Radar_Eventos_*.md`):**
    * Matriz temporal de hitos críticos, reuniones de bancos centrales, ventanas de liquidez y fechas límite de ejecución institucional.
@@ -42,4 +42,9 @@ Este repositorio está concebido como material pedagógico en programas de posgr
 
 ### Cómo clonarlo localmente:
 ```bash
-git clone https://github.com/tu-usuario/sistema-231-macro.git
+git clone https://github.com/lgarvia/sistema-231-macro.git
+
+
+## Última calibración
+
+[Precierre W38 — informe nominal 20/09/2026](ACTUALIZACION_SEMANAL_231_2026_09_20.md), con corte factual 19/09/2026 05:29 Europe/Madrid. Carga 89,6; cinco eventos activos y radar de 21 filas. Los límites de evidencia están documentados; el observatorio no implica vigilancia continua.

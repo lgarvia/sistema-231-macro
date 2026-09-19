@@ -2,7 +2,8 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
-ultima_revision: "2026-09-12"
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: "2026-09-19"
 triggers_activos: 0
 triggers_parciales: 1
 ---
@@ -16,7 +17,11 @@ triggers_parciales: 1
 - **Triggers parciales:** 1 (Capex / guía de hyperscalers); los lead times carecen de una actualización primaria reciente
 - **Condición de dominancia:** No activa
 - **Restricción dominante actual:** Capacidad simultánea de litografía EUV, empaquetado avanzado (CoWoS), memoria HBM e interconexión eléctrica para absorber el despliegue físico de clusters de IA.
-- **Razón del semáforo:** TSMC publica 514.806 M NT$ de ingresos en agosto (+53,3% interanual), confirmando demanda agregada fuerte. La cifra no desglosa capacidad CoWoS, AP7, *yields*, entregas Blackwell ni *lead times* y, por tanto, no activa A–D. La presión permanece elevada y estable: expansión de demanda no equivale por sí sola a aceleración semanal del cuello de botella.
+- **Razón del semáforo:** TSMC agosto y NVIDIA FY2027 Q2 se recontrastan como antecedentes de demanda; no hay nueva medición suficiente de AP7, yields o lead times en el corpus admitido. Micron 30/09 permanece futuro. Continúa →: se distingue presión física estructural de aceleración semanal demostrada.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Competición logística, industrial y soberana por el control de la cadena de valor de hardware avanzado (litografía, diseño y fundición) y la capacidad de cómputo asociada a la seguridad nacional.
@@ -30,15 +35,12 @@ La competición tecnológica por la inteligencia artificial ha abandonado la abs
 **Tesis asociada:** [[TESIS_06_IA_como_silicio_y_energia]]
 
 ## 3. ESTADO ESTRUCTURAL
-El centro de gravedad del vector se ha desplazado desde la litografía inicial de oblea hacia las restricciones de empaquetado avanzado, memoria HBM y disponibilidad eléctrica para desplegar el hardware en centros de datos. Los resultados publicados confirman aceleración, no ruptura: TSMC alcanzó $40,20B de ingresos en Q2 y proyecta $44,6B-$45,8B en Q3; ASML comunicó €9,326B de ventas y €2,918B de beneficio neto, con guía de €43B-€45B para 2026 y una ampliación aproximada del 30% de su capacidad low-NA EUV en 2027; Micron informó de envíos en volumen de HBM4 y de muestras de HBM4E con producción prevista para 2027.
 
-Aunque el acceso al silicio avanzado es muy competitivo y sus costes son crecientes, la expansión de capacidad continúa. Meta publicó $31,08B de CAPEX en Q2 y acotó su guía 2026 a $130B-$145B, elevando el extremo inferior desde $125B. Amazon publicó $54,21B de compras de propiedad y equipo en Q2; AWS creció un 37% hasta $42,2B y la compañía atribuyó un flujo de caja libre de -$7,6B a doce meses al aumento de $66,1B en inversión, principalmente en IA. TSMC publicó 467.580 M NT$ de ingresos en julio, +44,7% interanual, y +37,0% acumulado.
+TSMC agosto y NVIDIA FY2027 Q2 se recontrastan como antecedentes de demanda; no hay nueva medición suficiente de AP7, yields o lead times en el corpus admitido. Micron 30/09 permanece futuro. Continúa →: se distingue presión física estructural de aceleración semanal demostrada.
 
-NVIDIA confirmó el 26-ago la aceleración: ingresos récord de $96,2B, $89,0B en Data Center (92,5% del total), margen bruto no-GAAP cercano al 75% y guía de $108B para Q3. En la llamada, la compañía estimó que Rubin aportará cerca del 20% del ingreso de Data Center en Q3 y sostuvo que la oferta seguirá siendo el cuello de botella hasta FY28. Su 10-Q muestra inventarios por $32B y compromisos de compra y capacidad por $279B. Por tanto, la absorción de CoWoS y HBM no equivale a desaparición del cuello de botella: es evidencia de asignación y contratación anticipada de una oferta todavía restringida.
+Fuentes primarias consultadas 19/09: [tsmc](https://pr.cld.tsmc.com/english/news/3340) · [nv](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx) · [micron](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx).
 
-Apple añade una bifurcación de arquitectura, no una sustitución inmediata de la nube. El M6 de 2 nm se incorpora al Mac mini, mientras que el Mac Studio con M5 Ultra alcanza hasta 512 GB de memoria unificada para inferencia y ajuste local de modelos grandes. El cómputo local elimina el precio medido por token de un proveedor externo, pero conserva costes de energía, hardware y amortización. En paralelo, la salida a bolsa de Unitree —con un plan de inversión de 4.200 M de yuanes— y el compromiso de Alibaba de invertir 80.000 M HK$ en IA son evidencia de escala de capital físico chino. Refuerzan V03 y V05, pero no demuestran por sí solos un bypass litográfico ni un trigger nuevo.
-
-En el frente de soberanía y materiales alternativos, las publicaciones sobre transistores basados en disulfuro de molibdeno (MoS2) documentan investigación de laboratorio en semiconductores 2D (Nivel 1-2), sin constituir evidencia técnica auditada de fabricación comercial viable sub-5nm (Nivel 4-5) ni alterar la dependencia de equipos de litografía de vanguardia.
+Los antecedentes conservados al final no son cotizaciones ni estados vigentes. La interpretación de régimen permanece falsable; el estado operativo se determina en §0.
 
 ## 4. MECANIZACIÓN OPERACIONAL
 ### Métricas Verificables
@@ -99,3 +101,36 @@ En el frente de soberanía y materiales alternativos, las publicaciones sobre tr
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
 CoWoS permanece E0 · P4 · →. TESIS_06 conserva soporte alto: TSMC refuerza la escala física de demanda, no un bloqueo demostrado. Próximos sensores agregados: ventas TSMC del 08/10 y 10/11; AP7, *yields* y *lead times* siguen en el observatorio especializado.
+
+## Revisión W38 — TASK_116
+
+TSMC agosto y NVIDIA FY2027 Q2 se recontrastan como antecedentes de demanda; no hay nueva medición suficiente de AP7, yields o lead times en el corpus admitido. Micron 30/09 permanece futuro. Continúa →: se distingue presión física estructural de aceleración semanal demostrada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_09_20]] documenta fuentes, imputación primaria y límites. No se suman transmisiones secundarias a la carga.
+
+<details>
+<summary>Estado anterior sustituido — memoria de calibración W37</summary>
+
+### Estado operativo anterior
+- **Presión actual:** 🟠 ELEVADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** 1 (Capex / guía de hyperscalers); los lead times carecen de una actualización primaria reciente
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Capacidad simultánea de litografía EUV, empaquetado avanzado (CoWoS), memoria HBM e interconexión eléctrica para absorber el despliegue físico de clusters de IA.
+- **Razón del semáforo:** TSMC publica 514.806 M NT$ de ingresos en agosto (+53,3% interanual), confirmando demanda agregada fuerte. La cifra no desglosa capacidad CoWoS, AP7, *yields*, entregas Blackwell ni *lead times* y, por tanto, no activa A–D. La presión permanece elevada y estable: expansión de demanda no equivale por sí sola a aceleración semanal del cuello de botella.
+
+
+### Contexto estructural anterior
+El centro de gravedad del vector se ha desplazado desde la litografía inicial de oblea hacia las restricciones de empaquetado avanzado, memoria HBM y disponibilidad eléctrica para desplegar el hardware en centros de datos. Los resultados publicados confirman aceleración, no ruptura: TSMC alcanzó $40,20B de ingresos en Q2 y proyecta $44,6B-$45,8B en Q3; ASML comunicó €9,326B de ventas y €2,918B de beneficio neto, con guía de €43B-€45B para 2026 y una ampliación aproximada del 30% de su capacidad low-NA EUV en 2027; Micron informó de envíos en volumen de HBM4 y de muestras de HBM4E con producción prevista para 2027.
+
+Aunque el acceso al silicio avanzado es muy competitivo y sus costes son crecientes, la expansión de capacidad continúa. Meta publicó $31,08B de CAPEX en Q2 y acotó su guía 2026 a $130B-$145B, elevando el extremo inferior desde $125B. Amazon publicó $54,21B de compras de propiedad y equipo en Q2; AWS creció un 37% hasta $42,2B y la compañía atribuyó un flujo de caja libre de -$7,6B a doce meses al aumento de $66,1B en inversión, principalmente en IA. TSMC publicó 467.580 M NT$ de ingresos en julio, +44,7% interanual, y +37,0% acumulado.
+
+NVIDIA confirmó el 26-ago la aceleración: ingresos récord de $96,2B, $89,0B en Data Center (92,5% del total), margen bruto no-GAAP cercano al 75% y guía de $108B para Q3. En la llamada, la compañía estimó que Rubin aportará cerca del 20% del ingreso de Data Center en Q3 y sostuvo que la oferta seguirá siendo el cuello de botella hasta FY28. Su 10-Q muestra inventarios por $32B y compromisos de compra y capacidad por $279B. Por tanto, la absorción de CoWoS y HBM no equivale a desaparición del cuello de botella: es evidencia de asignación y contratación anticipada de una oferta todavía restringida.
+
+Apple añade una bifurcación de arquitectura, no una sustitución inmediata de la nube. El M6 de 2 nm se incorpora al Mac mini, mientras que el Mac Studio con M5 Ultra alcanza hasta 512 GB de memoria unificada para inferencia y ajuste local de modelos grandes. El cómputo local elimina el precio medido por token de un proveedor externo, pero conserva costes de energía, hardware y amortización. En paralelo, la salida a bolsa de Unitree —con un plan de inversión de 4.200 M de yuanes— y el compromiso de Alibaba de invertir 80.000 M HK$ en IA son evidencia de escala de capital físico chino. Refuerzan V03 y V05, pero no demuestran por sí solos un bypass litográfico ni un trigger nuevo.
+
+En el frente de soberanía y materiales alternativos, las publicaciones sobre transistores basados en disulfuro de molibdeno (MoS2) documentan investigación de laboratorio en semiconductores 2D (Nivel 1-2), sin constituir evidencia técnica auditada de fabricación comercial viable sub-5nm (Nivel 4-5) ni alterar la dependencia de equipos de litografía de vanguardia.
+
+
+</details>

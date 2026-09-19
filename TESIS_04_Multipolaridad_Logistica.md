@@ -3,9 +3,10 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-09-12
+ultima_actualizacion: 2026-09-19
+corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
 corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W37 TASK_099; revisión de tesis sobre evidencia admitida en fases 1-4"
+alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
 vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 ---
 
@@ -61,13 +62,16 @@ La tesis predice una globalización más segmentada y asegurada, no una desgloba
 - Ausencia prolongada de diferencias de coste entre corredores expuestos y no expuestos.
 - Recuperación del arbitraje logístico global sin necesidad de redundancia estratégica.
 
-## 7. Calibración actual — 29/08/2026
+## 7. Calibración actual — 19/09/2026 (precierre W38)
 
-- **Estado:** vigente.
-- **Grado de soporte:** moderado-alto.
-- **Evidencia favorable:** JWLA-034 persiste y la OMI eleva a al menos 70 ataques el balance de la crisis, con 19 marinos fallecidos.
-- **Evidencia contradictoria:** ausencia de cierre superior a 5 Mb/d, de retirada de cobertura demostrada y de un benchmark oficial del JWC para primas.
-- **Cambio de esta revisión:** aumenta el recuento físico, pero se mantiene la escalera probatoria estricta entre incidente, coste asegurador y desvío físico. Sin benchmark público de primas, no se incorpora la cifra narrativa del corpus como dato.
+- **Soporte:** Moderado-alto; vigente.
+- **A favor:** Los 80 ataques verificados por OMI y la continuidad de medidas de sanción sostienen la recurrencia de fricción marítima e institucional.
+- **Contraevidencia y límites:** JWLA-035 ajusta el mar Negro sin demostrar encarecimiento en Ormuz; no se acreditan retirada de seguro, saturación africana o cierre >5 Mb/d.
+- **Ambigüedad causal:** La cifra OMI se refiere a Ormuz y proximidades; no prueba fragmentación uniforme de todas las rutas ni costes permanentes.
+- **Próxima falsación:** Contrastar primas comparables, desvíos atribuibles y tráfico físico; normalización sostenida de costes y rutas debilitaría el mecanismo.
+- **Juicio técnico:** Se mantiene moderado-alto: recurrencia física confirmada, transmisión económica incompleta.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx) · [jwc](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf) · [eu](https://eur-lex.europa.eu/eli/dec/2026/2103/oj/eng/pdf)
 
 ## 8. Fuentes de seguimiento
 
@@ -91,3 +95,21 @@ Se conserva soporte moderado-alto conforme a la ficha de tesis; la síntesis W36
 - **Refuerzo W37:** la OMI eleva el balance a 75 incidentes y 22 fallecidos y documenta daños adicionales. JWLA-034 sigue vigente. Se fortalece el primer peldaño de la escalera probatoria: recurrencia física en corredores estratégicos.
 - **Contraevidencia y límites:** no existe benchmark público de prima, dos cotizaciones independientes, retirada de cobertura, daño crítico en terminal o cierre material de Ormuz. «Arancel en la sombra» sigue siendo una interpretación causal, no una tarifa aseguradora observada.
 - **Juicio:** la recurrencia justifica mantener Lloyd’s ↑, pero no elevar la tesis a soporte alto. Para ello debe demostrarse la transmisión desde incidente hacia coste asegurador y desde coste hacia desvío o interrupción física persistente.
+
+## Revisión W38 — TASK_116
+
+Se mantiene moderado-alto: recurrencia física confirmada, transmisión económica incompleta. El soporte resulta de la revisión explícita de §7, no de una instrucción de conservarlo. Los grados históricos no se reinterpretan como nueva evidencia.
+
+<details>
+<summary>Calibración anterior sustituida</summary>
+
+### Calibración anterior — 29/08/2026
+
+- **Estado:** vigente.
+- **Grado de soporte:** moderado-alto.
+- **Evidencia favorable:** JWLA-034 persiste y la OMI eleva a al menos 70 ataques el balance de la crisis, con 19 marinos fallecidos.
+- **Evidencia contradictoria:** ausencia de cierre superior a 5 Mb/d, de retirada de cobertura demostrada y de un benchmark oficial del JWC para primas.
+- **Cambio de esta revisión:** aumenta el recuento físico, pero se mantiene la escalera probatoria estricta entre incidente, coste asegurador y desvío físico. Sin benchmark público de primas, no se incorpora la cifra narrativa del corpus como dato.
+
+
+</details>

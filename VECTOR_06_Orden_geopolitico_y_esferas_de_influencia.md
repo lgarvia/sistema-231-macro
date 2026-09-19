@@ -2,7 +2,8 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-ultima_revision: "2026-09-12"
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: "2026-09-19"
 triggers_activos: 0
 triggers_parciales: 1
 ---
@@ -16,7 +17,11 @@ triggers_parciales: 1
 - **Triggers parciales:** 1 (Trigger 02 - Aceleración del esfuerzo de defensa aliado)
 - **Condición de dominancia:** No activa
 - **Restricción dominante actual:** Preservación de la disuasión militar en teatros calientes (Oriente Medio y Taiwán), consolidación del régimen de sanciones cruzadas y rearme presupuestario estructural.
-- **Razón del semáforo:** La arquitectura de poder internacional mantiene continuidad estructural: rearme aliado parcial y sanciones cruzadas, sin documento primario W37 que acredite bypass financiero masivo, bases duales nuevas, confiscación de reservas soberanas o confrontación interestatal directa. La fricción marítima se imputa primariamente en V02 y las medidas arancelarias en V04; no se duplica carga en V06.
+- **Razón del semáforo:** La Decisión (PESC) 2026/2103 prorroga las medidas individuales UE-Rusia solo hasta el 22/09. OFAC anuncia medidas bancarias el 14/09 y contra intermediarios cripto el 17/09. Son actos institucionales observados; las conductas atribuidas por Tesoro se registran como alegaciones oficiales. No acreditan confiscación de reservas, bypass financiero masivo ni conflicto interestatal directo; continúa →, sin evento primario nuevo.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Sustitución de la gobernanza multilateral y del derecho internacional clásico por el establecimiento pragmático de esferas de control asimétrico, disuasión militar y "hechos consumados" de control físico y logístico.
@@ -30,13 +35,12 @@ El poder real bascula desde la mediación diplomática hacia el control físico 
 **Tesis asociada:** [[TESIS_01_Dominancia_Fiscal]] / [[TESIS_02_Frictionless_Stabilization]] / [[TESIS_04_Multipolaridad_Logistica]]
 
 ## 3. ESTADO ESTRUCTURAL
-Domina un régimen de contención armada preventiva y rearme sistemático. La Cumbre de Ankara informó de un gasto agregado en defensa y seguridad de los aliados europeos y Canadá cercano al 4% del PIB y convirtió el compromiso en capacidad: más de €50B en compras, $40B en sistemas contra drones durante cinco años, €27B en modernización de almacenamiento y distribución de combustible y €70B en equipo, asistencia y entrenamiento para Ucrania en 2026, con compromiso equivalente mínimo para 2027. Estas cifras elevan la presión y la tendencia, pero no demuestran por sí solas el requisito del Trigger 02 de dos presupuestos consecutivos con aumentos superiores al 15% interanual.
 
-En el plano sancionador, OFAC revocó el 7-jul la Licencia General X para crudo y productos iraníes y autorizó únicamente el cierre de operaciones hasta las 00:01 EDT del 17-jul. La UE adoptó el 23-jul su 21.º paquete contra Rusia, con 48 personas, 170 entidades y 41 buques adicionales de la flota en la sombra, además de prohibiciones de transacción sobre otras 33 entidades financieras rusas y cuatro bancos de terceros países. Estas medidas endurecen el perímetro financiero, pero no activan el Trigger 04: no constituyen una congelación o incautación de más de $50B en reservas de un banco central.
+La Decisión (PESC) 2026/2103 prorroga las medidas individuales UE-Rusia solo hasta el 22/09. OFAC anuncia medidas bancarias el 14/09 y contra intermediarios cripto el 17/09. Son actos institucionales observados; las conductas atribuidas por Tesoro se registran como alegaciones oficiales. No acreditan confiscación de reservas, bypass financiero masivo ni conflicto interestatal directo; continúa →, sin evento primario nuevo.
 
-En Taiwán, la ventana oficial de Han Kuang 42 permanece cerrada; los despliegues rutinarios del EPL se monitorizan como presión basal de zona gris sin novedades cualitativas que activen un nuevo evento.
+Fuentes primarias consultadas 19/09: [eu](https://eur-lex.europa.eu/eli/dec/2026/2103/oj/eng/pdf) · [ofac1](https://home.treasury.gov/news/press-releases/sb0629/) · [ofac2](https://home.treasury.gov/news/press-releases/sb0632/).
 
-La fricción marítima en el corredor de Oriente Medio continúa contabilizada primariamente en V02 por su impacto físico y asegurador. La condena judicial de Evergrande en China refleja capacidad coercitiva doméstica sin implicaciones de expansión exterior. La atención institucional del vector se desplaza hacia la Asamblea General de la ONU (UNGA 81) y la prevista Cumbre bilateral Xi Jinping – EEUU a finales de septiembre como horizontes de vigilancia sin impacto métrico ex ante.
+Los antecedentes conservados al final no son cotizaciones ni estados vigentes. La interpretación de régimen permanece falsable; el estado operativo se determina en §0.
 
 ## 4. MECANIZACIÓN OPERACIONAL
 ### Métricas Verificables
@@ -93,3 +97,34 @@ Revisión de consistencia con eventos y radar: se conserva el estado operativo y
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
 Presión moderada y tendencia estable. W37 no activa eventos primarios ni altera los soportes de TESIS_01, TESIS_02 o TESIS_04 desde V06. La visita Xi–EE. UU. permanece en cuarentena hasta que exista fecha oficial acotada.
+
+## Revisión W38 — TASK_116
+
+La Decisión (PESC) 2026/2103 prorroga las medidas individuales UE-Rusia solo hasta el 22/09. OFAC anuncia medidas bancarias el 14/09 y contra intermediarios cripto el 17/09. Son actos institucionales observados; las conductas atribuidas por Tesoro se registran como alegaciones oficiales. No acreditan confiscación de reservas, bypass financiero masivo ni conflicto interestatal directo; continúa →, sin evento primario nuevo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_09_20]] documenta fuentes, imputación primaria y límites. No se suman transmisiones secundarias a la carga.
+
+<details>
+<summary>Estado anterior sustituido — memoria de calibración W37</summary>
+
+### Estado operativo anterior
+- **Presión actual:** 🟡 MODERADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** 1 (Trigger 02 - Aceleración del esfuerzo de defensa aliado)
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Preservación de la disuasión militar en teatros calientes (Oriente Medio y Taiwán), consolidación del régimen de sanciones cruzadas y rearme presupuestario estructural.
+- **Razón del semáforo:** La arquitectura de poder internacional mantiene continuidad estructural: rearme aliado parcial y sanciones cruzadas, sin documento primario W37 que acredite bypass financiero masivo, bases duales nuevas, confiscación de reservas soberanas o confrontación interestatal directa. La fricción marítima se imputa primariamente en V02 y las medidas arancelarias en V04; no se duplica carga en V06.
+
+
+### Contexto estructural anterior
+Domina un régimen de contención armada preventiva y rearme sistemático. La Cumbre de Ankara informó de un gasto agregado en defensa y seguridad de los aliados europeos y Canadá cercano al 4% del PIB y convirtió el compromiso en capacidad: más de €50B en compras, $40B en sistemas contra drones durante cinco años, €27B en modernización de almacenamiento y distribución de combustible y €70B en equipo, asistencia y entrenamiento para Ucrania en 2026, con compromiso equivalente mínimo para 2027. Estas cifras elevan la presión y la tendencia, pero no demuestran por sí solas el requisito del Trigger 02 de dos presupuestos consecutivos con aumentos superiores al 15% interanual.
+
+En el plano sancionador, OFAC revocó el 7-jul la Licencia General X para crudo y productos iraníes y autorizó únicamente el cierre de operaciones hasta las 00:01 EDT del 17-jul. La UE adoptó el 23-jul su 21.º paquete contra Rusia, con 48 personas, 170 entidades y 41 buques adicionales de la flota en la sombra, además de prohibiciones de transacción sobre otras 33 entidades financieras rusas y cuatro bancos de terceros países. Estas medidas endurecen el perímetro financiero, pero no activan el Trigger 04: no constituyen una congelación o incautación de más de $50B en reservas de un banco central.
+
+En Taiwán, la ventana oficial de Han Kuang 42 permanece cerrada; los despliegues rutinarios del EPL se monitorizan como presión basal de zona gris sin novedades cualitativas que activen un nuevo evento.
+
+La fricción marítima en el corredor de Oriente Medio continúa contabilizada primariamente en V02 por su impacto físico y asegurador. La condena judicial de Evergrande en China refleja capacidad coercitiva doméstica sin implicaciones de expansión exterior. La atención institucional del vector se desplaza hacia la Asamblea General de la ONU (UNGA 81) y la prevista Cumbre bilateral Xi Jinping – EEUU a finales de septiembre como horizontes de vigilancia sin impacto métrico ex ante.
+
+
+</details>

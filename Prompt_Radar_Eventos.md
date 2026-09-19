@@ -1,6 +1,6 @@
 # PROMPT CANÓNICO — RADAR DE EVENTOS 231
 
-> **Versión:** 2.1 — 2026-09-06 (TASK_090)  
+> **Versión:** 2.2 — 2026-09-19 (TASK_116)
 > **Salida única:** Radar_Eventos_YYYY_MM.md  
 > **Rango temporal:** 30–60 días (horizonte rodante canónico: corte actual a +60d)
 
@@ -170,3 +170,11 @@ Antes de dar por validado un Radar mensual o semanal:
 - [ ] Ventanas Enriquecidas auditadas contra los seis criterios (A–F) de promoción.
 - [ ] Huecos reales de cobertura declarados explícitamente sin relleno artificial.
 - [ ] Cero alteraciones ex ante de semáforos, tendencias, cargas o apertura automática de EVENTOS.
+
+## Rectificación operativa — 19/09/2026 (TASK_116)
+
+Para cada ejecución, el horizonte es [fecha local del corte, fecha local del corte + 60 días], ambos extremos incluidos: 60 días transcurridos y 61 fechas de calendario. Esta convención explícita evita utilizar el domingo nominal futuro como punto de partida. Se admiten ventanas iniciadas antes del corte cuyo final no haya vencido, identificadas como en curso. Las fechas de tabla se expresan completas (AAAA-MM-DD/AAAA-MM-DD).
+
+El número de filas es resultado, no objetivo. Recuenta prioridades, vectores, IDs, doce columnas, fuentes y ventanas tras altas/bajas. Diferencia fecha confirmada ahora, calendario provisional, recurrencia oficial y fecha heredada no recontrastada. Presencia de enlace no equivale a verificación factual. No rellenes el tramo final con reuniones inventadas.
+
+En hitos consumidos, MATERIAL significa información que cambia una evaluación o una restricción, no activación automática de un evento. Conserva las resoluciones históricas y añade una rectificación si se detecta error. No llames JMMC a una reunión de un subconjunto de países OPEP+ sin respaldo específico. No des por renovadas seis mensualidades de sanciones si el acto solo prorroga días.

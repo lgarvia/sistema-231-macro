@@ -1,6 +1,6 @@
 # MAPA DE TRANSMISIONES — SISTEMA 231
 
-> **Actualizado:** 2026-09-12 — TASK_099, fase 5; topología y calibración de tesis conservadas
+> **Actualizado:** 2026-09-19 05:29 Europe/Madrid — TASK_116; topología conservada.
 
 ## Mapa activo
 
@@ -32,7 +32,7 @@
 
 - Recompras de liquidez del Tesoro, Japón y ventana TGA/repo → V01/TESIS_01; no se imputan a TESIS_05 sin evidencia tokenizada.
 - DOE y respuesta material a FERC tras la suspensión → V02/V03/TESIS_06; Eddystone queda cubierta por 202-26-40 hasta el 20-nov.
-- Contraranceles canadienses efectivos y respuesta estadounidense Section 338; siguientes hitos 15 y 29-sep → V04/V05/TESIS_02.
+- Contraranceles canadienses efectivos y respuesta estadounidense Section 338; fase 15-sep consumida; próximo hito 29-sep → V04/V05/TESIS_02.
 - Ingresos TSMC de agosto consumidos; seguimiento de AP7, Rubin/CoWoS/HBM y CAPEX → V03/V02/TESIS_06.
 - OPEP+ y EIA → V02/V04/TESIS_04.
 - Subastas JGB y flujos MOF → V01/TESIS_01.
@@ -43,4 +43,4 @@
 
 ## Estado y horizonte
 
-Carga **86,4** y tendencias según [[VECTOR_00_Indice]]. Ventanas solo en [[Radar_Eventos_2026_09]]; la lista de cruces es un mapa de seguimiento, no una afirmación de que todos tengan fila calendarizada ni un cambio de estado ex ante. La topología no cambia en W37: el aumento de 3,2 procede únicamente de la tendencia ↑ de Tariff Stack. La revisión de tesis tampoco altera enlaces causales: refuerza mecanismos parciales sin promover transmisiones secundarias a eventos o carga.
+Carga **89,6** y tendencias según [[VECTOR_00_Indice]]. Ventanas solo en [[Radar_Eventos_2026_09]]; la lista de cruces es un mapa de seguimiento, no una afirmación de que todos tengan fila calendarizada ni un cambio de estado ex ante. La topología no cambia en W38: +3,2 procede únicamente de Japón →→↑. Las sanciones UE/OFAC permanecen en V06 sin ficha nueva; repo convencional no valida TESIS_05. La implementación BoJ 24/09 se separa de la decisión consumida. [[ACTUALIZACION_SEMANAL_231_2026_09_20]].

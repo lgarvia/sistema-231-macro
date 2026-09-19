@@ -2,7 +2,8 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-ultima_revision: "2026-09-12"
+corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: "2026-09-19"
 triggers_activos: 1
 triggers_parciales: 2
 ---
@@ -16,7 +17,11 @@ triggers_parciales: 2
 - **Triggers parciales:** 2 (Trigger 01 - Primas de seguro de guerra y Trigger 02 - Tránsito de chokepoints navales)
 - **Condición de dominancia:** Activa
 - **Restricción dominante actual:** Adecuación de generación y transmisión eléctrica para atender grandes cargas, combinada con una recaída de la inseguridad física en Ormuz, Golfo de Adén y mar Rojo.
-- **Razón del semáforo:** Las órdenes federales DOE vigentes mantienen generación de respaldo en PJM y MISO; la 202-26-41 añade un episodio temporal de fiabilidad entre el 01 y el 08-sep, sin demostrar causalidad exclusiva de centros de datos. En el plano marítimo, JWLA-034 sigue vigente y la OMI eleva el balance a 75 incidentes y 22 fallecidos. La recurrencia física no demuestra por sí sola prima cuantificada, retirada de cobertura, desvío atribuible o cierre material de Ormuz.
+- **Razón del semáforo:** La Orden DOE 202-26-45 documenta tensión general de red y la OMI eleva a 80 los ataques verificados en Ormuz y sus proximidades, con al menos 22 fallecidos. JWLA-035 sustituye 034 y modifica el mar Negro. Se mantiene ↑; ni la circular fija primas ni una orden general activa el trigger CPD. La dominancia activa y los contadores del vector son estado estructural heredado, no tres activaciones nuevas.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Control físico, extracción y distribución de recursos energéticos primarios e infraestructura crítica de transporte logístico.
@@ -30,9 +35,12 @@ La energía define el suelo de costes del sistema productivo global. El control 
 **Tesis asociada:** [[TESIS_04_Multipolaridad_Logistica]]
 
 ## 3. ESTADO ESTRUCTURAL
-El centro de gravedad de la presión energética se reparte entre la capacidad de red eléctrica y la cronificación de la fricción marítima. La Orden DOE 202-26-39 obliga a MISO a mantener disponible J.H. Campbell hasta el 14-nov, la 202-26-25A mantiene Wagner hasta el 17-nov y la 202-26-40 mantiene disponibles las unidades 3 y 4 de Eddystone en PJM hasta el 20-nov. La unidad Stanton en Florida superó su plazo el 01-sep sin desestabilizar la red regional. El 14-ago, FERC concedió 90 días de suspensión a los seis expedientes EL26-67 a EL26-72: la consulta sobre tarifas e interconexión de centros de datos sigue abierta sin resoluciones mandatorias de desconexión. Las órdenes federales vigentes mantienen el Trigger 05 completo y la dominancia activa al forzar despacho fuera de mercado.
 
-En hidrocarburos y logística marítima, la circular JWLA-034 del Joint War Committee de Lloyd's continúa rigiendo las coberturas de guerra, obligando a negociaciones individuales de primas adicionales. La OMI constata la continuidad de más de 70 incidentes y 19 marinos fallecidos en el corredor Ormuz/Bab el-Mandeb, consolidando el desvío permanente del tráfico comercial por el Cabo de Buena Esperanza. La situación mantiene activos los Triggers parciales 01 y 02, sin que se hayan documentado daños estructurales en terminales (>1M bpd) o un bloqueo físico del estrecho de Ormuz que active los Triggers 03 o 04.
+La Orden DOE 202-26-45 documenta tensión general de red y la OMI eleva a 80 los ataques verificados en Ormuz y sus proximidades, con al menos 22 fallecidos. JWLA-035 sustituye 034 y modifica el mar Negro. Se mantiene ↑; ni la circular fija primas ni una orden general activa el trigger CPD. La dominancia activa y los contadores del vector son estado estructural heredado, no tres activaciones nuevas.
+
+Fuentes primarias consultadas 19/09: [doe](https://www.energy.gov/documents/doe-order-no-202-26-45) · [doe44](https://www.energy.gov/ceser/federal-power-act-section-202c-transalta-order-no-202-26-44) · [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx) · [jwc](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf).
+
+Los antecedentes conservados al final no son cotizaciones ni estados vigentes. La interpretación de régimen permanece falsable; el estado operativo se determina en §0.
 
 ## 4. MECANIZACIÓN OPERACIONAL
 ### Métricas Verificables
@@ -97,3 +105,30 @@ Revisión de consistencia con eventos y radar: se conserva el estado operativo y
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
 Presión crítica y tendencia al alza, sin cambio de dominancia. Lloyd’s continúa E1 · P4 · ↑ y Grid E0 · P4 · →. TESIS_04 permanece en soporte moderado-alto y TESIS_06 en alto: aumentan la recurrencia física y la demanda de infraestructura, pero no se completan sus nexos de coste, flujo o causalidad.
+
+## Revisión W38 — TASK_116
+
+La Orden DOE 202-26-45 documenta tensión general de red y la OMI eleva a 80 los ataques verificados en Ormuz y sus proximidades, con al menos 22 fallecidos. JWLA-035 sustituye 034 y modifica el mar Negro. Se mantiene ↑; ni la circular fija primas ni una orden general activa el trigger CPD. La dominancia activa y los contadores del vector son estado estructural heredado, no tres activaciones nuevas.
+
+[[ACTUALIZACION_SEMANAL_231_2026_09_20]] documenta fuentes, imputación primaria y límites. No se suman transmisiones secundarias a la carga.
+
+<details>
+<summary>Estado anterior sustituido — memoria de calibración W37</summary>
+
+### Estado operativo anterior
+- **Presión actual:** 🔴 Crítica
+- **Tendencia:** ↑ Acelerando
+- **Triggers completos:** 1 (Trigger 05 - Emergencia física de red eléctrica)
+- **Triggers parciales:** 2 (Trigger 01 - Primas de seguro de guerra y Trigger 02 - Tránsito de chokepoints navales)
+- **Condición de dominancia:** Activa
+- **Restricción dominante actual:** Adecuación de generación y transmisión eléctrica para atender grandes cargas, combinada con una recaída de la inseguridad física en Ormuz, Golfo de Adén y mar Rojo.
+- **Razón del semáforo:** Las órdenes federales DOE vigentes mantienen generación de respaldo en PJM y MISO; la 202-26-41 añade un episodio temporal de fiabilidad entre el 01 y el 08-sep, sin demostrar causalidad exclusiva de centros de datos. En el plano marítimo, JWLA-034 sigue vigente y la OMI eleva el balance a 75 incidentes y 22 fallecidos. La recurrencia física no demuestra por sí sola prima cuantificada, retirada de cobertura, desvío atribuible o cierre material de Ormuz.
+
+
+### Contexto estructural anterior
+El centro de gravedad de la presión energética se reparte entre la capacidad de red eléctrica y la cronificación de la fricción marítima. La Orden DOE 202-26-39 obliga a MISO a mantener disponible J.H. Campbell hasta el 14-nov, la 202-26-25A mantiene Wagner hasta el 17-nov y la 202-26-40 mantiene disponibles las unidades 3 y 4 de Eddystone en PJM hasta el 20-nov. La unidad Stanton en Florida superó su plazo el 01-sep sin desestabilizar la red regional. El 14-ago, FERC concedió 90 días de suspensión a los seis expedientes EL26-67 a EL26-72: la consulta sobre tarifas e interconexión de centros de datos sigue abierta sin resoluciones mandatorias de desconexión. Las órdenes federales vigentes mantienen el Trigger 05 completo y la dominancia activa al forzar despacho fuera de mercado.
+
+En hidrocarburos y logística marítima, la circular JWLA-034 del Joint War Committee de Lloyd's continúa rigiendo las coberturas de guerra, obligando a negociaciones individuales de primas adicionales. La OMI constata la continuidad de más de 70 incidentes y 19 marinos fallecidos en el corredor Ormuz/Bab el-Mandeb, consolidando el desvío permanente del tráfico comercial por el Cabo de Buena Esperanza. La situación mantiene activos los Triggers parciales 01 y 02, sin que se hayan documentado daños estructurales en terminales (>1M bpd) o un bloqueo físico del estrecho de Ormuz que active los Triggers 03 o 04.
+
+
+</details>
