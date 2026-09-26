@@ -7,46 +7,40 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
-ultima_revision: 2026-09-19
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: 2026-09-27
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
 ---
 
 # EVENTO: E1_2026_07_24_US_Tariff_Stack
 
-## 1. SNAPSHOT ACTUAL
-- **Estado:** E1 — En curso
-- **Nivel de presión:** ELEVADA (P4)
-- **Dirección de tendencia:** ↑ Acelerando
-- **Peso estructural:** 4
-- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
-- **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
-- **Vector primario:** [[VECTOR_04_Reconfiguracion_del_comercio_global]]
-- **Vectores secundarios:** [[VECTOR_05_Transformacion_industrial_y_demografia]], [[VECTOR_01_Arquitectura_monetaria_global]]
-- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+## 1. SNAPSHOT ACTUAL — precierre W39
 
-- El calendario de las cinco proclamaciones del 08/09 prevé cambios de productos desde el **15/09** y determinadas prohibiciones desde el **29/09**. [Casa Blanca](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/).
-- El documento **FR 2026-18839**, publicado el **14/09**, establece disposiciones efectivas desde el 15/09 a las 00:01 ET. Se verifica el acto jurídico; no se presume cobro efectivo ni volumen aduanero de cada producto. [Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf).
-- A conserva su activación jurídica heredada del 22/08 y B la de las contramedidas canadienses del 08/09. No se contabilizan de nuevo por las ventanas del 15/29.
-- El 29/09 sigue futuro. No se incorpora evidencia nueva que satisfaga dos fabricantes y >5%, dos meses de caída sectorial >15% o dos publicaciones con atribución ≥0,3 pp a bienes básicos.
+**E1 · P4 · peso 4 · ↑ (1,2) · carga 19,2 · V04.** Calibración conservada conforme a A/B; aplicación 27-sep, corte 2026-09-26 20:48 Europe/Madrid.
 
-**Decisión técnica:** Se mantiene E1 · P4 · ↑ por continuidad y ejecución jurídica escalonada. La ampliación normativa no demuestra todavía transmisión C–E a márgenes, volúmenes o precios; la activación histórica de A no se presenta como auditoría nueva del cobro.
+El [CSMS 69851916 de CBP, 11-sep](https://content.govdelivery.com/bulletins/gd/USDHSCBP-429db0c) confirma instrucciones de implementación desde 15-sep para partidas afectadas: antecedente recuperado, no nueva recaudación observada. [Canada Gazette, publicación 23-sep](https://gazette.gc.ca/rp-pr/p2/2026/2026-09-23/html/sor-dors186-eng.html) publica el acto del 8-sep; no se fecha la represalia como nueva el 23. La base canadiense de 27.600 M CAD no se expresa como dólares estadounidenses.
 
-Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+Las prohibiciones estadounidenses anunciadas para **29-sep** son futuras al corte. Las recomendaciones comerciales Xi–EE. UU. no prueban rebajas ya aplicadas. [Casa Blanca, 8-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/), consulta 26–27-sep. Se conserva E1/P4/↑ sobre la escalada jurídica vigente; no se atribuye todavía el umbral de costes, comercio o inflación a esa escalada.
+
+Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
 
 ## 2. CONDICIONES DE ACTIVACIÓN
 
-- **Trigger A — entrada efectiva canadiense:** CBP, USTR o la Casa Blanca confirma la aplicación material del 50% sobre vehículos, alcohol y lácteos canadienses en la fecha prevista, sin suspensión o acuerdo que la neutralice. **Estado al corte: ACTIVACIÓN HEREDADA 22/08, alcance jurídico. Esta revisión confirma continuidad normativa y la fase del 15/09, pero no verifica recaudación aduanera efectiva por producto. No se registra otra activación.**
-- **Trigger B — represalia bilateral:** Canadá, Brasil o la Unión Europea adopta contramedidas vinculantes que cubran conjuntamente más de 10.000 M$ de comercio anual. **Estado al corte: ACTIVO DESDE 08/09, heredado: contramedidas canadienses vinculantes sobre 27.600 M CAD. Sin doble conteo de la respuesta estadounidense.**
-- **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO. No se incorporan dos fabricantes con cuantificación comparable >5% o relocalización física atribuida.**
-- **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO. No se dispone todavía de los dos meses sectoriales comparables exigidos. El déficit agregado no sustituye el trigger.**
-- **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO. No se dispone de dos publicaciones oficiales con atribución causal ≥0,3 pp a la carga arancelaria exigida.**
+- **Trigger A — entrada efectiva canadiense:** CBP, USTR o la Casa Blanca confirma la aplicación material del 50% sobre vehículos, alcohol y lácteos canadienses en la fecha prevista, sin suspensión o acuerdo que la neutralice. **Estado al corte: PARCIAL JURÍDICO: instrucciones CBP respaldan implementación, pero no acreditan íntegramente cobro material del 50% en los tres grupos y ausencia de suspensión. No se confunde guía con recaudación.**
+- **Trigger B — represalia bilateral:** Canadá, Brasil o la Unión Europea adopta contramedidas vinculantes que cubran conjuntamente más de 10.000 M$ de comercio anual. **Estado al corte: ACTIVO HEREDADO de la represalia canadiense del 8-sep sobre base de 27.600 M CAD; publicación Gazette 23-sep no crea otra activación. Mantener unidad CAD y no duplicar con Xi.**
+- **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO COMPLETO: faltan dos fabricantes con impacto >5% y atribución causal documentada, o relocalización física conforme a la cláusula.**
+- **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO: datos agosto y septiembre previstos 6-oct y 4-nov; aún no prueban caída sectorial >15% interanual dos meses consecutivos.**
+- **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO COMPLETO: sin dos publicaciones oficiales que atribuyan ≥0,3 pp a bienes por los aranceles.**
 
 ## 3. CONTEXTO Y SEÑAL DOMINANTE
 
-Se mantiene E1 · P4 · ↑ por continuidad y ejecución jurídica escalonada. La ampliación normativa no demuestra todavía transmisión C–E a márgenes, volúmenes o precios; la activación histórica de A no se presenta como auditoría nueva del cobro.
-
-Los antecedentes anteriores conservan su fecha en el historial; el estado vivo es §1 y la evaluación de triggers es §2.
+La lectura vigente es §1 y la auditoría §2. Se conserva clase, P y tendencia aprobadas; el histórico no añade activaciones. La diferencia frente al subtotal 90,4 del piloto es +54,4: +32,4 por tres altas y +22,0 por calibrar Xi, midterms y Unitree, ya admitidos. No es una variación semanal homogénea ni demuestra empeoramiento de 54,4 puntos. Las cinco fichas base conservan P/peso/tendencia y suman 90,4. La carga es ordinal, no probabilidad ni pérdida esperada; solo se imputa una vez por vector primario.
 
 ## 4. TESIS (Luis)
 
@@ -145,5 +139,39 @@ El recargo global temporal de la Sección 122 expiró, pero la restricción come
 
 La señal dominante es regulatoria, vinculante y ya material: la Casa Blanca aplicó Section 338 a Canadá el 22/08; Canadá hizo efectivas el 08/09 contramedidas sobre 27.600 M CAD mediante la Orden P.C. 2026-0785; y Estados Unidos respondió ese mismo día con cinco proclamaciones adicionales, con hitos de ejecución el 15 y el 29/09. La secuencia —amenaza, suspensión táctica, aplicación, represalia y nueva respuesta— completa el Trigger B y justifica mantener E1 · P4 elevando la tendencia a ↑. La aceleración es jurídica y de cobertura; todavía no prueba transmisión cuantitativa a volúmenes, márgenes o inflación, por lo que C–E siguen inactivos.
 
+
+</details>
+
+<details>
+<summary>Snapshot y evaluación W38 sustituidos el 27-sep; umbrales canónicos conservados</summary>
+
+## 1. SNAPSHOT ACTUAL
+- **Estado:** E1 — En curso
+- **Nivel de presión:** ELEVADA (P4)
+- **Dirección de tendencia:** ↑ Acelerando
+- **Peso estructural:** 4
+- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
+- **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
+- **Vector primario:** [[VECTOR_04_Reconfiguracion_del_comercio_global]]
+- **Vectores secundarios:** [[VECTOR_05_Transformacion_industrial_y_demografia]], [[VECTOR_01_Arquitectura_monetaria_global]]
+- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+
+- El calendario de las cinco proclamaciones del 08/09 prevé cambios de productos desde el **15/09** y determinadas prohibiciones desde el **29/09**. [Casa Blanca](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/).
+- El documento **FR 2026-18839**, publicado el **14/09**, establece disposiciones efectivas desde el 15/09 a las 00:01 ET. Se verifica el acto jurídico; no se presume cobro efectivo ni volumen aduanero de cada producto. [Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf).
+- A conserva su activación jurídica heredada del 22/08 y B la de las contramedidas canadienses del 08/09. No se contabilizan de nuevo por las ventanas del 15/29.
+- El 29/09 sigue futuro. No se incorpora evidencia nueva que satisfaga dos fabricantes y >5%, dos meses de caída sectorial >15% o dos publicaciones con atribución ≥0,3 pp a bienes básicos.
+
+**Decisión técnica:** Se mantiene E1 · P4 · ↑ por continuidad y ejecución jurídica escalonada. La ampliación normativa no demuestra todavía transmisión C–E a márgenes, volúmenes o precios; la activación histórica de A no se presenta como auditoría nueva del cobro.
+
+Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+
+## 2. CONDICIONES DE ACTIVACIÓN
+
+- **Trigger A — entrada efectiva canadiense:** CBP, USTR o la Casa Blanca confirma la aplicación material del 50% sobre vehículos, alcohol y lácteos canadienses en la fecha prevista, sin suspensión o acuerdo que la neutralice. **Estado al corte: ACTIVACIÓN HEREDADA 22/08, alcance jurídico. Esta revisión confirma continuidad normativa y la fase del 15/09, pero no verifica recaudación aduanera efectiva por producto. No se registra otra activación.**
+- **Trigger B — represalia bilateral:** Canadá, Brasil o la Unión Europea adopta contramedidas vinculantes que cubran conjuntamente más de 10.000 M$ de comercio anual. **Estado al corte: ACTIVO DESDE 08/09, heredado: contramedidas canadienses vinculantes sobre 27.600 M CAD. Sin doble conteo de la respuesta estadounidense.**
+- **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO. No se incorporan dos fabricantes con cuantificación comparable >5% o relocalización física atribuida.**
+- **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO. No se dispone todavía de los dos meses sectoriales comparables exigidos. El déficit agregado no sustituye el trigger.**
+- **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO. No se dispone de dos publicaciones oficiales con atribución causal ≥0,3 pp a la carga arancelaria exigida.**
 
 </details>

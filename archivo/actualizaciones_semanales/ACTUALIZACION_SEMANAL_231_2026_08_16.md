@@ -26,7 +26,7 @@ Estas correcciones invalidan la anterior inferencia de recesión inmediata y la 
 | [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | Corregir y mantener | E0 · P4 · → | Normalización japonesa verificable; repatriación y estrés repo aún no demostrados. |
 | [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | Corregir y mantener | E1 · P4 · → | JWLA-034 vigente; no aparece nueva evidencia primaria que active A–D. |
 | [[Evento_E0_2026_07_08_Grid_Stress_IA]] | Actualizar y mantener | E0 · P4 · ↑ | DOE 202-26-39 prolonga la intervención hasta noviembre; no existe todavía obligación específica a CPDs que cruce trigger. |
-| [[Evento_E0_2026_07_24_US_Tariff_Stack]] | Mantener | E0 · P4 · ↑ | Section 338 sigue pendiente del hito binario del 19/08. |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | Mantener | E0 · P4 · ↑ | Section 338 sigue pendiente del hito binario del 19/08. |
 | [[Evento_E0_2026_CoWoS_Capacity]] | Reconciliar y mantener | E0 · P4 · → | Los ingresos de TSMC de julio confirman demanda, no ruptura; NVIDIA el 26/08 y TSMC el 10/09 son los siguientes cortes. |
 | [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]] | Cerrar | Cerrado | Terminó la ventana Han Kuang; vigilancia transferida a V06. |
 | [[231_Eventos_Cerrados/Evento_E0_2026_06_07_GNSS_Spoofing_Maritimo]] | Cerrar | Cerrado | Fricción persistente de fondo; sensor transferido a V02. |

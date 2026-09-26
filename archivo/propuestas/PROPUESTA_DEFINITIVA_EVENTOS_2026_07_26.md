@@ -1,6 +1,6 @@
 # Propuesta definitiva de eventos — 26/07/2026
 
-> **Estado de decisión:** validada por Front Office y ejecutada el 26/07/2026. La ficha operativa es [[Evento_E0_2026_07_24_US_Tariff_Stack]].
+> **Estado de decisión:** validada por Front Office y ejecutada el 26/07/2026. La ficha operativa es [[Evento_E1_2026_07_24_US_Tariff_Stack]].
 
 ## Alcance
 
@@ -70,7 +70,7 @@ No se modifica ninguna sección `Tesis (Luis)`.
 
 ## 4. Decisión de Front Office
 
-Front Office aprobó una sola alta: [[Evento_E0_2026_07_24_US_Tariff_Stack]]. Se mantienen los seis eventos anteriores y no se archiva, fusiona ni escala ningún otro nodo en este ciclo.
+Front Office aprobó una sola alta: [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Se mantienen los seis eventos anteriores y no se archiva, fusiona ni escala ningún otro nodo en este ciclo.
 
 ## 5. Fuentes primarias decisivas
 

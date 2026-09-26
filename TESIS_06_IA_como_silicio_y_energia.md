@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_06
 estado: vigente
 soporte: alto
-ultima_actualizacion: 2026-09-19
-corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
-corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
+ultima_actualizacion: 2026-09-27
+corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
+corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
+alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
 vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 ---
 
@@ -26,16 +26,11 @@ La tesis identifica una **restricción de cadena de conversión**: el cuello de 
 - **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
 - **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
 
-## 3. Manifestaciones observables
+## 3. Manifestaciones observables — corte 26-sep 20:48
 
-- **TSMC:** ingresos Q2 de 40,20 B$, guía Q3 de 44,6–45,8 B$ e ingresos de julio de 467.580 M NT$ (+44,7% interanual), sin retraso oficial de AP7 que active el evento CoWoS.
-- **ASML:** ventas Q2 de 9,3 B€ y beneficio neto de 2,9 B€, señal de inversión sostenida en capacidad litográfica.
-- **Micron:** 41,456 B$ de ingresos anuales, HBM4 en producción de alto volumen y HBM4E prevista para 2027.
-- **NVIDIA:** Q2 FY27 alcanzó 96,2 B$ de ingresos, 89,0 B$ en Data Center, margen bruto no-GAAP cercano al 75% y guía de 108 B$ para Q3. Rubin debería representar cerca del 20% del ingreso de Data Center de Q3; la dirección sigue calificando la oferta como cuello de botella hasta FY28.
-- **Cómputo local:** Apple introduce M6 de 2 nm en Mac mini y ofrece hasta 512 GB de memoria unificada con M5 Ultra en Mac Studio. Es una rama complementaria para inferencia y ajuste local, con coste de energía y amortización aunque no exista precio externo medido por token.
-- **Escala industrial:** Unitree asigna 4.200 M de yuanes a inversión tras su salida a bolsa y Alibaba compromete 80.000 M HK$ a IA. La señal confirma movilización de capital físico chino, pero no un bypass de litografía ni un alivio del cuello de botella de HBM/CoWoS.
-- **Red:** FERC abrió procesos sobre integración y tarifas de grandes cargas en seis RTO/ISO y el 14/08 concedió 90 días de suspensión a los seis expedientes. Es continuidad regulatoria, no una reforma tarifaria material.
-- **Emergencia física:** DOE 202-26-39 mantiene J.H. Campbell del 17/08 al 14/11, la 202-26-25A extiende Wagner del 20/08 al 17/11 y la 202-26-40 mantiene Eddystone del 23/08 al 20/11. La última cita en su contexto el crecimiento de demanda por centros de datos e IA, pero ninguna orden demuestra una emergencia causada exclusivamente por CPDs ni impone la obligación específica de cuatro horas definida por el evento.
+DOE 46–49 y la propuesta de Loudoun describen continuidad regulatoria de la restricción de red, sin cumplir automáticamente los triggers CPD. Alibaba anuncia V900 para Q1 2027; Unitree declara entregas de 2025. No se acreditan con esas fuentes producción futura, utilización ni bypass litográfico. TSMC Q3 y Micron del 30-sep son futuros al corte. [[Evento_E0_2026_07_08_Grid_Stress_IA]], [[Evento_E0_2026_CoWoS_Capacity]], [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]] y [[Evento_E0_2026_09_19_Robotica_Unitree]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
 
 ## 4. Tensiones internas
 
@@ -65,16 +60,15 @@ La tesis identifica una **restricción de cadena de conversión**: el cuello de 
 - Despliegue masivo sin restricciones de interconexión, fabricación o refrigeración.
 - Descenso sostenido del coste total por unidad de servicio de IA y mejoras de eficiencia energética que, junto con la expansión de capacidad, eviten congestión, aplazamientos y aumento de lead times a lo largo de la cadena.
 
-## 7. Calibración actual — 19/09/2026 (precierre W38)
+## 7. Calibración actual — 27/09/2026 (precierre W39)
 
-- **Soporte:** Alto; vigente.
-- **A favor:** La nueva orden DOE acredita restricciones generales de energía; TSMC y NVIDIA sostienen como antecedentes la escala material de ingresos e inversión.
-- **Contraevidencia y límites:** No se demuestra que la orden obligue a CPDs >50 MW durante ≥4 horas, ni deterioro nuevo de AP7/yields/entregas. La expansión de oferta puede aliviar la restricción.
-- **Ambigüedad causal:** Ingresos son demanda agregada; una guía es prospectiva; tensión de red no demuestra causalidad exclusiva de IA ni saturación terminal.
-- **Próxima falsación:** Contrastar Micron 30/09 y métricas directas de AP7, lead times y restricciones CPD. Capacidad suficiente, plazos menores y menores costes de despliegue debilitarían el cuello de botella.
-- **Juicio técnico:** Se mantiene alto en su formulación física, sin nueva activación de Grid o CoWoS.
+- **Soporte:** Alto; se conserva.
+- **Apoyo:** Las órdenes de red y el calendario industrial Alibaba confirman dependencia de infraestructura; C22 añade restricción financiera diferenciada.
+- **Contraevidencia:** Inversión y expansión continúan; no se acredita fallo CoWoS ni curtailment CPD conforme a triggers.
+- **Ambigüedad / límite:** Guía, producción anunciada, entrega y utilización no son equivalentes; Oracle es un emisor.
+- **Próxima falsación:** Contrastar entregas, rendimiento, utilización, electricidad y caja; capacidad disponible sin fricción material debilitaría la restricción fuerte.
 
-Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [doe](https://www.energy.gov/documents/doe-order-no-202-26-45) · [tsmc](https://pr.cld.tsmc.com/english/news/3340) · [nv](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx) · [micron](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx)
+Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
 
 ## 8. Fuentes de seguimiento
 
@@ -126,3 +120,38 @@ Se mantiene alto en su formulación física, sin nueva activación de Grid o CoW
 
 
 </details>
+
+<details>
+<summary>Calibración W38 sustituida por §7; preservada</summary>
+
+## 7. Calibración actual — 19/09/2026 (precierre W38)
+
+- **Soporte:** Alto; vigente.
+- **A favor:** La nueva orden DOE acredita restricciones generales de energía; TSMC y NVIDIA sostienen como antecedentes la escala material de ingresos e inversión.
+- **Contraevidencia y límites:** No se demuestra que la orden obligue a CPDs >50 MW durante ≥4 horas, ni deterioro nuevo de AP7/yields/entregas. La expansión de oferta puede aliviar la restricción.
+- **Ambigüedad causal:** Ingresos son demanda agregada; una guía es prospectiva; tensión de red no demuestra causalidad exclusiva de IA ni saturación terminal.
+- **Próxima falsación:** Contrastar Micron 30/09 y métricas directas de AP7, lead times y restricciones CPD. Capacidad suficiente, plazos menores y menores costes de despliegue debilitarían el cuello de botella.
+- **Juicio técnico:** Se mantiene alto en su formulación física, sin nueva activación de Grid o CoWoS.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [doe](https://www.energy.gov/documents/doe-order-no-202-26-45) · [tsmc](https://pr.cld.tsmc.com/english/news/3340) · [nv](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx) · [micron](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx)
+
+</details>
+
+<details>
+<summary>Manifestaciones anteriores sustituidas; no reutilizar cifras sin contraste primario</summary>
+
+## 3. Manifestaciones observables
+
+- **TSMC:** ingresos Q2 de 40,20 B$, guía Q3 de 44,6–45,8 B$ e ingresos de julio de 467.580 M NT$ (+44,7% interanual), sin retraso oficial de AP7 que active el evento CoWoS.
+- **ASML:** ventas Q2 de 9,3 B€ y beneficio neto de 2,9 B€, señal de inversión sostenida en capacidad litográfica.
+- **Micron:** 41,456 B$ de ingresos anuales, HBM4 en producción de alto volumen y HBM4E prevista para 2027.
+- **NVIDIA:** Q2 FY27 alcanzó 96,2 B$ de ingresos, 89,0 B$ en Data Center, margen bruto no-GAAP cercano al 75% y guía de 108 B$ para Q3. Rubin debería representar cerca del 20% del ingreso de Data Center de Q3; la dirección sigue calificando la oferta como cuello de botella hasta FY28.
+- **Cómputo local:** Apple introduce M6 de 2 nm en Mac mini y ofrece hasta 512 GB de memoria unificada con M5 Ultra en Mac Studio. Es una rama complementaria para inferencia y ajuste local, con coste de energía y amortización aunque no exista precio externo medido por token.
+- **Escala industrial:** Unitree asigna 4.200 M de yuanes a inversión tras su salida a bolsa y Alibaba compromete 80.000 M HK$ a IA. La señal confirma movilización de capital físico chino, pero no un bypass de litografía ni un alivio del cuello de botella de HBM/CoWoS.
+- **Red:** FERC abrió procesos sobre integración y tarifas de grandes cargas en seis RTO/ISO y el 14/08 concedió 90 días de suspensión a los seis expedientes. Es continuidad regulatoria, no una reforma tarifaria material.
+- **Emergencia física:** DOE 202-26-39 mantiene J.H. Campbell del 17/08 al 14/11, la 202-26-25A extiende Wagner del 20/08 al 17/11 y la 202-26-40 mantiene Eddystone del 23/08 al 20/11. La última cita en su contexto el crecimiento de demanda por centros de datos e IA, pero ninguna orden demuestra una emergencia causada exclusivamente por CPDs ni impone la obligación específica de cuatro horas definida por el evento.
+
+</details>
+
+
+**Rectificación de alcance, 27-sep:** las menciones anteriores a ingresos anuales Micron, equipos Apple y capital Unitree/Alibaba no se incorporan al soporte factual W39: faltan periodo/documento primario recontrastados. El plan de capital Unitree de fuente secundaria no prueba desembolso ni capacidad instalada. La próxima publicación Micron permanece futura al corte.

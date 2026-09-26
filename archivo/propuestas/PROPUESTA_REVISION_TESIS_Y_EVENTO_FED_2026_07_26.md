@@ -5,7 +5,7 @@
 
 ## Alcance y decisión ejecutiva
 
-Esta nota revisó la arquitectura de eventos y las seis tesis después del alta de [[Evento_E0_2026_07_24_US_Tariff_Stack]]. Front Office aprobó la propuesta y autorizó su aplicación a `TESIS_*`, al índice y a la sección `Tesis (Luis)` del nuevo evento.
+Esta nota revisó la arquitectura de eventos y las seis tesis después del alta de [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Front Office aprobó la propuesta y autorizó su aplicación a `TESIS_*`, al índice y a la sección `Tesis (Luis)` del nuevo evento.
 
 La conclusión operativa sobre la reunión de la Reserva Federal del 28–29 de julio es:
 
@@ -57,7 +57,7 @@ Si el FOMC mantiene 3,50%–3,75%, el voto sigue siendo unánime o casi unánime
 
 ### Cubierto con el nuevo evento
 
-- **V04 ya no carece de evento primario.** [[Evento_E0_2026_07_24_US_Tariff_Stack]] conserva la sustitución de Section 122 por instrumentos Section 301 / 338 y separa el hecho jurídico de su transmisión posterior.
+- **V04 ya no carece de evento primario.** [[Evento_E1_2026_07_24_US_Tariff_Stack]] conserva la sustitución de Section 122 por instrumentos Section 301 / 338 y separa el hecho jurídico de su transmisión posterior.
 - La cadena `V04 → V05 → V01` ya está incorporada a [[MAPA_TRANSMISIONES]].
 
 ### Huecos todavía abiertos
@@ -79,7 +79,7 @@ No se recomienda crear una séptima tesis. La novedad principal —choques físi
 | Tesis | Revisión propuesta | Soporte propuesto | Prioridad |
 |:---|:---|:---:|:---:|
 | **TESIS_01 — Dominancia Fiscal** | Mantener vigente. Añadir una condición de no-validación: deuda alta, inflación de oferta o endurecimiento crediticio por sí solos no prueban dominancia. Exigir evidencia de subordinación monetaria a subastas, coste fiscal, balance o estabilidad financiera. Recalibrar después del FOMC y del QRA. | Moderado | Alta, después de FED/QRA |
-| **TESIS_02 — Frictionless Stabilization** | Incorporar [[Evento_E0_2026_07_24_US_Tariff_Stack]] como sensor central. Reformular la idea como “coerción modular sin ruptura total”: expira un instrumento, lo sustituyen otros, mientras el flujo comercial se reconfigura en lugar de desaparecer. Mantener el nombre, pero añadir subtítulo español claro. | Alto | Muy alta |
+| **TESIS_02 — Frictionless Stabilization** | Incorporar [[Evento_E1_2026_07_24_US_Tariff_Stack]] como sensor central. Reformular la idea como “coerción modular sin ruptura total”: expira un instrumento, lo sustituyen otros, mientras el flujo comercial se reconfigura en lugar de desaparecer. Mantener el nombre, pero añadir subtítulo español claro. | Alto | Muy alta |
 | **TESIS_03 — Captura de Renta** | Separar tres capas: vivienda/demografía, flujo contributivo y mecanismo fiscal de captura. La afiliación de julio es contrapeso factual y no permite inferir por sí sola el saldo contributivo. Bajar el soporte agregado hasta disponer de liquidación comparable de cotizaciones, pensiones y distribución por edad/renta. | Moderado-alto | Media |
 | **TESIS_04 — Multipolaridad Logística** | Eliminar “en descompresión”. Integrar la reescalada de [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y mantener separados tres niveles: incidente, encarecimiento asegurador y desvío físico. | Moderado-alto | Muy alta |
 | **TESIS_05 — Tokenización del Colateral** | Mantener en validación. No elevar soporte sin sensores directos. Crear un cuadro específico de stablecoins/T-bills/liquidación tokenizada/depósitos/regulación y definir umbrales antes de proponer un evento. | Moderado | Media-alta |
@@ -123,4 +123,4 @@ Los cambios fueron **validados por Front Office y ejecutados en TASK_044**:
 2. TESIS_04 elimina “en descompresión”, integra la reescalada marítima y sube a moderado-alto.
 3. TESIS_06 convierte DOE 202-26-35 en hecho ya expirado, retira Alphabet/Intel y adopta el cuello de botella móvil.
 4. TESIS_01 añade una puerta estricta de no-validación; TESIS_03 baja a moderado-alto; TESIS_05 incorpora cinco sensores dedicados.
-5. [[TESIS_00_Indice]], [[SALUD_DEL_SISTEMA]], [[00_AGENT_SNAPSHOT]] y [[Evento_E0_2026_07_24_US_Tariff_Stack]] quedan sincronizados.
+5. [[TESIS_00_Indice]], [[SALUD_DEL_SISTEMA]], [[00_AGENT_SNAPSHOT]] y [[Evento_E1_2026_07_24_US_Tariff_Stack]] quedan sincronizados.

@@ -1,6 +1,6 @@
 # PROMPT CANÓNICO — RADAR DE EVENTOS 231
 
-> **Versión:** 2.2 — 2026-09-19 (TASK_116)
+> **Versión:** 2.3 — 2026-09-26 (TASK_147; selección humana)
 > **Salida única:** Radar_Eventos_YYYY_MM.md  
 > **Rango temporal:** 30–60 días (horizonte rodante canónico: corte actual a +60d)
 
@@ -11,6 +11,8 @@
 El Sistema 231 distingue cuatro tipos de contenido, definidos en [[Prompt_Actualizacion_Eventos]]: **VECTOR** (fuerza), **TESIS** (hipótesis), **EVENTO** (evidencia y memoria) y **VENTANA/CATALIZADOR** (horizonte futuro). El **RADAR** es la superficie que almacena las ventanas; no constituye una quinta capa ni una segunda fuente de estados.
 
 El Radar detecta, fecha y preclasifica; **NO** abre eventos, **NO** altera estados de vectores y **NO** valida tesis por sí mismo.
+
+En toda actualización del Sistema 231 rige [[Prompt_Actualizacion_Eventos#2.1. Intervención humana obligatoria]]: primero decisión de Luis sobre pesos, después selección amplia de eventos y calibración de altas. El radar aporta candidatos y evidencia a esa decisión; nunca sustituye la autorización humana. Si se invoca este prompt por separado, las propuestas que alteren inventario o calibración se remiten al mismo procedimiento; el mantenimiento factual de fechas y resoluciones no exige repetir decisiones ya dadas.
 
 ---
 
@@ -29,7 +31,7 @@ Ningún hito calendarizado o ventana en el Radar puede:
 - Validar o refutar una tesis ex ante.
 - Abrir automáticamente una ficha de EVENTO.
 
-Cualquier cambio en el sistema exige la **resolución efectiva del hito** y la **verificación forense del dato primario**.
+Todo cambio material atribuido al resultado de un hito exige su **resolución efectiva** y la **verificación forense del dato primario**. Luis puede autorizar seguimiento prospectivo E0 o en un observatorio antes de esa resolución, conforme al prompt de actualización: esa decisión no prueba materialización, no activa triggers y no convierte fechas secundarias en confirmadas. Cualquier carga requiere calibración explícita, separada de la mera admisión al seguimiento.
 
 Reglas de blindaje forense:
 - **Respeto estricto del corte temporal:** Un hito fechado en el mismo día del corte que a las 00:00 no cuente con resolución oficial publicada debe permanecer como hito pendiente de resolución; queda prohibido incorporarlo a ejecutados mediante datos intradía posteriores al corte.
@@ -63,6 +65,12 @@ Queda prohibida la incorporación mecánica de:
 - Mecanismo de transmisión material plausible hacia las restricciones del Sistema 231.
 - Sin cuotas artificiales por vector: si un vector no presenta hitos en 30–60 días, se declara `HUECO REAL DE COBERTURA` sin inventar eventos.
 - Exclusión total de rumores, filtraciones o declaraciones retóricas sin acto normativo o físico.
+
+### 3.4. Exploración amplia para la decisión de Luis
+
+Los criterios anteriores regulan la admisión en la tabla calendarizada, no un filtro invisible de la lista que se presenta a Luis. Explora los seis vectores y muestra también candidatos que recomendarías descartar, integrar o mantener en observación, explicando fuente, mecanismo, incertidumbre y qué dato falta. Distingue señal de investigación de hecho verificado. Conserva identificadores estables y no interpretes falta de selección como descarte definitivo. No hay cuota de candidatos ni de filas.
+
+Presenta las alternativas en la propuesta de selección del prompt de actualización; no crees una segunda tabla futura, carpeta o base canónica. Si una opción elegida carece de fecha primaria o no supera el test del radar, registra esa limitación y encáuzala al seguimiento autorizado que corresponda. No inventes fecha ni respaldo oficial para colocarla en el calendario. Una resolución MATERIAL genera una propuesta de revisión de eventos; su apertura, cierre, absorción o reclasificación requiere la decisión de Luis.
 
 ---
 
@@ -126,6 +134,7 @@ Campos de un Observatorio:
 - Variable física / financiera monitoreada.
 - Fuentes primarias continuas (boletines, registros marítimos, despachos de carga, etc.).
 - Umbral de fricción o condición de activación para apertura de Evento o promoción al Radar con fecha oficial.
+- Indicadores con unidades, periodos y fuentes, y registro fechado de pequeñas señales relevantes en el vector correspondiente. Enlace desde el radar sin duplicar el registro. La condición de apertura genera una propuesta para Luis, no un alta automática ni vigilancia continua.
 
 ---
 
@@ -170,6 +179,7 @@ Antes de dar por validado un Radar mensual o semanal:
 - [ ] Ventanas Enriquecidas auditadas contra los seis criterios (A–F) de promoción.
 - [ ] Huecos reales de cobertura declarados explícitamente sin relleno artificial.
 - [ ] Cero alteraciones ex ante de semáforos, tendencias, cargas o apertura automática de EVENTOS.
+- [ ] Propuestas de eventos remitidas a selección humana con descartes razonados visibles; decisiones aplicadas trazables a Luis. Seguimiento prospectivo distinguido de materialización y de calibración.
 
 ## Rectificación operativa — 19/09/2026 (TASK_116)
 

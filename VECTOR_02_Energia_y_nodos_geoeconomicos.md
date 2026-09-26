@@ -2,26 +2,40 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
-ultima_revision: "2026-09-19"
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-09-27
 triggers_activos: 1
 triggers_parciales: 2
+alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
 ---
 
 # 📝 Energía y nodos geoeconómicos
 
-## 0. ESTADO OPERATIVO
-- **Presión actual:** 🔴 Crítica
-- **Tendencia:** ↑ Acelerando
-- **Triggers completos:** 1 (Trigger 05 - Emergencia física de red eléctrica)
-- **Triggers parciales:** 2 (Trigger 01 - Primas de seguro de guerra y Trigger 02 - Tránsito de chokepoints navales)
-- **Condición de dominancia:** Activa
-- **Restricción dominante actual:** Adecuación de generación y transmisión eléctrica para atender grandes cargas, combinada con una recaída de la inseguridad física en Ormuz, Golfo de Adén y mar Rojo.
-- **Razón del semáforo:** La Orden DOE 202-26-45 documenta tensión general de red y la OMI eleva a 80 los ataques verificados en Ormuz y sus proximidades, con al menos 22 fallecidos. JWLA-035 sustituye 034 y modifica el mar Negro. Se mantiene ↑; ni la circular fija primas ni una orden general activa el trigger CPD. La dominancia activa y los contadores del vector son estado estructural heredado, no tres activaciones nuevas.
+## 0. ESTADO OPERATIVO — precierre W39
 
+**🔴 Crítica · ↑ · carga primaria 47,2.** Semáforo conservado; no nueva activación por ampliar inventario. Corte 2026-09-26 20:48 Europe/Madrid; revisión aplicada 27-sep.
 
-- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
-- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+DOE: las órdenes **202-26-46 (Schahfer 17/18, MISO)** y **47 (Culley 2, MISO)** se emitieron el 18-sep y rigen 20-sep–18-dic. La **48 (Duke)** rigió 18–21-sep y contempla respaldo antes/durante EEA3; autorización no acredita despacho efectivo ni obligación CPD >50 MW durante ≥4 horas. La **49 (Craig 1, SPP)** se publicó 25-sep y empieza **27-sep**, todavía futura al corte.
+
+Loudoun: decisión de 15-sep para considerar una resolución el **20-oct**, noticia publicada 17-sep y actualizada 24-sep. La pausa legislativa propuesta no es una moratoria energética ya adoptada ni afecta automáticamente solicitudes administrativas. La Comisión Europea propuso el 21-sep un sistema de clasificación de centros de datos >500 kW sujeto a control institucional; no es sanción por WUE sectorial >0,5 L/kWh.
+
+Fuentes consultadas 27-sep: [DOE46](https://www.energy.gov/documents/doe-order-no-202-26-46), [DOE47](https://www.energy.gov/documents/doe-order-no-202-26-47), [DOE48](https://www.energy.gov/documents/doe-order-no-202-26-48), [DOE49](https://www.energy.gov/documents/doe-order-no-202-26-49), [Loudoun](https://www.loudoun.gov/m/newsflash/home/detail/10874), [Comisión, 21-sep](https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en). Se conserva P4/→: restricción general persistente, sin acreditar el impedimento específico exigido por A–F.
+
+OMI al **24-sep**: **85 incidentes confirmados y 24 marinos fallecidos**, frente a 80/22 en la base anterior al 16-sep. El incremento acumulado +5/+2 no significa que todos ocurrieran en esta semana. La relación incluye daños a AL MARYAH y LR STEPHANIE el 21-sep y CAPE DAO el 23-sep; no documenta por sí sola hundimiento de VLCC/GNL ni cierre de Ormuz >5 Mb/d durante >48 h.
+
+La circular vigente recuperada sigue siendo JWLA-035. JWC delimita áreas; no fija una prima universal. No se han obtenido las dos cotizaciones independientes exigidas por A. Fuentes consultadas 27-sep: [OMI, relación de incidentes](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx), [LMA/JWC](https://lmalloyds.com/specialist_area/marine/). Se conserva E1/P4/↑ por recurrencia física; la intensidad económica queda incompletamente medida.
+
+Gas incorpora carga 12,0; la instantánea GIE no acredita restricción física.
+
+### Auditoría de triggers propios
+
+- 01 — PARCIAL HEREDADO; NO VERIFICABLE cuantitativamente en W39: falta prima comparable >0,5% del casco por tránsito.
+- 02 — PARCIAL HEREDADO; NO VERIFICABLE cuantitativamente: recuento OMI no mide caída de tránsito energético >20% en media móvil de 14 días.
+- 03 — NO VERIFICABLE: incidentes no acreditan daño en terminales con reducción global >1 Mb/d.
+- 04 — NO VERIFICABLE: sin serie de desvío >30% del volumen nominal.
+- 05 — ACTIVO ESTRUCTURAL HEREDADO: órdenes 202(c) preservan generación fuera del régimen ordinario y autorizan respaldo. Las nuevas órdenes confirman continuidad institucional; no prueban despacho realizado ni activan el trigger C del evento Grid.
+
+Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Control físico, extracción y distribución de recursos energéticos primarios e infraestructura crítica de transporte logístico.
@@ -29,7 +43,7 @@ triggers_parciales: 2
 - **Chokepoints:** Estrechos de tránsito estratégico (Ormuz, Malaca, Bab el-Mandeb), canales transoceánicos (Suez, Panamá) e infraestructuras de regasificación.
 - **Transmisión:** Impacta en V01 (inflación de oferta y tipos de interés) y V05 (costes basales de producción industrial).
 
-## 2. TESIS INTERPRETATIVA
+## 2. TESIS INTERPRETATIVA — base anterior; lectura W39 en §0
 La energía define el suelo de costes del sistema productivo global. El control físico de los chokepoints logísticos y la capacidad de extracción de barriles/gas suplantan la capacidad de los bancos centrales para contener la inflación mediante variables nominales. La dependencia del GNL eleva la vulnerabilidad sistémica al sustituir la seguridad de los gasoductos por la volatilidad de la fricción oceánica y el arbitraje de fletes.
 
 **Tesis asociada:** [[TESIS_04_Multipolaridad_Logistica]]
@@ -130,5 +144,34 @@ El centro de gravedad de la presión energética se reparte entre la capacidad d
 
 En hidrocarburos y logística marítima, la circular JWLA-034 del Joint War Committee de Lloyd's continúa rigiendo las coberturas de guerra, obligando a negociaciones individuales de primas adicionales. La OMI constata la continuidad de más de 70 incidentes y 19 marinos fallecidos en el corredor Ormuz/Bab el-Mandeb, consolidando el desvío permanente del tráfico comercial por el Cabo de Buena Esperanza. La situación mantiene activos los Triggers parciales 01 y 02, sin que se hayan documentado daños estructurales en terminales (>1M bpd) o un bloqueo físico del estrecho de Ormuz que active los Triggers 03 o 04.
 
+
+</details>
+
+
+
+<details>
+<summary>Adenda inicial sustituida; calibración final y carga vigentes en §0</summary>
+
+## Adenda inicial de inventario — 27/09/2026, sustituida por cierre W39 en §0
+
+Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibración pendiente. ND no es cero: la carga de este vector sigue siendo parcial. Evidencia y condiciones de revisión en la ficha; sin nuevo trigger estructural ni cambio automático de semáforo/tesis por añadirla. Corte de nueva evidencia 26-sep 20:48; el histórico conserva sus fechas.
+
+</details>
+
+<details>
+<summary>Estado operativo W38 sustituido; conservado como antecedente</summary>
+
+## 0. ESTADO OPERATIVO
+- **Presión actual:** 🔴 Crítica
+- **Tendencia:** ↑ Acelerando
+- **Triggers completos:** 1 (Trigger 05 - Emergencia física de red eléctrica)
+- **Triggers parciales:** 2 (Trigger 01 - Primas de seguro de guerra y Trigger 02 - Tránsito de chokepoints navales)
+- **Condición de dominancia:** Activa
+- **Restricción dominante actual:** Adecuación de generación y transmisión eléctrica para atender grandes cargas, combinada con una recaída de la inseguridad física en Ormuz, Golfo de Adén y mar Rojo.
+- **Razón del semáforo:** La Orden DOE 202-26-45 documenta tensión general de red y la OMI eleva a 80 los ataques verificados en Ormuz y sus proximidades, con al menos 22 fallecidos. JWLA-035 sustituye 034 y modifica el mar Negro. Se mantiene ↑; ni la circular fija primas ni una orden general activa el trigger CPD. La dominancia activa y los contadores del vector son estado estructural heredado, no tres activaciones nuevas.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>

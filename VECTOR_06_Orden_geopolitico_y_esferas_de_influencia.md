@@ -2,26 +2,29 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
-ultima_revision: "2026-09-19"
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-09-27
 triggers_activos: 0
 triggers_parciales: 1
+alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
 ---
 
 # 📝 Orden geopolítico y esferas de influencia
 
-## 0. ESTADO OPERATIVO
-- **Presión actual:** 🟡 MODERADA
-- **Tendencia:** → Estable
-- **Triggers completos:** Ninguno
-- **Triggers parciales:** 1 (Trigger 02 - Aceleración del esfuerzo de defensa aliado)
-- **Condición de dominancia:** No activa
-- **Restricción dominante actual:** Preservación de la disuasión militar en teatros calientes (Oriente Medio y Taiwán), consolidación del régimen de sanciones cruzadas y rearme presupuestario estructural.
-- **Razón del semáforo:** La Decisión (PESC) 2026/2103 prorroga las medidas individuales UE-Rusia solo hasta el 22/09. OFAC anuncia medidas bancarias el 14/09 y contra intermediarios cripto el 17/09. Son actos institucionales observados; las conductas atribuidas por Tesoro se registran como alegaciones oficiales. No acreditan confiscación de reservas, bypass financiero masivo ni conflicto interestatal directo; continúa →, sin evento primario nuevo.
+## 0. ESTADO OPERATIVO — precierre W39
 
+**🟡 Moderada · → · carga primaria 16,0.** Semáforo conservado; no nueva activación por ampliar inventario. Corte 2026-09-26 20:48 Europe/Madrid; revisión aplicada 27-sep.
 
-- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
-- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+Xi visitó EE. UU. el 24-sep, confirmado por publicaciones oficiales del 25-sep. Se observan compromisos institucionales; las recomendaciones para 30.000 M$ de bienes en cada dirección no son flujos realizados. La prórroga UE del 22-sep corresponde a listados individuales hasta 22-sep-2029, no a todo régimen de sanciones. Midterms permanece futuro el 3-nov según FEC. Carga V06 16,0 (Xi8 + midterms8); sin doble cómputo arancelario.
+
+### Auditoría de triggers propios
+
+- 01 — NO VERIFICABLE: sin liquidación no hegemónica en plataformas alternativas >100 B$ mensuales sostenidos.
+- 02 — PARCIAL HEREDADO; NO VERIFICABLE W39: falta comparación de dos presupuestos consecutivos con aumento >15% anual; no se vuelve a certificar la base antigua.
+- 03 — NO ACREDITADO NUEVO: sin concesión/uso militar nuevo de base dual soberana en estrecho estratégico recuperado.
+- 04 — NO ACREDITADO: prórroga de listados individuales UE no acredita congelación de >50 B$ de banco central extranjero en un decreto.
+
+Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Sustitución de la gobernanza multilateral y del derecho internacional clásico por el establecimiento pragmático de esferas de control asimétrico, disuasión militar y "hechos consumados" de control físico y logístico.
@@ -29,7 +32,7 @@ triggers_parciales: 1
 - **Chokepoints:** Infraestructuras operativas de pago transfronterizo alternativos, capacidad de veto del Consejo de Seguridad, y control estratégico de infraestructura de satélites orbitales.
 - **Transmisión:** Impacta primariamente en V04 (quiebre del marco de garantías comerciales) y V02 (disrupción física de zonas marítimas exclusivas y de extracción energética).
 
-## 2. TESIS INTERPRETATIVA
+## 2. TESIS INTERPRETATIVA — base anterior; lectura W39 en §0
 El poder real bascula desde la mediación diplomática hacia el control físico de la logística militar y el rearme preventivo. Las instituciones multilaterales clásicas quedan vaciadas de capacidad coactiva al emerger potencias que asumen el aislamiento mediante la construcción de redes inmunes e independientes (banca y tecnología de doble uso). Los conflictos operan bajo el umbral de disuasión total, priorizando el desgaste financiero, la ocupación táctica de recursos y las operaciones de guerra híbrida.
 
 **Tesis asociada:** [[TESIS_01_Dominancia_Fiscal]] / [[TESIS_02_Frictionless_Stabilization]] / [[TESIS_04_Multipolaridad_Logistica]]
@@ -70,6 +73,9 @@ Los antecedentes conservados al final no son cotizaciones ni estados vigentes. L
 - **Exclusión:** Tensiones arancelarias motivadas puramente por intereses corporativos y lobby interno sin un componente bélico-soberano de fondo.
 
 ## 7. EVENTOS ASOCIADOS
+- [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]: C1, E0 futuro; fecha 24/09 anunciada por fuente secundaria y confirmación primaria pendiente.
+- [[Evento_E0_2026_11_03_Midterms_EEUU]]: C2, E0 futuro; elección 03/11 confirmada por FEC.
+- **Decisión humana 19/09, TASK_118:** ambas altas amplían seguimiento; presión/peso/tendencia pendientes, sin carga calculada ni cambio automático del semáforo estructural.
 - [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]]: memoria de la ventana Han Kuang; observatorio de zona gris activo en V06.
 - [[20 Académico/23 MOC/231 Eventos/archivo/Evento_E1_2026_07_07_NATO_Ankara_Summit]] (07/07/2026): La Cumbre de Ankara oficializa el gasto conjunto de defensa del 4% y planes masivos de aprovisionamiento de armamento.
 - [[Evento_E0_2026_06_15_G7_Evian_Summit]] (15/06/2026): Cumbre anual centrada en la coordinación de sanciones de bloques, gasto militar híbrido y blindaje de las cadenas de suministro de doble uso.
@@ -126,5 +132,23 @@ En Taiwán, la ventana oficial de Han Kuang 42 permanece cerrada; los despliegue
 
 La fricción marítima en el corredor de Oriente Medio continúa contabilizada primariamente en V02 por su impacto físico y asegurador. La condena judicial de Evergrande en China refleja capacidad coercitiva doméstica sin implicaciones de expansión exterior. La atención institucional del vector se desplaza hacia la Asamblea General de la ONU (UNGA 81) y la prevista Cumbre bilateral Xi Jinping – EEUU a finales de septiembre como horizontes de vigilancia sin impacto métrico ex ante.
 
+
+</details>
+
+<details>
+<summary>Estado operativo W38 sustituido; conservado como antecedente</summary>
+
+## 0. ESTADO OPERATIVO
+- **Presión actual:** 🟡 MODERADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** 1 (Trigger 02 - Aceleración del esfuerzo de defensa aliado)
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Preservación de la disuasión militar en teatros calientes (Oriente Medio y Taiwán), consolidación del régimen de sanciones cruzadas y rearme presupuestario estructural.
+- **Razón del semáforo:** La Decisión (PESC) 2026/2103 prorroga las medidas individuales UE-Rusia solo hasta el 22/09. OFAC anuncia medidas bancarias el 14/09 y contra intermediarios cripto el 17/09. Son actos institucionales observados; las conductas atribuidas por Tesoro se registran como alegaciones oficiales. No acreditan confiscación de reservas, bypass financiero masivo ni conflicto interestatal directo; continúa →, sin evento primario nuevo.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>

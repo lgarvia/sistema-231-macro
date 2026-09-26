@@ -1,7 +1,8 @@
 # PROMPT CANÓNICO — ACTUALIZACIÓN DEL SISTEMA 231
 
-> **Versión:** 0.6 — 2026-09-19 (TASK_116)
+> **Versión:** 0.7 — 2026-09-26 (TASK_147; intervención humana probada en TASK_118)
 > **Frecuencia recomendada:** semanal y tras un trigger crítico
+> **Activación:** toda petición de actualizar, revisar o calibrar el Sistema 231, también dentro del ritual semanal, ejecuta las decisiones humanas de §2.1 antes de aplicar cambios de calibración o inventario.
 
 ## 1. Ontología en Cuatro Niveles
 
@@ -16,7 +17,25 @@ El Sistema 231 distingue formal y operativamente cuatro capas epistemológicas:
 
 ## 2. Flujo Canónico de Actualización
 
-**FUENTES/HECHOS PRIMARIOS → EVENTOS Y VECTORES → CARGA PRIMARIA → TESIS → RADAR (VENTANAS) → SUPERFICIES Y COMM**
+**FUENTES Y EXPLORACIÓN DE LOS SEIS VECTORES → DIAGNÓSTICO Y PROPUESTAS → LUIS: PESOS → LUIS: SELECCIÓN DE EVENTOS Y CALIBRACIÓN DE ALTAS → APLICACIÓN AUTORIZADA → CARGA PRIMARIA → TESIS → RADAR (VENTANAS) → SUPERFICIES Y COMM**
+
+### 2.1. Intervención humana obligatoria
+
+Pedir «actualiza el sistema» autoriza preparar la revisión y sus propuestas; no autoriza por sí solo a decidir pesos ni a abrir, cerrar, fusionar, absorber o reclasificar eventos. El agente investiga, contrasta y recomienda; Luis decide. Estas fases rigen también cuando otro prompt o ritual invoque este procedimiento. El inventario se lee de las fichas vigentes, nunca de un número fijo heredado.
+
+**Preparación técnica.** Lee las decisiones anteriores y los pendientes de COMM. Revisa el corpus propio relevante como orientación y contrasta por separado sus cifras. Explora los seis vectores, incluidos los que no tienen eventos; cero fichas no implica ausencia de riesgo. Prepara evidencia, evaluación de triggers y propuestas completas antes de pedir una decisión. Puedes continuar la investigación independiente durante la espera; no apliques ni publiques las decisiones pendientes ni sus efectos derivados. Registra la tarea y las propuestas/decisiones en COMM; no crees una carpeta o base paralela de candidatos.
+
+**Decisión A — pesos de los eventos vigentes.** Presenta primero una tabla con evento, vector primario, peso vigente, peso propuesto, justificación por alcance y transmisión, y efecto atribuible al cambio. El peso representa importancia estructural en escala ordinal 1–5; no es presión actual, tendencia, probabilidad ni confianza, y no se presume calibrado empíricamente. Separa de él las propuestas de presión y tendencia. Si muestras una simulación aislada de pesos, indica qué parámetros mantienes constantes y que no representa aún el nuevo corte factual. Solicita la decisión de Luis sobre los cambios y espera su respuesta antes de aplicar o pasar a la selección. Si propones conservar todos los pesos, somete el conjunto a validación; una decisión ya expresada por Luis para esta revisión satisface este paso y no se vuelve a pedir.
+
+**Decisión B — selección amplia de eventos.** Tras resolver A, presenta candidatos con identificadores estables, incluyendo opciones que el agente recomendaría descartar o integrar. No ocultes esas opciones mediante filtros previos; explica su debilidad. No existe cuota de candidatos ni obligación de repetir 32. Recupera los candidatos anteriores no seleccionados cuando sigan siendo relevantes: falta de selección no equivale a descarte definitivo. Incluye las propuestas sobre eventos vigentes: mantener, cerrar, fusionar, absorber o reclasificar.
+
+La tabla de selección debe distinguir: ID, asunto, vector, hecho o señal y fuente, mecanismo de transmisión, incertidumbre/dato pendiente, sensor o condición de falsación, recomendación razonada y decisión pendiente de Luis. Las salidas posibles son evento E0/E1 cuando corresponda, seguimiento E0 en observación autorizado, observatorio integrado en un vector, hito del radar si cumple su contrato, integración en otra ficha, aplazamiento o descarte. Un candidato puede ser una señal prospectiva: no se presenta como shock consumado ni como trigger activado. Pregunta qué opciones autoriza Luis, cuáles quiere recuperar y cuáles descarta; espera la respuesta antes de cambiar el inventario. Los descartes del agente son recomendaciones revisables, no decisiones humanas.
+
+**Calibración de altas y aplicación.** Para las altas seleccionadas presenta clase, presión, peso, tendencia y vector primario propuestos, con justificación y efecto en la carga. Puedes incluir esta propuesta en la tabla B para que Luis seleccione y calibre en una sola respuesta; si no quedó resuelta, solicita únicamente los parámetros pendientes. Somete también las recalibraciones propuestas de presión/tendencia de eventos vigentes en la revisión, sin confundirlas con los pesos de A. Una selección no aprueba implícitamente cifras que no se le hayan presentado. Si Luis autoriza incorporar una ficha con calibración pendiente, consigna ND: no es cero y no permite declarar una carga total completa. La autorización de seguimiento prospectivo no acredita la ocurrencia futura, la fecha primaria ni una activación material; esas limitaciones permanecen visibles.
+
+**Observatorios y pequeñas señales.** Cuando Luis elija seguimiento industrial u otro observatorio, intégralo en el vector existente y enlázalo desde el radar. Define unidades, periodos, indicadores y fuentes; registra pequeños acontecimientos relevantes sin convertir cada señal en una nueva ficha. Distingue inversión anunciada, capacidad, producción, entregas, ventas y uso productivo efectivo cuando corresponda. La revisión semanal no implica vigilancia continua.
+
+**Continuidad y cierre.** Conserva las decisiones explícitas de Luis durante la sesión y aplícalas dentro de su alcance sin pedir confirmación de nuevo. Una aprobación genérica del plan no sustituye decisiones aún no presentadas; el silencio tampoco. Registra fecha, opciones aprobadas, ajustes y pendientes separando recomendación técnica de decisión humana. Si queda una decisión pendiente, entrega la propuesta y deja la actualización en espera de Luis; no la declares completada. La aplicación, reconciliación y comprobaciones técnicas posteriores a la autorización continúan con autonomía.
 
 ---
 
@@ -62,6 +81,7 @@ Las inferencias y tesis nunca se anotan como hechos consumados del mundo.
 5. Revisión de las Seis Tesis.
 6. Radar a 60 días reconciliado.
 7. Sincronización de índices y logs.
+8. Trazabilidad de las decisiones A/B, calibración de altas y pendientes: propuesta del agente, decisión de Luis y cambio aplicado. Antes de la autorización, la entrega es una propuesta de revisión, no un cierre ejecutado.
 
 ## 7. Control previo al cierre
 
@@ -72,18 +92,20 @@ Las inferencias y tesis nunca se anotan como hechos consumados del mundo.
 - Verificar enlaces al radar activo frente a referencias históricas al radar archivado; no renombrar el destino sin reparar consumidores.
 - Declarar por separado presencia de enlaces y contraste factual realizado; no usar porcentajes de «verificado» sin denominador, método y documentos comprobados.
 - Conservar rectificaciones fechadas y el texto histórico suplantado, sin permitir que alimente el estado vigente.
+- Verificar que los cambios de calibración e inventario tienen decisión humana trazable y que los candidatos descartados por el agente se hicieron visibles. No atribuir aprobación a la mera petición de actualización.
+- Separar variación por evidencia, por recalibración y por cambios del inventario. Si existen fichas sin calibrar, declarar subtotal, número de fichas cubiertas y pendientes; ND nunca se suma como cero.
 
 ## 8. Contrato de ejecución semanal corregido
 
-Ejecuta la calibración con autonomía dentro del alcance autorizado y conserva la arquitectura actual. Lee el protocolo del vault, el inventario y la última revisión. Antes de modificar, comprueba tareas concurrentes y cambios locales; preserva los ajenos.
+Ejecuta la preparación técnica con autonomía y conserva la arquitectura actual. Aplica la intervención humana de §2.1 antes de modificar calibración o inventario y sus superficies derivadas. Lee el protocolo del vault, el inventario, las decisiones pendientes y la última revisión. Antes de modificar, comprueba tareas concurrentes y cambios locales; preserva los ajenos.
 
 1. **Fijar el corte.** Registra semana ISO, fecha nominal del informe y hora/zona del corte factual real. Si el domingo aún no ha terminado, entrega un precierre. Cubre también el intervalo desde el corte anterior para no perder noticias del fin de semana. No incorpores información publicada después del corte aunque se conozca durante la ejecución.
 2. **Verificar hechos.** Usa documentos primarios específicos con periodo, unidad, publicación, vigencia y fecha de consulta. Separa observación, anuncio, proyección, antecedente e inferencia. En revisiones de series, registra el valor previo y el nuevo. Un calendario no acredita un resultado; una norma no prueba cobro ni efecto económico.
-3. **Auditar eventos y vectores.** Evalúa cada cláusula de cada trigger: umbral, duración, población, geografía, fuente y causalidad. Usa activo, parcial, no activado con evidencia, no verificable o periodo incompleto, según corresponda. No reduzcas requisitos para obtener una conclusión. Distingue triggers de evento y de vector. Presión, clase, peso y tendencia se justifican por separado; ni la clase ni el total vienen impuestos por el encargo.
-4. **Calcular y revisar tesis.** Deriva carga desde el inventario resultante: presión × peso × tendencia, una vez por vector primario. Explica toda variación. Revisa las seis tesis con apoyo, contraevidencia, ambigüedad y próxima falsación; conserva o cambia soporte por evidencia, no por cuota ni por vínculos.
+3. **Auditar y someter a decisión.** Evalúa cada cláusula de cada trigger: umbral, duración, población, geografía, fuente y causalidad. Usa activo, parcial, no activado con evidencia, no verificable o periodo incompleto, según corresponda. No reduzcas requisitos para obtener una conclusión. Distingue triggers de evento y de vector. Explora los seis vectores y presenta primero pesos (A), después selección amplia (B) y calibraciones pendientes, conforme a §2.1. Espera las decisiones de Luis antes de aplicar los cambios. Presión, clase, peso y tendencia se justifican por separado; ni la clase ni el total vienen impuestos por el encargo.
+4. **Aplicar, calcular y revisar tesis.** Aplica lo autorizado y deriva carga desde el inventario resultante: presión × peso × tendencia, una vez por vector primario. Explica por separado variaciones por hechos, recalibración e inventario; declara subtotal si quedan fichas sin calibrar. Revisa las seis tesis con apoyo, contraevidencia, ambigüedad y próxima falsación; conserva o cambia soporte por evidencia, no por cuota ni por vínculos.
 5. **Resolver y renovar radar.** Retira de futuros los hitos vencidos y asigna resolución con fuente, conservando IDs e historial. Admite nuevos solo si cumplen mecanismo, fecha y sensor; no fijes número de filas. Calcula horizonte desde el corte real con la convención de Prompt_Radar_Eventos. No confundas anuncio y fecha efectiva, ni supongas que una reunión repite decisiones anteriores.
 6. **Reconciliar y entregar.** Actualiza fichas, vectores, tesis, índices, Salud, mapa e informe; sincroniza solo los bloques 231 del Dashboard y Snapshot. Conserva rectificaciones fechadas. Archiva el informe sustituido tras comprobar el nuevo. Valida cuentas, fechas, enlaces y ausencia de contradicciones en el estado vivo. Registra COMM y, cuando esté autorizado, crea commit con archivos explícitos y push ordinario; informa por separado qué quedó local, confirmado y publicado. No atribuyas validación humana a una decisión técnica.
 
-**Criterio de finalización:** resultado coherente y trazable, con lagunas declaradas y sin tareas ejecutables pendientes. No exige certeza total, un total de carga predeterminado, cinco eventos eternos ni 25 filas de radar. Si falta una fuente decisiva, entrega el resto y explicita qué conclusión queda pendiente; no completes cifras por analogía.
+**Criterio de finalización:** decisiones humanas resueltas o aplazadas explícitamente por Luis, cambios autorizados aplicados y resultado coherente y trazable, con lagunas declaradas y sin tareas ejecutables pendientes. Una propuesta pendiente de respuesta no es una actualización completada. No exige certeza total, un total de carga predeterminado, cinco eventos eternos ni 25 filas de radar. Si falta una fuente decisiva, entrega el resto y explicita qué conclusión queda pendiente; no completes cifras por analogía.
 
-**Correcciones sobre la instrucción W38 original:** se eliminan la carga 86,4 y las tendencias impuestas como objetivos; la fecha 20/09 se conserva solo como nominal; el orden vuelve a hechos → eventos/vectores → carga → tesis → radar → superficies. Las cifras del informe anterior son comparadores, nunca resultados a conservar por mandato.
+**Historial de método:** TASK_116 eliminó la carga 86,4 y las tendencias impuestas como objetivos, y conservó el 20/09 solo como fecha nominal. TASK_147 incorpora por mandato de Luis la intervención humana ensayada en TASK_118: pesos, selección amplia y calibración antes de aplicar. Rige el flujo de §2. Las cifras del informe anterior son comparadores, nunca resultados a conservar por mandato.

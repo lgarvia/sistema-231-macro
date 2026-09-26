@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-09-19
-corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
-corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
+ultima_actualizacion: 2026-09-27
+corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
+corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
+alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -26,14 +26,11 @@ La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, 
 - **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
 - **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
 
-## 3. Manifestaciones observables
+## 3. Manifestaciones observables — corte 26-sep 20:48
 
-- **Financiación soberana:** la deuda federal bruta cruzó los 40 billones de dólares el 18/08; a 20/08, $32,279T estaban en manos del público y $7,754T eran tenencias intragubernamentales. El umbral no valida por sí solo dominancia fiscal.
-- **Liquidez de duración:** el Tesoro elevó a al menos $4B por operación las recompras de soporte de liquidez para nominales de 10-20 y 20-30 años entre el 09/09 y el 04/11. Es gestión de deuda, no QE ni reducción de deuda neta.
-- **Normalización en Japón:** el stock declarado de Treasuries atribuido a Japón cayó de $1.209,9B en abril a $1.116,7B en junio. La señal es compatible con menor demanda o ventas, pero las limitaciones TIC de custodia y valoración impiden inferir repatriación limpia.
-- **Datos estadounidenses de julio:** CPI 3,4% general y 2,5% subyacente; PCE 3,7% general y 3,3% subyacente; nóminas −23.000, desempleo 4,1% y Sahm Rule en tiempo real −0,03. El conjunto mantiene la tensión entre inflación y empleo, sin determinar por sí solo la próxima decisión de la Fed.
-- **Gestión de reservas:** al 26/08, las reservas bancarias eran $2,917T y la TGA $959,4B. El ejercicio de pequeño valor de la SRF del 25/08 sumó $3M y la segunda operación fue cero. Hay precondiciones de estrechez, no estrés ejecutado.
-- **Doctrina monetaria:** Warsh reafirmó en Jackson Hole el 2% como objetivo innegociable, criticó el *forward guidance* y defendió los tipos cortos como instrumento principal. Es contraevidencia inmediata a una subordinación fiscal ya ejecutada, aunque no elimina la restricción futura de absorción de deuda.
+La revisión W39 incorpora la recuperación puntual de reservas y SOFR bajo IORB como contraevidencia de drenaje continuo; mantiene la laguna del diferencial japonés cubierto. Francia añade una señal de financiación soberana basada en un proxy de diferencial, sin probar dominancia fiscal. Observaciones, unidades y fuentes: [[VECTOR_01_Arquitectura_monetaria_global#0. ESTADO OPERATIVO — precierre W39]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
 
 ## 4. Tensiones internas
 
@@ -64,16 +61,15 @@ La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, 
 - Endurecimiento monetario sostenido pese a pérdidas fiscales, sin apoyo extraordinario al mercado soberano.
 - Absorción privada estable de la deuda con spreads repo, SRF y subastas dentro de rangos normales.
 
-## 7. Calibración actual — 19/09/2026 (precierre W38)
+## 7. Calibración actual — 27/09/2026 (precierre W39)
 
-- **Soporte:** Moderado; vigente.
-- **A favor:** El aumento de TGA y la reducción de reservas muestran la restricción de distribución de liquidez; la decisión del BoJ intensifica el sensor de absorción exterior.
-- **Contraevidencia y límites:** La Fed sube tipos; SOFR–IORB sigue negativo y la SRF tiene uso reducido. MOF semanal vuelve a compras y TIC agregado mantiene entrada positiva.
-- **Ambigüedad causal:** Gestión de reservas y refinanciación no prueban subordinación del banco central al Tesoro. La variación de stock japonés no acredita ventas.
-- **Próxima falsación:** Comprobar si el cierre 25–30/09 exige intervención extraordinaria ligada a deuda soberana y si persiste absorción privada sin estrés.
-- **Juicio técnico:** Se mantiene moderado: más presión fiscal observable, sin dominancia ejecutada.
+- **Soporte:** Moderado; se conserva.
+- **Apoyo:** Francia y Japón refuerzan la restricción de financiación.
+- **Contraevidencia:** La recuperación puntual de reservas y SOFR inferior a IORB contradicen un drenaje continuo; las alzas de tipos no acreditan subordinación fiscal.
+- **Ambigüedad / límite:** El diferencial francés es proxy no homogéneo y faltan flujos cubiertos.
+- **Próxima falsación:** Contrastar repatriación, absorción y respuesta efectiva del banco central al conflicto fiscal.
 
-Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) · [impl](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm) · [h41](https://www.federalreserve.gov/releases/h41/Current/) · [mofweek](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) · [srf](https://markets.newyorkfed.org/api/rp/results/search.json?startDate=2026-09-14&endDate=2026-09-18&operationTypes=Repo)
+Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_01_Arquitectura_monetaria_global]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
 
 ## 8. Fuentes de seguimiento
 
@@ -121,5 +117,35 @@ Se mantiene moderado: más presión fiscal observable, sin dominancia ejecutada.
 - **Evidencia contradictoria:** el TIC de junio registró fuertes compras extranjeras netas de valores estadounidenses a largo plazo; no hay repatriación japonesa demostrada ni tensión material en SOFR o SRF. Warsh reafirma el 2% y una reacción monetaria ortodoxa, mientras el PCE al 3,7% eleva el coste de una eventual acomodación.
 - **Juicio:** el grado de soporte permanece moderado. La evidencia refuerza el sensor fiscal, pero la doctrina de Jackson Hole y la ausencia de estrés niegan una validación presente. El salto cualitativo exigiría fallo de absorción, estrés de colateral o intervención monetaria explícitamente vinculada a financiación soberana.
 
+
+</details>
+
+<details>
+<summary>Calibración W38 sustituida por §7; preservada</summary>
+
+## 7. Calibración actual — 19/09/2026 (precierre W38)
+
+- **Soporte:** Moderado; vigente.
+- **A favor:** El aumento de TGA y la reducción de reservas muestran la restricción de distribución de liquidez; la decisión del BoJ intensifica el sensor de absorción exterior.
+- **Contraevidencia y límites:** La Fed sube tipos; SOFR–IORB sigue negativo y la SRF tiene uso reducido. MOF semanal vuelve a compras y TIC agregado mantiene entrada positiva.
+- **Ambigüedad causal:** Gestión de reservas y refinanciación no prueban subordinación del banco central al Tesoro. La variación de stock japonés no acredita ventas.
+- **Próxima falsación:** Comprobar si el cierre 25–30/09 exige intervención extraordinaria ligada a deuda soberana y si persiste absorción privada sin estrés.
+- **Juicio técnico:** Se mantiene moderado: más presión fiscal observable, sin dominancia ejecutada.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) · [impl](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm) · [h41](https://www.federalreserve.gov/releases/h41/Current/) · [mofweek](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) · [srf](https://markets.newyorkfed.org/api/rp/results/search.json?startDate=2026-09-14&endDate=2026-09-18&operationTypes=Repo)
+
+</details>
+
+<details>
+<summary>Manifestaciones anteriores sustituidas; no reutilizar cifras sin contraste primario</summary>
+
+## 3. Manifestaciones observables
+
+- **Financiación soberana:** la deuda federal bruta cruzó los 40 billones de dólares el 18/08; a 20/08, $32,279T estaban en manos del público y $7,754T eran tenencias intragubernamentales. El umbral no valida por sí solo dominancia fiscal.
+- **Liquidez de duración:** el Tesoro elevó a al menos $4B por operación las recompras de soporte de liquidez para nominales de 10-20 y 20-30 años entre el 09/09 y el 04/11. Es gestión de deuda, no QE ni reducción de deuda neta.
+- **Normalización en Japón:** el stock declarado de Treasuries atribuido a Japón cayó de $1.209,9B en abril a $1.116,7B en junio. La señal es compatible con menor demanda o ventas, pero las limitaciones TIC de custodia y valoración impiden inferir repatriación limpia.
+- **Datos estadounidenses de julio:** CPI 3,4% general y 2,5% subyacente; PCE 3,7% general y 3,3% subyacente; nóminas −23.000, desempleo 4,1% y Sahm Rule en tiempo real −0,03. El conjunto mantiene la tensión entre inflación y empleo, sin determinar por sí solo la próxima decisión de la Fed.
+- **Gestión de reservas:** al 26/08, las reservas bancarias eran $2,917T y la TGA $959,4B. El ejercicio de pequeño valor de la SRF del 25/08 sumó $3M y la segunda operación fue cero. Hay precondiciones de estrechez, no estrés ejecutado.
+- **Doctrina monetaria:** Warsh reafirmó en Jackson Hole el 2% como objetivo innegociable, criticó el *forward guidance* y defendió los tipos cortos como instrumento principal. Es contraevidencia inmediata a una subordinación fiscal ya ejecutada, aunque no elimina la restricción futura de absorción de deuda.
 
 </details>

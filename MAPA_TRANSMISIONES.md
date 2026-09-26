@@ -1,6 +1,6 @@
 # MAPA DE TRANSMISIONES — SISTEMA 231
 
-> **Actualizado:** 2026-09-19 05:29 Europe/Madrid — TASK_116; topología conservada.
+> **Actualizado:** 27/09/2026 — TASK_148, precierre W39 completado localmente. Corte 2026-09-26 20:48 Europe/Madrid.
 
 ## Mapa activo
 
@@ -11,6 +11,12 @@
 | [[Evento_E0_2026_07_08_Grid_Stress_IA]] | V02 | generación/interconexión → centros de datos → CAPEX | [[TESIS_06_IA_como_silicio_y_energia]] |
 | [[Evento_E0_2026_CoWoS_Capacity]] | V03 | packaging/HBM → aceleradores → inversión y red | [[TESIS_06_IA_como_silicio_y_energia]] |
 | [[Evento_E1_2026_07_24_US_Tariff_Stack]] | V04 | aranceles → costes/volúmenes → industria e inflación | [[TESIS_02_Frictionless_Stabilization]] |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | V06 | negociación bilateral → compromisos estratégicos → ejecución comercial/tecnológica | [[TESIS_04_Multipolaridad_Logistica]] |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | V06 | mayorías parlamentarias → capacidad legislativa → política fiscal/comercial | [[TESIS_01_Dominancia_Fiscal]] |
+| [[Evento_E0_2026_09_19_Robotica_Unitree]] | V05 | capital y tecnología → robots entregados → uso productivo por verificar | [[TESIS_06_IA_como_silicio_y_energia]] |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | V01 | coste soberano → balances bancarios y financiación (transmisión por verificar) | [[TESIS_01_Dominancia_Fiscal]] |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | V02 | almacenamiento/flujos/demanda → disponibilidad y coste industrial | [[TESIS_04_Multipolaridad_Logistica]] |
+| [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]] | V03 | chips anunciados → producción y uso → dependencia tecnológica (por verificar) | [[TESIS_06_IA_como_silicio_y_energia]] |
 
 ## Observatorios sin ficha activa
 
@@ -19,6 +25,8 @@
 | Interferencia GNSS marítima | V02 | accidente atribuible, orden mandatoria o desvío físico |
 | Pensiones y saldo contributivo | V05 / TESIS_03 | liquidación comparable que cruce un umbral fiscal |
 | Zona gris en Taiwán | V06 | NOTAM, zona de exclusión o bloqueo material |
+| Industria y automoción C4+C24 | V05, panel y registro canónicos | Caso delimitado o acumulación de señales priorizada por Luis; sin carga propia |
+| Financiación y rentabilidad CAPEX IA — C22 | V01, panel canónico | Restricción financiera delimitada y transmisión verificable; sin carga propia |
 
 ## Reglas
 
@@ -43,4 +51,28 @@
 
 ## Estado y horizonte
 
-Carga **89,6** y tendencias según [[VECTOR_00_Indice]]. Ventanas solo en [[Radar_Eventos_2026_09]]; la lista de cruces es un mapa de seguimiento, no una afirmación de que todos tengan fila calendarizada ni un cambio de estado ex ante. La topología no cambia en W38: +3,2 procede únicamente de Japón →→↑. Las sanciones UE/OFAC permanecen en V06 sin ficha nueva; repo convencional no valida TESIS_05. La implementación BoJ 24/09 se separa de la decisión consumida. [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 144,8.**
+
+La diferencia frente al subtotal 90,4 del piloto es +54,4: +32,4 por tres altas y +22,0 por calibrar Xi, midterms y Unitree, ya admitidos. No es una variación semanal homogénea ni demuestra empeoramiento de 54,4 puntos. Las cinco fichas base conservan P/peso/tendencia y suman 90,4. La carga es ordinal, no probabilidad ni pérdida esperada; solo se imputa una vez por vector primario.
+
+| Vector | Presión / tendencia conservadas | Carga primaria |
+|:---|:---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 38,4 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 47,2 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 18,0 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · ↑ | 19,2 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 6,0 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,0 |
+
+Informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]]; sin cambio automático de tesis por enlaces de transmisión.
+
+<details>
+<summary>Estado anterior TASK_118</summary>
+
+## Estado y horizonte
+
+**24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
+
+Las tres altas amplían cobertura; no alteran por sí mismas los semáforos ni validan las tesis. Xi y midterms no duplican la carga de aranceles/liquidez. [[Radar_Eventos_2026_09]] · [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+</details>

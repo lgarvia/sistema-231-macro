@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_05
 estado: en_validacion
 soporte: moderado
-ultima_actualizacion: 2026-09-19
-corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
-corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
+ultima_actualizacion: 2026-09-27
+corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
+corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
+alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -25,13 +25,11 @@ La tesis no presupone que las stablecoins sean compradores indispensables de Tre
 - **Financiación bancaria:** migraciones desde depósitos pueden reducir crédito y alterar la demanda bancaria de deuda.
 - **Soberanía monetaria:** la adopción de stablecoins en economías débiles puede intensificar dolarización y volatilidad de capitales.
 
-## 3. Manifestaciones observables
+## 3. Manifestaciones observables — corte 26-sep 20:48
 
-- **Escala:** el BIS sitúa la capitalización de stablecoins cerca de 300 B$ a 29/05/2026, con predominio abrumador de denominaciones en dólares.
-- **Demanda de activos cortos:** las reservas de emisores incluyen letras del Tesoro y fondos monetarios, creando un canal adicional hacia instrumentos públicos líquidos.
-- **Arquitectura institucional:** bancos centrales y BIS exploran un modelo con reservas de banco central, depósitos bancarios y bonos públicos tokenizados.
-- **Pagos:** las stablecoins permiten transferencias programables y transfronterizas, pero siguen presentando deficiencias de singularidad, elasticidad e integridad monetaria.
-- **Integración financiera:** una nota de la Reserva Federal del 16/07 describe stablecoins y activos tokenizados como canales crecientemente conectados con pagos en dólares y mercados tradicionales; la SEC ya distingue modelos de valores tokenizados sin eximirlos de la regulación de valores.
+No se recuperó en W39 una operación nueva que cumpla la puerta de evidencia: admisibilidad, haircut y liquidación efectiva de colateral tokenizado. Los T-bills mantenidos por emisores de stablecoins no bastan para acreditar colateral corporativo nuevo. Se conserva en validación, sin añadir soporte por noticias de financiación de IA.
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
 
 ## 4. Tensiones internas
 
@@ -77,16 +75,15 @@ Hasta construir una serie base comparable, estos puntos son **puertas de evidenc
 - Evidencia de que la demanda de T-bills es neutral por sustitución completa de otros compradores.
 - Crisis repetidas de paridad o custodia que impidan su uso como dinero o colateral fiable.
 
-## 7. Calibración actual — 19/09/2026 (precierre W38)
+## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Moderado; en validación.
-- **A favor:** Ningún dato nuevo admitido mide demanda incremental de Treasuries o movilización de colateral por canales tokenizados.
-- **Contraevidencia y límites:** No se incorpora una refutación cuantitativa nueva. Las medidas OFAC contra intermediarios cripto muestran fricción regulatoria, no eficacia del colateral tokenizado.
-- **Ambigüedad causal:** TGA, repos convencionales, TIC y uso de cripto en pagos no acreditan por sí mismos el nexo soberano tokenizado.
-- **Próxima falsación:** Exigir reservas verificables, volúmenes y uso de colateral con comparador convencional; no promover anuncios o sanciones a prueba de adopción.
-- **Juicio técnico:** Se mantiene moderado y en validación; puerta de evidencia sin cumplir.
+- **Apoyo:** Se conserva en validación; la semana no aporta nueva prueba directa.
+- **Contraevidencia:** Digitalizar un pasivo o mantener T-bills en una stablecoin no prueba colateral corporativo nuevo utilizable.
+- **Ambigüedad / límite:** Faltan admisibilidad, haircut y liquidación operativa comparable.
+- **Próxima falsación:** Exigir operación de repo/garantía ejecutada con activo tokenizado y condiciones auditables; sin subir soporte por vínculos.
 
-Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [ofac2](https://home.treasury.gov/news/press-releases/sb0632/)
+Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_05_Transformacion_industrial_y_demografia]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
 
 ## 8. Fuentes de seguimiento
 
@@ -125,5 +122,34 @@ Se mantiene moderado y en validación; puerta de evidencia sin cumplir. El sopor
 - **Actualización de ventana:** No se localizó un documento primario nuevo sobre reservas, liquidación DvP o migración de depósitos. El cruce de $40T, las recompras de liquidez, el PCE de julio y la doctrina Warsh no acreditan demanda tokenizada ni activan una puerta de evidencia.
 - **Cambio de esta revisión:** se mantiene el paquete dedicado de cinco sensores y se impide abrir un evento antes de construir una línea base comparable.
 
+
+</details>
+
+<details>
+<summary>Calibración W38 sustituida por §7; preservada</summary>
+
+## 7. Calibración actual — 19/09/2026 (precierre W38)
+
+- **Soporte:** Moderado; en validación.
+- **A favor:** Ningún dato nuevo admitido mide demanda incremental de Treasuries o movilización de colateral por canales tokenizados.
+- **Contraevidencia y límites:** No se incorpora una refutación cuantitativa nueva. Las medidas OFAC contra intermediarios cripto muestran fricción regulatoria, no eficacia del colateral tokenizado.
+- **Ambigüedad causal:** TGA, repos convencionales, TIC y uso de cripto en pagos no acreditan por sí mismos el nexo soberano tokenizado.
+- **Próxima falsación:** Exigir reservas verificables, volúmenes y uso de colateral con comparador convencional; no promover anuncios o sanciones a prueba de adopción.
+- **Juicio técnico:** Se mantiene moderado y en validación; puerta de evidencia sin cumplir.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [ofac2](https://home.treasury.gov/news/press-releases/sb0632/)
+
+</details>
+
+<details>
+<summary>Manifestaciones anteriores sustituidas; no reutilizar cifras sin contraste primario</summary>
+
+## 3. Manifestaciones observables
+
+- **Escala:** el BIS sitúa la capitalización de stablecoins cerca de 300 B$ a 29/05/2026, con predominio abrumador de denominaciones en dólares.
+- **Demanda de activos cortos:** las reservas de emisores incluyen letras del Tesoro y fondos monetarios, creando un canal adicional hacia instrumentos públicos líquidos.
+- **Arquitectura institucional:** bancos centrales y BIS exploran un modelo con reservas de banco central, depósitos bancarios y bonos públicos tokenizados.
+- **Pagos:** las stablecoins permiten transferencias programables y transfronterizas, pero siguen presentando deficiencias de singularidad, elasticidad e integridad monetaria.
+- **Integración financiera:** una nota de la Reserva Federal del 16/07 describe stablecoins y activos tokenizados como canales crecientemente conectados con pagos en dólares y mercados tradicionales; la SEC ya distingue modelos de valores tokenizados sin eximirlos de la regulación de valores.
 
 </details>

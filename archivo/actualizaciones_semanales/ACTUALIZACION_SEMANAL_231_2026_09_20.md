@@ -1,10 +1,16 @@
 # CALIBRACIÓN SEMANAL — SISTEMA 231 — W38
 
+> **Archivado el 27-sep:** sustituido por [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las adendas iniciales inferiores conservan el estado intermedio, no el inventario vigente.
+
+> **Adenda 27-sep (TASK_148):** este informe conserva el corte W38. El inventario actual incorpora tres altas autorizadas: 11 eventos, subtotal 104,8 de seis calibrados y cinco pendientes. [[VECTOR_00_Indice]] es la fuente vigente. Revisión W39 en curso; no se reetiquetan los datos de este informe.
+
 > **Fecha nominal:** domingo 20/09/2026. **Estado:** precierre técnico autorizado.
 > **Corte factual:** 2026-09-19 05:29 Europe/Madrid = 03:29 UTC = 18/09 23:29 Nueva York.
 > **Intervalo revisado:** desde el corte anterior 12/09 21:21 Europe/Madrid hasta este corte; incluye el solape de fin de semana. Publicaciones posteriores quedan excluidas.
 > **Ejecución:** Codex, TASK_116. Autorización de corrección y ejecución: Luis, 19/09. No implica validación humana posterior de cada juicio.
 > **Protocolos:** [[Prompt_Actualizacion_Eventos]] v0.6 y [[Prompt_Radar_Eventos]] v2.2.
+
+> **Adenda posterior:** TASK_118 incorpora selección y pesos humanos; véase el final. Las secciones técnicas originales conservan el inventario de cinco y 89,6 de su corte. Estado vigente: [[VECTOR_00_Indice]].
 
 ## 1. Resultado ejecutivo y hechos verificados
 
@@ -183,3 +189,11 @@ Se sincronizan 5 fichas, 6 vectores, 6 tesis, ambos índices, Salud, mapa, radar
 **Verificación técnica:** carga recalculada desde cinco fichas; 21 filas con doce campos e IDs únicos; recuentos por prioridad y vector reconciliados; cero fechas finales vencidas o fuera del horizonte; 68 enlaces wiki nuevos sin destino ausente. El archivo W37 conserva idéntico SHA256. Se comprobó la preservación de los metadatos globales y de las secciones ajenas de Dashboard/Snapshot. Estas comprobaciones de integridad no equivalen a validación factual universal.
 
 La ejecución local, el commit y el push se consignan por separado en COMM y en la entrega; no se afirma publicación antes de comprobarla. Las fuentes dinámicas H.4.1/MOF/TIC pueden revisarse: este informe conserva los valores observados y sus periodos para evitar que el enlace vivo borre la trazabilidad.
+
+## Adenda humana — 19/09/2026, TASK_118
+
+**24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
+
+Decisión de Luis: [[Evento_E0_2026_09_19_Visita_Xi_EEUU|C1 Xi]] y [[Evento_E0_2026_11_03_Midterms_EEUU|C2 midterms]] incorporados como E0 futuros; [[Evento_E0_2026_09_19_Robotica_Unitree|C3 Unitree]] en observación. C4/C24 fusionados como observatorio industrial en [[VECTOR_05_Transformacion_industrial_y_demografia]], con KPIs y registro de pequeñas señales. Inventario: 8 eventos (6 E0/2 E1); radar 22 filas y 5 observatorios.
+
+Las nuevas consultas se realizaron el 19/09 hasta 14:24 Europe/Madrid, después del corte técnico. No se reescriben retrospectivamente los hechos ni la comparación semanal original. Prompts sin cambios y piloto local sin publicación Git; completar calibración de nuevas fichas con Luis antes de presentar una carga total del nuevo inventario.

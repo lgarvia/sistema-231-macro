@@ -9,7 +9,7 @@
 |---|---|---|---|
 | [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | Actualizar y mantener | La OMI eleva el recuento a 62 incidentes e incorpora el daño al `LAVINE`; persiste el riesgo operativo independiente. | E1 · P4 · ↑ |
 | [[Evento_E0_2026_CoWoS_Capacity]] | Actualizar y mantener | El CAPEX de Meta y Amazon refuerza la presión sobre infraestructura de IA; no aparece un hecho que exija separar un evento nuevo. | E0 · P4 · ↑ |
-| [[Evento_E0_2026_07_24_US_Tariff_Stack]] | Actualizar y mantener | Venció la excepción de tránsito y continúa la transmisión modular arancelaria; no hay todavía impacto material que justifique escalada. | E0 · P4 · ↑ |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | Actualizar y mantener | Venció la excepción de tránsito y continúa la transmisión modular arancelaria; no hay todavía impacto material que justifique escalada. | E0 · P4 · ↑ |
 | [[Evento_E0_2026_07_08_Grid_Stress_IA]] | Actualizar; aprobar cambio de tendencia | La Orden DOE 202-26-37 para SPP convierte la tensión en señal operativa más persistente. Se absorbe aquí, sin crear ficha separada. | E0 · P4 · **↑** (antes →) |
 | [[Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]] | Actualizar y mantener | Han Kuang 42 amplía la observación del riesgo, pero no existe bloqueo ni zona de exclusión que justifique escalada. | E0 · P4 · ↑ |
 | [[Evento_E0_2026_06_15_Spain_Pensiones_Renta]] | Mantener sin cambio material | No se ha publicado una nueva liquidación actuarial comparable. | E0 · P3 · → |

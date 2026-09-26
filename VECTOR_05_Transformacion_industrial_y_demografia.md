@@ -2,26 +2,29 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
-ultima_revision: "2026-09-19"
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-09-27
 triggers_activos: 0
 triggers_parciales: 0
+alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
 ---
 
 # 📝 Transformación industrial y demografía
 
-## 0. ESTADO OPERATIVO
-- **Presión actual:** 🟡 MODERADA
-- **Tendencia:** → Estable
-- **Triggers completos:** Ninguno
-- **Triggers parciales:** Ninguno
-- **Condición de dominancia:** No activa
-- **Restricción dominante actual:** Productividad, envejecimiento, vivienda y sostenibilidad fiscal de transferencias.
-- **Razón del semáforo:** La revisión W38 no incorpora una nueva liquidación contributiva comparable, una serie homogénea de vivienda ni evidencia de desplazamiento fiscal de CAPEX. Se mantiene presión moderada y → sobre la base anterior, con actualización factual limitada. La ausencia de evidencia nueva no refuta el mecanismo secular ni justifica subir soporte.
+## 0. ESTADO OPERATIVO — precierre W39
 
+**🟡 Moderada · → · carga primaria 6,0.** Semáforo conservado; no nueva activación por ampliar inventario. Corte 2026-09-26 20:48 Europe/Madrid; revisión aplicada 27-sep.
 
-- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
-- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+[ACEA, publicado 24-sep](https://www.acea.auto/files/Press_release_car_registrations_August_2026.pdf), consultado 26-sep: UE enero–agosto 2026, BEV 1.641.333 matriculaciones (21,7%) y PHEV 758.082 (10,0%). Universo UE y acumulado de ocho meses; no mezclar con H1 ni equiparar propulsión a origen importado. La declaración Unitree de enero sobre >5.500 entregas y >6.500 unidades producidas en 2025 sigue siendo antecedente del fabricante, no utilización productiva auditada de 2026. Unitree aporta 6,0; no prueba sustitución laboral ni déficit de pensiones.
+
+### Auditoría de triggers propios
+
+- 01 — NO VERIFICABLE: no se incorpora serie anual homogénea de déficit neto previsional >2% PIB G7/eurozona.
+- 02 — NO VERIFICABLE: falta ratio comparable cotizantes/pensionistas <1,4 durante ejercicio completo.
+- 03 — NO VERIFICABLE: CAPEX Oracle no equivale a salida neta industrial de una jurisdicción >5 B$ anuales.
+- 04 — NO ACREDITADO COMPLETO: ACEA mide matriculaciones por propulsión, no cuota importada de nueva generación >25% por seis meses; no confundir BEV con origen chino.
+
+Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición sistémica desde manufacturas tradicionales hacia la electrificación, digitalización de plantas y automatización industrial, cruzada con el envejecimiento demográfico y la erosión fiscal del factor trabajo.
@@ -29,7 +32,7 @@ triggers_parciales: 0
 - **Chokepoints:** Tasa de soporte demográfico (ratio activos/pasivos), carga impositiva marginal sobre el trabajo cualificado, y disponibilidad de CAPEX industrial de largo plazo.
 - **Transmisión:** Impacta primariamente en V01 (necesidad perpetua de emisión de deuda para sostener la caja pasiva) y V04 (pérdida de competitividad y fuga de capitales).
 
-## 2. TESIS INTERPRETATIVA
+## 2. TESIS INTERPRETATIVA — base anterior; lectura W39 en §0
 El entramado industrial tradicional del siglo XX sufre un proceso de obsolescencia. La transición disuelve las ventajas de escala clásicas, trasladando el valor hacia el software y la automatización integrada. Paralelamente, la crisis demográfica en economías de bajo crecimiento de productividad de factores choca contra la rigidez presupuestaria estatal, forzando una sobrepresión fiscal ("captura de renta") que expulsa el capital humano cualificado y debilita la inversión productiva profunda.
 
 **Tesis asociada:** [[TESIS_03_Captura_de_Renta]] / [[TESIS_06_IA_como_silicio_y_energia]]
@@ -67,7 +70,54 @@ Los antecedentes conservados al final no son cotizaciones ni estados vigentes. L
 - **Exclusión:** Guerras comerciales enfocadas en represalias puramente temporales o shocks del Brent causados por interrupciones bélicas.
 
 ## 7. EVENTOS ASOCIADOS
+- [[Evento_E0_2026_09_19_Robotica_Unitree]]: C3, E0 en observación por decisión de Luis el 19/09; calibración de carga pendiente. No altera por sí sola el semáforo estructural.
 - [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]: memoria factual; vigilancia absorbida por V05 y TESIS_03.
+
+## Observatorio industrial y automoción — C4 + C24
+
+**Alta autorizada por Luis, 19/09/2026 — TASK_118.** Un único observatorio, sin ficha de evento ni carga propia. V05 primario; V04 y V03 como transmisiones. Consulta de fuentes: 19/09, posterior al corte técnico W38 05:29; los periodos de cada serie se indican debajo.
+
+**Pregunta de trabajo:** ¿quién transforma financiación y tecnología en fábricas, productos, ventas y productividad, y dónde queda ese valor? El enfoque procede de los posts de Luis sobre [BYD/Tesla, 09/09](https://www.linkedin.com/posts/garvia_byd-supera-a-tesla-en-espa%C3%B1a-en-los-ocho-activity-7503316510975631360-Pv5X) y [Unitree/Alibaba, 26/08](https://www.linkedin.com/posts/garvia_unitree-alibaba-con-europa-como-espejo-activity-7498289266544799744-_aJe). Son orientación interpretativa; las cifras se contrastan por separado.
+
+### Panel breve de KPIs
+
+BEV = eléctrico puro; PHEV = híbrido enchufable. En ventas españolas se usan **matriculaciones**, no pedidos ni producción. Base inicial selectiva, no cobertura exhaustiva ni certificación de la última publicación de cada serie.
+
+| Indicador | Ámbito / periodo | Dato de partida | Fuente y actualización deseable |
+|:---|:---|:---|:---|
+| Unidades BEV / PHEV y crecimiento | Turismos España, agosto 2026 | BEV **9.199 (+31%)**; PHEV **9.768 (+23,3%)** | [ANFAC, 01/09](https://anfac.com/las-ventas-de-turismos-electrificados-marcan-cifra-record-en-un-solo-mes-con-el-28-del-mercado/); mensual |
+| Penetración del vehículo enchufable | Turismos España, enero–agosto 2026 | BEV+PHEV **185.339 unidades; 22,6%** del mercado | Misma nota ANFAC; mensual. No sumar a las unidades del mes |
+| Escala por fabricante, misma tecnología | BEV España, enero–agosto 2026 | BYD **11.943**; Tesla **9.733**; Kia **6.433**; Leapmotor **3.190** | [BYD, septiembre](https://www.byd.com/es-es/news-list/byd-lider-ventas-agosto-2026-espana) corrobora su cifra; resto: [Cinco Días, 08/09, datos Ideauto](https://cincodias.elpais.com/companias/2026-09-08/byd-destrona-a-tesla-en-espana-es-la-que-mas-electricos-e-hibridos-enchufables-vende-hasta-agosto.html?outputType=amp), secundaria. Mensual |
+| Cuota y ritmo por fabricante | BYD BEV España, enero–agosto 2026 | **14,4%; +49,6% interanual** | Comunicado BYD; contrastar con la serie de mercado de idéntico universo |
+| Escala de electrificación europea | Turismos UE, primer semestre 2026 | BEV **1.220.890; 20,7%**; PHEV **577.735; 9,8%** | [ACEA, 23/07](https://www.acea.auto/pc-registrations/new-car-registrations-5-7-in-h1-2026-battery-electric-20-7-market-share/); base semestral, actualizar manteniendo UE separada de UE+EFTA+Reino Unido |
+| Producción y salida al exterior | Todos los vehículos España, primer semestre 2026 | Fabricados **1.199.542 (−1,7%)**; exportados **1.010.938 (−3,3%)** | [ANFAC, 22/07](https://anfac.com/la-produccion-de-vehiculos-desciende-un-49-en-junio-con-205-142-unidades/); mensual |
+| Saldo comercial e importación desde China | Vehículos España, primer semestre 2026 | Saldo **+3.344 M€ (−41,2%)**; importaciones desde China **1.913 M€ (+51,8%)** | [ANFAC, 02/09](https://anfac.com/la-balanza-comercial-de-los-vehiculos-se-debilita-en-el-primer-semestre-de-2026-por-la-caida-de-la-produccion-y-la-exportacion-a-europa/); valor monetario, no unidades |
+| Capacidad industrial, empleo y rentabilidad | Plantas/proyectos concretos, Europa–China | **ND agregado comparable**; registrar aperturas, cierres, reconversiones, empleo, capacidad y CAPEX ejecutado | Empresas, cuentas y anuncios identificados; distinguir anunciado/en obras/operativo. Precios y márgenes, por modelo/segmento comparable |
+
+**Control de comparabilidad:** ANFAC diferencia turismos de todos los vehículos; no usar sus 10.266 BEV de agosto del universo amplio como denominador de turismos. Marca china, vehículo fabricado en China y producción de una empresa china en Europa son categorías distintas. El saldo de vehículos no es el saldo de automoción con componentes. No inferir pérdida equivalente de capacidad europea a partir de ventas chinas.
+
+**Discrepancia conservada:** BYD comunica 18.004 PHEV y 29.947 enchufables acumulados; Cinco Días recoge 18.007 y 29.950. Se mantiene la serie del fabricante si se amplía ese KPI; no se mezclan ambas versiones. Las cuatro cifras BEV del panel sí comparten periodo y categoría en la fuente secundaria. Falta contraste directo del desglose Ideauto para las marcas distintas de BYD.
+
+### Registro de pequeños acontecimientos
+
+Una fila por novedad útil; anotar fecha del hecho y de publicación, actor, lugar, magnitud si existe, fase y fuente. Se admiten prensa fiable, anuncios de empresa y señales de mercado, etiquetando su confianza. La misma noticia republicada no es otra señal.
+
+| Fecha | Entrada y fuente | Clasificación | Qué observar después |
+|:---|:---|:---|:---|
+| 22/07/2026 | ANFAC publica menor fabricación semestral y atribuye parte a adaptación de líneas; enlace del panel | Estadística + explicación sectorial atribuida | Distinguir reconversión temporal de cierre definitivo; buscar recuperación |
+| 01/09/2026 | Publicación de matriculaciones de agosto; enlace ANFAC del panel | Ventas observadas | Persistencia, reparto por marca y tecnología |
+| 02/09/2026 | Deterioro del saldo comercial de vehículos; enlace ANFAC del panel | Comercio observado | Unidades, valor añadido local y procedencia de importaciones |
+| Septiembre 2026, día no indicado | BYD comunica liderazgo de ventas y posiciones de modelos; enlace BYD del panel | Declaración empresarial | Amplitud de gama y conversión en ventas; no equivale a margen |
+
+El registro admite después un nuevo modelo, rebaja de precio, contrato de suministro, apertura/cierre de línea o despliegue de robots sin exigir que merezca una ficha propia. Robotización detallada en [[Evento_E0_2026_09_19_Robotica_Unitree]], sin duplicar sus cifras aquí.
+
+### Lectura y mantenimiento durante la prueba
+
+**Hipótesis:** China puede ganar escala industrial mientras Europa pierde parte de su capacidad o valor añadido. **Contraste:** crecimiento de BEV en la UE y reconversión fabril también son compatibles con adaptación europea; estas series no demuestran por sí solas una desindustrialización irreversible ni el mecanismo de captura fiscal de renta.
+
+En cada revisión semanal del sistema, incorporar solo novedades útiles; refrescar series cuando se publiquen, conservando la observación anterior con su periodo. Si no hay dato nuevo, mantener fecha y valor. No se crea vigilancia automática.
+
+Proponer un evento propio cuando emerja un caso delimitado —planta, actor, fecha y transmisión— o una acumulación de señales que Luis considere relevante. Un cierre anunciado no se cuenta como capacidad ya perdida; una inversión anunciada no se cuenta como fábrica operativa. El observatorio aporta contexto a [[TESIS_03_Captura_de_Renta]] y [[TESIS_06_IA_como_silicio_y_energia]] sin elevar automáticamente su soporte ni sumar carga.
 
 ## 8. FUENTES ESTRUCTURALES DE SEGUIMIENTO
 - Eurostat & OECD / Dependency ratios and labor productivity / Seguimiento de tasa de dependencia demográfica y evolución de la productividad multifactorial.
@@ -127,5 +177,23 @@ La divergencia industrial China-Europa gana evidencia física, aunque todavía n
 
 El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos políticos y confiscación de bienes para Xu Jiayin, junto con condenas a otros 56 acusados en el caso Evergrande. El pasivo aproximado de $300.000M dimensiona el cierre judicial de la crisis corporativa. Interpretar esta sentencia como una decisión de Pekín para desviar capital inmobiliario hacia silicio es una hipótesis de tesis —coherente con el patrón inversor—, no un hecho contenido en el fallo.
 
+
+</details>
+
+<details>
+<summary>Estado operativo W38 sustituido; conservado como antecedente</summary>
+
+## 0. ESTADO OPERATIVO
+- **Presión actual:** 🟡 MODERADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** Ninguno
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Productividad, envejecimiento, vivienda y sostenibilidad fiscal de transferencias.
+- **Razón del semáforo:** La revisión W38 no incorpora una nueva liquidación contributiva comparable, una serie homogénea de vivienda ni evidencia de desplazamiento fiscal de CAPEX. Se mantiene presión moderada y → sobre la base anterior, con actualización factual limitada. La ausencia de evidencia nueva no refuta el mecanismo secular ni justifica subir soporte.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>

@@ -1,6 +1,6 @@
 # ACTUALIZACIÓN SEMANAL — SISTEMA 231 (W32: 09-AGO-2026)
 
-> **ARCHIVADA Y REFUTADA EL 17/08/2026.** Esta revisión incorporó cifras de julio de 2024 como si fueran de 2026. No es fuente canónica ni debe alimentar decisiones. Véanse [[ACTUALIZACION_SEMANAL_231_2026_08_16]] y [[Radar_Eventos_2026_08]].
+> **ARCHIVADA Y REFUTADA EL 17/08/2026.** Esta revisión incorporó cifras de julio de 2024 como si fueran de 2026. No es fuente canónica ni debe alimentar decisiones. Véanse [[ACTUALIZACION_SEMANAL_231_2026_08_16]] y [[Radar_Eventos_2026_08_r1]].
 
 > **Corte factual:** 09 de agosto de 2026  
 > **Ejecutor:** Antigravity (asistido por Front Office)  
@@ -37,7 +37,7 @@ Durante la Semana 32 (3-9 de agosto de 2026), el Sistema 231 registra un repunte
 | `[[Evento_E0_2026_CoWoS_Capacity]]` | 🟡 Latente → | **Mantener** | CapEx confirmado; lead-times estables sin nuevo choque. |
 | `[[Evento_E0_2026_06_15_Spain_Pensiones_Renta]]` | 🟡 Latente → | **Mantener** | Nómina ordinaria dentro de presupuesto; próxima prueba en sept. |
 | `[[Evento_E0_2026_06_07_GNSS_Spoofing_Maritimo]]` | 🟠 Observación → | **Actualizar** | Persistencia de zonas de sombra en Báltico y Golfo Pérsico. |
-| `[[Evento_E0_2026_07_24_US_Tariff_Stack]]` | 🟠 Observación ↑ | **Actualizar** | Cuenta atrás para Section 338 Canadá (19-ago). |
+| `[[Evento_E1_2026_07_24_US_Tariff_Stack]]` | 🟠 Observación ↑ | **Actualizar** | Cuenta atrás para Section 338 Canadá (19-ago). |
 
 > **Parsimonia:** No se abren nuevas fichas de evento en W32.
 

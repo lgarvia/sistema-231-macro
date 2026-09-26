@@ -2,26 +2,31 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
-ultima_revision: "2026-09-19"
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-09-27
 triggers_activos: 1
 triggers_parciales: 1
+alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
 ---
 
 # 📝 Reconfiguración del comercio global
 
-## 0. ESTADO OPERATIVO
-- **Presión actual:** 🔴 Crítica
-- **Tendencia:** ↑ Acelerando
-- **Triggers completos:** 1 (Trigger 01 - Escalada arancelaria)
-- **Triggers parciales:** 1 (Trigger 02 - Volatilidad de fletes por desvíos)
-- **Condición de dominancia:** No activa
-- **Restricción dominante actual:** Sustitución del recargo global estadounidense de la Sección 122 por una superposición de instrumentos arancelarios vinculantes, bilaterales y sectoriales, combinada con nuevas barreras aduaneras en la UE.
-- **Razón del semáforo:** La fase jurídica Section 338 del 15/09 entra en el intervalo consumido; las prohibiciones del 29/09 siguen futuras. Se mantiene ↑ por escalonamiento normativo. Cobro por producto, pérdidas de fabricantes, contracción sectorial e inflación causal no se consideran verificados por la mera publicación de la norma.
+## 0. ESTADO OPERATIVO — precierre W39
 
+**🔴 Crítica · ↑ · carga primaria 19,2.** Semáforo conservado; no nueva activación por ampliar inventario. Corte 2026-09-26 20:48 Europe/Madrid; revisión aplicada 27-sep.
 
-- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
-- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+El [CSMS 69851916 de CBP, 11-sep](https://content.govdelivery.com/bulletins/gd/USDHSCBP-429db0c) confirma instrucciones de implementación desde 15-sep para partidas afectadas: antecedente recuperado, no nueva recaudación observada. [Canada Gazette, publicación 23-sep](https://gazette.gc.ca/rp-pr/p2/2026/2026-09-23/html/sor-dors186-eng.html) publica el acto del 8-sep; no se fecha la represalia como nueva el 23. La base canadiense de 27.600 M CAD no se expresa como dólares estadounidenses.
+
+Las prohibiciones estadounidenses anunciadas para **29-sep** son futuras al corte. Las recomendaciones comerciales Xi–EE. UU. no prueban rebajas ya aplicadas. [Casa Blanca, 8-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/), consulta 26–27-sep. Se conserva E1/P4/↑ sobre la escalada jurídica vigente; no se atribuye todavía el umbral de costes, comercio o inflación a esa escalada.
+
+### Auditoría de triggers propios
+
+- 01 — ACTIVO JURÍDICO HEREDADO: marco arancelario extraordinario sectorial >20%; instrucciones CBP y represalia documentan continuidad, sin certificar recaudación.
+- 02 — PARCIAL HEREDADO; NO VERIFICABLE: falta SCFI frente a media móvil de 90 días para desviación sostenida >20%.
+- 03 — NO VERIFICABLE: anuncios de compras o mecanismos bilaterales no prueban liquidaciones sin USD >50 B$ anuales.
+- 04 — NO VERIFICABLE: sin IED industrial homogénea hacia jurisdicciones puente que pruebe aumento >30% interanual.
+
+Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición operativa hacia el neomercantilismo bilateral, la reubicación de cadenas de suministro (friend-shoring) y la resiliencia en costes sobre la eficiencia de flujos libres.
@@ -29,7 +34,7 @@ triggers_parciales: 1
 - **Chokepoints:** Puertos de trasbordo de mercancías de escala mundial, corredores aduaneros y el mecanismo de solución de diferencias de la OMC.
 - **Transmisión:** Impacta en V01 (inflación importada y presión cambiaria) y V05 (competitividad del parque manufactuero nacional).
 
-## 2. TESIS INTERPRETATIVA
+## 2. TESIS INTERPRETATIVA — base anterior; lectura W39 en §0
 El consenso de libre comercio global se encuentra estructuralmente quebrado. La contención de costes ha dejado de ser la fuerza directriz, siendo sustituida por la seguridad de la cadena de suministro físico. Los Estados intervienen directamente para proteger sus sectores industriales mediante alianzas preferenciales que puentean el derecho internacional. Esta fragmentación segmenta el comercio en bloques aduaneros cerrados, erosionando a las economías que dependen puramente del saldo exportador global.
 
 **Tesis asociada:** [[TESIS_02_Frictionless_Stabilization]] / [[TESIS_04_Multipolaridad_Logistica]]
@@ -123,5 +128,23 @@ Domina un régimen de proteccionismo administrado donde las empresas absorben la
 
 A nivel agregado, la OMC estima que la proporción del comercio mundial bajo trato de nación más favorecida cayó del 80% en 2024 al 72% a comienzos de 2026. Sin embargo, su barómetro de bienes de junio se situó en 101,7: el comercio continúa por encima de tendencia, con transporte aéreo y contenedores en expansión más lenta y componentes electrónicos como principal excepción positiva. La fragmentación ya es arancelaria, regulatoria y de bloques, pero todavía no produce un colapso físico generalizado de inventarios; por eso la condición de dominancia permanece inactiva.
 
+
+</details>
+
+<details>
+<summary>Estado operativo W38 sustituido; conservado como antecedente</summary>
+
+## 0. ESTADO OPERATIVO
+- **Presión actual:** 🔴 Crítica
+- **Tendencia:** ↑ Acelerando
+- **Triggers completos:** 1 (Trigger 01 - Escalada arancelaria)
+- **Triggers parciales:** 1 (Trigger 02 - Volatilidad de fletes por desvíos)
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Sustitución del recargo global estadounidense de la Sección 122 por una superposición de instrumentos arancelarios vinculantes, bilaterales y sectoriales, combinada con nuevas barreras aduaneras en la UE.
+- **Razón del semáforo:** La fase jurídica Section 338 del 15/09 entra en el intervalo consumido; las prohibiciones del 29/09 siguen futuras. Se mantiene ↑ por escalonamiento normativo. Cobro por producto, pérdidas de fabricantes, contracción sectorial e inflación causal no se consideran verificados por la mera publicación de la norma.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>

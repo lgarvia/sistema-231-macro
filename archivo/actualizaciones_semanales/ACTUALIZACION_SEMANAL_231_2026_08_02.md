@@ -7,7 +7,7 @@ Ejecución parcial del protocolo manual candidato v0.2. Se completaron la línea
 - **Eventos activos:** 7 (6 E0 + 1 E1).
 - **Decisión validada — altas / archivos de eventos / fusiones / escaladas:** 0 / 0 / 0 / 0.
 - **Cambio operativo:** [[Evento_E0_2026_07_08_Grid_Stress_IA]] pasa de tendencia estable a acelerando por la Orden DOE 202-26-37 para SPP.
-- **Radar vigente:** [[Radar_Eventos_2026_08]], 26 hitos únicos entre el 3-ago y el 24-sep.
+- **Radar vigente:** [[Radar_Eventos_2026_08_r1]], 26 hitos únicos entre el 3-ago y el 24-sep.
 - **Radar anterior:** [[archivo/Radar_Eventos_2026_07_r4]], archivado; agosto queda como único radar activo.
 - **Dominancia:** V02 continúa dominante; V04 permanece como segundo vector de tensión.
 
@@ -24,7 +24,7 @@ Ejecución parcial del protocolo manual candidato v0.2. Se completaron la línea
 
 ## 2. Radar resultante
 
-El nuevo [[Radar_Eventos_2026_08]] retira siete hitos ya ejecutados, incorpora la expiración de DOE 202-26-37 y corrige Han Kuang 42 a la ventana oficial del 5 al 14-ago. La cobertura final es V01 9, V02 5, V03 1, V04 4, V05 4 y V06 3.
+El nuevo [[Radar_Eventos_2026_08_r1]] retira siete hitos ya ejecutados, incorpora la expiración de DOE 202-26-37 y corrige Han Kuang 42 a la ventana oficial del 5 al 14-ago. La cobertura final es V01 9, V02 5, V03 1, V04 4, V05 4 y V06 3.
 
 Puntos de control principales:
 
@@ -45,7 +45,7 @@ La reunión OPEP+ del 2-ago queda como proceso abierto: no se anticipa resultado
 | [[Evento_E0_2026_CoWoS_Capacity]] | Mantener E0 / P4 / ↑. CAPEX acelera, sin retraso AP7, deterioro de yields, recorte o sobrecapacidad. |
 | [[Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]] | Mantener E0 / P4 / ↑. Ventana Han Kuang, sin bloqueo o exclusión. |
 | [[Evento_E0_2026_06_15_Spain_Pensiones_Renta]] | Mantener E0 / P3 / →. Trigger actuarial inactivo. |
-| [[Evento_E0_2026_07_24_US_Tariff_Stack]] | Mantener E0 / P4 / ↑. Tránsito vencido; transmisión material todavía pendiente. |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | Mantener E0 / P4 / ↑. Tránsito vencido; transmisión material todavía pendiente. |
 
 ## 4. Validación del procedimiento
 

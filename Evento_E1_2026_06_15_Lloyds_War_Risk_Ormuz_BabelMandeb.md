@@ -7,42 +7,37 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
-ultima_revision: 2026-09-19
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: 2026-09-27
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
 ---
 
 # EVENTO: E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb
 
-## 1. SNAPSHOT ACTUAL
-- **Estado:** E1 — En curso
-- **Nivel de presión:** ELEVADA (P4)
-- **Dirección de tendencia:** ↑ Acelerando
-- **Peso estructural:** 4
-- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
-- **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
-- **Vector primario:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
-- **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_01_Arquitectura_monetaria_global]]
-- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+## 1. SNAPSHOT ACTUAL — precierre W39
 
-- OMI, comunicado del **16/09**: **80 ataques verificados y al menos 22 fallecidos** desde el 28/02 en el estrecho de Ormuz y sus proximidades. La base W37 era 75/22. El recuento no corresponde al mar Rojo. [OMI 16/09](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx).
-- **JWLA-035**, fechada el **16/09** y listada por IUA el 17/09, sustituye JWLA-034. Revisa el área del mar Negro; Ormuz y las zonas pertinentes del golfo de Adén/mar Rojo siguen listadas. [Circular JWLA-035](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf).
-- Una zona listada no fija una prima. No hay dos cotizaciones comparables ≥1,5%, retirada demostrada ≥48 horas ni métrica de flujo paralizado >5 Mb/d durante >48 horas admitidas en esta revisión.
+**E1 · P4 · peso 4 · ↑ (1,2) · carga 19,2 · V02.** Calibración conservada conforme a A/B; aplicación 27-sep, corte 2026-09-26 20:48 Europe/Madrid.
 
-**Decisión técnica:** Se mantiene E1 · P4 · ↑ por nuevos incidentes físicos, conservando el E1 heredado. No se declara una nueva activación A–D ni se usa la circular del mar Negro para inferir encarecimiento del seguro de Ormuz.
+OMI al **24-sep**: **85 incidentes confirmados y 24 marinos fallecidos**, frente a 80/22 en la base anterior al 16-sep. El incremento acumulado +5/+2 no significa que todos ocurrieran en esta semana. La relación incluye daños a AL MARYAH y LR STEPHANIE el 21-sep y CAPE DAO el 23-sep; no documenta por sí sola hundimiento de VLCC/GNL ni cierre de Ormuz >5 Mb/d durante >48 h.
 
-Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+La circular vigente recuperada sigue siendo JWLA-035. JWC delimita áreas; no fija una prima universal. No se han obtenido las dos cotizaciones independientes exigidas por A. Fuentes consultadas 27-sep: [OMI, relación de incidentes](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx), [LMA/JWC](https://lmalloyds.com/specialist_area/marine/). Se conserva E1/P4/↑ por recurrencia física; la intensidad económica queda incompletamente medida.
+
+Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
 
 ## 2. CONDICIONES DE ACTIVACIÓN
-- **Trigger A:** Dos brokers marítimos independientes o una circular verificable de mercado LMA/Lloyd's documentan una prima adicional de guerra igual o superior al 1,5% del valor de casco para el mismo corredor de Ormuz o Bab el-Mandeb, o la retirada/denegación efectiva de cobertura durante al menos 48 horas. **Estado al corte: NO VERIFICABLE COMPLETO. JWLA-035 acredita listado de zonas, no prima ≥1,5% ni denegación efectiva ≥48 horas. Faltan las cotizaciones o la prueba de retirada requeridas.**
-- **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
-- **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
-- **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
+- **Trigger A:** Dos brokers marítimos independientes o una circular verificable de mercado LMA/Lloyd's documentan una prima adicional de guerra igual o superior al 1,5% del valor de casco para el mismo corredor de Ormuz o Bab el-Mandeb, o la retirada/denegación efectiva de cobertura durante al menos 48 horas. **Estado al corte: NO VERIFICABLE: no se recuperaron dos cotizaciones independientes/circular verificable de prima ≥1,5% por casco y corredor comparable, ni retirada de cobertura ≥48 horas.**
+- **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO: OMI registra daños e incidentes, sin acreditar aquí hundimiento de buque crítico VLCC/GNL en el corredor requerido.**
+- **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE: sin declaración portuaria primaria de imposibilidad de bunkering por saturación en puertos africanos.**
+- **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE: sin prueba de cierre de Ormuz con impacto >5 Mb/d durante >48 horas.**
 
 ## 3. CONTEXTO Y SEÑAL DOMINANTE
 
-Se mantiene E1 · P4 · ↑ por nuevos incidentes físicos, conservando el E1 heredado. No se declara una nueva activación A–D ni se usa la circular del mar Negro para inferir encarecimiento del seguro de Ormuz.
-
-Los antecedentes anteriores conservan su fecha en el historial; el estado vivo es §1 y la evaluación de triggers es §2.
+La lectura vigente es §1 y la auditoría §2. Se conserva clase, P y tendencia aprobadas; el histórico no añade activaciones. La diferencia frente al subtotal 90,4 del piloto es +54,4: +32,4 por tres altas y +22,0 por calibrar Xi, midterms y Unitree, ya admitidos. No es una variación semanal homogénea ni demuestra empeoramiento de 54,4 puntos. Las cinco fichas base conservan P/peso/tendencia y suman 90,4. La carga es ordinal, no probabilidad ni pérdida esperada; solo se imputa una vez por vector primario.
 
 ## 4. TESIS (Luis)
 El poder naval de Occidente ha fracasado en asegurar el *global commons*. La globalización eficiente ha muerto; ahora es tarifada por el riesgo. El seguro marítimo se ha convertido en un actor geopolítico, y la prima de riesgo (War Risk) opera como un arancel global en la sombra, inyectando inflación física que los bancos centrales no pueden combatir con tipos de interés.
@@ -114,5 +109,36 @@ Ejecución autorizada por Luis el 19/09; juicio técnico del agente, sin atribui
 ### Contexto anterior
 La lista pública vigente es JWLA-034. La inclusión de un área obliga a evaluar y negociar la cobertura, pero el JWC no publica una tarifa de prima: describir la prima de guerra como «arancel en la sombra» pertenece a la tesis, no al registro factual de una cotización. La transmisión material se mide mediante dos cotizaciones independientes, retirada de cobertura, daño crítico a VLCC/LNG, saturación de rutas alternativas o interrupción física de flujo. En W37 la OMI elevó el balance a 75 incidentes y 22 víctimas mortales e incorporó tres buques dañados, uno con un fallecido. La recurrencia física justifica mantener E1 · P4 · ↑, pero no acredita por sí sola ninguno de los Triggers A–D.
 
+
+</details>
+
+<details>
+<summary>Snapshot y evaluación W38 sustituidos el 27-sep; umbrales canónicos conservados</summary>
+
+## 1. SNAPSHOT ACTUAL
+- **Estado:** E1 — En curso
+- **Nivel de presión:** ELEVADA (P4)
+- **Dirección de tendencia:** ↑ Acelerando
+- **Peso estructural:** 4
+- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
+- **Contribución primaria:** 4 × 4 × 1,2 = **19,2**
+- **Vector primario:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]
+- **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_01_Arquitectura_monetaria_global]]
+- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+
+- OMI, comunicado del **16/09**: **80 ataques verificados y al menos 22 fallecidos** desde el 28/02 en el estrecho de Ormuz y sus proximidades. La base W37 era 75/22. El recuento no corresponde al mar Rojo. [OMI 16/09](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx).
+- **JWLA-035**, fechada el **16/09** y listada por IUA el 17/09, sustituye JWLA-034. Revisa el área del mar Negro; Ormuz y las zonas pertinentes del golfo de Adén/mar Rojo siguen listadas. [Circular JWLA-035](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf).
+- Una zona listada no fija una prima. No hay dos cotizaciones comparables ≥1,5%, retirada demostrada ≥48 horas ni métrica de flujo paralizado >5 Mb/d durante >48 horas admitidas en esta revisión.
+
+**Decisión técnica:** Se mantiene E1 · P4 · ↑ por nuevos incidentes físicos, conservando el E1 heredado. No se declara una nueva activación A–D ni se usa la circular del mar Negro para inferir encarecimiento del seguro de Ormuz.
+
+Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+
+## 2. CONDICIONES DE ACTIVACIÓN
+- **Trigger A:** Dos brokers marítimos independientes o una circular verificable de mercado LMA/Lloyd's documentan una prima adicional de guerra igual o superior al 1,5% del valor de casco para el mismo corredor de Ormuz o Bab el-Mandeb, o la retirada/denegación efectiva de cobertura durante al menos 48 horas. **Estado al corte: NO VERIFICABLE COMPLETO. JWLA-035 acredita listado de zonas, no prima ≥1,5% ni denegación efectiva ≥48 horas. Faltan las cotizaciones o la prueba de retirada requeridas.**
+- **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
+- **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
+- **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
 
 </details>

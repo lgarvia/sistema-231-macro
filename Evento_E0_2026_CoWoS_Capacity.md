@@ -7,43 +7,37 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
-ultima_revision: 2026-09-19
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
+ultima_revision: 2026-09-27
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 3
+factor_tendencia: 1
+tendencia_calibrada: "→"
 ---
 
 # EVENTO: E0_2026_CoWoS_Capacity
 
-## 1. SNAPSHOT ACTUAL
-- **Estado:** E0 — En observación intensificada
-- **Nivel de presión:** ELEVADA (P4)
-- **Dirección de tendencia:** → Estable
-- **Peso estructural:** 4
-- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
-- **Contribución primaria:** 4 × 4 × 1,0 = **16,0**
-- **Vector primario:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]
-- **Vectores secundarios:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]], [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_05_Transformacion_industrial_y_demografia]]
-- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+## 1. SNAPSHOT ACTUAL — precierre W39
 
-- Antecedente recontrastado: ingresos TSMC de agosto **514.806 M NT$**, +10,1% mensual y +53,3% anual, publicados el 10/09. No son novedad W38 ni capacidad CoWoS medida. [TSMC agosto](https://pr.cld.tsmc.com/english/news/3340).
-- Antecedente recontrastado: NVIDIA FY2027 Q2, publicado el 26/08, **96,2 B$** de ingresos y **89,0 B$** en Data Center; guía Q3 **108 B$ ±2%**, todavía prospectiva. [NVIDIA resultados](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx).
-- Micron publicará FY26 Q4 el **30/09**: no se reutiliza la cifra histórica de 41,456 B$ como resultado anual FY2026 ya observado sin conciliar periodo y fuente. [Convocatoria Micron](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx).
-- No se recuperó nueva evidencia primaria que complete A–D. AP7, yields, entregas y lead times permanecen sin observación suficiente; facturación, guía y compromisos de suministro no se convierten en esas métricas.
+**E0 · P4 · peso 3 · → (1,0) · carga 12,0 · V03.** Calibración conservada conforme a A/B; aplicación 27-sep, corte 2026-09-26 20:48 Europe/Madrid.
 
-**Decisión técnica:** Se mantiene E0 · P4 · →. La evidencia corporativa sostiene la restricción física como hipótesis, pero esta revisión no identifica una aceleración nueva de CoWoS ni activa A–D. Se retiran del snapshot KPIs heredados sin periodo suficientemente conciliado.
+No se recuperó nueva prueba primaria de retraso de AP7, caída de rendimiento CoWoS-L, plazos generalizados o incumplimiento físico de entregas. No equivale a certificar ausencia de problemas. Los resultados TSMC Q2 y su guía Q3 son antecedentes; facturación y guía agregadas no miden capacidad de empaquetado.
 
-Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+[Calendario TSMC](https://investor.tsmc.com/english/financial-calendar), contrastado 27-sep: ventas septiembre **8-oct**, resultados Q3 **15-oct**, ventas octubre **10-nov**, sujetos a cambios. Son hitos futuros. La transcripción Q2 no se recuperó en esta consulta; no se rellenan yields o lead times desde estimaciones secundarias. [Resultados Q2](https://investor.tsmc.com/english/quarterly-results/2026/q2). Se conserva P4/→ con cobertura directa limitada. Alibaba se sigue en ficha propia por sustitución tecnológica, sin duplicar la carga del empaquetado.
+
+Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
 
 ## 2. CONDICIONES DE ACTIVACIÓN
-- **Trigger A:** Anuncio oficial de retrasos en el equipamiento o conexión de la planta AP7 en Chiayi (Taiwán) que posponga su fecha de producción en masa más allá de H1 2027. **Estado al corte: NO ACREDITADO. Sin anuncio primario nuevo de retraso AP7 más allá de H1 2027; no equivale a certificar cumplimiento del calendario.**
-- **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
-- **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
-- **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
+- **Trigger A:** Anuncio oficial de retrasos en el equipamiento o conexión de la planta AP7 en Chiayi (Taiwán) que posponga su fecha de producción en masa más allá de H1 2027. **Estado al corte: NO VERIFICABLE: no se recuperó comunicado oficial de retraso AP7 más allá de H1 2027; tampoco se certifica cumplimiento del plazo.**
+- **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO VERIFICABLE: sin serie de yields CoWoS-L y entregas Blackwell que pruebe recorte físico >20% frente a guía Q4 2026.**
+- **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: NO ACREDITADO COMPLETO: falta agregado homogéneo de guía CAPEX Q3/Q4 y nexo de reducción >10% con ralentización física de aceleradores; no mezclar trimestres fiscales.**
+- **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE: sin plazo generalizado <20 semanas atribuible a sobrecapacidad; no se sustituye por ingresos TSMC.**
 
 ## 3. CONTEXTO Y SEÑAL DOMINANTE
 
-Se mantiene E0 · P4 · →. La evidencia corporativa sostiene la restricción física como hipótesis, pero esta revisión no identifica una aceleración nueva de CoWoS ni activa A–D. Se retiran del snapshot KPIs heredados sin periodo suficientemente conciliado.
-
-Los antecedentes anteriores conservan su fecha en el historial; el estado vivo es §1 y la evaluación de triggers es §2.
+La lectura vigente es §1 y la auditoría §2. Se conserva clase, P y tendencia aprobadas; el histórico no añade activaciones. La diferencia frente al subtotal 90,4 del piloto es +54,4: +32,4 por tres altas y +22,0 por calibrar Xi, midterms y Unitree, ya admitidos. No es una variación semanal homogénea ni demuestra empeoramiento de 54,4 puntos. Las cinco fichas base conservan P/peso/tendencia y suman 90,4. La carga es ordinal, no probabilidad ni pérdida esperada; solo se imputa una vez por vector primario.
 
 ## 4. TESIS (Luis)
 La transición hacia la Agentic AI (IA Agéntica) condena a los hyperscalers a operar como "industria pesada". El CAPEX (estimado en $660B-$690B para 2026) ya no es una inversión discrecional en software, sino un gasto estructural e inflexible de supervivencia. La rentabilidad de esta infraestructura debe demostrarse antes de que colapse la red eléctrica o el flujo de caja libre. El Capex masivo en silicio se estrella contra la restricción física del empaquetado CoWoS y la memoria HBM.
@@ -118,5 +112,42 @@ Ejecución autorizada por Luis el 19/09; juicio técnico del agente, sin atribui
 ### Contexto anterior
 El despliegue del cómputo avanzado depende de obleas, empaquetado CoWoS, memoria HBM, equipos litográficos y capacidad energética. TSMC, ASML, Micron, Meta, Amazon y NVIDIA confirman demanda e inversión elevadas, pero también expansión de oferta. Los ingresos récord de TSMC en agosto son un sensor fuerte de demanda agregada, no una métrica directa de capacidad o *yield* de CoWoS. NVIDIA ha iniciado el envío de Vera Rubin y reconoce que la oferta seguirá siendo un cuello de botella al menos hasta FY2028. A 12/09 no se verifica retraso de AP7, deterioro de *yields* que reduzca entregas un 20%, recorte agregado de CAPEX ni sobrecapacidad que ejecute A–D. La señal dominante es presión estructural elevada sin aceleración específica del embudo demostrada en W37.
 
+
+</details>
+
+## Calibración humana — TASK_118, 19/09/2026
+
+Luis acepta peso 3. Estado técnico anterior: peso 4 y contribución 16,0; nuevo valor 12,0. Diferencia por juicio de importancia, sin nuevo deterioro factual. Los restantes pesos acordados se recogen en [[VECTOR_00_Indice]].
+
+<details>
+<summary>Snapshot y evaluación W38 sustituidos el 27-sep; umbrales canónicos conservados</summary>
+
+## 1. SNAPSHOT ACTUAL
+- **Estado:** E0 — En observación intensificada
+- **Nivel de presión:** ELEVADA (P4)
+- **Dirección de tendencia:** → Estable
+- **Peso estructural:** 3 (Luis, TASK_118; 19/09)
+- **Última actualización:** 2026-09-19 (precierre W38; corte 05:29 Europe/Madrid)
+- **Contribución primaria:** 4 × 3 × 1,0 = **12,0**
+- **Recalibración humana:** 19/09, posterior al corte factual 05:29; cambia solo el peso, no la evidencia, P ni tendencia.
+- **Vector primario:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]
+- **Vectores secundarios:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]], [[VECTOR_04_Reconfiguracion_del_comercio_global]], [[VECTOR_05_Transformacion_industrial_y_demografia]]
+- **Alcance:** evidencia publicada antes de 2026-09-19 05:29 Europe/Madrid; no cubre el domingo 20/09.
+
+- Antecedente recontrastado: ingresos TSMC de agosto **514.806 M NT$**, +10,1% mensual y +53,3% anual, publicados el 10/09. No son novedad W38 ni capacidad CoWoS medida. [TSMC agosto](https://pr.cld.tsmc.com/english/news/3340).
+- Antecedente recontrastado: NVIDIA FY2027 Q2, publicado el 26/08, **96,2 B$** de ingresos y **89,0 B$** en Data Center; guía Q3 **108 B$ ±2%**, todavía prospectiva. [NVIDIA resultados](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx).
+- Micron publicará FY26 Q4 el **30/09**: no se reutiliza la cifra histórica de 41,456 B$ como resultado anual FY2026 ya observado sin conciliar periodo y fuente. [Convocatoria Micron](https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx).
+- No se recuperó nueva evidencia primaria que complete A–D. AP7, yields, entregas y lead times permanecen sin observación suficiente; facturación, guía y compromisos de suministro no se convierten en esas métricas.
+
+**Decisión técnica:** Se mantiene E0 · P4 · →. La evidencia corporativa sostiene la restricción física como hipótesis, pero esta revisión no identifica una aceleración nueva de CoWoS ni activa A–D. Se retiran del snapshot KPIs heredados sin periodo suficientemente conciliado.
+
+Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+
+## 2. CONDICIONES DE ACTIVACIÓN
+- **Trigger A:** Anuncio oficial de retrasos en el equipamiento o conexión de la planta AP7 en Chiayi (Taiwán) que posponga su fecha de producción en masa más allá de H1 2027. **Estado al corte: NO ACREDITADO. Sin anuncio primario nuevo de retraso AP7 más allá de H1 2027; no equivale a certificar cumplimiento del calendario.**
+- **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
+- **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
+- **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
 
 </details>

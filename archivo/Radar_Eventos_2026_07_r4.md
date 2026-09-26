@@ -1,6 +1,6 @@
 # RADAR DE EVENTOS — Julio de 2026
 
-> Archivado el 02/08/2026 al activarse [[Radar_Eventos_2026_08]]. Revisión final r4.
+> Archivado el 02/08/2026 al activarse [[Radar_Eventos_2026_08_r1]]. Revisión final r4.
 
 *Actualizado: 2026-07-26. Horizonte móvil: 2026-07-27 a 2026-09-24. Fechas contrastadas con fuentes oficiales; no se incorporan resultados corporativos sin convocatoria o publicación verificable.*
 

@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-09-19
-corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
-corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
+ultima_actualizacion: 2026-09-27
+corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
+corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
+alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
 vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 ---
 
@@ -25,14 +25,11 @@ La tesis predice una globalización más segmentada y asegurada, no una desgloba
 - **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
 - **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
 
-## 3. Manifestaciones observables
+## 3. Manifestaciones observables — corte 26-sep 20:48
 
-- **Seguros:** JWLA-034 es la lista pública vigente del JWC, revisada en julio de 2026; la inclusión no equivale a una prima publicada.
-- **Operación:** UKMTO mantiene cautela reforzada; no consta impedimento general de tránsito hacia destinos no iraníes.
-- **Flujos:** la EIA registró recuperación del tráfico por Ormuz y Brent por debajo de 70 $/b el 01/07 tras la desescalada de junio.
-- **Reescalada física:** la OMI contabiliza al menos 70 ataques y 19 marinos fallecidos al 28/08. La recurrencia amplía la evidencia física, sin demostrar cierre total del paso ni un nivel público de prima aseguradora.
-- **Riesgo tecnológico:** EMSA, OMI y EASA mantienen medidas de vigilancia y mitigación frente a interferencia GNSS, sin daño mercante crítico atribuido a spoofing.
-- **Comercio:** la OMC observa transporte marítimo y aéreo todavía en expansión, aunque con desaceleración.
+OMI eleva el acumulado a 85 incidentes y 24 fallecidos al 24-sep. Es evidencia de recurrencia física, con primas y tránsito aún incompletamente medidos. Gas europeo añade observación del balance invernal; una instantánea no prueba restricción. [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
 
 ## 4. Tensiones internas
 
@@ -62,16 +59,15 @@ La tesis predice una globalización más segmentada y asegurada, no una desgloba
 - Ausencia prolongada de diferencias de coste entre corredores expuestos y no expuestos.
 - Recuperación del arbitraje logístico global sin necesidad de redundancia estratégica.
 
-## 7. Calibración actual — 19/09/2026 (precierre W38)
+## 7. Calibración actual — 27/09/2026 (precierre W39)
 
-- **Soporte:** Moderado-alto; vigente.
-- **A favor:** Los 80 ataques verificados por OMI y la continuidad de medidas de sanción sostienen la recurrencia de fricción marítima e institucional.
-- **Contraevidencia y límites:** JWLA-035 ajusta el mar Negro sin demostrar encarecimiento en Ormuz; no se acreditan retirada de seguro, saturación africana o cierre >5 Mb/d.
-- **Ambigüedad causal:** La cifra OMI se refiere a Ormuz y proximidades; no prueba fragmentación uniforme de todas las rutas ni costes permanentes.
-- **Próxima falsación:** Contrastar primas comparables, desvíos atribuibles y tráfico físico; normalización sostenida de costes y rutas debilitaría el mecanismo.
-- **Juicio técnico:** Se mantiene moderado-alto: recurrencia física confirmada, transmisión económica incompleta.
+- **Soporte:** Moderado-alto; se conserva.
+- **Apoyo:** La recurrencia física OMI y la exposición de gas europeo apoyan dependencia de rutas y nodos.
+- **Contraevidencia:** Diplomacia bilateral e inventarios disponibles permiten amortiguar la transmisión.
+- **Ambigüedad / límite:** Incidentes no cuantifican cierre, prima o caída de flujos; inventario gas aislado no mide deterioro.
+- **Próxima falsación:** Contrastar tránsito, seguros, fletes y restricciones industriales con duración y causalidad.
 
-Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx) · [jwc](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf) · [eu](https://eur-lex.europa.eu/eli/dec/2026/2103/oj/eng/pdf)
+Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
 
 ## 8. Fuentes de seguimiento
 
@@ -111,5 +107,35 @@ Se mantiene moderado-alto: recurrencia física confirmada, transmisión económi
 - **Evidencia contradictoria:** ausencia de cierre superior a 5 Mb/d, de retirada de cobertura demostrada y de un benchmark oficial del JWC para primas.
 - **Cambio de esta revisión:** aumenta el recuento físico, pero se mantiene la escalera probatoria estricta entre incidente, coste asegurador y desvío físico. Sin benchmark público de primas, no se incorpora la cifra narrativa del corpus como dato.
 
+
+</details>
+
+<details>
+<summary>Calibración W38 sustituida por §7; preservada</summary>
+
+## 7. Calibración actual — 19/09/2026 (precierre W38)
+
+- **Soporte:** Moderado-alto; vigente.
+- **A favor:** Los 80 ataques verificados por OMI y la continuidad de medidas de sanción sostienen la recurrencia de fricción marítima e institucional.
+- **Contraevidencia y límites:** JWLA-035 ajusta el mar Negro sin demostrar encarecimiento en Ormuz; no se acreditan retirada de seguro, saturación africana o cierre >5 Mb/d.
+- **Ambigüedad causal:** La cifra OMI se refiere a Ormuz y proximidades; no prueba fragmentación uniforme de todas las rutas ni costes permanentes.
+- **Próxima falsación:** Contrastar primas comparables, desvíos atribuibles y tráfico físico; normalización sostenida de costes y rutas debilitaría el mecanismo.
+- **Juicio técnico:** Se mantiene moderado-alto: recurrencia física confirmada, transmisión económica incompleta.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx) · [jwc](https://lmalloyds.com/wp-content/uploads/2026/09/JWLA-035-Black-Sea.pdf) · [eu](https://eur-lex.europa.eu/eli/dec/2026/2103/oj/eng/pdf)
+
+</details>
+
+<details>
+<summary>Manifestaciones anteriores sustituidas; no reutilizar cifras sin contraste primario</summary>
+
+## 3. Manifestaciones observables
+
+- **Seguros:** JWLA-034 es la lista pública vigente del JWC, revisada en julio de 2026; la inclusión no equivale a una prima publicada.
+- **Operación:** UKMTO mantiene cautela reforzada; no consta impedimento general de tránsito hacia destinos no iraníes.
+- **Flujos:** la EIA registró recuperación del tráfico por Ormuz y Brent por debajo de 70 $/b el 01/07 tras la desescalada de junio.
+- **Reescalada física:** la OMI contabiliza al menos 70 ataques y 19 marinos fallecidos al 28/08. La recurrencia amplía la evidencia física, sin demostrar cierre total del paso ni un nivel público de prima aseguradora.
+- **Riesgo tecnológico:** EMSA, OMI y EASA mantienen medidas de vigilancia y mitigación frente a interferencia GNSS, sin daño mercante crítico atribuido a spoofing.
+- **Comercio:** la OMC observa transporte marítimo y aéreo todavía en expansión, aunque con desaceleración.
 
 </details>

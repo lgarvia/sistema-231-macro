@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-09-19
-corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
-corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
+ultima_actualizacion: 2026-09-27
+corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
+corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
+alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
 ---
 
@@ -27,17 +27,11 @@ La validación exige separar tres capas: **(1) vivienda y demografía**, **(2) f
 - **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
 - **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
 
-## 3. Manifestaciones observables
+## 3. Manifestaciones observables — corte 26-sep 20:48
 
-- **Pensiones:** en junio de 2026 se abonaron 10.498.828 pensiones; la nómina ordinaria fue de 14.034,8 M€ y la pensión media alcanzó 1.371,4 €, un 4,6% interanual.
-- **Vivienda:** el Índice de Precios de Vivienda de España subió un 12,2% interanual y un 3,5% trimestral en el primer trimestre de 2026.
-- **Actividad industrial:** en junio, la producción industrial quedó en 0,0% mensual y +0,1% interanual en la eurozona; en la UE avanzó +0,2% mensual y +0,6% interanual. La evidencia apunta a estancamiento, no a colapso uniforme.
-- **Contrapeso laboral:** la Seguridad Social sumó 280.403 afiliados en la primera quincena de julio y superó 22,5 millones en la serie diaria. Refuerza la base de cotizantes, pero no permite inferir por sí sola el saldo contributivo.
-- **Transmisión:** vivienda y gasto social reducen margen de consumo, ahorro y movilidad cuando crecen persistentemente por encima de salarios y productividad.
-- **Hipótesis del corpus propio (15/08/2026):** el acceso a vivienda y al crédito puede operar como barrera de entrada patrimonial. Es una hipótesis interpretativa y no evidencia factual autónoma.
-- **Hipótesis del corpus propio (20/08/2026):** Europa dispone de ahorro y ciencia, pero carece de capital de escala y canales de conversión suficientes. Se usa para orientar sensores de CAPEX, no como evidencia primaria.
-- **Escala industrial china:** Unitree salió a bolsa con un plan de inversión de 4.200 M de yuanes y Alibaba comprometió 80.000 M HK$ para IA. Frente al estancamiento industrial europeo, las cifras refuerzan la hipótesis de divergencia en escala de capital, pero no prueban fuga neta de CAPEX desde Europa.
-- **Disciplina inmobiliaria china:** el Tribunal Popular Supremo confirmó cadena perpetua y confiscación patrimonial para Xu Jiayin y condenas para otros 56 acusados. El fallo cierra judicialmente el caso Evergrande; atribuirle una reasignación de capital hacia silicio es interpretación del corpus, no hecho judicial.
+ACEA enero–agosto 2026 y las entregas Unitree 2025 son sensores de transformación industrial; no prueban por sí mismos captura de renta, desplazamiento contributivo o deterioro de pensiones. No se incorpora una nueva serie fiscal/demográfica homogénea en W39. [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[Evento_E0_2026_09_19_Robotica_Unitree]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
 
 ## 4. Tensiones internas
 
@@ -66,16 +60,15 @@ La validación exige separar tres capas: **(1) vivienda y demografía**, **(2) f
 - Expansión material de oferta residencial que reduzca el esfuerzo de acceso.
 - Equilibrio contributivo estable sin detracción de inversión pública productiva.
 
-## 7. Calibración actual — 19/09/2026 (precierre W38)
+## 7. Calibración actual — 27/09/2026 (precierre W39)
 
-- **Soporte:** Moderado-alto; vigente.
-- **A favor:** No se añade apoyo directo nuevo al mecanismo de captura fiscal; permanece la base histórica diferenciada de vivienda, demografía y flujo contributivo.
-- **Contraevidencia y límites:** No se admite contraevidencia nueva decisiva; tampoco se ha demostrado desplazamiento causal de ahorro o inversión con los datos W38.
-- **Ambigüedad causal:** Tipos altos, ingresos tecnológicos o sanciones no son mediciones de captura de renta. El grado no aumenta por ausencia de refutación.
-- **Próxima falsación:** Exigir liquidaciones contributivas homogéneas y evidencia de desplazamiento de inversión; productividad y ahorro sostenidos bajo menor carga debilitarían el mecanismo.
-- **Juicio técnico:** Se conserva moderado-alto como evaluación heredada, con cobertura semanal limitada y sin validación adicional.
+- **Soporte:** Moderado-alto; se conserva.
+- **Apoyo:** Se conserva el corpus previo; ACEA y Unitree aportan sensores industriales.
+- **Contraevidencia:** Adopción de vehículos o robots también puede elevar productividad y renta disponible.
+- **Ambigüedad / límite:** No hay esta semana series homogéneas que prueben desplazamiento fiscal, demográfico o de renta por esos sensores.
+- **Próxima falsación:** Comparar renta, inversión, vivienda y pensiones en universos compatibles; sin validación incremental W39.
 
-Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. No se declara búsqueda exhaustiva de todas las fuentes estructurales de esta tesis.
+Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
 
 ## 8. Fuentes de seguimiento
 
@@ -118,5 +111,38 @@ Se conserva moderado-alto como evaluación heredada, con cobertura semanal limit
 - **Contrapeso factual:** afiliación al alza en julio; amplía la base laboral y desaconseja una lectura automática de deterioro contributivo.
 - **Evidencia pendiente:** liquidación comparable de cotizaciones, gasto y transferencias; ratio cotizantes/pensionistas; distribución del esfuerzo por edad y renta.
 
+
+</details>
+
+<details>
+<summary>Calibración W38 sustituida por §7; preservada</summary>
+
+## 7. Calibración actual — 19/09/2026 (precierre W38)
+
+- **Soporte:** Moderado-alto; vigente.
+- **A favor:** No se añade apoyo directo nuevo al mecanismo de captura fiscal; permanece la base histórica diferenciada de vivienda, demografía y flujo contributivo.
+- **Contraevidencia y límites:** No se admite contraevidencia nueva decisiva; tampoco se ha demostrado desplazamiento causal de ahorro o inversión con los datos W38.
+- **Ambigüedad causal:** Tipos altos, ingresos tecnológicos o sanciones no son mediciones de captura de renta. El grado no aumenta por ausencia de refutación.
+- **Próxima falsación:** Exigir liquidaciones contributivas homogéneas y evidencia de desplazamiento de inversión; productividad y ahorro sostenidos bajo menor carga debilitarían el mecanismo.
+- **Juicio técnico:** Se conserva moderado-alto como evaluación heredada, con cobertura semanal limitada y sin validación adicional.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. No se declara búsqueda exhaustiva de todas las fuentes estructurales de esta tesis.
+
+</details>
+
+<details>
+<summary>Manifestaciones anteriores sustituidas; no reutilizar cifras sin contraste primario</summary>
+
+## 3. Manifestaciones observables
+
+- **Pensiones:** en junio de 2026 se abonaron 10.498.828 pensiones; la nómina ordinaria fue de 14.034,8 M€ y la pensión media alcanzó 1.371,4 €, un 4,6% interanual.
+- **Vivienda:** el Índice de Precios de Vivienda de España subió un 12,2% interanual y un 3,5% trimestral en el primer trimestre de 2026.
+- **Actividad industrial:** en junio, la producción industrial quedó en 0,0% mensual y +0,1% interanual en la eurozona; en la UE avanzó +0,2% mensual y +0,6% interanual. La evidencia apunta a estancamiento, no a colapso uniforme.
+- **Contrapeso laboral:** la Seguridad Social sumó 280.403 afiliados en la primera quincena de julio y superó 22,5 millones en la serie diaria. Refuerza la base de cotizantes, pero no permite inferir por sí sola el saldo contributivo.
+- **Transmisión:** vivienda y gasto social reducen margen de consumo, ahorro y movilidad cuando crecen persistentemente por encima de salarios y productividad.
+- **Hipótesis del corpus propio (15/08/2026):** el acceso a vivienda y al crédito puede operar como barrera de entrada patrimonial. Es una hipótesis interpretativa y no evidencia factual autónoma.
+- **Hipótesis del corpus propio (20/08/2026):** Europa dispone de ahorro y ciencia, pero carece de capital de escala y canales de conversión suficientes. Se usa para orientar sensores de CAPEX, no como evidencia primaria.
+- **Escala industrial china:** Unitree salió a bolsa con un plan de inversión de 4.200 M de yuanes y Alibaba comprometió 80.000 M HK$ para IA. Frente al estancamiento industrial europeo, las cifras refuerzan la hipótesis de divergencia en escala de capital, pero no prueban fuga neta de CAPEX desde Europa.
+- **Disciplina inmobiliaria china:** el Tribunal Popular Supremo confirmó cadena perpetua y confiscación patrimonial para Xu Jiayin y condenas para otros 56 acusados. El fallo cierra judicialmente el caso Evergrande; atribuirle una reasignación de capital hacia silicio es interpretación del corpus, no hecho judicial.
 
 </details>

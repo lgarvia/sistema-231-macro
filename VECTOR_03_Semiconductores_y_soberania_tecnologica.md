@@ -2,26 +2,33 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-09-19 05:29 Europe/Madrid"
-ultima_revision: "2026-09-19"
+corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-09-27
 triggers_activos: 0
 triggers_parciales: 1
+alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
 ---
 
 # 📝 Semiconductores y soberanía tecnológica
 
-## 0. ESTADO OPERATIVO
-- **Presión actual:** 🟠 ELEVADA
-- **Tendencia:** → Estable
-- **Triggers completos:** Ninguno
-- **Triggers parciales:** 1 (Capex / guía de hyperscalers); los lead times carecen de una actualización primaria reciente
-- **Condición de dominancia:** No activa
-- **Restricción dominante actual:** Capacidad simultánea de litografía EUV, empaquetado avanzado (CoWoS), memoria HBM e interconexión eléctrica para absorber el despliegue físico de clusters de IA.
-- **Razón del semáforo:** TSMC agosto y NVIDIA FY2027 Q2 se recontrastan como antecedentes de demanda; no hay nueva medición suficiente de AP7, yields o lead times en el corpus admitido. Micron 30/09 permanece futuro. Continúa →: se distingue presión física estructural de aceleración semanal demostrada.
+## 0. ESTADO OPERATIVO — precierre W39
 
+**🟠 Elevada · → · carga primaria 18,0.** Semáforo conservado; no nueva activación por ampliar inventario. Corte 2026-09-26 20:48 Europe/Madrid; revisión aplicada 27-sep.
 
-- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
-- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+No se recuperó nueva prueba primaria de retraso de AP7, caída de rendimiento CoWoS-L, plazos generalizados o incumplimiento físico de entregas. No equivale a certificar ausencia de problemas. Los resultados TSMC Q2 y su guía Q3 son antecedentes; facturación y guía agregadas no miden capacidad de empaquetado.
+
+[Calendario TSMC](https://investor.tsmc.com/english/financial-calendar), contrastado 27-sep: ventas septiembre **8-oct**, resultados Q3 **15-oct**, ventas octubre **10-nov**, sujetos a cambios. Son hitos futuros. La transcripción Q2 no se recuperó en esta consulta; no se rellenan yields o lead times desde estimaciones secundarias. [Resultados Q2](https://investor.tsmc.com/english/quarterly-results/2026/q2). Se conserva P4/→ con cobertura directa limitada. Alibaba se sigue en ficha propia por sustitución tecnológica, sin duplicar la carga del empaquetado.
+
+Chips chinos incorpora 6,0; producción comercial prevista no observada.
+
+### Auditoría de triggers propios
+
+- 01 — PARCIAL HEREDADO; NO VERIFICABLE agregado: falta guía trimestral homogénea de hyperscalers y desviación >15%; Oracle aislado no basta.
+- 02 — NO VERIFICABLE: no se recuperó serie de plazos >24 semanas generalizados.
+- 03 — NO ACREDITADO NUEVO: sin nuevo registro formal recuperado sobre nodos/arquitecturas de vanguardia; anuncio comercial Alibaba no es sanción.
+- 04 — NO ACREDITADO: V900 anunciado para Q1 2027 no es auditoría de procesamiento comercial sub-5nm sin litografía occidental.
+
+Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Competición logística, industrial y soberana por el control de la cadena de valor de hardware avanzado (litografía, diseño y fundición) y la capacidad de cómputo asociada a la seguridad nacional.
@@ -29,7 +36,7 @@ triggers_parciales: 1
 - **Chokepoints:** Equipos de litografía EUV/High-NA, fundiciones avanzadas (nodos sub-5nm) y acceso monopolizado a materias primas críticas (galio, germanio, grafito).
 - **Transmisión:** Impacta en V04 (creación de bloques de comercio tecnológico aislados) y V06 (superioridad de los sistemas de mando y control militar).
 
-## 2. TESIS INTERPRETATIVA
+## 2. TESIS INTERPRETATIVA — base anterior; lectura W39 en §0
 La competición tecnológica por la inteligencia artificial ha abandonado la abstracción del software para convertirse en una carrera masiva por activos físicos de hardware y silicio limitado. La soberanía tecnológica radica en la independencia física de la fundición y la litografía. Las restricciones comerciales forzarán la creación de cadenas de suministro paralelas e inmunes al control aduanero occidental mediante técnicas de empaquetado avanzado y nodos maduros optimizados.
 
 **Tesis asociada:** [[TESIS_06_IA_como_silicio_y_energia]]
@@ -132,5 +139,34 @@ Apple añade una bifurcación de arquitectura, no una sustitución inmediata de 
 
 En el frente de soberanía y materiales alternativos, las publicaciones sobre transistores basados en disulfuro de molibdeno (MoS2) documentan investigación de laboratorio en semiconductores 2D (Nivel 1-2), sin constituir evidencia técnica auditada de fabricación comercial viable sub-5nm (Nivel 4-5) ni alterar la dependencia de equipos de litografía de vanguardia.
 
+
+</details>
+
+
+
+<details>
+<summary>Adenda inicial sustituida; calibración final y carga vigentes en §0</summary>
+
+## Adenda inicial de inventario — 27/09/2026, sustituida por cierre W39 en §0
+
+Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibración pendiente. ND no es cero: la carga de este vector sigue siendo parcial. Evidencia y condiciones de revisión en la ficha; sin nuevo trigger estructural ni cambio automático de semáforo/tesis por añadirla. Corte de nueva evidencia 26-sep 20:48; el histórico conserva sus fechas.
+
+</details>
+
+<details>
+<summary>Estado operativo W38 sustituido; conservado como antecedente</summary>
+
+## 0. ESTADO OPERATIVO
+- **Presión actual:** 🟠 ELEVADA
+- **Tendencia:** → Estable
+- **Triggers completos:** Ninguno
+- **Triggers parciales:** 1 (Capex / guía de hyperscalers); los lead times carecen de una actualización primaria reciente
+- **Condición de dominancia:** No activa
+- **Restricción dominante actual:** Capacidad simultánea de litografía EUV, empaquetado avanzado (CoWoS), memoria HBM e interconexión eléctrica para absorber el despliegue físico de clusters de IA.
+- **Razón del semáforo:** TSMC agosto y NVIDIA FY2027 Q2 se recontrastan como antecedentes de demanda; no hay nueva medición suficiente de AP7, yields o lead times en el corpus admitido. Micron 30/09 permanece futuro. Continúa →: se distingue presión física estructural de aceleración semanal demostrada.
+
+
+- **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+- **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>

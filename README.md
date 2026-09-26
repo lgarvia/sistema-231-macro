@@ -43,8 +43,9 @@ Este repositorio está concebido como material pedagógico en programas de posgr
 ### Cómo clonarlo localmente:
 ```bash
 git clone https://github.com/lgarvia/sistema-231-macro.git
+```
 
 
 ## Última calibración
 
-[Precierre W38 — informe nominal 20/09/2026](ACTUALIZACION_SEMANAL_231_2026_09_20.md), con corte factual 19/09/2026 05:29 Europe/Madrid. Carga 89,6; cinco eventos activos y radar de 21 filas. Los límites de evidencia están documentados; el observatorio no implica vigilancia continua.
+**27/09/2026 — precierre W39 completado.** **11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 144,8.** La diferencia frente al subtotal 90,4 del piloto es +54,4: +32,4 por tres altas y +22,0 por calibrar Xi, midterms y Unitree, ya admitidos. No es una variación semanal homogénea ni demuestra empeoramiento de 54,4 puntos. Las cinco fichas base conservan P/peso/tendencia y suman 90,4. La carga es ordinal, no probabilidad ni pérdida esperada; solo se imputa una vez por vector primario. [Informe vigente](ACTUALIZACION_SEMANAL_231_2026_09_27.md) · [Inventario](VECTOR_00_Indice.md). Corte26-sep20:48 Europe/Madrid. Publicación en GitHub autorizada por Luis tras el cierre local.

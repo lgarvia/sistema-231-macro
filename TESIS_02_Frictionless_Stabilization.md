@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: alto
-ultima_actualizacion: 2026-09-19
-corte_factual_actual: "2026-09-19 05:29 Europe/Madrid"
-corte_factual_previo: "2026-09-12 21:21 Europe/Madrid"
-alcance_actualizacion: "Precierre W38 TASK_116; revisión técnica autorizada, sin validación humana posterior implícita"
+ultima_actualizacion: 2026-09-27
+corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
+corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
+alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 ---
 
@@ -26,14 +26,11 @@ La estabilización es táctica, no una reconciliación: reduce la fricción visi
 - **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
 - **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
 
-## 3. Manifestaciones observables
+## 3. Manifestaciones observables — corte 26-sep 20:48
 
-- **Comercio:** la cuota del comercio mundial bajo trato NMF cayó del 80% en 2024 a aproximadamente el 72% a comienzos de 2026, pero sigue siendo el marco dominante.
-- **Fragmentación gradual:** proliferan medidas preferenciales, recargos y controles sectoriales sin embargo comercial total.
-- **Coerción modular estadounidense:** el recargo temporal de Section 122 expiró el 24/07, pero fue sustituido por acciones Section 301 sobre Brasil y sesenta economías y por Section 338 sobre Canadá. La Casa Blanca aplazó tres días esta última capa para negociar; al no localizarse una nueva suspensión, entró materialmente en vigor el 22/08.
-- **Respuesta calibrada:** Canadá anunció aranceles del 15%, 25% y 50% sobre $27.600M de importaciones estadounidenses desde el 08/09, además de apoyo a empresas y trabajadores. Es una contramedida material pero modular: profundiza la fricción sin cerrar el intercambio bilateral.
-- **Desescalada táctica:** la EIA registró recuperación del tráfico por Ormuz tras el entendimiento EE. UU.–Irán de junio, aunque persisten listed areas y cautela reforzada.
-- **Adaptación:** friend-shoring, triangulación y desvíos permiten continuar los flujos a mayor coste en vez de interrumpirlos por completo.
+Las instrucciones CBP y la publicación canadiense documentan continuidad jurídica; la prohibición del 29-sep aún es futura al corte. Xi añade mecanismos bilaterales anunciados cuya ejecución falta comprobar. Modularidad no equivale a estabilización económica. Véanse [[Evento_E1_2026_07_24_US_Tariff_Stack]] y [[Evento_E0_2026_09_19_Visita_Xi_EEUU]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
 
 ## 4. Tensiones internas
 
@@ -62,16 +59,15 @@ La estabilización es táctica, no una reconciliación: reduce la fricción visi
 - Restablecimiento duradero del multilateralismo con reducción material de aranceles y controles.
 - Normalización de rutas, seguros y reglas comerciales a niveles previos sin nuevas capas de coerción.
 
-## 7. Calibración actual — 19/09/2026 (precierre W38)
+## 7. Calibración actual — 27/09/2026 (precierre W39)
 
-- **Soporte:** Alto; vigente.
-- **A favor:** La ejecución jurídica escalonada de Section 338 y las medidas OFAC muestran instrumentos selectivos de coerción.
-- **Contraevidencia y límites:** La recurrencia de ataques marítimos y las prohibiciones previstas pueden erosionar la contención; todavía falta medir su alcance material.
-- **Ambigüedad causal:** Modularidad normativa es observable; estabilización efectiva de flujos no se demuestra mediante el acto jurídico.
-- **Próxima falsación:** Verificar el 29/09, los flujos sectoriales y si la coerción permite continuidad o deriva en ruptura sostenida.
-- **Juicio técnico:** Se mantiene alto sobre el corpus previo; esta semana refuerza modularidad, no garantiza estabilización.
+- **Soporte:** Alto; se conserva.
+- **Apoyo:** La combinación de medidas canadienses selectivas y mecanismos Xi–EE. UU. respalda coerción modular.
+- **Contraevidencia:** Las prohibiciones futuras pueden romper, en vez de estabilizar, intercambios.
+- **Ambigüedad / límite:** La modularidad jurídica no mide estabilidad económica alcanzada.
+- **Próxima falsación:** Observar aplicación, flujos y persistencia de canales; ruptura sostenida debilitaría la tesis.
 
-Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [law](https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf) · [tariff](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/) · [ofac1](https://home.treasury.gov/news/press-releases/sb0629/) · [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx)
+Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
 
 ## 8. Fuentes de seguimiento
 
@@ -112,5 +108,35 @@ Se mantiene alto sobre el corpus previo; esta semana refuerza modularidad, no ga
 - **Evidencia contradictoria:** el comercio mundial sigue siendo mayoritariamente multilateral y la OMC proyecta crecimiento de mercancías, no colapso.
 - **Cambio de esta revisión:** la respuesta canadiense ya no es una posibilidad del radar sino una medida anunciada con fecha y lista de productos. El soporte sigue alto; todavía no hay datos de transmisión física ni ruptura de flujos.
 
+
+</details>
+
+<details>
+<summary>Calibración W38 sustituida por §7; preservada</summary>
+
+## 7. Calibración actual — 19/09/2026 (precierre W38)
+
+- **Soporte:** Alto; vigente.
+- **A favor:** La ejecución jurídica escalonada de Section 338 y las medidas OFAC muestran instrumentos selectivos de coerción.
+- **Contraevidencia y límites:** La recurrencia de ataques marítimos y las prohibiciones previstas pueden erosionar la contención; todavía falta medir su alcance material.
+- **Ambigüedad causal:** Modularidad normativa es observable; estabilización efectiva de flujos no se demuestra mediante el acto jurídico.
+- **Próxima falsación:** Verificar el 29/09, los flujos sectoriales y si la coerción permite continuidad o deriva en ruptura sostenida.
+- **Juicio técnico:** Se mantiene alto sobre el corpus previo; esta semana refuerza modularidad, no garantiza estabilización.
+
+Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [law](https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf) · [tariff](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/) · [ofac1](https://home.treasury.gov/news/press-releases/sb0629/) · [imo](https://www.imo.org/en/mediacentre/pressbriefings/pages/stop-attacking-ships-and-seafarers-imo-secretary-general.aspx)
+
+</details>
+
+<details>
+<summary>Manifestaciones anteriores sustituidas; no reutilizar cifras sin contraste primario</summary>
+
+## 3. Manifestaciones observables
+
+- **Comercio:** la cuota del comercio mundial bajo trato NMF cayó del 80% en 2024 a aproximadamente el 72% a comienzos de 2026, pero sigue siendo el marco dominante.
+- **Fragmentación gradual:** proliferan medidas preferenciales, recargos y controles sectoriales sin embargo comercial total.
+- **Coerción modular estadounidense:** el recargo temporal de Section 122 expiró el 24/07, pero fue sustituido por acciones Section 301 sobre Brasil y sesenta economías y por Section 338 sobre Canadá. La Casa Blanca aplazó tres días esta última capa para negociar; al no localizarse una nueva suspensión, entró materialmente en vigor el 22/08.
+- **Respuesta calibrada:** Canadá anunció aranceles del 15%, 25% y 50% sobre $27.600M de importaciones estadounidenses desde el 08/09, además de apoyo a empresas y trabajadores. Es una contramedida material pero modular: profundiza la fricción sin cerrar el intercambio bilateral.
+- **Desescalada táctica:** la EIA registró recuperación del tráfico por Ormuz tras el entendimiento EE. UU.–Irán de junio, aunque persisten listed areas y cautela reforzada.
+- **Adaptación:** friend-shoring, triangulación y desvíos permiten continuar los flujos a mayor coste en vez de interrumpirlos por completo.
 
 </details>
