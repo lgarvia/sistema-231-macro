@@ -2,14 +2,31 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
-ultima_revision: 2026-09-27
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-03
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
+alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
 ---
 
 # 📝 Transformación industrial y demografía
+
+## 0. Estado operativo — precierre W40
+
+**🟡 Moderada · → · carga primaria 5,80.** Semáforo y tendencia conservados; carga derivada de las fichas, no señal autónoma. Corte 2026-10-03 02:06 Europe/Madrid; aplicación 03-oct.
+
+[Unitree News](https://www.unitree.com/news/): sin nueva evidencia primaria de uso productivo recurrente recuperada en esta revisión; cobertura incompleta, no ausencia de despliegues. Entregas/producción 2025 siguen como antecedentes del fabricante, no productividad 2026. Peso 2,9 por menor novedad relativa; conservar sensores de clientes, horas útiles y coste por tarea.
+
+[BLS publicado 02-oct 08:30 ET](https://www.bls.gov/news.release/empsit.nr0.htm): septiembre +29.000 empleos y paro 4,2%; revisiones julio +21.000 → −10.000 y agosto +162.000 → +133.000. No prueba causalidad de IA. [BEA publicado 30-sep](https://www.bea.gov/news/2026/personal-income-and-outlays-august-2026): PCE agosto general +0,3% mensual/+3,4% anual; subyacente +0,2%/+3,0%. Julio subyacente revisado +0,1% mensual: no es caída mensual en agosto; sorpresa frente a consenso no contrastada. Datos consultados 03-oct; no anticipan Fed.
+
+### Auditoría de condiciones propias
+
+Contadores heredados 0 activos/0 parciales. NFP no mide productividad causal por IA ni cumple ratios anuales de pensiones. Series de déficit previsional, cotizantes/pensionistas, desplazamiento fiscal y vivienda no verificables íntegramente.
+
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+
+<details>
+<summary>Estado operativo W39 sustituido; memoria íntegra</summary>
 
 ## 0. ESTADO OPERATIVO — precierre W39
 
@@ -25,6 +42,8 @@ alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cober
 - 04 — NO ACREDITADO COMPLETO: ACEA mide matriculaciones por propulsión, no cuota importada de nueva generación >25% por seis meses; no confundir BEV con origen chino.
 
 Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
+
+</details>
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición sistémica desde manufacturas tradicionales hacia la electrificación, digitalización de plantas y automatización industrial, cruzada con el envejecimiento demográfico y la erosión fiscal del factor trabajo.
@@ -197,3 +216,8 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>
+
+
+## Registro industrial W40 — C4/C24/C25
+
+Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026» sin día/hora de publicación verificable antes del corte: no se admite como dato incremental W40. C25 observa empleo por ocupación, horas, salarios y uso productivo; BLS general no atribuye pérdida de empleo a IA. Sin datos nuevos de producción, utilización o cierres contrastados; no ausencia de actividad. Próxima serie comparable y causalidad, sin fecha artificial.

@@ -4,12 +4,12 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 origen_alta: "C33 — autorización Luis 27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 2
-peso_estructural: 3
+peso_estructural: 2.9
 factor_tendencia: 1
 tags: [china, chips, alibaba, thead, soberania-tecnologica]
 tendencia_calibrada: "→"
@@ -17,11 +17,24 @@ tendencia_calibrada: "→"
 
 # Chips chinos — de anuncios a capacidad efectiva
 
+## 1. Estado actual — precierre W40
+
+**E0 · P2 · peso 2,9 · → (1,0) · carga 5,80 · V03.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[Alibaba, anunciado 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V900 producción comercial Q1-2027; 650 clientes corresponden a la familia Zhenwu, no al V900. Antecedente recontrastado, sin nuevas entregas W40 verificadas. Peso 2,9 por menor novedad; fecha Q1-2027 fuera del radar 60 días. No certifica autosuficiencia ni rendimiento independiente.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
+
 ## 1. Estado actual
 
 **E0 en observación prospectiva**, autorizado por Luis. Calibración aprobada por Luis: **P2 / peso 3 / → (1,0); carga 6,0.** V03 primario; V04 y V05 describen canales secundarios.
 
 Pregunta: ¿se convierte la oferta china anunciada en capacidad de cómputo disponible, competitiva y utilizada, reduciendo dependencias específicas? No se presume autosuficiencia de toda la cadena ni superioridad de rendimiento.
+
+</details>
 
 ## 2. Evidencia inicial
 
@@ -53,7 +66,7 @@ Conecta con [[TESIS_06_IA_como_silicio_y_energia]] como test de restricciones f�
 
 27-sep: alta C33 autorizada; revisión semanal, sin seguimiento automático. Tras dos revisiones mensuales sin señal adicional, proponer absorción en V03 o conservación prospectiva a Luis.
 
-Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[MAPA_TRANSMISIONES]].
+Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMISIONES]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 3, tendencia →, factor 1,0, carga 6,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].

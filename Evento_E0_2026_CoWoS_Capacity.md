@@ -7,17 +7,28 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 3
+peso_estructural: 3.2
 factor_tendencia: 1
 tendencia_calibrada: "→"
 ---
 
 # EVENTO: E0_2026_CoWoS_Capacity
+
+## 1. Estado actual — precierre W40
+
+**E0 · P4 · peso 3,2 · → (1,0) · carga 12,80 · V03.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[Micron, publicado 30-sep](https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx): trimestre fiscal terminado 03-sep, ingresos 54.229 M USD frente a 41.456 el trimestre anterior; CAPEX neto 10.774 M USD y FCF ajustado 33.199 M USD. Guía FQ1-27 de 61.500 ±1.500 M USD es previsión. Refuerza incidencia industrial de memoria, pero no prueba yields, entregas Blackwell ni capacidad CoWoS. A/B sin retraso AP7 o caída cuantificada acreditados; Q4 incompleto. C/D sin agregado hyperscalers o lead time generalizado verificables. C20 HBM integrado; no se presupone sold-out o HBM4. [TSMC calendario](https://investor.tsmc.com/english/financial-calendar): 08-oct, 15-oct y 10-nov, provisional.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
 
 ## 1. SNAPSHOT ACTUAL — precierre W39
 
@@ -28,6 +39,8 @@ No se recuperó nueva prueba primaria de retraso de AP7, caída de rendimiento C
 [Calendario TSMC](https://investor.tsmc.com/english/financial-calendar), contrastado 27-sep: ventas septiembre **8-oct**, resultados Q3 **15-oct**, ventas octubre **10-nov**, sujetos a cambios. Son hitos futuros. La transcripción Q2 no se recuperó en esta consulta; no se rellenan yields o lead times desde estimaciones secundarias. [Resultados Q2](https://investor.tsmc.com/english/quarterly-results/2026/q2). Se conserva P4/→ con cobertura directa limitada. Alibaba se sigue en ficha propia por sustitución tecnológica, sin duplicar la carga del empaquetado.
 
 Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 ## 2. CONDICIONES DE ACTIVACIÓN
 - **Trigger A:** Anuncio oficial de retrasos en el equipamiento o conexión de la planta AP7 en Chiayi (Taiwán) que posponga su fecha de producción en masa más allá de H1 2027. **Estado al corte: NO VERIFICABLE: no se recuperó comunicado oficial de retraso AP7 más allá de H1 2027; tampoco se certifica cumplimiento del plazo.**

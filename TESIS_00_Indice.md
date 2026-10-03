@@ -1,5 +1,23 @@
 # TESIS_00 — Índice del Sistema 231
 
+> Revisión03-oct; corte2026-10-03 02:06 Europe/Madrid, precierreW40.
+
+| Tesis | Soporte conservado | Apoyo / contraevidencia / límite / próxima falsación |
+|:---|:---|:---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Francia encarece financiación; Japón vende deuda exterior y reservas puntuales caen. Contraevidencia: SOFR no muestra estrés y media semanal de reservas sube. Límite: Diferencial francés proxy; flujos japoneses no identifican Francia ni cumplen dos meses. Falsación: Contrastar diferencial cubierto, flujos mensuales, absorción de subastas y política efectiva. |
+| [[TESIS_02_Frictionless_Stabilization]] | Alto | Modularidad de normas canadienses y procedimientos comerciales EE. UU.–China. Contraevidencia: Prohibiciones pueden aumentar fricción; acuerdos no garantizan estabilidad. Límite: Vigencia jurídica no equivale a transmisión económica ni a comercio ejecutado. Falsación: Medir aplicación, flujos y persistencia o ruptura de canales. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado-alto | Se conserva corpus secular; observatorio industrial y Unitree siguen como sensores. Contraevidencia: Productividad y adopción pueden elevar renta; NFP no atribuye sustitución a IA. Límite: Cobertura nueva directa limitada; no serie homogénea vivienda/pensiones que valide desplazamiento. Falsación: Comparar renta, ahorro, inversión y transferencias en universos compatibles. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Persistencia de incidentes marítimos y exposición energética europea. Contraevidencia: Almacenamiento gas UE mejora +1,19 pp. Límite: Incidentes no miden cierre/primas; inventario sin balance no prueba escasez. Falsación: Tránsito, seguros, fletes, flujos GNL y restricciones industriales con duración. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado | Se mantiene en validación; seguimiento stablecoins integrado en V01. Contraevidencia: Reservas en letras o digitalización no prueban colateral nuevo admisible. Límite: Sin prueba nueva de admisibilidad, haircut y liquidación auditada. Falsación: Operación ejecutada de repo/garantía con condiciones y activo tokenizado verificables. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto | Órdenes DOE y resultados Micron respaldan dependencia de infraestructura y hardware. Contraevidencia: Micron crece con caja positiva; no activación completa Grid o CoWoS. Límite: Ingresos/guía no son yields, capacidad, entregas o utilización; Alibaba sigue prospectivo. Falsación: Contrastar entregas, capacidad cualificada, lead times, energía, agua, utilización y caja. |
+
+Dos altos, dos moderado-altos y dos moderados. T05 en validación; T03/T05 sin validación incremental directa. Archivo Xi no refuta ni valida tesis. Fuentes y fechas [[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Índice W39 sustituido</summary>
+
+# TESIS_00 — Índice del Sistema 231
+
 > Revisión aplicada 27-sep; corte 2026-09-26 20:48 Europe/Madrid, precierre W39.
 
 | Tesis | Soporte conservado | Lectura W39 |
@@ -40,5 +58,7 @@ Dos soportes altos, dos moderado-altos y dos moderados. TESIS_05 permanece en va
 Un vínculo no equivale a validación; stock no es flujo; proyección no es observación; norma no es transmisión económica. Los sensores cerrados son memoria. La base anterior se conserva con su fecha y no se reetiqueta como novedad W38.
 
 [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]] · [[EVENTOS_CERRADOS_LOG]].
+
+</details>
 
 </details>

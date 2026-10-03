@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-09-27
-corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
-corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
-alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
+ultima_actualizacion: 2026-10-03
+corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
+corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
+alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
 vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 ---
 
@@ -44,7 +44,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Sensor activo:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Observatorios transferidos:** GNSS y Taiwán permanecen en V02/V06 y en sus fichas cerradas; sólo reabren ante trigger material.
-- **Sensores próximos:** ejecución Section 338 del 29/09, JMMC de OPEP+ del 04/10 y sanciones UE en [[Radar_Eventos_2026_09]]; EIA se mantiene como fuente de seguimiento de V02, sin presuponer una fila en el radar actual.
+- **Sensores próximos:** ejecución Section 338 del 29/09, JMMC de OPEP+ del 04/10 y sanciones UE en [[Radar_Eventos_2026_10]]; EIA se mantiene como fuente de seguimiento de V02, sin presuponer una fila en el radar actual.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física. Ningún peldaño sustituye automáticamente al siguiente.
 
 ## 6. Criterios de validación o refutación
@@ -59,6 +59,19 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Ausencia prolongada de diferencias de coste entre corredores expuestos y no expuestos.
 - Recuperación del arbitraje logístico global sin necesidad de redundancia estratégica.
 
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado-alto; conservado.
+- **Apoyo:** Persistencia de incidentes marítimos y exposición energética europea.
+- **Contraevidencia:** Almacenamiento gas UE mejora +1,19 pp.
+- **Ambigüedad / límite:** Incidentes no miden cierre/primas; inventario sin balance no prueba escasez.
+- **Próxima falsación:** Tránsito, seguros, fletes, flujos GNL y restricciones industriales con duración.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+<details>
+<summary>Calibración W39 sustituida; preservada</summary>
+
 ## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Moderado-alto; se conserva.
@@ -68,6 +81,8 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Próxima falsación:** Contrastar tránsito, seguros, fletes y restricciones industriales con duración y causalidad.
 
 Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
+
+</details>
 
 ## 8. Fuentes de seguimiento
 

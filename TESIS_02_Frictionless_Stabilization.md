@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: alto
-ultima_actualizacion: 2026-09-27
-corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
-corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
-alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
+ultima_actualizacion: 2026-10-03
+corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
+corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
+alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 ---
 
@@ -45,7 +45,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vectores secundarios:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
 - **Sensor central activo:** [[Evento_E1_2026_07_24_US_Tariff_Stack]].
 - **Sensores complementarios:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y la memoria cerrada [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]].
-- **Próximos puntos de control:** ejecución estadounidense del 15 y 29/09, transmisión física de Section 301/338 y datos de precios, comercio e inventarios en [[Radar_Eventos_2026_09]].
+- **Próximos puntos de control:** ejecución estadounidense del 15 y 29/09, transmisión física de Section 301/338 y datos de precios, comercio e inventarios en [[Radar_Eventos_2026_10]].
 
 ## 6. Criterios de validación o refutación
 
@@ -59,6 +59,19 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Restablecimiento duradero del multilateralismo con reducción material de aranceles y controles.
 - Normalización de rutas, seguros y reglas comerciales a niveles previos sin nuevas capas de coerción.
 
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Alto; conservado.
+- **Apoyo:** Modularidad de normas canadienses y procedimientos comerciales EE. UU.–China.
+- **Contraevidencia:** Prohibiciones pueden aumentar fricción; acuerdos no garantizan estabilidad.
+- **Ambigüedad / límite:** Vigencia jurídica no equivale a transmisión económica ni a comercio ejecutado.
+- **Próxima falsación:** Medir aplicación, flujos y persistencia o ruptura de canales.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+<details>
+<summary>Calibración W39 sustituida; preservada</summary>
+
 ## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Alto; se conserva.
@@ -68,6 +81,8 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Próxima falsación:** Observar aplicación, flujos y persistencia de canales; ruptura sostenida debilitaría la tesis.
 
 Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
+
+</details>
 
 ## 8. Fuentes de seguimiento
 

@@ -1,6 +1,6 @@
 # MAPA DE TRANSMISIONES — SISTEMA 231
 
-> **Actualizado:** 27/09/2026 — TASK_148, precierre W39 completado localmente. Corte 2026-09-26 20:48 Europe/Madrid.
+> **Actualizado:** 03/10/2026 — TASK_172, precierre W40. Corte2026-10-03 02:06 Europe/Madrid.
 
 ## Mapa activo
 
@@ -11,7 +11,7 @@
 | [[Evento_E0_2026_07_08_Grid_Stress_IA]] | V02 | generación/interconexión → centros de datos → CAPEX | [[TESIS_06_IA_como_silicio_y_energia]] |
 | [[Evento_E0_2026_CoWoS_Capacity]] | V03 | packaging/HBM → aceleradores → inversión y red | [[TESIS_06_IA_como_silicio_y_energia]] |
 | [[Evento_E1_2026_07_24_US_Tariff_Stack]] | V04 | aranceles → costes/volúmenes → industria e inflación | [[TESIS_02_Frictionless_Stabilization]] |
-| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | V06 | negociación bilateral → compromisos estratégicos → ejecución comercial/tecnológica | [[TESIS_04_Multipolaridad_Logistica]] |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | V06 | ejecución bilateral → cumplimiento de acuerdos y diálogoIA; sin duplicar arancelesV04 | [[TESIS_02_Frictionless_Stabilization]]; [[TESIS_06_IA_como_silicio_y_energia]] |
 | [[Evento_E0_2026_11_03_Midterms_EEUU]] | V06 | mayorías parlamentarias → capacidad legislativa → política fiscal/comercial | [[TESIS_01_Dominancia_Fiscal]] |
 | [[Evento_E0_2026_09_19_Robotica_Unitree]] | V05 | capital y tecnología → robots entregados → uso productivo por verificar | [[TESIS_06_IA_como_silicio_y_energia]] |
 | [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | V01 | coste soberano → balances bancarios y financiación (transmisión por verificar) | [[TESIS_01_Dominancia_Fiscal]] |
@@ -35,6 +35,25 @@
 3. Una tesis no es fuente factual.
 4. Un observatorio de fondo no cuenta como evento.
 5. Las fichas cerradas preservan la memoria: [[EVENTOS_CERRADOS_LOG]].
+
+## Próximos cruces
+
+- Japón, Treasury/repo y Francia → V01/T01; 37,80 de carga primaria. C7/C8/C22 observados sin nuevas fichas, con Xi en seguimiento propio.
+- DOE/Grid, riesgo marítimo y gas → V02; Craig efectivo, próxima entrega administrativa10-oct. HBM/CoWoS y demanda tecnológica → V03; resultadosMicron no prueban capacidad de empaquetado.
+- ComercioCanadá06-oct/04-nov, licencias y minerales → V04. AcuerdosXi: ejecución comercial aquí; implementación institucional V06.
+- Midterms03-nov y ejecución bilateralXi → V06, dos eventos primarios activos del vector. Xi mantenido como E0 de ejecución: [[Evento_E0_2026_09_19_Visita_Xi_EEUU]], carga7,60 tras reconsideración aprobada.
+- Unitree y observatorioindustrial C4/C24/C25 → V05; uso productivo y causalidad pendientes.
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 144,86 (144,9 a una décima).**
+
+**144,80 → 144,86 (+0,06)**, exclusivamente por los once pesos aprobados; presión/tendencia e inventario final de once fichas conservados frente a W39. El archivo técnico de Xi fue rectificado tras valoración conjunta y no representa un cierre vigente. Carga ordinal, no probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+**Decisión final Xi,03-oct:** mantener [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución de acuerdos, P2/peso3,8/→, carga7,60; once activos y total144,86. Archivo técnico rectificado tras análisis conjunto. Radar21 hitos, diálogoIA anunciado hasta30-nov. Prevalece este estado sobre el historial de reconsideración.
+<details>
+<summary>Cruces W39 sustituidos</summary>
 
 ## Próximos cruces
 
@@ -74,5 +93,7 @@ Informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]]; sin cambio automático de tesi
 **24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
 
 Las tres altas amplían cobertura; no alteran por sí mismas los semáforos ni validan las tesis. Xi y midterms no duplican la carga de aranceles/liquidez. [[Radar_Eventos_2026_09]] · [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+</details>
 
 </details>

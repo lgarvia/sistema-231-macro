@@ -4,18 +4,29 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 origen_alta: "Decisión humana C3 — TASK_118"
 calibracion: aplicada
 presion_numerica: 2
-peso_estructural: 3
+peso_estructural: 2.9
 factor_tendencia: 1
 tags: [robotica, unitree, china, productividad, industria]
 tendencia_calibrada: "→"
 ---
 
 # Robótica en observación — Unitree como sensor principal
+
+## 1. Estado actual — precierre W40
+
+**E0 · P2 · peso 2,9 · → (1,0) · carga 5,80 · V05.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[Unitree News](https://www.unitree.com/news/): sin nueva evidencia primaria de uso productivo recurrente recuperada en esta revisión; cobertura incompleta, no ausencia de despliegues. Entregas/producción 2025 siguen como antecedentes del fabricante, no productividad 2026. Peso 2,9 por menor novedad relativa; conservar sensores de clientes, horas útiles y coste por tarea.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
 
 ## 1. Snapshot actual
 
@@ -24,6 +35,8 @@ tendencia_calibrada: "→"
 - **Vector primario:** [[VECTOR_05_Transformacion_industrial_y_demografia]]. Secundario V03.
 - **Pregunta:** ¿se convierten la financiación, los avances técnicos y las entregas en capacidad de trabajo útil a escala?
 - **Foco humano:** Unitree; otros fabricantes sirven de contraste cuando haya información comparable, sin convertirlo en un censo exhaustivo.
+
+</details>
 
 ## 2. Panel inicial de seguimiento
 

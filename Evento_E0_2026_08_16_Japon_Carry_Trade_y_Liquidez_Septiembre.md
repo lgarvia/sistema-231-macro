@@ -7,18 +7,29 @@ vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 moc: "[[MOC_Politica_Monetaria]]"
 tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
 tipo: evento
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 5
+peso_estructural: 4.8
 factor_tendencia: 1.2
 tendencia_calibrada: "↑"
 ---
 
 # EVENTO: E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre
+
+## 1. Estado actual — precierre W40
+
+**E0 · P4 · peso 4,8 · ↑ (1,2) · carga 23,04 · V01.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[H.4.1, publicado 01-oct](https://www.federalreserve.gov/releases/h41/current/): al 30-sep TGA 984.046 M USD (+36.729 frente a 23-sep) y reservas 2.881.686 M USD (−88.236); media semanal de reservas 2.948.090 M USD (+17.897), distinta del saldo puntual. [SOFR](https://fred.stlouisfed.org/series/SOFR) 25/28/29/30-sep y 01-oct: 3,90/3,90/3,88/3,90/3,87%, frente a [IORB](https://fred.stlouisfed.org/series/IORB) 3,90%: 0/0/−2/0/−3 pb. No activa la rama SOFR (>8 pb durante tres días). SRF diario y GC p99 no verificables; el repo en balance de 1.200 M USD no es volumen diario SRF. SOFR 02-oct se publica fuera del corte. [MOF, publicado 01-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): ventas netas de deuda exterior larga de 1.904,9 y 684,5 miles de millones JPY en 13–19 y 20–26-sep. Revisión 06–12-sep: +1.082,9 → +1.091,0 (+8,1). Dos semanas no cumplen dos meses; falta diferencial 30Y cubierto >15 días hábiles. B parcial por saldos y causalidad incompleta; D, ventana vencida, NO VERIFICABLE sin SRF diario. Peso baja dos décimas por menor incidencia tras el cierre, manteniendo relevancia alta.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
 
 ## 1. SNAPSHOT ACTUAL — precierre W39
 
@@ -31,6 +42,8 @@ SOFR 18/21/22/23/24-sep: **3,85/3,85/3,87/3,87/3,88%** frente a IORB 3,90% (−5
 Fuentes consultadas 26–27-sep, publicaciones dentro del corte: [BoJ 18-sep](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf), [H.4.1 24-sep](https://www.federalreserve.gov/releases/h41/current/), [SOFR](https://fred.stlouisfed.org/series/SOFR), [IORB](https://fred.stlouisfed.org/series/IORB), [MOF calendario](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/schedule.htm). Se conserva ↑ aprobado: describe presión acumulada; no una nueva aceleración probada por esta semana.
 
 Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 ## 2. CONDICIONES DE ACTIVACIÓN (TRIGGERS)
 

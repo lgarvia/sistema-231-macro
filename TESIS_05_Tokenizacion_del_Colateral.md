@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_05
 estado: en_validacion
 soporte: moderado
-ultima_actualizacion: 2026-09-27
-corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
-corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
-alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
+ultima_actualizacion: 2026-10-03
+corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
+corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
+alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -43,7 +43,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vector dominante:** [[VECTOR_01_Arquitectura_monetaria_global]].
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]].
-- **Sensores transversales:** QRA, FOMC y evolución de letras/ON RRP en [[Radar_Eventos_2026_09]] y V01.
+- **Sensores transversales:** QRA, FOMC y evolución de letras/ON RRP en [[Radar_Eventos_2026_10]] y V01.
 
 ### Paquete dedicado de sensores
 
@@ -75,6 +75,19 @@ Hasta construir una serie base comparable, estos puntos son **puertas de evidenc
 - Evidencia de que la demanda de T-bills es neutral por sustitución completa de otros compradores.
 - Crisis repetidas de paridad o custodia que impidan su uso como dinero o colateral fiable.
 
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado; conservado, en validación.
+- **Apoyo:** Se mantiene en validación; seguimiento stablecoins integrado en V01.
+- **Contraevidencia:** Reservas en letras o digitalización no prueban colateral nuevo admisible.
+- **Ambigüedad / límite:** Sin prueba nueva de admisibilidad, haircut y liquidación auditada.
+- **Próxima falsación:** Operación ejecutada de repo/garantía con condiciones y activo tokenizado verificables.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+<details>
+<summary>Calibración W39 sustituida; preservada</summary>
+
 ## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Moderado; en validación.
@@ -84,6 +97,8 @@ Hasta construir una serie base comparable, estos puntos son **puertas de evidenc
 - **Próxima falsación:** Exigir operación de repo/garantía ejecutada con activo tokenizado y condiciones auditables; sin subir soporte por vínculos.
 
 Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_05_Transformacion_industrial_y_demografia]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
+
+</details>
 
 ## 8. Fuentes de seguimiento
 

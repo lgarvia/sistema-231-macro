@@ -2,14 +2,38 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
-ultima_revision: 2026-09-27
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-03
 triggers_activos: 0
 triggers_parciales: 1
-alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
+alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
 ---
 
 # 📝 Orden geopolítico y esferas de influencia
+
+## 0. Estado operativo — precierre W40
+
+<details>
+<summary>Reconsideración intermedia de Xi, ya resuelta</summary>
+
+> **Adenda posterior 03-oct — decisión Xi reabierta:** Luis pide valorar conjuntamente el archivo. El cierre aplicado no está ratificado. La pista de Tudanca sobre ejecución arancelaria se contrasta con [USTR27-sep](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade), que describe trato futuro; el [comunicado chino28-sep](https://english.www.gov.cn/news/202609/28/content_WS6aba53c5c6d00ca5f9a0d803.html) condiciona rebajas a procesos legales y anuncia siguiente diálogoIA antes de fin de noviembre. Son documentos anteriores al corte recuperados durante la reconsideración. Se propone seguimiento E0 de ejecución, con sensores de actos legales, cumplimiento y diálogo/canalIA, sin fecha exacta inventada; pendiente de Luis. Carga8,40 siguiente corresponde al inventario aplicado, no incluye la reapertura propuesta.
+
+</details>
+
+**🟡 Moderada · → · carga primaria 16,00.** Semáforo y tendencia conservados; carga derivada de las fichas, no señal autónoma. Corte 2026-10-03 02:06 Europe/Madrid; aplicación 03-oct.
+
+Xi se mantiene por decisión de Luis tras valoración conjunta. [Board of Trade, 27-sep](https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/), [procedimientos](https://www.whitehouse.gov/wp-content/uploads/2026/09/US-China-Board-of-Trade-Working-Procedures.pdf) y [términos 30-for-30](https://www.whitehouse.gov/wp-content/uploads/2026/09/Terms-of-Reference-for-30-for-30-Framework.pdf): avance institucional, listas valoradas con comercio 2024; implementación doméstica y flujos pendientes. No se contabilizan 30.000 M USD como nuevo comercio ejecutado. Seguimiento institucional aquí y comercial en V04, con ficha E0 propia para ejecución bilateral, sin duplicar aranceles. Elecciones futuras 03-nov según [FEC](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/), calendario heredado contrastado en W39. Peso 4,2 por mayor proximidad; P2/→ conservados. La fecha y la mayor relevancia temporal no anticipan ganador ni garantizan apoyo fiscal o monetario.
+
+### Auditoría de condiciones propias
+
+Contadores heredados 0 activos/1 parcial. Acuerdo comercial no cumple guerra, defensa mutua o incautación; liquidación alternativa >100 B USD/mes y dos presupuestos de rearme >15% anual no verificados completos.
+
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+
+
+**Decisión final Xi,03-oct:** mantener [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución de acuerdos, P2/peso3,8/→, carga7,60; once activos y total144,86. Archivo técnico rectificado tras análisis conjunto. Radar21 hitos, diálogoIA anunciado hasta30-nov. Prevalece este estado sobre el historial de reconsideración.
+<details>
+<summary>Estado operativo W39 sustituido; memoria íntegra</summary>
 
 ## 0. ESTADO OPERATIVO — precierre W39
 
@@ -25,6 +49,8 @@ Xi visitó EE. UU. el 24-sep, confirmado por publicaciones oficiales del 25-sep.
 - 04 — NO ACREDITADO: prórroga de listados individuales UE no acredita congelación de >50 B$ de banco central extranjero en un decreto.
 
 Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
+
+</details>
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Sustitución de la gobernanza multilateral y del derecho internacional clásico por el establecimiento pragmático de esferas de control asimétrico, disuasión militar y "hechos consumados" de control físico y logístico.
@@ -73,7 +99,7 @@ Los antecedentes conservados al final no son cotizaciones ni estados vigentes. L
 - **Exclusión:** Tensiones arancelarias motivadas puramente por intereses corporativos y lobby interno sin un componente bélico-soberano de fondo.
 
 ## 7. EVENTOS ASOCIADOS
-- [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]: C1, E0 futuro; fecha 24/09 anunciada por fuente secundaria y confirmación primaria pendiente.
+- [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] — C1 mantenido como E0 de ejecución bilateral, P2/peso3,8/→, carga7,60. Visita del24-sep consumida; se observan cumplimiento de acuerdos y diálogoIA anunciado. Aranceles concretos conservan su carga enV04.
 - [[Evento_E0_2026_11_03_Midterms_EEUU]]: C2, E0 futuro; elección 03/11 confirmada por FEC.
 - **Decisión humana 19/09, TASK_118:** ambas altas amplían seguimiento; presión/peso/tendencia pendientes, sin carga calculada ni cambio automático del semáforo estructural.
 - [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]]: memoria de la ventana Han Kuang; observatorio de zona gris activo en V06.
@@ -98,7 +124,7 @@ Los antecedentes conservados al final no son cotizaciones ni estados vigentes. L
 
 ## Rectificación y reconciliación — 06/09/2026 (TASK_090)
 
-Revisión de consistencia con eventos y radar: se conserva el estado operativo y la fecha del contraste factual anterior. Las futuras ventanas se consultan en [[Radar_Eventos_2026_09]]; no se añade carga por calendario ni se certifican de nuevo todas las fuentes estructurales.
+Revisión de consistencia con eventos y radar: se conserva el estado operativo y la fecha del contraste factual anterior. Las futuras ventanas se consultan en [[Radar_Eventos_2026_10]]; no se añade carga por calendario ni se certifican de nuevo todas las fuentes estructurales.
 
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
@@ -152,3 +178,8 @@ La fricción marítima en el corredor de Oriente Medio continúa contabilizada p
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
 
 </details>
+
+
+## Seguimiento W40 — C6/C17/C18 y ejecución bilateral C1
+
+C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es antecedente, no nuevo acto W40. C17: liquidación mensual comparable, miembros operativos y uso CIPS/mBridge, no anuncios. C18: contratos, entregas y capacidad, no equiparar presupuesto y producción. Xi mantiene [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución, carga7,60; no nueva fecha exacta de reunión ni doble carga arancelaria.

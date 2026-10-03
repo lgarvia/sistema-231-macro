@@ -4,12 +4,12 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
-peso_estructural: 4
+peso_estructural: 4.1
 factor_tendencia: 1.2
 tags: [francia, deuda-soberana, euro, fragmentacion]
 tendencia_calibrada: "↑"
@@ -17,11 +17,24 @@ tendencia_calibrada: "↑"
 
 # Deuda francesa y posible fragmentación europea
 
+## 1. Estado actual — precierre W40
+
+**E0 · P3 · peso 4,1 · ↑ (1,2) · carga 14,76 · V01.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[AFT TEC10](https://www.aft.gouv.fr/fr/tec-10-du-jour): 4,90% al 01 y 02-oct frente a 4,63% al 25-sep (+27 pb). [Bundesbank, PDF fechado 01-oct](https://www.bundesbank.de/resource/blob/772218/c2957e9a34b596c0c5bb11811de0ff9e/472B63F073F071307366337C94F8C870/rendbund-data.pdf): 10Y 3,60% al 01-oct. Proxy TEC10−Bund =130 pb al 01-oct frente a105 al25-sep (+25 pb); no serie oficial homogénea OAT–Bund. No se compara Francia 02-oct con Alemania 01-oct como observación sincronizada. Tensión de financiación observada, contagio bancario/fragmentación/dominancia no demostrados.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
+
 ## 1. Estado actual
 
 **E0 en observación · P3 moderada · peso 4 · ↑ (1,2) · carga 14,4.** Alta C10 autorizada por Luis; propuesta de calibración aceptada con la autorización general posterior. Imputación exclusiva a V01. La presión es un juicio ordinal; no una probabilidad de crisis.
 
 Pregunta: ¿el encarecimiento francés se convierte en divergencia persistente frente a otros soberanos y alcanza la colocación de deuda, balances bancarios o crédito? El coste de mercado es observable. Fragmentación, contagio y dominancia fiscal siguen siendo hipótesis.
+
+</details>
 
 ## 2. Base factual
 
@@ -63,7 +76,7 @@ Intensificar si hay divergencia persistente con deterioro de colocaciones o tran
 
 26-sep: selección C10 aprobada por Luis. 27-sep: autorización del conjunto propuesto y aplicación local. Revisión semanal, sin vigilancia continua. La tesis personal de Luis queda pendiente de su formulación; el agente registra hechos y propone mecanismos.
 
-Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[MAPA_TRANSMISIONES]].
+Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMISIONES]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia ↑, factor 1,2, carga 14,4. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].

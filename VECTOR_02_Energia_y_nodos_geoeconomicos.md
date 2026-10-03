@@ -2,14 +2,33 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
-ultima_revision: 2026-09-27
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-03
 triggers_activos: 1
 triggers_parciales: 2
-alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
+alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
 ---
 
 # 📝 Energía y nodos geoeconómicos
+
+## 0. Estado operativo — precierre W40
+
+**🔴 Crítica · ↑ · carga primaria 46,98.** Semáforo y tendencia conservados; carga derivada de las fichas, no señal autónoma. Corte 2026-10-03 02:06 Europe/Madrid; aplicación 03-oct.
+
+[Orden DOE 202-26-49, publicada 25-sep](https://www.energy.gov/documents/doe-order-no-202-26-49): Craig1, vigencia 27-sep–25-dic; exige disponibilidad y despacho cuando necesario, no acredita despacho realizado ni CPD >50 MW obligado ≥4h. Informe de disponibilidad exigido 10-oct. A/B sin moratoria energética o EEA2 por CPD+calor acreditadas; C no cumple condiciones completas; D/E/F sin evidencia suficiente de curtailment, moratoria hídrica o sanción WUE. Menor novedad relativa no prueba resolución del problema. C14 agua se integra aquí.
+
+[IMO, estado 30-sep](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): 88 incidentes y 24 fallecidos, frente a 85/24 al corte anterior. AL FUNTAS 28-sep, SINBAD y MERSIN PROSPERITY 29-sep, daños sin contaminación descrita. Recurrencia material, pero no acredita daño crítico VLCC/GNL, dos cotizaciones ≥1,5% durante ≥48h, bunkering imposible ni cierre >5 Mb/d durante >48h. [LMA/JWC](https://lmalloyds.com/specialist_area/marine/): JWLA-035 sigue referenciada; las primas se negocian individualmente. E1 conservado, sin nueva activación completa de A–D.
+
+[GIE, instantánea 02-oct 06:00 CEST](https://www.gie.eu/): UE 810,70 TWh/71,64%, Alemania 58,03%, Países Bajos 58,88%. Frente a 26-sep: UE +13,50 TWh/+1,19 pp; Alemania +0,96 pp y Países Bajos +2,05 pp. Alivio marginal observable; no garantiza suministro invernal sin balances de demanda, clima y flujos. P3/→ conservados, peso 3,9.
+
+### Auditoría de condiciones propias
+
+Contadores heredados 1 activo/2 parciales. Trigger05 mantiene continuidad normativa DOE49; no equivale a activar C de Grid. Falta evidencia completa de capacidad/plazos de otras cláusulas, primas marítimas y bloqueo. Gas mejora sin acreditar resolución de vulnerabilidad.
+
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+
+<details>
+<summary>Estado operativo W39 sustituido; memoria íntegra</summary>
 
 ## 0. ESTADO OPERATIVO — precierre W39
 
@@ -36,6 +55,8 @@ Gas incorpora carga 12,0; la instantánea GIE no acredita restricción física.
 - 05 — ACTIVO ESTRUCTURAL HEREDADO: órdenes 202(c) preservan generación fuera del régimen ordinario y autorizan respaldo. Las nuevas órdenes confirman continuidad institucional; no prueban despacho realizado ni activan el trigger C del evento Grid.
 
 Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
+
+</details>
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Control físico, extracción y distribución de recursos energéticos primarios e infraestructura crítica de transporte logístico.
@@ -114,7 +135,7 @@ Los antecedentes conservados al final no son cotizaciones ni estados vigentes. L
 
 ## Rectificación y reconciliación — 06/09/2026 (TASK_090)
 
-Revisión de consistencia con eventos y radar: se conserva el estado operativo y la fecha del contraste factual anterior. Las futuras ventanas se consultan en [[Radar_Eventos_2026_09]]; no se añade carga por calendario ni se certifican de nuevo todas las fuentes estructurales.
+Revisión de consistencia con eventos y radar: se conserva el estado operativo y la fecha del contraste factual anterior. Las futuras ventanas se consultan en [[Radar_Eventos_2026_10]]; no se añade carga por calendario ni se certifican de nuevo todas las fuentes estructurales.
 
 ## Revisión W37 — 12/09/2026 (TASK_099)
 

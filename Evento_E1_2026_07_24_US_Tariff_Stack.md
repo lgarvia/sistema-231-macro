@@ -7,18 +7,29 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4
+peso_estructural: 4.1
 factor_tendencia: 1.2
 tendencia_calibrada: "↑"
 ---
 
 # EVENTO: E1_2026_07_24_US_Tariff_Stack
+
+## 1. Estado actual — precierre W40
+
+**E1 · P4 · peso 4,1 · ↑ (1,2) · carga 19,68 · V04.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[Proclamación estadounidense, publicada 08-sep](https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/): exclusiones de productos canadienses previstas desde 29-sep 00:01 ET. La fecha jurídica pasa a consumida; no acredita cobro/rechazos, transmisión económica completa o ausencia de suspensión. A/B conservan antecedentes jurídicos; C carece de dos fabricantes y causalidad >5%; D requiere datos 06-oct/04-nov y dos meses >15% YoY; E sin dos publicaciones con atribución ≥0,3 pp. C23 controles y C27 minerales se integran sin duplicar carga.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
 
 ## 1. SNAPSHOT ACTUAL — precierre W39
 
@@ -29,6 +40,8 @@ El [CSMS 69851916 de CBP, 11-sep](https://content.govdelivery.com/bulletins/gd/U
 Las prohibiciones estadounidenses anunciadas para **29-sep** son futuras al corte. Las recomendaciones comerciales Xi–EE. UU. no prueban rebajas ya aplicadas. [Casa Blanca, 8-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/), consulta 26–27-sep. Se conserva E1/P4/↑ sobre la escalada jurídica vigente; no se atribuye todavía el umbral de costes, comercio o inflación a esa escalada.
 
 Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 ## 2. CONDICIONES DE ACTIVACIÓN
 

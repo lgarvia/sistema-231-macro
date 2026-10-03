@@ -2,14 +2,31 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
-ultima_revision: 2026-09-27
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-03
 triggers_activos: 1
 triggers_parciales: 1
-alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
+alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
 ---
 
 # 📝 Reconfiguración del comercio global
+
+## 0. Estado operativo — precierre W40
+
+**🔴 Crítica · ↑ · carga primaria 19,68.** Semáforo y tendencia conservados; carga derivada de las fichas, no señal autónoma. Corte 2026-10-03 02:06 Europe/Madrid; aplicación 03-oct.
+
+[Proclamación estadounidense, publicada 08-sep](https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/): exclusiones de productos canadienses previstas desde 29-sep 00:01 ET. La fecha jurídica pasa a consumida; no acredita cobro/rechazos, transmisión económica completa o ausencia de suspensión. A/B conservan antecedentes jurídicos; C carece de dos fabricantes y causalidad >5%; D requiere datos 06-oct/04-nov y dos meses >15% YoY; E sin dos publicaciones con atribución ≥0,3 pp. C23 controles y C27 minerales se integran sin duplicar carga.
+
+Seguimiento de ejecución de acuerdos con China en este vector para licencias/comercio; ficha Xi archivada, sin doble carga.
+
+### Auditoría de condiciones propias
+
+Contadores heredados 1 activo/1 parcial. Vigencia de exclusiones no prueba SCFI, IED, pagos alternativos ni atribución de inflación. Medición de aplicación y transmisión pendiente.
+
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+
+<details>
+<summary>Estado operativo W39 sustituido; memoria íntegra</summary>
 
 ## 0. ESTADO OPERATIVO — precierre W39
 
@@ -27,6 +44,8 @@ Las prohibiciones estadounidenses anunciadas para **29-sep** son futuras al cort
 - 04 — NO VERIFICABLE: sin IED industrial homogénea hacia jurisdicciones puente que pruebe aumento >30% interanual.
 
 Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
+
+</details>
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición operativa hacia el neomercantilismo bilateral, la reubicación de cadenas de suministro (friend-shoring) y la resiliencia en costes sobre la eficiencia de flujos libres.

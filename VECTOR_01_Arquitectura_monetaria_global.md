@@ -2,14 +2,33 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
-ultima_revision: 2026-09-27
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-03
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
+alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
 ---
 
 # 📝 Arquitectura monetaria global
+
+## 0. Estado operativo — precierre W40
+
+**🟠 Elevada · ↑ · carga primaria 37,80.** Semáforo y tendencia conservados; carga derivada de las fichas, no señal autónoma. Corte 2026-10-03 02:06 Europe/Madrid; aplicación 03-oct.
+
+[H.4.1, publicado 01-oct](https://www.federalreserve.gov/releases/h41/current/): al 30-sep TGA 984.046 M USD (+36.729 frente a 23-sep) y reservas 2.881.686 M USD (−88.236); media semanal de reservas 2.948.090 M USD (+17.897), distinta del saldo puntual. [SOFR](https://fred.stlouisfed.org/series/SOFR) 25/28/29/30-sep y 01-oct: 3,90/3,90/3,88/3,90/3,87%, frente a [IORB](https://fred.stlouisfed.org/series/IORB) 3,90%: 0/0/−2/0/−3 pb. No activa la rama SOFR (>8 pb durante tres días). SRF diario y GC p99 no verificables; el repo en balance de 1.200 M USD no es volumen diario SRF. SOFR 02-oct se publica fuera del corte. [MOF, publicado 01-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): ventas netas de deuda exterior larga de 1.904,9 y 684,5 miles de millones JPY en 13–19 y 20–26-sep. Revisión 06–12-sep: +1.082,9 → +1.091,0 (+8,1). Dos semanas no cumplen dos meses; falta diferencial 30Y cubierto >15 días hábiles. B parcial por saldos y causalidad incompleta; D, ventana vencida, NO VERIFICABLE sin SRF diario. Peso baja dos décimas por menor incidencia tras el cierre, manteniendo relevancia alta.
+
+[AFT TEC10](https://www.aft.gouv.fr/fr/tec-10-du-jour): 4,90% al 01 y 02-oct frente a 4,63% al 25-sep (+27 pb). [Bundesbank, PDF fechado 01-oct](https://www.bundesbank.de/resource/blob/772218/c2957e9a34b596c0c5bb11811de0ff9e/472B63F073F071307366337C94F8C870/rendbund-data.pdf): 10Y 3,60% al 01-oct. Proxy TEC10−Bund =130 pb al 01-oct frente a105 al25-sep (+25 pb); no serie oficial homogénea OAT–Bund. No se compara Francia 02-oct con Alemania 01-oct como observación sincronizada. Tensión de financiación observada, contagio bancario/fragmentación/dominancia no demostrados.
+
+[BLS publicado 02-oct 08:30 ET](https://www.bls.gov/news.release/empsit.nr0.htm): septiembre +29.000 empleos y paro 4,2%; revisiones julio +21.000 → −10.000 y agosto +162.000 → +133.000. No prueba causalidad de IA. [BEA publicado 30-sep](https://www.bea.gov/news/2026/personal-income-and-outlays-august-2026): PCE agosto general +0,3% mensual/+3,4% anual; subyacente +0,2%/+3,0%. Julio subyacente revisado +0,1% mensual: no es caída mensual en agosto; sorpresa frente a consenso no contrastada. Datos consultados 03-oct; no anticipan Fed.
+
+### Auditoría de condiciones propias
+
+Contadores estructurales heredados 0 activos/0 parciales, no revalidación integral. SOFR no satisface >15 pb durante cinco días; SRF diario, subastas comparables, diferencial cubierto y 10Y>5% no verificables completos. No dominancia fiscal activada.
+
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+
+<details>
+<summary>Estado operativo W39 sustituido; memoria íntegra</summary>
 
 ## 0. ESTADO OPERATIVO — precierre W39
 
@@ -31,6 +50,8 @@ Francia añade 14,4 y C22 financiación CAPEX IA permanece como observatorio sin
 - 04 — NO ACREDITADO COMPLETO: TEC10 francés 4,63% al 25-sep no supera 5%; sin serie completa del benchmark y duración >10 sesiones.
 
 Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
+
+</details>
 
 ## 1. VECTOR ESTRUCTURAL
 - **Fuerzas:** Transición de un sistema regido por tipos de interés a uno regido por la gestión de la liquidez sistémica interbancaria y soberana.
@@ -200,3 +221,8 @@ Registro inicial 27-sep: conservar diferencia entre CAPEX bruto, ajustado y anti
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 
 </details>
+
+
+## Seguimiento aprobado W40 — C7/C8/C22
+
+Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de reembolsos (% de unidades y periodo), límites, mora/pérdidas y refinanciación; fuente SEC, fecha de presentación por verificar. Antecedentes heterogéneos: [PIF](https://www.sec.gov/Archives/edgar/data/1851322/000119312526395654/d154719dex99a1vi.htm) solicitudes11,4% frente a5%capacidad; [Fidelity](https://www.sec.gov/Archives/edgar/data/1920453/000119312526384555/d109827dex99a1vi.htm) solicitudes2,5% atendidas. No crisis sectorial acreditada. C8: reservas auditadas, composición en letras, redenciones y flujos (USD/mes), sin datos nuevos recuperados. C22 conserva panel de caja, deuda/vencimientos, anticipos, utilización y retorno; Micron positivo no representa agregado hyperscalers. Restricción delimitada con transmisión verificable genera propuesta humana, no alta automática.

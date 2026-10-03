@@ -7,17 +7,28 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4
+peso_estructural: 4.1
 factor_tendencia: 1.2
 tendencia_calibrada: "↑"
 ---
 
 # EVENTO: E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb
+
+## 1. Estado actual — precierre W40
+
+**E1 · P4 · peso 4,1 · ↑ (1,2) · carga 19,68 · V02.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[IMO, estado 30-sep](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): 88 incidentes y 24 fallecidos, frente a 85/24 al corte anterior. AL FUNTAS 28-sep, SINBAD y MERSIN PROSPERITY 29-sep, daños sin contaminación descrita. Recurrencia material, pero no acredita daño crítico VLCC/GNL, dos cotizaciones ≥1,5% durante ≥48h, bunkering imposible ni cierre >5 Mb/d durante >48h. [LMA/JWC](https://lmalloyds.com/specialist_area/marine/): JWLA-035 sigue referenciada; las primas se negocian individualmente. E1 conservado, sin nueva activación completa de A–D.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
 
 ## 1. SNAPSHOT ACTUAL — precierre W39
 
@@ -28,6 +39,8 @@ OMI al **24-sep**: **85 incidentes confirmados y 24 marinos fallecidos**, frente
 La circular vigente recuperada sigue siendo JWLA-035. JWC delimita áreas; no fija una prima universal. No se han obtenido las dos cotizaciones independientes exigidas por A. Fuentes consultadas 27-sep: [OMI, relación de incidentes](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx), [LMA/JWC](https://lmalloyds.com/specialist_area/marine/). Se conserva E1/P4/↑ por recurrencia física; la intensidad económica queda incompletamente medida.
 
 Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 ## 2. CONDICIONES DE ACTIVACIÓN
 - **Trigger A:** Dos brokers marítimos independientes o una circular verificable de mercado LMA/Lloyd's documentan una prima adicional de guerra igual o superior al 1,5% del valor de casco para el mismo corredor de Ormuz o Bab el-Mandeb, o la retirada/denegación efectiva de cobertura durante al menos 48 horas. **Estado al corte: NO VERIFICABLE: no se recuperaron dos cotizaciones independientes/circular verificable de prima ≥1,5% por casco y corredor comparable, ni retirada de cobertura ≥48 horas.**

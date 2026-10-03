@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-09-27
-corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
-corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
-alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
+ultima_actualizacion: 2026-10-03
+corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
+corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
+alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
 ---
 
@@ -46,7 +46,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Transmisión monetaria:** [[VECTOR_01_Arquitectura_monetaria_global]].
 - **Transmisión industrial-tecnológica:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]].
 - **Memoria cerrada:** [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]. La sostenibilidad de pensiones se monitoriza en V05 hasta que una liquidación comparable justifique una nueva ficha.
-- **Sensores:** ISM y NFP de agosto ya consumidos y rectificados en [[Radar_Eventos_2026_09]]. El seguimiento demográfico/industrial continúa en V05; el radar no incorpora automáticamente nuevas series mensuales.
+- **Sensores:** ISM y NFP de agosto ya consumidos y rectificados en [[Radar_Eventos_2026_10]]. El seguimiento demográfico/industrial continúa en V05; el radar no incorpora automáticamente nuevas series mensuales.
 
 ## 6. Criterios de validación o refutación
 
@@ -60,6 +60,19 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Expansión material de oferta residencial que reduzca el esfuerzo de acceso.
 - Equilibrio contributivo estable sin detracción de inversión pública productiva.
 
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado-alto; conservado.
+- **Apoyo:** Se conserva corpus secular; observatorio industrial y Unitree siguen como sensores.
+- **Contraevidencia:** Productividad y adopción pueden elevar renta; NFP no atribuye sustitución a IA.
+- **Ambigüedad / límite:** Cobertura nueva directa limitada; no serie homogénea vivienda/pensiones que valide desplazamiento.
+- **Próxima falsación:** Comparar renta, ahorro, inversión y transferencias en universos compatibles.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+<details>
+<summary>Calibración W39 sustituida; preservada</summary>
+
 ## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Moderado-alto; se conserva.
@@ -69,6 +82,8 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Próxima falsación:** Comparar renta, inversión, vivienda y pensiones en universos compatibles; sin validación incremental W39.
 
 Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
+
+</details>
 
 ## 8. Fuentes de seguimiento
 

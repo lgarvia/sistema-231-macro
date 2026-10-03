@@ -4,12 +4,12 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
-peso_estructural: 4
+peso_estructural: 3.9
 factor_tendencia: 1
 tags: [gas, europa, energia, almacenamiento, invierno]
 tendencia_calibrada: "→"
@@ -17,11 +17,24 @@ tendencia_calibrada: "→"
 
 # Gas europeo ante el invierno
 
+## 1. Estado actual — precierre W40
+
+**E0 · P3 · peso 3,9 · → (1,0) · carga 11,70 · V02.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[GIE, instantánea 02-oct 06:00 CEST](https://www.gie.eu/): UE 810,70 TWh/71,64%, Alemania 58,03%, Países Bajos 58,88%. Frente a 26-sep: UE +13,50 TWh/+1,19 pp; Alemania +0,96 pp y Países Bajos +2,05 pp. Alivio marginal observable; no garantiza suministro invernal sin balances de demanda, clima y flujos. P3/→ conservados, peso 3,9.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
+
 ## 1. Estado actual
 
 **E0 prospectivo en observación**, autorizado por Luis. Calibración aprobada por Luis: **P3 / peso 4 / → (1,0); carga 12,0.** Vector primario V02; conexiones secundarias con V05 y V01 sin sumar carga.
 
 Pregunta: ¿el almacenamiento y los flujos disponibles permiten cubrir la demanda invernal sin restricciones físicas ni deterioro relevante de las condiciones industriales? La instantánea disponible no demuestra desabastecimiento.
+
+</details>
 
 ## 2. Base factual
 
@@ -57,7 +70,7 @@ Conecta con [[TESIS_04_Multipolaridad_Logistica]] y [[TESIS_06_IA_como_silicio_y
 
 27-sep: alta C13 autorizada junto con las otras propuestas. Seguimiento en revisiones semanales; sin fecha artificial de hito ni automatización. Si deja de aportar señal independiente, proponer absorción en V02 a Luis.
 
-Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[MAPA_TRANSMISIONES]].
+Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMISIONES]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia →, factor 1,0, carga 12,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].

@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-09-27
-corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
-corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
-alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
+ultima_actualizacion: 2026-10-03
+corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
+corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
+alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -47,7 +47,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Transmisores:** [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Evento sensor activo:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]].
 - **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]] y [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_07_02_US_NFP]].
-- **Próximos sensores:** [[Radar_Eventos_2026_09]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
+- **Próximos sensores:** [[Radar_Eventos_2026_10]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
 
 ## 6. Criterios de validación o refutación
 
@@ -61,6 +61,19 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Endurecimiento monetario sostenido pese a pérdidas fiscales, sin apoyo extraordinario al mercado soberano.
 - Absorción privada estable de la deuda con spreads repo, SRF y subastas dentro de rangos normales.
 
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado; conservado.
+- **Apoyo:** Francia encarece financiación; Japón vende deuda exterior y reservas puntuales caen.
+- **Contraevidencia:** SOFR no muestra estrés y media semanal de reservas sube.
+- **Ambigüedad / límite:** Diferencial francés proxy; flujos japoneses no identifican Francia ni cumplen dos meses.
+- **Próxima falsación:** Contrastar diferencial cubierto, flujos mensuales, absorción de subastas y política efectiva.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+<details>
+<summary>Calibración W39 sustituida; preservada</summary>
+
 ## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Moderado; se conserva.
@@ -70,6 +83,8 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Próxima falsación:** Contrastar repatriación, absorción y respuesta efectiva del banco central al conflicto fiscal.
 
 Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_01_Arquitectura_monetaria_global]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
+
+</details>
 
 ## 8. Fuentes de seguimiento
 

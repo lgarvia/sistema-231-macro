@@ -2,7 +2,7 @@
 tipo: actualizacion_semanal_231
 semana: 2026-W39
 fecha_nominal: 2026-09-27
-estado: vigente
+estado: historico
 modalidad: precierre
 corte_factual: "2026-09-26 20:48 Europe/Madrid"
 corte_previo: "2026-09-19 05:29 Europe/Madrid"
@@ -12,6 +12,8 @@ publicacion: github_main
 ---
 
 # Sistema 231 — precierre W39
+
+> Histórico sustituido por [[ACTUALIZACION_SEMANAL_231_2026_10_04]] el 03-oct. Corte y cifras W39 preservados.
 
 **11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 144,8.**
 

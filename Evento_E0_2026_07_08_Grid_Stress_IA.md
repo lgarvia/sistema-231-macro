@@ -7,18 +7,29 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4
+peso_estructural: 3.9
 factor_tendencia: 1
 tendencia_calibrada: "→"
 ---
 
 # EVENTO: E0_2026_07_08_Grid_Stress_IA
+
+## 1. Estado actual — precierre W40
+
+**E0 · P4 · peso 3,9 · → (1,0) · carga 15,60 · V02.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+[Orden DOE 202-26-49, publicada 25-sep](https://www.energy.gov/documents/doe-order-no-202-26-49): Craig1, vigencia 27-sep–25-dic; exige disponibilidad y despacho cuando necesario, no acredita despacho realizado ni CPD >50 MW obligado ≥4h. Informe de disponibilidad exigido 10-oct. A/B sin moratoria energética o EEA2 por CPD+calor acreditadas; C no cumple condiciones completas; D/E/F sin evidencia suficiente de curtailment, moratoria hídrica o sanción WUE. Menor novedad relativa no prueba resolución del problema. C14 agua se integra aquí.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
 
 ## 1. SNAPSHOT ACTUAL — precierre W39
 
@@ -31,6 +42,8 @@ Loudoun: decisión de 15-sep para considerar una resolución el **20-oct**, noti
 Fuentes consultadas 27-sep: [DOE46](https://www.energy.gov/documents/doe-order-no-202-26-46), [DOE47](https://www.energy.gov/documents/doe-order-no-202-26-47), [DOE48](https://www.energy.gov/documents/doe-order-no-202-26-48), [DOE49](https://www.energy.gov/documents/doe-order-no-202-26-49), [Loudoun](https://www.loudoun.gov/m/newsflash/home/detail/10874), [Comisión, 21-sep](https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en). Se conserva P4/→: restricción general persistente, sin acreditar el impedimento específico exigido por A–F.
 
 Auditoría de cláusulas en §2 e informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 ## 2. CONDICIONES DE ACTIVACIÓN (TRIGGERS)
 - **Trigger A (Electricidad):** Publicación de moratorias oficiales de energía o denegaciones de derechos de conexión en el corredor de Loudoun County (Virginia) para proyectos de CPDs de IA superiores a 50 MW. **Estado al corte: NO ACREDITADO COMPLETO: Loudoun considerará una pausa de solicitudes legislativas el 20-oct; no es moratoria energética vigente ni denegación documentada a CPD >50 MW.**

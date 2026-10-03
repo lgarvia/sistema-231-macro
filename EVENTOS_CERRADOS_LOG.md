@@ -2,7 +2,7 @@
 tipo: log_cierres_eventos
 creado: 2026-04-26
 actualizador: Sistema 231 / Front Office
-ultima_actualizacion: 2026-08-17
+ultima_actualizacion: 2026-10-03
 ---
 
 # REGISTRO DE CIERRES DE EVENTOS
@@ -31,6 +31,15 @@ Renombrado: mantener el nombre original y declarar fecha y razón de cierre en e
 ---
 
 ## Registro
+
+## [2026-10-03] Cierre rectificado: Evento_E0_2026_09_19_Visita_Xi_EEUU
+
+> Archivo técnico prematuro, rectificado tras valoración conjunta. Luis aprueba mantener E0 de ejecución bilateral; ficha restituida al inventario activo, carga7,60. El registro siguiente conserva la acción histórica, no un cierre vigente.
+- **Tipo:** Visita consumida / transferencia a vectores por decisión humana.
+- **Decisión:** Luis: «Xi EEUU lo mismo merece la pena archivar. Valido todo», TASK_172.
+- **Razón factual:** Visita24-sep confirmada25-sep; procedimientos27-sep no acreditan comercio ejecutado. Se retira la ficha episódica; seguimiento institucional enV06 y comercial enV04. No se declara resuelto todo el proceso bilateral.
+- **Memoria:** [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]. Peso3,8 aprobado antes del cierre; carga activa cero por archivo.
+- **Efecto:** −7,60 tras A, inventario10 activos/17 cerrados. [[ACTUALIZACION_SEMANAL_231_2026_10_04]].
 
 ## [2026-08-17] Cierre: Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho
 - **Tipo de cierre:** Vencimiento de ventana / transferencia a vector.

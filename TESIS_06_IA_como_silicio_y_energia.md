@@ -3,10 +3,10 @@ tipo: tesis_estructural
 id: TESIS_06
 estado: vigente
 soporte: alto
-ultima_actualizacion: 2026-09-27
-corte_factual_actual: "2026-09-26 20:48 Europe/Madrid"
-corte_factual_previo: "2026-09-19 05:29 Europe/Madrid"
-alcance_actualizacion: "Precierre W39 TASK_148; decisiones humanas aplicadas, revisión de soporte técnica"
+ultima_actualizacion: 2026-10-03
+corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
+corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
+alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
 vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 ---
 
@@ -45,7 +45,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vector energético:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
 - **Vector industrial:** [[VECTOR_05_Transformacion_industrial_y_demografia]].
 - **Sensores activos:** [[Evento_E0_2026_CoWoS_Capacity]] y [[Evento_E0_2026_07_08_Grid_Stress_IA]].
-- **Próximos sensores verificados:** ventas mensuales de TSMC el 08/10 y 10/11 en [[Radar_Eventos_2026_09]]; FERC/DOE se siguen mediante el observatorio y Grid, con consulta del instrumento específico antes de actuar.
+- **Próximos sensores verificados:** ventas mensuales de TSMC el 08/10 y 10/11 en [[Radar_Eventos_2026_10]]; FERC/DOE se siguen mediante el observatorio y Grid, con consulta del instrumento específico antes de actuar.
 
 ## 6. Criterios de validación o refutación
 
@@ -60,6 +60,19 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Despliegue masivo sin restricciones de interconexión, fabricación o refrigeración.
 - Descenso sostenido del coste total por unidad de servicio de IA y mejoras de eficiencia energética que, junto con la expansión de capacidad, eviten congestión, aplazamientos y aumento de lead times a lo largo de la cadena.
 
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Alto; conservado.
+- **Apoyo:** Órdenes DOE y resultados Micron respaldan dependencia de infraestructura y hardware.
+- **Contraevidencia:** Micron crece con caja positiva; no activación completa Grid o CoWoS.
+- **Ambigüedad / límite:** Ingresos/guía no son yields, capacidad, entregas o utilización; Alibaba sigue prospectivo.
+- **Próxima falsación:** Contrastar entregas, capacidad cualificada, lead times, energía, agua, utilización y caja.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+<details>
+<summary>Calibración W39 sustituida; preservada</summary>
+
 ## 7. Calibración actual — 27/09/2026 (precierre W39)
 
 - **Soporte:** Alto; se conserva.
@@ -69,6 +82,8 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Próxima falsación:** Contrastar entregas, rendimiento, utilización, electricidad y caja; capacidad disponible sin fricción material debilitaría la restricción fuerte.
 
 Revisión técnica del soporte, no una nueva declaración de Luis. Corte 2026-09-26 20:48 Europe/Madrid. Fuentes fechadas y auditoría en [[ACTUALIZACION_SEMANAL_231_2026_09_27]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Las manifestaciones previas conservan su periodo; no se reetiquetan como novedades de W39.
+
+</details>
 
 ## 8. Fuentes de seguimiento
 

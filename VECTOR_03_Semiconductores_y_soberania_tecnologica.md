@@ -2,14 +2,31 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
-ultima_revision: 2026-09-27
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-03
 triggers_activos: 0
 triggers_parciales: 1
-alcance_contadores: "Estado estructural heredado; auditoría W39 distingue cobertura actual"
+alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
 ---
 
 # 📝 Semiconductores y soberanía tecnológica
+
+## 0. Estado operativo — precierre W40
+
+**🟠 Elevada · → · carga primaria 18,60.** Semáforo y tendencia conservados; carga derivada de las fichas, no señal autónoma. Corte 2026-10-03 02:06 Europe/Madrid; aplicación 03-oct.
+
+[Micron, publicado 30-sep](https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx): trimestre fiscal terminado 03-sep, ingresos 54.229 M USD frente a 41.456 el trimestre anterior; CAPEX neto 10.774 M USD y FCF ajustado 33.199 M USD. Guía FQ1-27 de 61.500 ±1.500 M USD es previsión. Refuerza incidencia industrial de memoria, pero no prueba yields, entregas Blackwell ni capacidad CoWoS. A/B sin retraso AP7 o caída cuantificada acreditados; Q4 incompleto. C/D sin agregado hyperscalers o lead time generalizado verificables. C20 HBM integrado; no se presupone sold-out o HBM4. [TSMC calendario](https://investor.tsmc.com/english/financial-calendar): 08-oct, 15-oct y 10-nov, provisional.
+
+[Alibaba, anunciado 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V900 producción comercial Q1-2027; 650 clientes corresponden a la familia Zhenwu, no al V900. Antecedente recontrastado, sin nuevas entregas W40 verificadas. Peso 2,9 por menor novedad; fecha Q1-2027 fuera del radar 60 días. No certifica autosuficiencia ni rendimiento independiente.
+
+### Auditoría de condiciones propias
+
+Contadores heredados 0 activos/1 parcial. Ingresos Micron no prueban CAPEX agregado, lead times generalizados, yields CoWoS o bypass de litografía. No nueva activación completa.
+
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+
+<details>
+<summary>Estado operativo W39 sustituido; memoria íntegra</summary>
 
 ## 0. ESTADO OPERATIVO — precierre W39
 
@@ -30,7 +47,11 @@ Chips chinos incorpora 6,0; producción comercial prevista no observada.
 
 Contadores de metadatos conservados como estado estructural previo; no equivalen a umbrales revalidados esta semana. Las condiciones canónicas permanecen en §4 y la matriz de límites en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones y series anteriores conservan sus fechas.
 
+</details>
+
 ## 1. VECTOR ESTRUCTURAL
+
+**Seguimiento C20/C21 aprobado W40:** memoria HBM integrada en CoWoS; modelos y coste de inferencia observados aquí sin ficha ni carga propia. Comparar coste por tarea, calidad, consumo energético y uso efectivo con periodos y benchmarks compatibles. Sin nueva prueba independiente recuperada esta semana: anuncios no equivalen a disponibilidad o ventaja productiva. Fuentes corporativas y pruebas independientes deben distinguirse.
 - **Fuerzas:** Competición logística, industrial y soberana por el control de la cadena de valor de hardware avanzado (litografía, diseño y fundición) y la capacidad de cómputo asociada a la seguridad nacional.
 - **Mecanismos:** Controles unilaterales de exportación, asignación estatal de cuotas de fundición, bloqueo de patentes de diseño de chipsets y subsidios a la relocalización industrial de obleas.
 - **Chokepoints:** Equipos de litografía EUV/High-NA, fundiciones avanzadas (nodos sub-5nm) y acceso monopolizado a materias primas críticas (galio, germanio, grafito).

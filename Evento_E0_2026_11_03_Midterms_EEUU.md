@@ -5,12 +5,12 @@ fecha_hito: 2026-11-03
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 origen_alta: "Decisión humana C2 — TASK_118"
 calibracion: aplicada
 presion_numerica: 2
-peso_estructural: 4
+peso_estructural: 4.2
 factor_tendencia: 1
 tags: [elecciones, estados-unidos, politica-fiscal]
 tendencia_calibrada: "→"
@@ -18,12 +18,25 @@ tendencia_calibrada: "→"
 
 # Midterms de EE. UU. — 3 de noviembre de 2026
 
+## 1. Estado actual — precierre W40
+
+**E0 · P2 · peso 4,2 · → (1,0) · carga 8,40 · V06.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
+
+Elecciones futuras 03-nov según [FEC](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/), calendario heredado contrastado en W39. Peso 4,2 por mayor proximidad; P2/→ conservados. La fecha y la mayor relevancia temporal no anticipan ganador ni garantizan apoyo fiscal o monetario.
+
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
+
 ## 1. Snapshot actual
 
 - **Estado:** E0 — evento futuro incorporado por decisión humana C2.
 - **Fecha:** 03/11/2026, confirmada por la [FEC](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/), consulta 19/09 y recontraste 27/09; sin resultado electoral anticipado.
 - **Calibración aprobada:** P2 · peso 4 · → (1,0) = **8,0**; aceptación final de Luis 27-sep, TASK_148.
 - **Vector primario:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Secundarios V01 y V04.
+
+</details>
 
 ## 2. Qué se sigue y por qué
 
@@ -47,7 +60,7 @@ Mayorías → capacidad legislativa/control → política fiscal y comercial. Co
 
 ## 5. Decisión e historial
 
-19/09/2026 — Luis: «C1 y C2 mete». La fila electoral ya existía en [[Radar_Eventos_2026_09]]; ahora enlaza esta ficha. No se añade otra fila para el mismo hito.
+19/09/2026 — Luis: «C1 y C2 mete». La fila electoral ya existía en [[Radar_Eventos_2026_10]]; ahora enlaza esta ficha. No se añade otra fila para el mismo hito.
 
 Conecta con [[VECTOR_00_Indice]].
 

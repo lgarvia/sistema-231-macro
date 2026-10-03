@@ -1,21 +1,48 @@
 ---
-titulo: "Visita de Xi a EE. UU.: negociación bilateral y ejecución"
+titulo: "EE. UU.–China: ejecución de acuerdos y diálogo sobre IA"
 fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
-ultima_revision: 2026-09-27
-corte_factual: "2026-09-26 20:48 Europe/Madrid"
+ultima_revision: 2026-10-03
+corte_factual: "2026-10-03 02:06 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
 calibracion: aplicada
+carga_activa: 7.6
 presion_numerica: 2
-peso_estructural: 4
+peso_estructural: 3.8
 factor_tendencia: 1
 tags: [geopolitica, china, estados-unidos, diplomacia]
 tendencia_calibrada: "→"
 ---
 
 # Xi–EE. UU.: de la visita a los compromisos ejecutados
+
+## 1. Estado actual — ejecución bilateral, precierre W40
+
+**E0 · P2 · peso3,8 · →(1,0) · carga7,60 · V06.** Luis aprueba mantener el seguimiento tras considerar Tudanca y el contraste primario. El archivo técnico previo fue prematuro y se rectifica; visita ya celebrada, ejecución todavía por comprobar. No ascenso a E1 ni doble carga de aranceles.
+
+[USTR27-sep](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade): recomendaciones de trato futuro. [Comunicado oficial chino28-sep](https://english.www.gov.cn/news/202609/28/content_WS6aba53c5c6d00ca5f9a0d803.html): procesos domésticos pendientes y próximo diálogoIA antes de fin de noviembre. Anuncio de una parte, sin día exacto confirmado ni resultado anticipado; ventana en [[Radar_Eventos_2026_10]]. Fuentes anteriores al corte03-oct02:06, recuperadas en reconsideración posterior.
+
+**Sensores:** instrumentos legales efectivos; cumplimiento/operaciones/licencias documentados; celebración y contenido del diálogo/canalIA. Revisar al finalizar noviembre. Proponer cierre cuando no haya mecanismo autónomo o quede absorbido por otras fichas/vectores; ausencia de noticia no demuestra fracaso. Las normas arancelarias puntúan en Tariff Stack; aquí se sigue implementación bilateral y mecanismoIA.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_04]].
+
+<details>
+<summary>Archivo técnico y reconsideración previos, rectificados por decisión final de Luis</summary>
+
+## 1. Estado archivado — 03/10/2026
+
+> **Rectificación posterior 03-oct:** Luis aclara que el archivo era una opción para discutir. La ficha permanece aquí como estado técnico aplicado, pero el cierre no está ratificado. Se propone recuperar E0 centrado en ejecución de acuerdos; P2/peso3,8/→ ya presentados. La decisión está pendiente y no se confunde esta propuesta con reapertura autorizada.
+
+**Argumento adicional:** [USTR27-sep](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade) describe trato arancelario futuro; [comunicado oficial chino28-sep](https://english.www.gov.cn/news/202609/28/content_WS6aba53c5c6d00ca5f9a0d803.html) exige procesos domésticos y anuncia siguiente diálogo de IA antes de fin de noviembre. Valoración posterior a partir de la pista de Tudanca: ejecución pendiente y sensor de IA justifican considerar permanencia E0; sin nueva fecha exacta inventada ni doble carga comercial.
+
+**CERRADO por decisión de Luis — TASK_172.** Visita celebrada 24-sep; ventana consumida. Luis: «Xi EEUU lo mismo merece la pena archivar. Valido todo». Se retira del inventario activo y se transfiere seguimiento a V06 y V04; sin nueva ficha ni carga adicional. No se declara ejecución comercial completa ni resolución de la relación bilateral.
+
+Última calibración aprobada para memoria: P2 · peso 3,8 · → (1,0), equivalente 7,60 antes de retirada; **carga activa cero por cierre**, no P0. A aprobada y archivo posterior trazados en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. [Board of Trade 27-sep](https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/): procedimientos y listas acordados; aplicación legal y flujos pendientes. Reapertura solo ante mecanismo bilateral autónomo material y nueva decisión humana.
+
+<details>
+<summary>Snapshot W39 sustituido; memoria del seguimiento activo</summary>
 
 ## 1. Snapshot actual
 
@@ -24,6 +51,10 @@ tendencia_calibrada: "→"
 - **Calibración aprobada:** P2 · peso 4 · → (1,0) = **8,0**; aceptación final de Luis 27-sep, TASK_148.
 - **Vector primario:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Secundarios V04 y V03.
 - **Motivo de alta:** la relevancia estratégica y el interés sostenido de Luis justificaron el alta inicial; la visita está confirmada y la ficha observa ahora su ejecución.
+
+</details>
+
+</details>
 
 ## 2. Evidencia al corte 26-sep
 
