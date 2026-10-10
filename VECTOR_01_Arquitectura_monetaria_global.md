@@ -2,12 +2,62 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
-ultima_revision: 2026-10-03
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-10
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
+alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
 ---
+
+# VECTOR 01 Arquitectura monetaria global
+
+## Estado operativo — precierre W41
+
+**🟠 Elevada · ↑ · carga primaria 44,34.** Corte 2026-10-10 20:38 Europe/Madrid; decisiones Luis A/B aplicadas TASK_202. Semáforo estructural conservado; V04 tendencia→ coherente con recalibraciónautorizada, sin inferirla deltotal.
+
+- [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]]: 23,04.
+- [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]]: 12,90.
+- [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]: 8,40.
+
+## Evidencia W41
+
+[MOF, publicado 08-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/monthEng.pdf): septiembre 2026, deuda exterior larga neta −14.260 unidades de 100 MJPY = **−1,426 billones JPY**; cartera total −219,7 miles de millones JPY. [MOF semanal 08-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): 27-sep–03-oct, deuda larga −347,6 BJPY y cartera total +821,0 BJPY. Las poblaciones/comparaciones institucionales y destinos exigen auditoría; stock TIC no es flujo. [Fed H.4.1 08-oct](https://www.federalreserve.gov/releases/h41/20261008/): media semanal al 07-oct, reservas 3.029.659 MUSD (+81.569), TGA 880.253 MUSD (−68.421); miércoles reservas 3.022.066/TGA 885.783 MUSD. [NYFed SOFR](https://www.newyorkfed.org/markets/reference-rates/sofr): 01/02/05/06/07-oct 3,87/3,88/3,89/3,90/3,88%, IORB 3,90%; diferencial −3/−2/−1/0/−2 pb. Recuperación de reservas no demuestra desaparición de la cuestión japonesa.
+
+## Auditoría de condiciones propias
+
+**Contadores estructurales heredados: 0 activos / 0 parciales.** No son un recuento de activaciones verificadas nuevamente en W41. Se conserva su procedencia y se audita la cobertura de cada cláusula.
+
+| Trigger | Auditoría W41 |
+|---|---|
+| 01 | NO VERIFICABLE completo: spread interbancario >15 pb durante 5 d no auditado; SOFR≤IORB en 5 observaciones recuperadas no equivale a todo el mercado interbancario. |
+| 02 | NO VERIFICABLE: falta uso diario de facilidades >50 BUSD durante más de 5 d hábiles; H41 repo no SRFdiario. |
+| 03 | NO VERIFICABLE: resultados primarios 10 Y/30 Y 07–08 oct no recuperados, sin dos BTC<2,3 x verificables. |
+| 04 | NO VERIFICABLE: sin serie homogénea de benchmark 10 Y>5% durante más de 10 d de negociación. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## 1. VECTOR ESTRUCTURAL
+- **Fuerzas:** Transición de un sistema regido por tipos de interés a uno regido por la gestión de la liquidez sistémica interbancaria y soberana.
+- **Mecanismos:** Emisión de deuda pública masiva, uso de facilidades de repo (ON RRP, SRF) y absorción de liquidez global.
+- **Chokepoints:** Mercado de deuda soberana de referencia global, mercado repo y cámaras de compensación, infraestructuras de pagos y liquidación.
+- **Transmisión:** Impacta primariamente en V02 (precio de materias primas vía fortaleza de divisa de reserva) y V04 (flujos de capital y balanzas de pago).
+
+
+## Seguimiento aprobado W41 — C7/C8/C22
+
+Crédito privado: solicitado/atendido (%unidades, periodo), mora/pérdidas yrefinanciación por fondo. Stablecoins: reservas auditadas/composición/redenciones (USD yperiodo). CAPEXIA: caja, deuda, vencimientos, anticipos, utilización/retorno por empresa; distinguir inversiónanunciada/cerrada/ejecutada. Prioridadhumana elevada para proyectos, sin nueva ficha/carga. Mantener registro previo en memoria; no agregado nuevo comparable recuperado W41.
+
+[BOE, RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct/publicación y vigencia 06-oct; disolución de Cortes, elección 29-nov, campaña 13–27 nov y constitución Cortes 23-dic (fuera del radar 09-dic). Resultado, investidura y política fiscal futuros. Peso 4,2 aprobado por exposición España y utilidad del sistema para Luis, no equivalencia de alcance mundial con EEUU. [Banco de España 09-oct](https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/proyecciones-macro-informe-trimestral/proyecciones-e-informe-trimestral-de-la-economia-espanola-tercer-trimestre-2026.html): proyecciones cerradas 02-oct, crecimiento 2026 2,6%/2027 2,2%; IAPCmedio previsto 3,9%/3,7%; deuda prevista 98,5%/96,2%PIB. Fortalezas proyectadas son contraevidencia frente a crisis presumida. Supuestos 21-mayo–24-sept: gas+52%, rentabilidad España 10 Y+55 pb; preceden convocatoria, no reacción electoral ni cambio W41. [INE avance 29-sept](https://ine.es/dyngs/Prensa/es/adIPC0926.html): IPCsept 4,9%YoY frente 4,3%agosto, subyacente 3,1%, combustibles y turismo influyen; antecedente, avance pendiente de definitivo. No equiparar IPCmensual YoY y proyección IAPCmediaanual.
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # 📝 Arquitectura monetaria global
 
@@ -226,3 +276,5 @@ Registro inicial 27-sep: conservar diferencia entre CAPEX bruto, ajustado y anti
 ## Seguimiento aprobado W40 — C7/C8/C22
 
 Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de reembolsos (% de unidades y periodo), límites, mora/pérdidas y refinanciación; fuente SEC, fecha de presentación por verificar. Antecedentes heterogéneos: [PIF](https://www.sec.gov/Archives/edgar/data/1851322/000119312526395654/d154719dex99a1vi.htm) solicitudes11,4% frente a5%capacidad; [Fidelity](https://www.sec.gov/Archives/edgar/data/1920453/000119312526384555/d109827dex99a1vi.htm) solicitudes2,5% atendidas. No crisis sectorial acreditada. C8: reservas auditadas, composición en letras, redenciones y flujos (USD/mes), sin datos nuevos recuperados. C22 conserva panel de caja, deuda/vencimientos, anticipos, utilización y retorno; Micron positivo no representa agregado hyperscalers. Restricción delimitada con transmisión verificable genera propuesta humana, no alta automática.
+
+</details>

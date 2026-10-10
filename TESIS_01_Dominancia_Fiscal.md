@@ -3,10 +3,84 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-10-03
-corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
-corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
-alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+---
+
+# 💡 TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+Los compromisos fiscales y las dificultades políticas de ajuste pueden encarecer la refinanciación y reducir el margen para inversión y estabilización. La dominancia fiscal se materializa cuando esa restricción modifica la reacción del banco central para proteger la financiación soberana, incluso en conflicto con la estabilidad de precios.
+
+La política monetaria conserva su mandato formal. Deuda elevada, subidas de rentabilidad o liquidez preventiva no bastan para demostrar subordinación fiscal: debe observarse el nexo entre restricción fiscal y decisión monetaria.
+
+España es un ámbito prioritario de contraste: elecciones → gobernabilidad → presupuesto y ejecución → financiación e inversión. Cada transición requiere evidencia; la convocatoria electoral no demuestra bloqueo, estrés soberano o dominancia monetaria.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## 3. Manifestaciones y contraste — precierre W41
+
+Francia pierde aceleración semanal; las reservas estadounidenses se recuperan y SOFR no muestra el estrés exigido por las cláusulas revisadas. Las ventas japonesas de deuda exterior y los compromisos fiscales mantienen abierto el mecanismo, pero no acreditan subordinación monetaria. La incorporación de España aporta un escenario prospectivo, sin prueba actual de deterioro electoral.
+
+Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; la revisión interpretativa no incorpora hechos posteriores.
+
+## 4. Tensiones internas
+
+- **Trampa de tipos:** tipos más altos reducen demanda e inflación, pero elevan el coste marginal de refinanciación fiscal.
+- **Dominancia no observada:** una intervención preventiva de liquidez no prueba por sí sola subordinación fiscal; puede responder a un mandato independiente de estabilidad financiera.
+- **Confusión causal:** inflación de oferta, energía o aranceles puede limitar al banco central sin que exista dominancia fiscal.
+- **Puerta de no-validación:** deuda elevada, inflación de oferta, endurecimiento crediticio o compras rutinarias de reservas, por separado o conjuntamente, no validan la tesis. Debe observarse que la reacción monetaria cambia para proteger la financiación soberana, la absorción de subastas, el coste fiscal o la estabilidad financiera vinculada a la deuda.
+- **Credibilidad:** la tesis se debilita si los bancos centrales toleran deterioro de precios de la deuda sin alterar su reacción antiinflacionista.
+- **Doctrina frente a conducta:** un discurso de independencia y objetivo firme sólo refuta la tesis si se confirma después en decisiones bajo estrés de absorción; por ahora pesa como contraevidencia, no como cierre.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Sensores activos:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]], [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] y [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]].
+- **España:** resultado oficial, acuerdos de gobernabilidad, presupuesto y ejecución, saldo primario, subastas y diferencial España–Bund con vencimiento y fecha comparables. Contrastar después la reacción del BCE; no imputar a la elección movimientos anteriores a la convocatoria.
+- **Próximos controles:** TIC 16-oct, decisiones monetarias de octubre y flujos MOF 10-nov en [[Radar_Eventos_2026_10]]. Subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
+- **Transmisión:** V01; vínculos secundarios V05 y V06 sin carga adicional.
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## 7. Soporte vigente y trazabilidad
+
+**Soporte: Moderado.** Grado conservado. La revisión de título, enfoque y pruebas fue aprobada por Luis el 10-oct (TASK_204 → TASK_205); no constituye nueva validación empírica.
+
+El corte factual sigue siendo 2026-10-10 20:38 Europe/Madrid, precierre W41. Los hitos futuros son sensores, no resultados. Mayor peso o número de eventos no eleva el soporte de una tesis. Formulaciones TASK_175 y revisión técnica previa preservadas en la memoria inferior.
+
+
+<details>
+<summary>Formulación anterior a TASK_205, incluida revisión TASK_175 y precierre técnico W41; memoria sustituida</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_01
+estado: vigente
+soporte: moderado
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; formulación TASK_175 preservada, nueva auditoría sin cambio de soporte"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ---
 
@@ -14,9 +88,9 @@ vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 
 ## 1. Definición
 
-Los elevados stocks de deuda y los déficits estructurales reducen el margen de independencia efectiva de los bancos centrales. La política monetaria conserva su mandato formal, pero debe compatibilizar el control de precios con la continuidad de la financiación soberana, el funcionamiento del mercado de colateral y la estabilidad del sistema bancario.
+Los elevados compromisos fiscales y las dificultades políticas de ajuste encarecen la refinanciación y reducen el margen de maniobra. La dominancia fiscal se materializa cuando esa restricción modifica la reacción del banco central para proteger financiación soberana, incluso en conflicto con la estabilidad de precios.
 
-La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, cuando la restricción fiscal y la estabilidad financiera entren en conflicto con el endurecimiento monetario, aumentará la probabilidad de intervenciones sobre liquidez, composición de balances o microestructura de mercado.
+La política monetaria conserva su mandato formal. Deuda elevada, subidas de rentabilidad o liquidez preventiva no bastan para demostrar subordinación fiscal: debe observarse el nexo entre restricción fiscal y decisión monetaria.
 
 ## 2. Restricción estructural asociada
 
@@ -26,11 +100,11 @@ La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, 
 - **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
 - **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
 
-## 3. Manifestaciones observables — corte 26-sep 20:48
+## 3. Manifestaciones y contraste — precierre W41
 
-La revisión W39 incorpora la recuperación puntual de reservas y SOFR bajo IORB como contraevidencia de drenaje continuo; mantiene la laguna del diferencial japonés cubierto. Francia añade una señal de financiación soberana basada en un proxy de diferencial, sin probar dominancia fiscal. Observaciones, unidades y fuentes: [[VECTOR_01_Arquitectura_monetaria_global#0. ESTADO OPERATIVO — precierre W39]].
+**Soporte: Moderado.** Francia pierde aceleración semanal, reservas se recuperan y SOFRno estresado: contraevidencia al salto a dominancia. Ventas japonesas y restricciones fiscales mantienen mecanismo; elección España es capacidad futura, no subordinación monetaria.
 
-Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+Próxima falsación: Absorciónsubastas, diferencial cubierto, spreadscomparables yreacción efectiva del banco central. Datos y documentos con periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; formulación interpretativa TASK_175 conservada. Revisión técnica no prueba causal ni nueva decisiónhumana de grado.
 
 ## 4. Tensiones internas
 
@@ -46,8 +120,9 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vector dominante:** [[VECTOR_01_Arquitectura_monetaria_global]].
 - **Transmisores:** [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Evento sensor activo:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]].
+- **Restricción fiscal europea:** [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]], sin validación automática de dominancia monetaria.
 - **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]] y [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_07_02_US_NFP]].
-- **Próximos sensores:** [[Radar_Eventos_2026_10]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
+- **Próximos sensores:** TIC 16-oct, flujos MOF 10-nov y decisiones monetarias deoctubre en [[Radar_Eventos_2026_10]]. Subastas 07–08 oct y MOF 08-oct ya resueltos con sus lagunas.
 
 ## 6. Criterios de validación o refutación
 
@@ -61,15 +136,84 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Endurecimiento monetario sostenido pese a pérdidas fiscales, sin apoyo extraordinario al mercado soberano.
 - Absorción privada estable de la deuda con spreads repo, SRF y subastas dentro de rangos normales.
 
-## 7. Calibración actual — 03/10/2026, precierre W40
+## 7. Soporte vigente — formulación TASK_175, contraste W41
 
 - **Soporte:** Moderado; conservado.
-- **Apoyo:** Francia encarece financiación; Japón vende deuda exterior y reservas puntuales caen.
-- **Contraevidencia:** SOFR no muestra estrés y media semanal de reservas sube.
-- **Ambigüedad / límite:** Diferencial francés proxy; flujos japoneses no identifican Francia ni cumplen dos meses.
-- **Próxima falsación:** Contrastar diferencial cubierto, flujos mensuales, absorción de subastas y política efectiva.
+- **Apoyo:** Restricción de financiación francesa y señales de flujos japoneses.
+- **Contraevidencia:** SOFR sin estrés; media semanal de reservas al alza; dominancia monetaria no observada.
+- **Ambigüedad / límite:** Proxy de diferencial y destino de flujos incompleto; rentabilidad larga admite varias causas.
+- **Próxima falsación:** Subastas, diferencial homogéneo, composición de compradores y reacción monetaria bajo tensión.
 
-Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+Formulación y alcance interpretativo aprobados por Luis el 03-oct (TASK_175). W41 contrasta evidencia al 10-oct 20:38, conserva grados y aplica por separado decisiones A/B sobre eventos. Antecedentes íntegros preservados debajo; [[ACTUALIZACION_SEMANAL_231_2026_10_11]].
+
+
+
+<details>
+<summary>Formulación y contraste W40 aprobados TASK175, preservados íntegros</summary>
+
+# 💡 TESIS_01: Dominancia Fiscal
+
+## 1. Definición
+
+Los elevados compromisos fiscales y las dificultades políticas de ajuste encarecen la refinanciación y reducen el margen de maniobra. La dominancia fiscal se materializa cuando esa restricción modifica la reacción del banco central para proteger financiación soberana, incluso en conflicto con la estabilidad de precios.
+
+La política monetaria conserva su mandato formal. Deuda elevada, subidas de rentabilidad o liquidez preventiva no bastan para demostrar subordinación fiscal: debe observarse el nexo entre restricción fiscal y decisión monetaria.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+
+## 3. Manifestaciones y contraste — precierre W40 / revisión aprobada
+
+W40 observa encarecimiento de financiación francesa y ventas semanales japonesas de deuda exterior. El diferencial francés es un proxy no homogéneo y los flujos no identifican destinos ni completan dos meses. SOFR no muestra el estrés definido y la media semanal de reservas aumenta pese a la caída del saldo puntual. Estas señales refuerzan la restricción fiscal, sin demostrar dominancia.
+
+El corpus público del 23/25/28-sep y 02-oct precisa coste absoluto, diferencial y capacidad política. Las fotografías intradía publicadas no se mezclan con series oficiales como una observación única. El TPI es un instrumento de transmisión condicionado por sostenibilidad y criterios fiscales. [BCE, TPI](https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220721~973e6e7273.en.html).
+
+Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro conservado: 03-oct 02:06 Europe/Madrid. Revisión interpretativa aprobada después del precierre; las declaraciones propias no aumentan por repetición el soporte empírico.
+
+## 4. Tensiones internas
+
+- **Trampa de tipos:** tipos más altos reducen demanda e inflación, pero elevan el coste marginal de refinanciación fiscal.
+- **Dominancia no observada:** una intervención preventiva de liquidez no prueba por sí sola subordinación fiscal; puede responder a un mandato independiente de estabilidad financiera.
+- **Confusión causal:** inflación de oferta, energía o aranceles puede limitar al banco central sin que exista dominancia fiscal.
+- **Puerta de no-validación:** deuda elevada, inflación de oferta, endurecimiento crediticio o compras rutinarias de reservas, por separado o conjuntamente, no validan la tesis. Debe observarse que la reacción monetaria cambia para proteger la financiación soberana, la absorción de subastas, el coste fiscal o la estabilidad financiera vinculada a la deuda.
+- **Credibilidad:** la tesis se debilita si los bancos centrales toleran deterioro de precios de la deuda sin alterar su reacción antiinflacionista.
+- **Doctrina frente a conducta:** un discurso de independencia y objetivo firme sólo refuta la tesis si se confirma después en decisiones bajo estrés de absorción; por ahora pesa como contraevidencia, no como cierre.
+
+## 5. Relación con VECTORES y EVENTOS
+
+- **Vector dominante:** [[VECTOR_01_Arquitectura_monetaria_global]].
+- **Transmisores:** [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
+- **Evento sensor activo:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]].
+- **Restricción fiscal europea:** [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]], sin validación automática de dominancia monetaria.
+- **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]] y [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_07_02_US_NFP]].
+- **Próximos sensores:** [[Radar_Eventos_2026_10]]: subastas soberanas 07–08-oct (provisionales), flujos mensuales japoneses 08-oct y decisiones FOMC/BCE de octubre; cierre Q3 ya consumido con lagunas SRF explícitas.
+
+## 6. Criterios de validación o refutación
+
+**Refuerzan la tesis:**
+- Intervención explícita del banco central para sostener subastas soberanas o contener una ruptura de colateral.
+- Cambio de composición o expansión de balance coincidente con deterioro persistente de la demanda de deuda.
+- Tolerancia monetaria a inflación por encima del objetivo motivada expresamente por estabilidad fiscal o financiera.
+
+**La debilitan o refutan:**
+- Consolidación fiscal prolongada con superávits primarios y caída estable de deuda/PIB.
+- Endurecimiento monetario sostenido pese a pérdidas fiscales, sin apoyo extraordinario al mercado soberano.
+- Absorción privada estable de la deuda con spreads repo, SRF y subastas dentro de rangos normales.
+
+## 7. Calibración vigente — revisión aprobada 03/10/2026 (TASK_175)
+
+- **Soporte:** Moderado; conservado.
+- **Apoyo:** Restricción de financiación francesa y señales de flujos japoneses.
+- **Contraevidencia:** SOFR sin estrés; media semanal de reservas al alza; dominancia monetaria no observada.
+- **Ambigüedad / límite:** Proxy de diferencial y destino de flujos incompleto; rentabilidad larga admite varias causas.
+- **Próxima falsación:** Subastas, diferencial homogéneo, composición de compradores y reacción monetaria bajo tensión.
+
+Luis aprueba esta revisión con «Perfecto. Ejecuta». Corte macro conservado: 2026-10-03 02:06 Europe/Madrid; fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. La revisión modifica formulación y alcance de soporte; no cambia pesos, presiones, tendencias o carga de eventos. Xi permanece E0 de ejecución bilateral.
 
 <details>
 <summary>Calibración W39 sustituida; preservada</summary>
@@ -162,5 +306,47 @@ Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [fed](https://www.f
 - **Datos estadounidenses de julio:** CPI 3,4% general y 2,5% subyacente; PCE 3,7% general y 3,3% subyacente; nóminas −23.000, desempleo 4,1% y Sahm Rule en tiempo real −0,03. El conjunto mantiene la tensión entre inflación y empleo, sin determinar por sí solo la próxima decisión de la Fed.
 - **Gestión de reservas:** al 26/08, las reservas bancarias eran $2,917T y la TGA $959,4B. El ejercicio de pequeño valor de la SRF del 25/08 sumó $3M y la segunda operación fue cero. Hay precondiciones de estrechez, no estrés ejecutado.
 - **Doctrina monetaria:** Warsh reafirmó en Jackson Hole el 2% como objetivo innegociable, criticó el *forward guidance* y defendió los tipos cortos como instrumento principal. Es contraevidencia inmediata a una subordinación fiscal ya ejecutada, aunque no elimina la restricción futura de absorción de deuda.
+
+</details>
+
+
+<details>
+<summary>Antecedente preservado: formulación, manifestaciones y calibración previas a la aprobación TASK_175</summary>
+
+Estos pasajes fueron sustituidos por la decisión humana del03-oct; no representan el estado vigente. Las alusiones al archivo Xi corresponden a una actuación después rectificada.
+
+## 1. Definición
+
+Los elevados stocks de deuda y los déficits estructurales reducen el margen de independencia efectiva de los bancos centrales. La política monetaria conserva su mandato formal, pero debe compatibilizar el control de precios con la continuidad de la financiación soberana, el funcionamiento del mercado de colateral y la estabilidad del sistema bancario.
+
+La tesis no exige que toda decisión monetaria obedezca al Tesoro. Predice que, cuando la restricción fiscal y la estabilidad financiera entren en conflicto con el endurecimiento monetario, aumentará la probabilidad de intervenciones sobre liquidez, composición de balances o microestructura de mercado.
+
+
+
+## 3. Manifestaciones observables — corte 26-sep 20:48
+
+La revisión W39 incorpora la recuperación puntual de reservas y SOFR bajo IORB como contraevidencia de drenaje continuo; mantiene la laguna del diferencial japonés cubierto. Francia añade una señal de financiación soberana basada en un proxy de diferencial, sin probar dominancia fiscal. Observaciones, unidades y fuentes: [[VECTOR_01_Arquitectura_monetaria_global#0. ESTADO OPERATIVO — precierre W39]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+
+
+
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado; conservado.
+- **Apoyo:** Francia encarece financiación; Japón vende deuda exterior y reservas puntuales caen.
+- **Contraevidencia:** SOFR no muestra estrés y media semanal de reservas sube.
+- **Ambigüedad / límite:** Diferencial francés proxy; flujos japoneses no identifican Francia ni cumplen dos meses.
+- **Próxima falsación:** Contrastar diferencial cubierto, flujos mensuales, absorción de subastas y política efectiva.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+
+
+- **Próximos sensores:** [[Radar_Eventos_2026_10]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
+</details>
+
+</details>
+
 
 </details>

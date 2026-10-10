@@ -1,19 +1,54 @@
 ---
-titulo: "Gas europeo: almacenamiento y balance de invierno"
+titulo: "Gas europeo / invierno"
 fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
 peso_estructural: 3.9
 factor_tendencia: 1
 tags: [gas, europa, energia, almacenamiento, invierno]
-tendencia_calibrada: "→"
+tendencia_calibrada: "\u2192"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# Gas europeo / invierno
+
+## 1. Estado actual — precierre W41
+
+**E0 · P3 · peso 3,9 · → (1,0) · carga 11,70 · V02.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[DOE 202-26-49](https://www.energy.gov/documents/doe-order-no-202-26-49), publicado 25-sep, efectivo 27-sep–25-dic: vigencia heredada; **cláusula D exige informe 10-oct, H fija vigencia**. Entrega/publicación no recuperada al corte; jornada estadounidense aún incompleta. No inferir incumplimiento ni despacho. [OMI al 09-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): 100 incidentes/24 fallecidos, frente 88/24 al 30-sep. +12 en el registro acumulado no significa 12 sucesos durante W41. GHANA PROSPERITY 03-oct, GAS VELA/CAMEROON PROSPERITY/LIPSI 04-oct, ON PEACE 05-oct (12 heridos), ST1 (06-oct): daños registrados. [LMA/JWC](https://lmalloyds.com/specialist_area/marine/): JWLA 035 referenciada, sin prima universal. [ENTSOG, publicado 08-oct](https://www.entsog.eu/sites/default/files/2026-10/SO0072-26_Winter%20Supply%20Outlook%202026-27.pdf): base 01-oct, almacenamiento 72%≈811 TWh frente 83%≈940 TWh un año antes; publicación nueva con base anterior al corte W40. Escenarios 29%/13% de stock final bajo hipótesis GNL no son restricciones industriales observadas.
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| Balance | PARCIAL: inventario y escenarios ENTSOG precisanexposición; demandaclima/flujosdiarios al 10-oct no completos. |
+| Fricción | NO ACREDITADA NUEVA: no restricciónindustrialactualni corte desuministro probado; escenarioscondicionales no hechos. |
+| Cierre | Mantener ventanaestacional; absorción futura si pierde señalindependiente, no fechaartificial. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # Gas europeo ante el invierno
 
@@ -74,3 +109,5 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMIS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia →, factor 1,0, carga 12,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>

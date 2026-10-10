@@ -2,22 +2,25 @@
 tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
-soporte: alto
-ultima_actualizacion: 2026-10-03
-corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
-corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
-alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+soporte_alcance: "Patrón de coerción modular; eficacia estabilizadora en contraste"
 ---
 
-# 💡 TESIS_02: Frictionless Stabilization
-## Coerción modular sin ruptura total
+# 💡 TESIS_02: Coerción modular y estabilización táctica
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
 
 ## 1. Definición
 
-Las potencias rivales contienen las rupturas catastróficas porque siguen dependiendo de cadenas productivas, mercados y disuasión compartidos, mientras desplazan la confrontación hacia aranceles, sanciones, controles tecnológicos, rutas alternativas y hechos consumados de baja intensidad.
+Las potencias combinan coerción selectiva y acuerdos parciales para preservar interdependencias críticas. La estabilización es condicional y reversible; requiere ejecución y continuidad de flujos además de anuncios diplomáticos.
 
-La estabilización es táctica, no una reconciliación: reduce la fricción visible en momentos críticos sin revertir la fragmentación institucional, comercial y tecnológica acumulada. Su mecanismo distintivo es modular: cuando un instrumento de coerción caduca, puede ser sustituido por otros más selectivos sin que el flujo comercial desaparezca.
+Se distinguen dos afirmaciones: **coerción modular observable**, con soporte moderado-alto; y **eficacia estabilizadora de los acuerdos**, pendiente de contraste específico. El respaldo a la primera no se transmite automáticamente a la segunda. La interdependencia puede contener rupturas y también convertirse en instrumento de presión.
 
 ## 2. Restricción estructural asociada
 
@@ -26,18 +29,86 @@ La estabilización es táctica, no una reconciliación: reduce la fricción visi
 - **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
 - **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
 
-## 3. Manifestaciones observables — corte 26-sep 20:48
+## 3. Manifestaciones y contraste — precierre W41
 
-Las instrucciones CBP y la publicación canadiense documentan continuidad jurídica; la prohibición del 29-sep aún es futura al corte. Xi añade mecanismos bilaterales anunciados cuya ejecución falta comprobar. Modularidad no equivale a estabilización económica. Véanse [[Evento_E1_2026_07_24_US_Tariff_Stack]] y [[Evento_E0_2026_09_19_Visita_Xi_EEUU]].
+La arquitectura jurídica de coerción y los canales bilaterales EE. UU.–China permanecen. No se recuperó nueva ejecución bilateral suficiente para acreditar estabilización. El comercio agregado no identifica por sí solo efectos de las medidas; Tariff pasa a → por decisión humana, conservando E1/P4 y el régimen jurídico.
 
-Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; la revisión interpretativa no incorpora hechos posteriores.
 
 ## 4. Tensiones internas
 
 - **Seguridad frente a eficiencia:** la soberanía tecnológica erosiona la interdependencia que hace posible la estabilización.
 - **Bypass inflacionario:** los intermediarios y rutas alternativas preservan el flujo, pero elevan costes y reducen productividad.
 - **Riesgo de salto discreto:** una sanción binaria, un bloqueo sostenido o una escalada militar puede romper el equilibrio sin transición gradual.
-- **Persistencia multilateral:** que el 72% del comercio siga bajo NMF limita la lectura de desacoplamiento total.
+- **Persistencia multilateral:** la continuidad de comercio sujeto a reglas multilaterales limita el desacoplamiento total. El porcentaje histórico no se usa como dato actualizado W41 sin una serie recontrastada.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Sensor central:** [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Ejecución bilateral en [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]; costes logísticos en [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
+- **Pruebas:** normas aplicadas, licencias concedidas, entregas, continuidad de flujos y costes por sector y periodo. Separar vigencia, autorización y operación ejecutada.
+- **España:** medir exportaciones, suministros y costes empresariales cuando exista transmisión atribuible; la relevancia doméstica no valida el mecanismo global.
+- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Vectores:** V04 dominante; V06 y V02 secundarios sin duplicación de carga.
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## 7. Soporte vigente y trazabilidad
+
+**Soporte: Moderado-alto.** Grado conservado. La revisión de título, enfoque y pruebas fue aprobada por Luis el 10-oct (TASK_204 → TASK_205); no constituye nueva validación empírica.
+
+El corte factual sigue siendo 2026-10-10 20:38 Europe/Madrid, precierre W41. Los hitos futuros son sensores, no resultados. Mayor peso o número de eventos no eleva el soporte de una tesis. Formulaciones TASK_175 y revisión técnica previa preservadas en la memoria inferior.
+
+
+<details>
+<summary>Formulación anterior a TASK_205, incluida revisión TASK_175 y precierre técnico W41; memoria sustituida</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; formulación TASK_175 preservada, nueva auditoría sin cambio de soporte"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+---
+
+# 💡 TESIS_02: Coerción modular y estabilización táctica
+
+> ID y nombre de archivo conservados para continuidad de enlaces; denominación anterior: Frictionless Stabilization.
+
+## 1. Definición
+
+Las potencias combinan coerción selectiva y acuerdos parciales para preservar interdependencias críticas. La estabilización es condicional, reversible y debe acreditarse en ejecución y flujos, además de anuncios diplomáticos.
+
+La modularidad describe sustitución o combinación de aranceles, controles y canales bilaterales. No garantiza comercio sin fricción ni reconciliación. La interdependencia favorece contener rupturas, pero también puede convertirse en instrumento de presión.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## 3. Manifestaciones y contraste — precierre W41
+
+**Soporte: Moderado-alto.** Coerción modular jurídica heredada y canales Xi se mantienen; comercio agregado no prueba estabilización. Sin nueva ejecución bilateral ni efectos causales recuperados; Tariff→no fin del régimen.
+
+Próxima falsación: Aplicación, licencias, flujos ycontinuidad/ruptura de acuerdos. Datos y documentos con periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; formulación interpretativa TASK_175 conservada. Revisión técnica no prueba causal ni nueva decisiónhumana de grado.
+
+## 4. Tensiones internas
+
+- **Seguridad frente a eficiencia:** la soberanía tecnológica erosiona la interdependencia que hace posible la estabilización.
+- **Bypass inflacionario:** los intermediarios y rutas alternativas preservan el flujo, pero elevan costes y reducen productividad.
+- **Riesgo de salto discreto:** una sanción binaria, un bloqueo sostenido o una escalada militar puede romper el equilibrio sin transición gradual.
+- **Persistencia multilateral:** la continuidad de comercio sujeto a reglas multilaterales limita el desacoplamiento total. El porcentaje histórico no se usa como dato actualizado W41 sin una serie recontrastada.
 
 ## 5. Relación con VECTORES y EVENTOS
 
@@ -45,7 +116,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vectores secundarios:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
 - **Sensor central activo:** [[Evento_E1_2026_07_24_US_Tariff_Stack]].
 - **Sensores complementarios:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y la memoria cerrada [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]].
-- **Próximos puntos de control:** ejecución estadounidense del 15 y 29/09, transmisión física de Section 301/338 y datos de precios, comercio e inventarios en [[Radar_Eventos_2026_10]].
+- **Próximos puntos de control:** aplicación efectiva de medidas comerciales ya vigentes, datos comerciales 04-nov; publicación 06-oct ya consumida y ejecución de acuerdos Xi, incluida ventana anunciada de diálogo IA hasta 30-nov sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
 
 ## 6. Criterios de validación o refutación
 
@@ -59,15 +130,82 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Restablecimiento duradero del multilateralismo con reducción material de aranceles y controles.
 - Normalización de rutas, seguros y reglas comerciales a niveles previos sin nuevas capas de coerción.
 
-## 7. Calibración actual — 03/10/2026, precierre W40
+## 7. Soporte vigente — formulación TASK_175, contraste W41
 
-- **Soporte:** Alto; conservado.
-- **Apoyo:** Modularidad de normas canadienses y procedimientos comerciales EE. UU.–China.
-- **Contraevidencia:** Prohibiciones pueden aumentar fricción; acuerdos no garantizan estabilidad.
-- **Ambigüedad / límite:** Vigencia jurídica no equivale a transmisión económica ni a comercio ejecutado.
-- **Próxima falsación:** Medir aplicación, flujos y persistencia o ruptura de canales.
+- **Soporte:** Moderado-alto; aprobado por Luis, desde alto.
+- **Apoyo:** Coerción modular, canales bilaterales y acuerdos parciales observables.
+- **Contraevidencia:** Prohibiciones pueden elevar fricción; anuncios no garantizan estabilización ni ejecución.
+- **Ambigüedad / límite:** El apoyo a modularidad supera al apoyo a eficacia estabilizadora; no es una bajada por terminar la visita Xi.
+- **Próxima falsación:** Actos de ejecución, acceso comercial, flujos y persistencia o ruptura de canales.
 
-Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+Formulación y alcance interpretativo aprobados por Luis el 03-oct (TASK_175). W41 contrasta evidencia al 10-oct 20:38, conserva grados y aplica por separado decisiones A/B sobre eventos. Antecedentes íntegros preservados debajo; [[ACTUALIZACION_SEMANAL_231_2026_10_11]].
+
+
+
+<details>
+<summary>Formulación y contraste W40 aprobados TASK175, preservados íntegros</summary>
+
+# 💡 TESIS_02: Coerción modular y estabilización táctica
+
+> ID y nombre de archivo conservados para continuidad de enlaces; denominación anterior: Frictionless Stabilization.
+
+## 1. Definición
+
+Las potencias combinan coerción selectiva y acuerdos parciales para preservar interdependencias críticas. La estabilización es condicional, reversible y debe acreditarse en ejecución y flujos, además de anuncios diplomáticos.
+
+La modularidad describe sustitución o combinación de aranceles, controles y canales bilaterales. No garantiza comercio sin fricción ni reconciliación. La interdependencia favorece contener rupturas, pero también puede convertirse en instrumento de presión.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## 3. Manifestaciones y contraste — precierre W40 / revisión aprobada
+
+La vigencia jurídica de medidas canadienses y los procedimientos EE. UU.–China acreditan coerción modular. Recomendaciones comerciales y anuncios de diálogo no acreditan por sí solos implementación ni estabilización de flujos. Xi permanece E0 de ejecución de acuerdos; la visita terminada no cierra ese mecanismo.
+
+Las intervenciones del 22/30-sep distinguen gestión de riesgos, cooperación tecnológica e interdependencia comercial. Su repetición no aporta corroboración independiente. [USTR, recomendaciones 27-sep](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade).
+
+Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro conservado: 03-oct 02:06 Europe/Madrid. Revisión interpretativa aprobada después del precierre; las declaraciones propias no aumentan por repetición el soporte empírico.
+
+## 4. Tensiones internas
+
+- **Seguridad frente a eficiencia:** la soberanía tecnológica erosiona la interdependencia que hace posible la estabilización.
+- **Bypass inflacionario:** los intermediarios y rutas alternativas preservan el flujo, pero elevan costes y reducen productividad.
+- **Riesgo de salto discreto:** una sanción binaria, un bloqueo sostenido o una escalada militar puede romper el equilibrio sin transición gradual.
+- **Persistencia multilateral:** la continuidad de comercio sujeto a reglas multilaterales limita el desacoplamiento total. El porcentaje histórico no se usa como dato actualizado W40 sin una serie recontrastada.
+
+## 5. Relación con VECTORES y EVENTOS
+
+- **Vector dominante:** [[VECTOR_04_Reconfiguracion_del_comercio_global]].
+- **Vectores secundarios:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
+- **Sensor central activo:** [[Evento_E1_2026_07_24_US_Tariff_Stack]].
+- **Sensores complementarios:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y la memoria cerrada [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]].
+- **Próximos puntos de control:** aplicación efectiva de medidas comerciales ya vigentes, datos comerciales 06-oct/04-nov y ejecución de acuerdos Xi, incluida ventana anunciada de diálogo IA hasta30-nov sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+
+## 6. Criterios de validación o refutación
+
+**Refuerzan la tesis:**
+- Acuerdos tácticos que reabren flujos sin retirar sanciones, controles o despliegues.
+- Sustitución persistente de comercio directo por países puente y rutas más costosas.
+- Continuidad de interdependencias críticas pese al endurecimiento político.
+
+**La debilitan o refutan:**
+- Embargo total y sostenido entre grandes bloques, acompañado de ruptura financiera y tecnológica completa.
+- Restablecimiento duradero del multilateralismo con reducción material de aranceles y controles.
+- Normalización de rutas, seguros y reglas comerciales a niveles previos sin nuevas capas de coerción.
+
+## 7. Calibración vigente — revisión aprobada 03/10/2026 (TASK_175)
+
+- **Soporte:** Moderado-alto; aprobado por Luis, desde alto.
+- **Apoyo:** Coerción modular, canales bilaterales y acuerdos parciales observables.
+- **Contraevidencia:** Prohibiciones pueden elevar fricción; anuncios no garantizan estabilización ni ejecución.
+- **Ambigüedad / límite:** El apoyo a modularidad supera al apoyo a eficacia estabilizadora; no es una bajada por terminar la visita Xi.
+- **Próxima falsación:** Actos de ejecución, acceso comercial, flujos y persistencia o ruptura de canales.
+
+Luis aprueba esta revisión con «Perfecto. Ejecuta». Corte macro conservado: 2026-10-03 02:06 Europe/Madrid; fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. La revisión modifica formulación y alcance de soporte; no cambia pesos, presiones, tendencias o carga de eventos. Xi permanece E0 de ejecución bilateral.
 
 <details>
 <summary>Calibración W39 sustituida; preservada</summary>
@@ -153,5 +291,49 @@ Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [law](https://www.g
 - **Respuesta calibrada:** Canadá anunció aranceles del 15%, 25% y 50% sobre $27.600M de importaciones estadounidenses desde el 08/09, además de apoyo a empresas y trabajadores. Es una contramedida material pero modular: profundiza la fricción sin cerrar el intercambio bilateral.
 - **Desescalada táctica:** la EIA registró recuperación del tráfico por Ormuz tras el entendimiento EE. UU.–Irán de junio, aunque persisten listed areas y cautela reforzada.
 - **Adaptación:** friend-shoring, triangulación y desvíos permiten continuar los flujos a mayor coste en vez de interrumpirlos por completo.
+
+</details>
+
+
+<details>
+<summary>Antecedente preservado: formulación, manifestaciones y calibración previas a la aprobación TASK_175</summary>
+
+Antecedente estadístico sustituido de §4: «**Persistencia multilateral:** que el 72% del comercio siga bajo NMF limita la lectura de desacoplamiento total». La cifra se conserva como historial y no se considera revalidada en W40.
+
+Estos pasajes fueron sustituidos por la decisión humana del03-oct; no representan el estado vigente. Las alusiones al archivo Xi corresponden a una actuación después rectificada.
+
+## 1. Definición
+
+Las potencias rivales contienen las rupturas catastróficas porque siguen dependiendo de cadenas productivas, mercados y disuasión compartidos, mientras desplazan la confrontación hacia aranceles, sanciones, controles tecnológicos, rutas alternativas y hechos consumados de baja intensidad.
+
+La estabilización es táctica, no una reconciliación: reduce la fricción visible en momentos críticos sin revertir la fragmentación institucional, comercial y tecnológica acumulada. Su mecanismo distintivo es modular: cuando un instrumento de coerción caduca, puede ser sustituido por otros más selectivos sin que el flujo comercial desaparezca.
+
+
+
+## 3. Manifestaciones observables — corte 26-sep 20:48
+
+Las instrucciones CBP y la publicación canadiense documentan continuidad jurídica; la prohibición del 29-sep aún es futura al corte. Xi añade mecanismos bilaterales anunciados cuya ejecución falta comprobar. Modularidad no equivale a estabilización económica. Véanse [[Evento_E1_2026_07_24_US_Tariff_Stack]] y [[Evento_E0_2026_09_19_Visita_Xi_EEUU]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+
+
+
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Alto; conservado.
+- **Apoyo:** Modularidad de normas canadienses y procedimientos comerciales EE. UU.–China.
+- **Contraevidencia:** Prohibiciones pueden aumentar fricción; acuerdos no garantizan estabilidad.
+- **Ambigüedad / límite:** Vigencia jurídica no equivale a transmisión económica ni a comercio ejecutado.
+- **Próxima falsación:** Medir aplicación, flujos y persistencia o ruptura de canales.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+
+
+- **Próximos puntos de control:** ejecución estadounidense del 15 y 29/09, transmisión física de Section 301/338 y datos de precios, comercio e inventarios en [[Radar_Eventos_2026_10]].
+</details>
+
+</details>
+
 
 </details>

@@ -3,20 +3,25 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-10-03
-corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
-corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
-alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
 vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
 ---
 
-# 💡 TESIS_04: Multipolaridad Logística
+# 💡 TESIS_04: Multipolaridad logística
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
 
 ## 1. Definición
 
-La seguridad de rutas, seguros, energía, puertos y comunicaciones marítimas pesa cada vez más en las decisiones de abastecimiento. Los bloques aceptan redundancia y costes adicionales para reducir exposición a chokepoints, sanciones y coerción, sin que ello implique el fin del comercio global.
+La seguridad del abastecimiento depende de rutas, energía, seguros y proveedores sustituibles. La autonomía efectiva exige alternativas operativas y capacidad para absorber interrupciones a un coste sostenible; cambiar una dependencia sin disponer de sustitutos no reduce necesariamente la vulnerabilidad.
 
-La tesis predice una globalización más segmentada y asegurada, no una desglobalización total ni primas permanentemente elevadas en todos los corredores.
+Los bloques pueden aceptar mayores costes para reducir exposición a nodos críticos y coerción. La tesis predice una globalización más segmentada y asegurada, sin exigir desaparición del comercio global ni primas permanentemente elevadas.
+
+Para España se sigue la cadena incidente → seguro y transporte → suministro → precio energético → actividad. Cada eslabón requiere evidencia propia. La soberanía digital se desarrolla en T06/V03/V06; aquí se conserva el alcance físico y logístico.
 
 ## 2. Restricción estructural asociada
 
@@ -25,11 +30,78 @@ La tesis predice una globalización más segmentada y asegurada, no una desgloba
 - **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
 - **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
 
-## 3. Manifestaciones observables — corte 26-sep 20:48
+## 3. Manifestaciones y contraste — precierre W41
 
-OMI eleva el acumulado a 85 incidentes y 24 fallecidos al 24-sep. Es evidencia de recurrencia física, con primas y tránsito aún incompletamente medidos. Gas europeo añade observación del balance invernal; una instantánea no prueba restricción. [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
+Los nuevos incidentes marítimos y la vulnerabilidad del gas sostienen el mecanismo logístico; la continuidad de cuotas OPEP es un dato de política de oferta. Conteos de incidentes, cuotas y previsiones no demuestran por sí solos cierre de rutas, producción efectiva o racionamiento. La transmisión específica a España exige flujos y costes observados.
 
-Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; la revisión interpretativa no incorpora hechos posteriores.
+
+## 4. Tensiones internas
+
+- **Persistencia frente a reversibilidad:** una listed area no prueba desvío permanente ni prima cuantificada.
+- **Precio frente a flujo:** volatilidad de Brent o fletes puede reflejar demanda y oferta, no ruptura logística.
+- **Redundancia costosa:** rutas alternativas elevan costes, pero también reducen la probabilidad de interrupción total.
+- **Normalización:** la recuperación rápida de Ormuz muestra que parte de la fricción puede ser temporal.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Vector dominante:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; V04 y V06 secundarios.
+- **Sensores activos:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
+- **España:** fuentes efectivas de suministro, alternativas disponibles, flujos de gas, costes energéticos industriales y duración de sus efectos. Medir capacidad utilizable y sustitución efectiva, sin presumirlas.
+- **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física → transmisión a precios y actividad. Ningún peldaño sustituye al siguiente.
+- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10]]. Reunión 04-oct ya consumida.
+- **Observatorios:** GNSS y Taiwán en V02/V06; sólo reabren ante evidencia material.
+
+## 6. Criterios de validación o refutación
+
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## 7. Soporte vigente y trazabilidad
+
+**Soporte: Moderado-alto.** Grado conservado. La revisión de título, enfoque y pruebas fue aprobada por Luis el 10-oct (TASK_204 → TASK_205); no constituye nueva validación empírica.
+
+El corte factual sigue siendo 2026-10-10 20:38 Europe/Madrid, precierre W41. Los hitos futuros son sensores, no resultados. Mayor peso o número de eventos no eleva el soporte de una tesis. Formulaciones TASK_175 y revisión técnica previa preservadas en la memoria inferior.
+
+
+<details>
+<summary>Formulación anterior a TASK_205, incluida revisión TASK_175 y precierre técnico W41; memoria sustituida</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; formulación TASK_175 preservada, nueva auditoría sin cambio de soporte"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+---
+
+# 💡 TESIS_04: Multipolaridad Logística
+
+## 1. Definición
+
+La seguridad del abastecimiento depende de rutas, energía, seguros y proveedores sustituibles. Reducir vulnerabilidad exige redundancia y capacidad propia efectiva; cambiar dependencia sin disponer de alternativas no constituye autonomía.
+
+Los bloques pueden aceptar mayores costes para reducir exposición a chokepoints y coerción. La tesis predice una globalización más segmentada y asegurada, sin exigir desaparición del comercio global ni primas permanentemente elevadas. La soberanía digital se desarrolla en T06/V03/V06; aquí se conserva el alcance físico y logístico.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## 3. Manifestaciones y contraste — precierre W41
+
+**Soporte: Moderado-alto.** Incidentes marítimos nuevos yvulnerabilidad del gas mantienen restricciónlogística; OPEPmantiene cuota. Conteos/previsiones no cierre de rutas ni racionamiento observado.
+
+Próxima falsación: Tránsito, primas/fletes, flujos GNL, alternativasoperativas yduración derestricciones. Datos y documentos con periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; formulación interpretativa TASK_175 conservada. Revisión técnica no prueba causal ni nueva decisiónhumana de grado.
 
 ## 4. Tensiones internas
 
@@ -44,7 +116,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Sensor activo:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Observatorios transferidos:** GNSS y Taiwán permanecen en V02/V06 y en sus fichas cerradas; sólo reabren ante trigger material.
-- **Sensores próximos:** ejecución Section 338 del 29/09, JMMC de OPEP+ del 04/10 y sanciones UE en [[Radar_Eventos_2026_10]]; EIA se mantiene como fuente de seguimiento de V02, sin presuponer una fila en el radar actual.
+- **Sensores próximos:** reunión de siete países participantes OPEP+ del 04-oct (no JMMC), seguros, tránsito, flujos de gas y ejecución comercial en [[Radar_Eventos_2026_10]]; EIA continúa como fuente V02.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física. Ningún peldaño sustituye automáticamente al siguiente.
 
 ## 6. Criterios de validación o refutación
@@ -59,15 +131,81 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Ausencia prolongada de diferencias de coste entre corredores expuestos y no expuestos.
 - Recuperación del arbitraje logístico global sin necesidad de redundancia estratégica.
 
-## 7. Calibración actual — 03/10/2026, precierre W40
+## 7. Soporte vigente — formulación TASK_175, contraste W41
 
 - **Soporte:** Moderado-alto; conservado.
-- **Apoyo:** Persistencia de incidentes marítimos y exposición energética europea.
-- **Contraevidencia:** Almacenamiento gas UE mejora +1,19 pp.
-- **Ambigüedad / límite:** Incidentes no miden cierre/primas; inventario sin balance no prueba escasez.
-- **Próxima falsación:** Tránsito, seguros, fletes, flujos GNL y restricciones industriales con duración.
+- **Apoyo:** Recurrencia marítima y dependencias energéticas y de abastecimiento.
+- **Contraevidencia:** Mejora marginal de almacenamiento gas; redundancia puede amortiguar interrupciones.
+- **Ambigüedad / límite:** Incidentes no equivalen a cierres o primas; diversificación anunciada no es alternativa operativa.
+- **Próxima falsación:** Tránsito, tiempos, seguros, fletes, flujos GNL y sustitución efectiva de proveedores.
 
-Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+Formulación y alcance interpretativo aprobados por Luis el 03-oct (TASK_175). W41 contrasta evidencia al 10-oct 20:38, conserva grados y aplica por separado decisiones A/B sobre eventos. Antecedentes íntegros preservados debajo; [[ACTUALIZACION_SEMANAL_231_2026_10_11]].
+
+
+
+<details>
+<summary>Formulación y contraste W40 aprobados TASK175, preservados íntegros</summary>
+
+# 💡 TESIS_04: Multipolaridad Logística
+
+## 1. Definición
+
+La seguridad del abastecimiento depende de rutas, energía, seguros y proveedores sustituibles. Reducir vulnerabilidad exige redundancia y capacidad propia efectiva; cambiar dependencia sin disponer de alternativas no constituye autonomía.
+
+Los bloques pueden aceptar mayores costes para reducir exposición a chokepoints y coerción. La tesis predice una globalización más segmentada y asegurada, sin exigir desaparición del comercio global ni primas permanentemente elevadas. La soberanía digital se desarrolla en T06/V03/V06; aquí se conserva el alcance físico y logístico.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## 3. Manifestaciones y contraste — precierre W40 / revisión aprobada
+
+La recurrencia de incidentes marítimos apoya exposición física; no cuantifica automáticamente cierres, primas ni caída de tránsito. El almacenamiento europeo de gas mejora marginalmente en W40, sin resolver el balance invernal ni demostrar escasez.
+
+La intervención30-sep aporta el criterio estratégico de diversificar proveedores antes de escalar coerción. Su eficacia debe medirse en alternativas operativas, coste y capacidad de sustitución, además del discurso político.
+
+Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro conservado: 03-oct 02:06 Europe/Madrid. Revisión interpretativa aprobada después del precierre; las declaraciones propias no aumentan por repetición el soporte empírico.
+
+## 4. Tensiones internas
+
+- **Persistencia frente a reversibilidad:** una listed area no prueba desvío permanente ni prima cuantificada.
+- **Precio frente a flujo:** volatilidad de Brent o fletes puede reflejar demanda y oferta, no ruptura logística.
+- **Redundancia costosa:** rutas alternativas elevan costes, pero también reducen la probabilidad de interrupción total.
+- **Normalización:** la recuperación rápida de Ormuz muestra que parte de la fricción puede ser temporal.
+
+## 5. Relación con VECTORES y EVENTOS
+
+- **Vector dominante:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
+- **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
+- **Sensor activo:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
+- **Observatorios transferidos:** GNSS y Taiwán permanecen en V02/V06 y en sus fichas cerradas; sólo reabren ante trigger material.
+- **Sensores próximos:** reunión de siete países participantes OPEP+ del04-oct (no JMMC), seguros, tránsito, flujos de gas y ejecución comercial en [[Radar_Eventos_2026_10]]; EIA continúa como fuente V02.
+- **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física. Ningún peldaño sustituye automáticamente al siguiente.
+
+## 6. Criterios de validación o refutación
+
+**Refuerzan la tesis:**
+- Desvíos persistentes de tráfico, retirada de cobertura o primas verificadas por varios brokers.
+- Interrupciones físicas prolongadas en estrechos, puertos o redes de navegación.
+- Inversión sostenida en rutas, inventarios y terminales redundantes por motivos de seguridad.
+
+**La debilitan o refutan:**
+- Normalización duradera de rutas, cobertura y tiempos de tránsito a niveles previos.
+- Ausencia prolongada de diferencias de coste entre corredores expuestos y no expuestos.
+- Recuperación del arbitraje logístico global sin necesidad de redundancia estratégica.
+
+## 7. Calibración vigente — revisión aprobada 03/10/2026 (TASK_175)
+
+- **Soporte:** Moderado-alto; conservado.
+- **Apoyo:** Recurrencia marítima y dependencias energéticas y de abastecimiento.
+- **Contraevidencia:** Mejora marginal de almacenamiento gas; redundancia puede amortiguar interrupciones.
+- **Ambigüedad / límite:** Incidentes no equivalen a cierres o primas; diversificación anunciada no es alternativa operativa.
+- **Próxima falsación:** Tránsito, tiempos, seguros, fletes, flujos GNL y sustitución efectiva de proveedores.
+
+Luis aprueba esta revisión con «Perfecto. Ejecuta». Corte macro conservado: 2026-10-03 02:06 Europe/Madrid; fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. La revisión modifica formulación y alcance de soporte; no cambia pesos, presiones, tendencias o carga de eventos. Xi permanece E0 de ejecución bilateral.
 
 <details>
 <summary>Calibración W39 sustituida; preservada</summary>
@@ -152,5 +290,47 @@ Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. [imo](https://www.i
 - **Reescalada física:** la OMI contabiliza al menos 70 ataques y 19 marinos fallecidos al 28/08. La recurrencia amplía la evidencia física, sin demostrar cierre total del paso ni un nivel público de prima aseguradora.
 - **Riesgo tecnológico:** EMSA, OMI y EASA mantienen medidas de vigilancia y mitigación frente a interferencia GNSS, sin daño mercante crítico atribuido a spoofing.
 - **Comercio:** la OMC observa transporte marítimo y aéreo todavía en expansión, aunque con desaceleración.
+
+</details>
+
+
+<details>
+<summary>Antecedente preservado: formulación, manifestaciones y calibración previas a la aprobación TASK_175</summary>
+
+Estos pasajes fueron sustituidos por la decisión humana del03-oct; no representan el estado vigente. Las alusiones al archivo Xi corresponden a una actuación después rectificada.
+
+## 1. Definición
+
+La seguridad de rutas, seguros, energía, puertos y comunicaciones marítimas pesa cada vez más en las decisiones de abastecimiento. Los bloques aceptan redundancia y costes adicionales para reducir exposición a chokepoints, sanciones y coerción, sin que ello implique el fin del comercio global.
+
+La tesis predice una globalización más segmentada y asegurada, no una desglobalización total ni primas permanentemente elevadas en todos los corredores.
+
+
+
+## 3. Manifestaciones observables — corte 26-sep 20:48
+
+OMI eleva el acumulado a 85 incidentes y 24 fallecidos al 24-sep. Es evidencia de recurrencia física, con primas y tránsito aún incompletamente medidos. Gas europeo añade observación del balance invernal; una instantánea no prueba restricción. [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+
+
+
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado-alto; conservado.
+- **Apoyo:** Persistencia de incidentes marítimos y exposición energética europea.
+- **Contraevidencia:** Almacenamiento gas UE mejora +1,19 pp.
+- **Ambigüedad / límite:** Incidentes no miden cierre/primas; inventario sin balance no prueba escasez.
+- **Próxima falsación:** Tránsito, seguros, fletes, flujos GNL y restricciones industriales con duración.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+
+
+- **Sensores próximos:** ejecución Section 338 del 29/09, JMMC de OPEP+ del 04/10 y sanciones UE en [[Radar_Eventos_2026_10]]; EIA se mantiene como fuente de seguimiento de V02, sin presuponer una fila en el radar actual.
+</details>
+
+</details>
+
 
 </details>

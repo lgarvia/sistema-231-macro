@@ -2,12 +2,59 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
-ultima_revision: 2026-10-03
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-10
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
+alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
 ---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+## Estado operativo — precierre W41
+
+**🟡 Moderada · → · carga primaria 5,80.** Corte 2026-10-10 20:38 Europe/Madrid; decisiones Luis A/B aplicadas TASK_202. Semáforo estructural conservado; V04 tendencia→ coherente con recalibraciónautorizada, sin inferirla deltotal.
+
+- [[Evento_E0_2026_09_19_Robotica_Unitree]]: 5,80.
+
+## Evidencia W41
+
+[SMMT tabla finalseptiembre, actualización 05-oct](https://www.smmt.co.uk/vehicle-data/car-registrations/): BYD 20.140 matriculaciones UK,+78,69%YoY, cuota 5,75%; mercado 350.536. BYD corporativo mezcla 20.140 titular/20.129 cuerpo; prevalece SMMT. Una marca/país/mes no es cuota avanzadaimportada>25% 6 meses ni cierreindustrial UE. [Unitree News](https://www.unitree.com/news/): sin nuevos KPI 2026 comparables de clientes recurrentes/horas útiles/coste recuperados; cobertura incompleta, no ausencia de despliegues. Mantener seguimiento E0 por foco humano. No se cumplieron dos revisionesmensuales desde 19-sep; no cierreautomático.
+
+## Auditoría de condiciones propias
+
+**Contadores estructurales heredados: 0 activos / 0 parciales.** No son un recuento de activaciones verificadas nuevamente en W41. Se conserva su procedencia y se audita la cobertura de cada cláusula.
+
+| Trigger | Auditoría W41 |
+|---|---|
+| 01 | NO VERIFICABLE COMPLETO: falta déficit neto anual de previsión social>2%PIB en universo G 7/eurozona; déficit AAPPproyectado no saldo de pensiones. |
+| 02 | NO VERIFICABLE COMPLETO: falta ratio<1,4 cotizantes/pensionista durante ejercicio fiscal completo; población no ratio contributivo. |
+| 03 | NO VERIFICABLE: falta salida neta CAPEXfísico>5 BUSD/año por jurisdicciónindustrial. |
+| 04 | NO ACREDITADO: BYD 5,75%UK unmes no cuota local importadaavanzada>25% sostenida 6 meses; universos distintos. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## 1. VECTOR ESTRUCTURAL
+- **Fuerzas:** Transición sistémica desde manufacturas tradicionales hacia la electrificación, digitalización de plantas y automatización industrial, cruzada con el envejecimiento demográfico y la erosión fiscal del factor trabajo.
+- **Mecanismos:** Captura de rentas improductivas mediante cargas directas a la nómina y costes de vivienda, pasivos estatales no financiados transformados en deuda soberana e incentivos desalineados frente a la productividad real.
+- **Chokepoints:** Tasa de soporte demográfico (ratio activos/pasivos), carga impositiva marginal sobre el trabajo cualificado, y disponibilidad de CAPEX industrial de largo plazo.
+- **Transmisión:** Impacta primariamente en V01 (necesidad perpetua de emisión de deuda para sostener la caja pasiva) y V04 (pérdida de competitividad y fuga de capitales).
+
+
+## Observatorio industrial y automoción — C4 + C24
+
+Prioridad España/Europa aprobada 10-oct: ochoindicadores con unidad, periodo yuniverso: matriculaciones(unidades/cuota porpaís), producción(unidades), utilización%, empleo(personas/horas), cierres/relocalización(instalación yfecha), inversión ejecutada(moneda), valor añadido/productividad ycomercio(importacionesporcategoría). [SMMTseptiembre](https://www.smmt.co.uk/vehicle-data/car-registrations/): BYD 20.140 UK/cuota 5,75%, publicación 05-oct; no sustitución UE ni cuotaimportadaavanzada. Clientes/horas/costes Unitree siguenenficha. Registro previo íntegro preservado; falta agregado UEacotado quejustifique alta.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # 📝 Transformación industrial y demografía
 
@@ -221,3 +268,5 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 ## Registro industrial W40 — C4/C24/C25
 
 Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026» sin día/hora de publicación verificable antes del corte: no se admite como dato incremental W40. C25 observa empleo por ocupación, horas, salarios y uso productivo; BLS general no atribuye pérdida de empleo a IA. Sin datos nuevos de producción, utilización o cierres contrastados; no ausencia de actividad. Próxima serie comparable y causalidad, sin fecha artificial.
+
+</details>

@@ -1,5 +1,54 @@
 # VECTOR_00 — Índice del Sistema 231
 
+> Precierre W41, corte 2026-10-10 20:38 Europe/Madrid; TASK_202.
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 143,00.**
+
+Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|:---:|---:|---:|:---:|---:|:---:|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 4 | 4,8 | ↑ | 1,2 | V01 | 23,04 |
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 3,9 | → | 1,0 | V02 | 15,60 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 3,2 | → | 1,0 | V03 | 12,80 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,2 | ↑ | 1,2 | V02 | 20,16 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,1 | → | 1,0 | V04 | 16,40 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,8 | → | 1,0 | V06 | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU\|Midterms]] | E0 | 2 | 4,3 | → | 1,0 | V06 | 8,60 |
+| [[Evento_E0_2026_09_19_Robotica_Unitree\|Unitree / robótica]] | E0 | 2 | 2,9 | → | 1,0 | V05 | 5,80 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,3 | → | 1,0 | V01 | 12,90 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 3,9 | → | 1,0 | V02 | 11,70 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 4,2 | → | 1,0 | V01 | 8,40 |
+
+
+**144,86 → 143,00 (−1,86):** +1,40 por pesos; −5,86 por recalibrar tendencias (Francia −2,58; Tariff −3,28); +2,60 netos por inventario (España +8,40; Alibaba −5,80). No es una variación de pérdidas esperadas: carga ordinal, sin calibración empírica de probabilidades.
+
+## Vectores
+
+| Vector | Presión / tendencia | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 44,34 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 47,46 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 12,80 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 16,40 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 5,80 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+
+## Tesis y radar
+
+Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 en validación. Revisión interpretativa TASK_204 aprobada y aplicada el 10-oct (TASK_205), con grados conservados. T02 distingue coerción de eficacia estabilizadora; T03 conserva soporte histórico sin nueva validación causal W41. España es ámbito prioritario de contraste en T01/T03/T04/T06, sin séptima tesis ni carga adicional.
+
+**19 hitos abiertos (2 Régimen / 3 Crítico / 12 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 31 resoluciones acumuladas.** Horizonte 10-oct–09-dic inclusive:60 d transcurridos/61 fechas.
+
+Actualización W41 completada; publicación en GitHub/main autorizada (TASK_205). [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
+
+# VECTOR_00 — Índice del Sistema 231
+
 > **Precierre W40 aplicado localmente:** 03/10/2026 — TASK_172. Corte 2026-10-03 02:06 Europe/Madrid; informe nominal04-oct. No cubre el fin de semana completo.
 > **Protocolos:** [[Prompt_Actualizacion_Eventos]] v0.7 · [[Prompt_Radar_Eventos]] v2.3.
 
@@ -141,6 +190,8 @@ Seis vectores, seis tesis, ocho eventos (6 E0 / 2 E1). Radar: 22 hitos, 0 ventan
 UE 22/09; BoJ 24/09; cierre 25–30/09; Section 338 29/09; Micron 30/09. Japón B parcial, C/SRF sin estrés acreditado completo; las lagunas se conservan visibles. Xi admitido por Luis; fecha 24/09 de fuente secundaria, confirmación primaria pendiente. Midterms 03/11 con ficha; Unitree y el observatorio industrial sin fecha artificial. Detalle: [[Radar_Eventos_2026_09]].
 
 Conecta con [[TESIS_00_Indice]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]].
+
+</details>
 
 </details>
 

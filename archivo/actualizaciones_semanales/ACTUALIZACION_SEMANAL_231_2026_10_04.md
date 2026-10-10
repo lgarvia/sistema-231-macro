@@ -123,6 +123,24 @@ Elecciones futuras 03-nov según [FEC](https://www.fec.gov/introduction-campaign
 
 C4/C24 mantienen observatorio industrial V05. C7/C8/C22 en V01, C6/C17/C18 en V06, C21 en V03, C25 en V05; sin carga propia. C9 en Japón, C14 en Grid, C20 en CoWoS, C23/C27 en Tariff Stack/V04, diplomacia en V06. C5/C11/C15/C16/C19/C26/C29 aplazados, recuperables; C12 sigue sensor de oferta y radar. C28/C30/C31 no generan ficha por automatismo; C32 no se reabre sin consecuencia nueva. C1 se mantiene como ejecución bilateral; C2/C3/C10/C13/C33 permanecen. Crédito privado: antecedentes heterogéneos SEC, fechas/confirmación pendientes; no crisis sectorial acreditada. BYD octubre sin día/hora admisible al corte: no dato nuevo validado. Tesis no se alimentan con rumores del correo Tudanca sobre diésel, flujos o ventas francesas atribuidas a gestor.
 
+## 5. Revisión de las seis tesis — adenda aprobada TASK_175
+
+Luis aprueba reformulaciones y soporte T02 moderado-alto después del precierre. Se conserva el corte macro y la publicación inicial64e7be0; esta adenda interpretativa es local y no está incluida en aquel commit.
+
+| Tesis | Soporte vigente aprobado | Alcance / límite / próxima falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Restricción fiscal creciente; dominancia condicional. Francia y Japón no prueban subordinación monetaria. Contrastar subastas, compradores y reacción del banco central. |
+| [[TESIS_02_Frictionless_Stabilization\|Coerción modular y estabilización táctica]] | Moderado-alto | Modularidad observable mejor sustentada que estabilización efectiva. Contrastar ejecución, flujos y persistencia de canales; Xi E0 de cumplimiento. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado-alto | Soporte histórico, sin validación incremental directa W40. Automatización como contrapeso condicionado a productividad distribuida; contrastar renta, vivienda, ahorro y transferencias comparables. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Autonomía material exige alternativas operativas. Recurrencia marítima y alivio gas no prueban cierre ni resolución; observar tránsito, primas y sustitución. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; en validación | Liquidación programable y movilidad de garantías; tokenizar no crea capital ni demanda neta automáticamente. Verificar operaciones, DvP, admisibilidad y haircut. |
+| [[TESIS_06_IA_como_silicio_y_energia\|IA: infraestructura, financiación y adopción productiva]] | Alto para dependencia física | Financiación y adopción/productividad son hipótesis separadas. Contrastar capacidad/costes, CAPEX/caja/crédito por empresa y tareas útiles/dependencias por capa. |
+
+Un alto limitado al núcleo físico T06, tres moderado-altos y dos moderados. No cambios a11 eventos, carga144,86 ni21 hitos. T05 continúa en validación.
+
+<details>
+<summary>Revisión W40 previa a la aprobación; preservada</summary>
+
 ## 5. Revisión de las seis tesis
 
 | Tesis | Soporte conservado | Apoyo / contraevidencia / límite / próxima falsación |
@@ -135,6 +153,8 @@ C4/C24 mantienen observatorio industrial V05. C7/C8/C22 en V01, C6/C17/C18 en V0
 | [[TESIS_06_IA_como_silicio_y_energia]] | Alto | Órdenes DOE y resultados Micron respaldan dependencia de infraestructura y hardware. Contraevidencia: Micron crece con caja positiva; no activación completa Grid o CoWoS. Límite: Ingresos/guía no son yields, capacidad, entregas o utilización; Alibaba sigue prospectivo. Falsación: Contrastar entregas, capacidad cualificada, lead times, energía, agua, utilización y caja. |
 
 Dos altos, dos moderado-altos y dos moderados; T05 en validación. No cambio de soporte por inventario o carga.
+
+</details>
 
 ## 6. Radar y resoluciones
 

@@ -1,5 +1,5 @@
 ---
-titulo: "TSMC CoWoS y CAPEX Hyperscalers: Capacidad de Empaquetado Avanzado"
+titulo: "CoWoS"
 fecha: 2026-06-28
 source: TSMC / TrendForce / Micron / Silicon Analysts
 url: https://www.tsmc.com/
@@ -7,15 +7,51 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
 peso_estructural: 3.2
 factor_tendencia: 1
-tendencia_calibrada: "→"
+tendencia_calibrada: "\u2192"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# CoWoS
+
+## 1. Estado actual — precierre W41
+
+**E0 · P4 · peso 3,2 · → (1,0) · carga 12,80 · V03.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[TSMC, publicado 08-oct](https://pr.tsmc.com/english/news/3343): ingresos sept 511.857 MNTD =511,857 BNTD, −0,6%MoM/+54,6%YoY; enero–sept 3.898.727 MNTD,+41,1%. Facturación agregada no identifica CoWoS/yields/AP7/entregas Blackwell. [Alibaba 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V 900 comercial Q1'27;650 clientes de familia Zhenwu no clientes V 900. Sin nuevas entregas independientes recuperadas. C33 pasa a observatorio por foco y horizonte, no fracaso; historial en [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]].
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| A | NO ACREDITADO: sin anuncio primario nuevo de retraso AP7 más allá H1 2027; no certificar puntualidad por silencio. |
+| B | PERIODO INCOMPLETO / NO ACREDITADO: Q4 no terminado; faltan entregas Blackwell−20%frenteguía por yields CoWoS-L. |
+| C | NO ACREDITADO COMPLETO: agregado homogéneo CAPEXhyperscalers Q3/Q4 y nexo físico−10% no recuperados; periodos fiscales no mezclados. |
+| D | NO VERIFICABLE: sin lead time generalizado<20 semanas por sobrecapacidad; ingresos TSMC no sustituyen sensor. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # EVENTO: E0_2026_CoWoS_Capacity
 
@@ -162,5 +198,7 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
 - **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
 - **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
+
+</details>
 
 </details>

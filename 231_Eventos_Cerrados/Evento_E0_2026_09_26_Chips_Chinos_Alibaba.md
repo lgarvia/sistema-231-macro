@@ -2,18 +2,30 @@
 titulo: "Chips chinos: sustitución tecnológica con foco Alibaba"
 fecha: 2026-09-26
 tipo: evento
-estado: E0
+estado: cerrado
 vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 origen_alta: "C33 — autorización Luis 27 septiembre, TASK_148"
-calibracion: aplicada
+calibracion: historica
 presion_numerica: 2
 peso_estructural: 2.9
 factor_tendencia: 1
 tags: [china, chips, alibaba, thead, soberania-tecnologica]
 tendencia_calibrada: "→"
+fecha_cierre: 2026-10-10
+motivo_cierre: "Absorción autorizada C33 en observatorio V03; no refutación tecnológica"
+carga_activa: 0
 ---
+
+# Alibaba — memoria de ficha absorbida
+
+**Cerrada como ficha activa10-oct por decisión expresa deLuis (TASK_202).** No tiene carga activa; parámetros históricos no sumables. Observatorio [[VECTOR_03_Semiconductores_y_soberania_tecnologica#Observatorio chips chinos — C33 absorbido]]. Q1 2027 permanece anuncio, sin nueva entrega acreditada. La absorción responde a foco/horizonte, no fracaso ni cumplimiento de dosrevisionesmensuales.
+
+
+
+<details>
+<summary>Ficha activa anterior íntegra; parámetros históricos</summary>
 
 # Chips chinos — de anuncios a capacidad efectiva
 
@@ -70,3 +82,5 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMIS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 3, tendencia →, factor 1,0, carga 6,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>

@@ -2,12 +2,63 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
-ultima_revision: 2026-10-03
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-10
 triggers_activos: 1
 triggers_parciales: 2
-alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
+alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
 ---
+
+# VECTOR 02 Energia y nodos geoeconomicos
+
+## Estado operativo — precierre W41
+
+**🔴 Crítica · ↑ · carga primaria 47,46.** Corte 2026-10-10 20:38 Europe/Madrid; decisiones Luis A/B aplicadas TASK_202. Semáforo estructural conservado; V04 tendencia→ coherente con recalibraciónautorizada, sin inferirla deltotal.
+
+- [[Evento_E0_2026_07_08_Grid_Stress_IA]]: 15,60.
+- [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]]: 20,16.
+- [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]]: 11,70.
+
+## Evidencia W41
+
+[DOE 202-26-49](https://www.energy.gov/documents/doe-order-no-202-26-49), publicado 25-sep, efectivo 27-sep–25-dic: vigencia heredada; **cláusula D exige informe 10-oct, H fija vigencia**. Entrega/publicación no recuperada al corte; jornada estadounidense aún incompleta. No inferir incumplimiento ni despacho. [OMI al 09-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): 100 incidentes/24 fallecidos, frente 88/24 al 30-sep. +12 en el registro acumulado no significa 12 sucesos durante W41. GHANA PROSPERITY 03-oct, GAS VELA/CAMEROON PROSPERITY/LIPSI 04-oct, ON PEACE 05-oct (12 heridos), ST1 (06-oct): daños registrados. [LMA/JWC](https://lmalloyds.com/specialist_area/marine/): JWLA 035 referenciada, sin prima universal. [ENTSOG, publicado 08-oct](https://www.entsog.eu/sites/default/files/2026-10/SO0072-26_Winter%20Supply%20Outlook%202026-27.pdf): base 01-oct, almacenamiento 72%≈811 TWh frente 83%≈940 TWh un año antes; publicación nueva con base anterior al corte W40. Escenarios 29%/13% de stock final bajo hipótesis GNL no son restricciones industriales observadas.
+
+## Auditoría de condiciones propias
+
+**Contadores estructurales heredados: 1 activos / 2 parciales.** No son un recuento de activaciones verificadas nuevamente en W41. Se conserva su procedencia y se audita la cobertura de cada cláusula.
+
+| Trigger | Auditoría W41 |
+|---|---|
+| 01 | NO VERIFICABLE: primas de seguro según corredor/fecha/valor de casco no recuperadas para acreditar >0,5%. |
+| 02 | NO VERIFICABLE: falta tránsito de buques energéticos y media móvil 14 d que pruebe caída>20%. |
+| 03 | NO ACREDITADO COMPLETO: daños registrados OMI no identifican terminalexportadora y reducción global>1 Mb/d. |
+| 04 | NO VERIFICABLE: falta volumen nominal desviado>30% del tráfico regular con universo/periodo. |
+| 05 | ACTIVACIÓN NORMATIVA HEREDADA: DOE 49 vigente; no nueva activación por plazo 10-oct. Orden no mide despacho, MW de CPD ni corte 4 h de trigger C de Grid. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Prima de Seguro):** Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito.
+- **Trigger 02 (Interrupción de Tránsito):** Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días.
+- **Trigger 03 (Daño de Infraestructura):** Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd.
+- **Trigger 04 (Desvío de Rutas):** Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia.
+- **Trigger 05 (Emergencia Física de Red):** Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema.
+
+## 1. VECTOR ESTRUCTURAL
+- **Fuerzas:** Control físico, extracción y distribución de recursos energéticos primarios e infraestructura crítica de transporte logístico.
+- **Mecanismos:** Control de cuotas de producción, fijación de primas de riesgo marítimo-energético y redireccionamiento de flujos de gas licuado y crudo.
+- **Chokepoints:** Estrechos de tránsito estratégico (Ormuz, Malaca, Bab el-Mandeb), canales transoceánicos (Suez, Panamá) e infraestructuras de regasificación.
+- **Transmisión:** Impacta en V01 (inflación de oferta y tipos de interés) y V05 (costes basales de producción industrial).
+
+
+## Transmisión España — energía, inflación y renta disponible (C36)
+
+[INEavance Sept](https://ine.es/dyngs/Prensa/es/adIPC0926.html): IPC 4,9%YoY, subyacente 3,1%, dato adelantado 29-sept. [Bd E09-oct](https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/proyecciones-macro-informe-trimestral/proyecciones-e-informe-trimestral-de-la-economia-espanola-tercer-trimestre-2026.html): hipótesisgas yprevisiones, no efecto atribuible a elección. Sensores: IPC final/componentes energéticos, facturas, demanda/stock GNL y medidas fiscales vigentes. Separar turismo de energía y IPCYoY de IAPCmedioanual. Integrado en V02/gas, sin carga propia.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # 📝 Energía y nodos geoeconómicos
 
@@ -194,5 +245,7 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>

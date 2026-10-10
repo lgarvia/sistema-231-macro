@@ -1,11 +1,11 @@
 ---
-titulo: "EE. UU.–China: ejecución de acuerdos y diálogo sobre IA"
+titulo: "EE. UU.–China / ejecución"
 fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
 calibracion: aplicada
 carga_activa: 7.6
@@ -13,8 +13,43 @@ presion_numerica: 2
 peso_estructural: 3.8
 factor_tendencia: 1
 tags: [geopolitica, china, estados-unidos, diplomacia]
-tendencia_calibrada: "→"
+tendencia_calibrada: "\u2192"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# EE. UU.–China / ejecución
+
+## 1. Estado actual — precierre W41
+
+**E0 · P2 · peso 3,8 · → (1,0) · carga 7,60 · V06.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[USTR 27-sep](https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade) recontrastado como antecedente de recomendaciones, sin ejecución bilateral nueva recuperada. Xi permanece E0 de ejecución, visita ya consumida. [FEC calendario 2026](https://www.fec.gov/resources/cms-content/documents/2026pdates.pdf): midterms 03-nov futuras. [EUR-Lex, Decisión PESC 2026/2258](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32026D2258),08-oct: prórroga del régimen de actividades desestabilizadorasrusas hasta 09-oct 2027; extracto primario recuperado, HTMLcompleto no disponible. No inferir incautación de 50 BUSD de banco central ni ejecución de listas.
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| Ejecución | NO ACREDITADA NUEVA: recomendaciones/diálogo no comercio ejecutado. E0 por selecciónhumana, sin nueva E1 ni doblecarga V04. |
+| Calendario | ANUNCIADO hasta 30-nov, sin díaexacto ni confirmaciónbilateral completa. La visita terminó, el seguimiento no. |
+| Revisión/cierre | Mantener hasta contraste de cumplimiento; proponer absorción solo si canal bilateral queda resuelto o enteramente recogido en Tariff. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # Xi–EE. UU.: de la visita a los compromisos ejecutados
 
@@ -100,3 +135,5 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>

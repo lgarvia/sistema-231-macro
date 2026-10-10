@@ -1,23 +1,63 @@
 ---
-titulo: "Deuda francesa: coste de financiación y riesgo de fragmentación europea"
+titulo: "Deuda francesa"
 fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
-peso_estructural: 4.1
-factor_tendencia: 1.2
+peso_estructural: 4.3
+fecha_decision_peso: 2026-10-10
+revision_semanal_pendiente: false
+factor_tendencia: 1
 tags: [francia, deuda-soberana, euro, fragmentacion]
-tendencia_calibrada: "↑"
+tendencia_calibrada: "\u2192"
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# Deuda francesa
+
+## 1. Estado actual — precierre W41
+
+**E0 · P3 · peso 4,3 · → (1,0) · carga 12,90 · V01.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[Banque de France 09-oct](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-09): TEC 10 diario 05–09 oct 4,884/4,724/4,834/4,898/4,795%; −8,9 pb de lunes a viernes; sin diferencial homogéneo nuevo.
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| Rendimiento | OBSERVADO: TEC 10 05–09 oct 4,884/4,724/4,834/4,898/4,795%; neto−8,9 pb desde lunes. |
+| Fragmentación | NO VERIFICABLE COMPLETA: sin spread OAT–Bund homogéneo ni transmisiónbancaria; no inferir normalización sistémica. |
+| E1/cierre | No nueva E1: colocación/contagio persistentes pendientes. P3 conservada; →aprobada por falta de aceleraciónneta, no↓ ni cierre. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # Deuda francesa y posible fragmentación europea
 
-## 1. Estado actual — precierre W40
+## Decisión A aplicada — W41, 10-oct-2026 (TASK_202)
+
+Luis solicita peso **4,3** y confirma «Aplica cambios y sigue». Peso vigente 4,3; con P3 y ↑ (1,2) heredados, carga **15,48** (+0,72 exclusivamente por peso). El peso expresa importancia estructural ordinal. Decisión B sobre inventario/P/tendencia y reconciliación W41 pendientes; no constituye cierre factual semanal. La evidencia siguiente conserva su corte W40 y su calibración histórica. Prevalece esta decisión para el peso actual.
+
+## 1. Estado factual anterior — precierre W40 (calibración histórica)
 
 **E0 · P3 · peso 4,1 · ↑ (1,2) · carga 14,76 · V01.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
 
@@ -80,3 +120,5 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMIS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia ↑, factor 1,2, carga 14,4. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>

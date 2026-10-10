@@ -1,5 +1,43 @@
 # SALUD DEL SISTEMA 231
 
+> Precierre W41; corte 2026-10-10 20:38 Europe/Madrid; TASK_202.
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 143,00.**
+
+| Control | Estado |
+|---|---|
+| Inventario | 11 activos,9 E0/2 E1;6 vectores;6 tesis;17 fichas en directorio canónico cerrado |
+| Decisiones | A/B y tesis aprobadas y aplicadas; sin pendientes humanos de esta revisión |
+| Carga | 143,00 de 11/11 fichas, sin ND |
+| Cobertura | Cláusulas, periodos ylagunas declaradas; no auditoría exhaustiva |
+| Publicación | W41 autorizada en GitHub/main por Luis, TASK_205; recepción verificada en el cierre de publicación |
+
+| Vector | Presión / tendencia | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 44,34 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 47,46 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 12,80 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 16,40 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 5,80 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+
+**144,86 → 143,00 (−1,86):** +1,40 por pesos; −5,86 por recalibrar tendencias (Francia −2,58; Tariff −3,28); +2,60 netos por inventario (España +8,40; Alibaba −5,80). No es una variación de pérdidas esperadas: carga ordinal, sin calibración empírica de probabilidades.
+
+**19 hitos abiertos (2 Régimen / 3 Crítico / 12 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 31 resoluciones acumuladas.** Horizonte 10-oct–09-dic inclusive:60 d transcurridos/61 fechas.
+
+Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 en validación. Revisión interpretativa TASK_204 aprobada y aplicada el 10-oct (TASK_205), con grados conservados. T02 distingue coerción de eficacia estabilizadora; T03 conserva soporte histórico sin nueva validación causal W41. España es ámbito prioritario de contraste en T01/T03/T04/T06, sin séptima tesis ni carga adicional.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]]. Cambios previos preservados; siete históricos previamente staged excluidos de la publicación W41.
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
+
+# SALUD DEL SISTEMA 231
+
+**Revisión de tesis aprobada03-oct (TASK_175):** seis conservadas; T02 pasa de alto a moderado-alto y se denomina «Coerción modular y estabilización táctica». T06 incorpora financiación/adopción con soporte alto limitado al núcleo físico. Un alto, tres moderado-altos y dos moderados; T05 en validación. Definiciones, pruebas y calendarios actuales consolidados; antecedentes preservados. Eventos/carga/radar sin cambio. Adenda local posterior a publicación64e7be0; [[TESIS_00_Indice]].
+
 > Precierre W40 aplicado localmente03-oct; corte2026-10-03 02:06 Europe/Madrid. Informe nominal04-oct, sin cobertura del fin de semana completo.
 
 **11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 144,86 (144,9 a una décima).**
@@ -263,6 +301,8 @@ TASK_099 está cerrada. Las próximas resoluciones del radar son Section 338 y T
 ## Regla de mantenimiento
 
 [[Prompt_Actualizacion_Eventos]] y [[Prompt_Radar_Eventos]] rigen una sola superficie de ventanas. Los informes anteriores y las fuentes históricas conservan fecha y contexto; la fecha de edición no sustituye la fecha de contraste. El control de enlaces y aritmética no verifica hechos externos.
+
+</details>
 
 </details>
 

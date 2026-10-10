@@ -1,13 +1,56 @@
 ---
 presion: "🔴 CRÍTICA"
-tendencia: "↑ Acelerando"
+tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
-ultima_revision: 2026-10-03
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-10
 triggers_activos: 1
 triggers_parciales: 1
-alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
+alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
 ---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+## Estado operativo — precierre W41
+
+**🔴 Crítica · → · carga primaria 16,40.** Corte 2026-10-10 20:38 Europe/Madrid; decisiones Luis A/B aplicadas TASK_202. Semáforo estructural conservado; V04 tendencia→ coherente con recalibraciónautorizada, sin inferirla deltotal.
+
+- [[Evento_E1_2026_07_24_US_Tariff_Stack]]: 16,40.
+
+## Evidencia W41
+
+[Census/BEA, publicado 06-oct](https://www.census.gov/foreign-trade/Press-Release/ft900/ft900_2608.pdf): agosto 2026, bienes y servicios, datos nominales desestacionalizados: déficit 105,6 BUSD frentejulio revisado 92,8; exportaciones 315,2(+4,5) e importaciones 420,8(+17,2). No es variación YoY de sectores arancelados ni dos meses de caída>15%. Continuidad jurídica heredada no acredita nueva aceleración W41; P4/E1 conservados, tendencia→ por decisión humana. C34 instrumento UE: pista del corpus, sin documento primario específico recuperado; no acto adoptado.
+
+## Auditoría de condiciones propias
+
+**Contadores estructurales heredados: 1 activos / 1 parciales.** No son un recuento de activaciones verificadas nuevamente en W41. Se conserva su procedencia y se audita la cobertura de cada cláusula.
+
+| Trigger | Auditoría W41 |
+|---|---|
+| 01 | ACTIVACIÓN JURÍDICA HEREDADA: pila de aranceles extraordinarios en sectores estratégicos; continuidad no nuevo cómputo. Cobroefectivo no auditado completo. |
+| 02 | NO VERIFICABLE: falta SCFIcomparable y desviación sostenida>20% frente media 90 d. |
+| 03 | NO VERIFICABLE: falta liquidación anual verificable>50 BUSD sin dólares en red bilateral; acuerdos no flujos. |
+| 04 | NO VERIFICABLE: falta IEDindustrialinteranual>30% hacia jurisdicciones puente, no anuncio. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## 1. VECTOR ESTRUCTURAL
+- **Fuerzas:** Transición operativa hacia el neomercantilismo bilateral, la reubicación de cadenas de suministro (friend-shoring) y la resiliencia en costes sobre la eficiencia de flujos libres.
+- **Mecanismos:** Aranceles masivos sobre mercancías estratégicas, subsidios localizados a la producción interna, embargos sectoriales selectivos e inoperancia deliberada de organismos multilaterales de arbitraje.
+- **Chokepoints:** Puertos de trasbordo de mercancías de escala mundial, corredores aduaneros y el mecanismo de solución de diferencias de la OMC.
+- **Transmisión:** Impacta en V01 (inflación importada y presión cambiaria) y V05 (competitividad del parque manufactuero nacional).
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # 📝 Reconfiguración del comercio global
 
@@ -165,5 +208,7 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>

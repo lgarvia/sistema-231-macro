@@ -2,10 +2,15 @@
 tipo: log_cierres_eventos
 creado: 2026-04-26
 actualizador: Sistema 231 / Front Office
-ultima_actualizacion: 2026-10-03
+ultima_actualizacion: 2026-10-10
 ---
 
 # REGISTRO DE CIERRES DE EVENTOS
+
+## [2026-10-10] Cierre: Alibaba / chips chinos (C33)
+
+**Tipo:** absorción/pérdida de utilidad marginal como ficha; autorizadaLuisTASK_202. **Razón:** previsiónV900Q1 2027 fuera60d, sin entrega nueva recuperada; observatorioV03preserva sensores. No fracaso ni plazo de dos revisionesmensuales cumplido. Cargaactiva5,80→0 porinventario; calibraciónhistóricapreservada. Destino [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], carpeta231_Eventos_Cerrados; enlace [[VECTOR_03_Semiconductores_y_soberania_tecnologica#Observatorio chips chinos — C33 absorbido]].
+
 
 > Trazabilidad de cierre y archivado de fichas E0/E1.
 > Cada vez que un evento se mueve al directorio canónico `20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/`, se añade una línea aquí.
@@ -122,4 +127,4 @@ Renombrado: mantener el nombre original y declarar fecha y razón de cierre en e
 
 ## [2026-05-01] Cierre: BoJ Normalización / Yen
 - **Tipo de cierre:** Trigger ejecutado
-- **Razón factual:** Reunión de política monetaria del 24 de abril de 2026 ejecutada. El mercado asimila la 
+- **Razón factual:** Reunión de política monetaria del 24 de abril de 2026 ejecutada. El mercado asimila la

@@ -1,5 +1,5 @@
 ---
-titulo: "Japón: Desarme de Carry Trade, Repatriación de Ahorro y Liquidez de Septiembre"
+titulo: "Japón / liquidez"
 fecha: 2026-08-16
 source: Bank of Japan / Japan Ministry of Finance / U.S. Treasury TIC / Federal Reserve
 url: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf
@@ -7,16 +7,52 @@ vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 moc: "[[MOC_Politica_Monetaria]]"
 tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
 tipo: evento
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
 peso_estructural: 4.8
 factor_tendencia: 1.2
-tendencia_calibrada: "↑"
+tendencia_calibrada: "\u2191"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# Japón / liquidez
+
+## 1. Estado actual — precierre W41
+
+**E0 · P4 · peso 4,8 · ↑ (1,2) · carga 23,04 · V01.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[MOF, publicado 08-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/monthEng.pdf): septiembre 2026, deuda exterior larga neta −14.260 unidades de 100 MJPY = **−1,426 billones JPY**; cartera total −219,7 miles de millones JPY. [MOF semanal 08-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): 27-sep–03-oct, deuda larga −347,6 BJPY y cartera total +821,0 BJPY. Las poblaciones/comparaciones institucionales y destinos exigen auditoría; stock TIC no es flujo. [Fed H.4.1 08-oct](https://www.federalreserve.gov/releases/h41/20261008/): media semanal al 07-oct, reservas 3.029.659 MUSD (+81.569), TGA 880.253 MUSD (−68.421); miércoles reservas 3.022.066/TGA 885.783 MUSD. [NYFed SOFR](https://www.newyorkfed.org/markets/reference-rates/sofr): 01/02/05/06/07-oct 3,87/3,88/3,89/3,90/3,88%, IORB 3,90%; diferencial −3/−2/−1/0/−2 pb. Recuperación de reservas no demuestra desaparición de la cuestión japonesa.
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| A | NO ACREDITADO COMPLETO: septiembre negativo y agosto antecedente; falta auditar dos meses institucionales comparables y diferencial JGB 30 Y–UST 30 Y cubierto favorable >15 días hábiles. |
+| B | PARCIAL HEREDADO: saldos y quincena de impuestos 15-sep documentados; causalidad completa no demostrada. Datos 07-oct no borran historia ni reactivan ventana. |
+| C | Rama SOFR NO ACTIVADA CON EVIDENCIA en cinco observaciones recuperadas (≤IORB); no se acredita >8 pb/3 días. Rama GCp 99 NO VERIFICABLE, referencia y serie pendientes. Oct 8/9 no rellenados por inferencia. |
+| D | NO VERIFICABLE: ventana 25–30-sep vencida; falta serie diaria SRF que pruebe >20 BUSD/día durante más de 2 días consecutivos. No periodo incompleto ni cero. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # EVENTO: E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre
 
@@ -209,5 +245,7 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger D (Uso de Facilidad de Respaldo SRF):** La Standing Repo Facility (SRF) de la Reserva Federal registra operaciones de provisión de liquidez superiores a 20 B$ diarios durante más de dos días consecutivos alrededor del cierre de trimestre (25–30 de septiembre). **Estado al corte: VENTANA PENDIENTE (25–30/09). Fuera de ella, el máximo diario observado de 254 M$ no cruza 20 B$. Se corrige «absorción» por «provisión» de liquidez, conservando importe y duración.**
 
 ---
+
+</details>
 
 </details>

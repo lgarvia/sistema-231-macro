@@ -1,5 +1,46 @@
 # MAPA DE TRANSMISIONES — SISTEMA 231
 
+> Corte 2026-10-10 20:38 Europe/Madrid; TASK_202.
+
+| Evento | Vector primario | Mecanismo / límite |
+|---|---|---|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | V01 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | V02 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_CoWoS_Capacity]] | V03 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | V02 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | V04 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | V06 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | V06 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_09_19_Robotica_Unitree]] | V05 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | V01 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | V02 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | V01 | Ver sensores y cláusulas en ficha; secundarios sin carga adicional |
+
+
+España: mayorías → gobernabilidad → presupuesto/ejecución → financiación e inversión (V01/T01). Gas y marítimo → suministro/coste energético → renta y actividad en España (V02/T04 → V01/V05/T03, sin doble carga). Alibaba → observatorio V03; uso productivo de Unitree → V05/T06. Financiación IA → V01; capacidad física → V03/V02; conversión en productividad → V05/T06. Xi institucional → V06; aranceles → V04/T02. Transmisiones propuestas, no causalidades ya acreditadas. Revisión de tesis aprobada TASK_205; [[TESIS_00_Indice]].
+
+| Vector | Presión / tendencia | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 44,34 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 47,46 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 12,80 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 16,40 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 5,80 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 143,00.**
+
+**144,86 → 143,00 (−1,86):** +1,40 por pesos; −5,86 por recalibrar tendencias (Francia −2,58; Tariff −3,28); +2,60 netos por inventario (España +8,40; Alibaba −5,80). No es una variación de pérdidas esperadas: carga ordinal, sin calibración empírica de probabilidades.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[EVENTOS_CERRADOS_LOG]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
+
+# MAPA DE TRANSMISIONES — SISTEMA 231
+
 > **Actualizado:** 03/10/2026 — TASK_172, precierre W40. Corte2026-10-03 02:06 Europe/Madrid.
 
 ## Mapa activo
@@ -93,6 +134,8 @@ Informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]]; sin cambio automático de tesi
 **24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
 
 Las tres altas amplían cobertura; no alteran por sí mismas los semáforos ni validan las tesis. Xi y midterms no duplican la carga de aranceles/liquidez. [[Radar_Eventos_2026_09]] · [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+</details>
 
 </details>
 

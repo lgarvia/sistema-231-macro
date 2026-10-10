@@ -1,5 +1,5 @@
 ---
-titulo: "EE. UU.: pila arancelaria Section 301 / 338"
+titulo: "Tariff Stack"
 fecha: 2026-07-24
 source: USTR / Federal Register / CBP
 url: https://ustr.gov/
@@ -7,16 +7,53 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
 peso_estructural: 4.1
-factor_tendencia: 1.2
-tendencia_calibrada: "↑"
+factor_tendencia: 1
+tendencia_calibrada: "\u2192"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# Tariff Stack
+
+## 1. Estado actual — precierre W41
+
+**E1 · P4 · peso 4,1 · → (1,0) · carga 16,40 · V04.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[Census/BEA, publicado 06-oct](https://www.census.gov/foreign-trade/Press-Release/ft900/ft900_2608.pdf): agosto 2026, bienes y servicios, datos nominales desestacionalizados: déficit 105,6 BUSD frentejulio revisado 92,8; exportaciones 315,2(+4,5) e importaciones 420,8(+17,2). No es variación YoY de sectores arancelados ni dos meses de caída>15%. Continuidad jurídica heredada no acredita nueva aceleración W41; P4/E1 conservados, tendencia→ por decisión humana. C34 instrumento UE: pista del corpus, sin documento primario específico recuperado; no acto adoptado.
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| A | ACTIVACIÓN JURÍDICA HEREDADA 22-ago: no nueva activación; recaudación/aplicaciónporproducto no reauditadas completas. |
+| B | ACTIVO HEREDADO 08-sep: contramedidas vinculantes Canadá 27.600 MCAD, no nuevo conteo; no todas las dimensiones económicas verificadas. |
+| C | NO ACREDITADO COMPLETO: faltan dos fabricantes con impacto>5%comparable o relocalización atribuida. |
+| D | NO ACREDITADO COMPLETO / PERIODO INCOMPLETO para dos meses: agostoagregado no acredita sectores YoY−15%; septiembrese publicará 04-nov. |
+| E | NO ACREDITADO COMPLETO: faltan dos publicaciones oficiales atribuibles≥0,3 pp de inflaciónbienes por nueva carga. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # EVENTO: E1_2026_07_24_US_Tariff_Stack
 
@@ -186,5 +223,7 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO. No se incorporan dos fabricantes con cuantificación comparable >5% o relocalización física atribuida.**
 - **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO. No se dispone todavía de los dos meses sectoriales comparables exigidos. El déficit agregado no sustituye el trigger.**
 - **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO. No se dispone de dos publicaciones oficiales con atribución causal ≥0,3 pp a la carga arancelaria exigida.**
+
+</details>
 
 </details>

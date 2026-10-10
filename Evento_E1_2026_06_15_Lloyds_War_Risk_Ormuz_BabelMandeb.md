@@ -1,5 +1,5 @@
 ---
-titulo: "Seguros de Guerra y Fletes (Lloyd's JWC)"
+titulo: "Riesgo marítimo"
 fecha: 2026-06-15
 source: Lloyd's Market Association Joint War Committee / IMO
 url: https://lmalloyds.com/committee/joint-war-committee/
@@ -7,19 +7,60 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
-ultima_revision: 2026-10-03
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
+ultima_revision: 2026-10-10
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4.1
+peso_estructural: 4.2
+fecha_decision_peso: 2026-10-10
+revision_semanal_pendiente: false
 factor_tendencia: 1.2
-tendencia_calibrada: "↑"
+tendencia_calibrada: "\u2191"
+decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
 ---
+
+# Riesgo marítimo
+
+## 1. Estado actual — precierre W41
+
+**E1 · P4 · peso 4,2 · ↑ (1,2) · carga 20,16 · V02.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
+
+## 2. Evidencia y alcance
+
+[DOE 202-26-49](https://www.energy.gov/documents/doe-order-no-202-26-49), publicado 25-sep, efectivo 27-sep–25-dic: vigencia heredada; **cláusula D exige informe 10-oct, H fija vigencia**. Entrega/publicación no recuperada al corte; jornada estadounidense aún incompleta. No inferir incumplimiento ni despacho. [OMI al 09-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): 100 incidentes/24 fallecidos, frente 88/24 al 30-sep. +12 en el registro acumulado no significa 12 sucesos durante W41. GHANA PROSPERITY 03-oct, GAS VELA/CAMEROON PROSPERITY/LIPSI 04-oct, ON PEACE 05-oct (12 heridos), ST1 (06-oct): daños registrados. [LMA/JWC](https://lmalloyds.com/specialist_area/marine/): JWLA 035 referenciada, sin prima universal. [ENTSOG, publicado 08-oct](https://www.entsog.eu/sites/default/files/2026-10/SO0072-26_Winter%20Supply%20Outlook%202026-27.pdf): base 01-oct, almacenamiento 72%≈811 TWh frente 83%≈940 TWh un año antes; publicación nueva con base anterior al corte W40. Escenarios 29%/13% de stock final bajo hipótesis GNL no son restricciones industriales observadas.
+
+Fuentes consultadas 10-oct; solo documentos anteriores al corte. Antecedentes, proyecciones y observaciones se distinguen. Cobertura limitada no prueba ausencia.
+
+## 3. Condiciones y sensores vigentes
+
+| Condición | Auditoría W41 |
+|---|---|
+| A | NO VERIFICABLE: faltan dos brokers/circular con prima≥1,5%casco mismo corredor 48 h o denegación de cobertura 48 h; JWCáreas no benchmark. |
+| B | NO ACREDITADO COMPLETO: daños OMI no prueban hundimiento/daño crítico de VLCC/LNG en Ormuz/Bab el Mandeb. Nombre delbuque no tipifica daño. |
+| C | NO VERIFICABLE: sin declaración portuaria de imposibilidad de bunkering por saturación africana. |
+| D | NO VERIFICABLE: falta interrupción Ormuz>5 Mb/d durante>48 h. |
+
+
+Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, duración, población y causalidad pendientes permanecen explícitos; la selección E0 no activa triggers.
+
+## 4. Transmisión y continuidad
+
+Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # EVENTO: E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb
 
-## 1. Estado actual — precierre W40
+## Decisión A aplicada — W41, 10-oct-2026 (TASK_202)
+
+Luis solicita peso **4,2** y confirma «Aplica cambios y sigue». Peso vigente 4,2; con P4 y ↑ (1,2) heredados, carga **20,16** (+0,48 exclusivamente por peso). El peso expresa importancia estructural ordinal. Decisión B sobre inventario/P/tendencia y reconciliación W41 pendientes; no constituye cierre factual semanal. La evidencia siguiente conserva su corte W40 y su calibración histórica. Prevalece esta decisión para el peso actual.
+
+## 1. Estado factual anterior — precierre W40 (calibración histórica)
 
 **E1 · P4 · peso 4,1 · ↑ (1,2) · carga 19,68 · V02.** Decisiones A/B de Luis aplicadas el 03-oct; corte 2026-10-03 02:06 Europe/Madrid. Ajuste decimal solicitado por incidencia semanal relativa, con alcance estructural como ancla; no medición empírica. Clase, presión y tendencia conservadas.
 
@@ -153,5 +194,7 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
 - **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
 - **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
+
+</details>
 
 </details>

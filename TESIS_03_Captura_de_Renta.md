@@ -3,22 +3,26 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-10-03
-corte_factual_actual: "2026-10-03 02:06 Europe/Madrid"
-corte_factual_previo: "2026-09-26 20:48 Europe/Madrid"
-alcance_actualizacion: "Precierre W40 TASK_172; decisiones humanas aplicadas y revisión técnica de soporte"
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
+revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+soporte_alcance: "Histórico; sin validación causal incremental directa W41"
 ---
 
-# 💡 TESIS_03: Captura de Renta
+# 💡 TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
 
 ## 1. Definición
 
-En economías de bajo crecimiento y oferta rígida, una parte creciente de la renta del trabajo y del ahorro productivo se destina a vivienda, transferencias intergeneracionales y financiación de pasivos públicos ligados al envejecimiento. El resultado potencial es menor capacidad de ahorro, inversión, movilidad y formación de capital de las cohortes activas.
+Cuando vivienda, fiscalidad y compromisos intergeneracionales absorben ingresos más deprisa que crecen salarios reales y productividad, disminuye la capacidad de ahorro y movilidad de los hogares expuestos. La automatización puede compensar esa presión si genera ganancias efectivas que se trasladan a renta disponible o a una base fiscal sostenible.
 
-La tesis describe un resultado institucional y demográfico; no presupone un diseño deliberado ni atribuye toda la presión fiscal a las pensiones.
+España es el ámbito prioritario de contraste. Se comparan cohortes, territorios y hogares propietarios o inquilinos; los promedios nacionales no describen por igual su exposición. La tesis describe un mecanismo institucional y demográfico, sin atribuir intención general a pensionistas o propietarios.
 
-La validación exige separar tres capas: **(1) vivienda y demografía**, **(2) flujo contributivo** —cotizaciones frente a prestaciones comparables— y **(3) mecanismo fiscal de captura** —desplazamiento verificable de ahorro o inversión—. La primera puede estar activa sin demostrar automáticamente las otras dos.
+La validación separa vivienda y demografía, cotizaciones y prestaciones comparables, y desplazamiento efectivo de ahorro o inversión. Robots entregados no demuestran productividad realizada ni distribución de sus ganancias.
 
 ## 2. Restricción estructural asociada
 
@@ -27,11 +31,77 @@ La validación exige separar tres capas: **(1) vivienda y demografía**, **(2) f
 - **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
 - **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
 
-## 3. Manifestaciones observables — corte 26-sep 20:48
+## 3. Manifestaciones y contraste — precierre W41
 
-ACEA enero–agosto 2026 y las entregas Unitree 2025 son sensores de transformación industrial; no prueban por sí mismos captura de renta, desplazamiento contributivo o deterioro de pensiones. No se incorpora una nueva serie fiscal/demográfica homogénea en W39. [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[Evento_E0_2026_09_19_Robotica_Unitree]].
+Se conserva el soporte histórico moderado-alto, sin nueva validación causal directa W41. El avance de inflación es un antecedente de poder adquisitivo con causas mixtas, no prueba completa de captura. La elección española y las medidas futuras siguen siendo sensores prospectivos. La mejora proyectada de actividad obliga a contrastar capacidad compensatoria; no equivale a renta realizada por cohorte.
 
-Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; la revisión interpretativa no incorpora hechos posteriores.
+
+## 4. Tensiones internas
+
+- **Causalidad:** el aumento del gasto en pensiones no demuestra por sí solo déficit contributivo ni desplazamiento de inversión; exige comparar cotizaciones, transferencias y ejecución presupuestaria.
+- **Efecto riqueza:** la vivienda beneficia patrimonialmente a propietarios y puede sostener consumo, aunque agrava el acceso de nuevos hogares.
+- **Productividad compensatoria:** automatización e inmigración cualificada pueden elevar la base productiva y reducir la presión por cotizante.
+- **Heterogeneidad territorial:** los promedios nacionales ocultan diferencias de vivienda, empleo y demografía.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Vector dominante:** [[VECTOR_05_Transformacion_industrial_y_demografia]]; transmisión monetaria V01 y productiva V03.
+- **España:** esfuerzo residencial sobre renta disponible, alquiler/propiedad, salarios reales y productividad, ahorro por cohorte, movilidad y formación de hogares. Comparar periodos y universos compatibles.
+- **Canal fiscal:** cotizaciones, prestaciones, transferencias presupuestarias y ejecución de inversión pública; el aumento de una partida aislada no prueba desplazamiento de otra.
+- **Automatización:** uso recurrente, productividad y distribución de ganancias; [[Evento_E0_2026_09_19_Robotica_Unitree]] es un sensor tecnológico, no una medida de renta española.
+- **Memoria:** [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]. Seguimiento en V05 y [[Radar_Eventos_2026_10]], sin nueva ficha automática.
+
+## 6. Criterios de validación o refutación
+
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+## 7. Soporte vigente y trazabilidad
+
+**Soporte: Moderado-alto.** Grado conservado. La revisión de título, enfoque y pruebas fue aprobada por Luis el 10-oct (TASK_204 → TASK_205); no constituye nueva validación empírica.
+
+El corte factual sigue siendo 2026-10-10 20:38 Europe/Madrid, precierre W41. Los hitos futuros son sensores, no resultados. Mayor peso o número de eventos no eleva el soporte de una tesis. Formulaciones TASK_175 y revisión técnica previa preservadas en la memoria inferior.
+
+
+<details>
+<summary>Formulación anterior a TASK_205, incluida revisión TASK_175 y precierre técnico W41; memoria sustituida</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_03
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-10
+corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
+corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
+alcance_actualizacion: "W41; formulación TASK_175 preservada, nueva auditoría sin cambio de soporte"
+vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
+---
+
+# 💡 TESIS_03: Captura de Renta
+
+## 1. Definición
+
+Cuando vivienda y compromisos intergeneracionales crecen más que la productividad y los ingresos de las cohortes activas, cae su capacidad de ahorro e inversión. La automatización puede aliviar esa presión si su productividad se traduce en salarios reales, renta disponible o una base fiscal sostenible.
+
+La tesis describe un resultado institucional y demográfico; no presupone intención deliberada. La validación separa vivienda/demografía, cotizaciones y prestaciones comparables, y desplazamiento efectivo de ahorro o inversión. Robots entregados no demuestran productividad realizada ni distribución de sus ganancias.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## 3. Manifestaciones y contraste — precierre W41
+
+**Soporte: Moderado-alto.** La centralidad España obliga observar renta, pensiones, vivienda yproductividad; no aporta prueba automática de captura. Inflaciónavance afecta poder adquisitivo potencial, con causalidad mixta; elección/transferencias futuras no resultado.
+
+Próxima falsación: Renta/ahorro/costevivienda/transferencias yproductividad comparables; uso real de robótica. Datos y documentos con periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 2026-10-10 20:38 Europe/Madrid; formulación interpretativa TASK_175 conservada. Revisión técnica no prueba causal ni nueva decisiónhumana de grado.
 
 ## 4. Tensiones internas
 
@@ -46,7 +116,7 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - **Transmisión monetaria:** [[VECTOR_01_Arquitectura_monetaria_global]].
 - **Transmisión industrial-tecnológica:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]].
 - **Memoria cerrada:** [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]. La sostenibilidad de pensiones se monitoriza en V05 hasta que una liquidación comparable justifique una nueva ficha.
-- **Sensores:** ISM y NFP de agosto ya consumidos y rectificados en [[Radar_Eventos_2026_10]]. El seguimiento demográfico/industrial continúa en V05; el radar no incorpora automáticamente nuevas series mensuales.
+- **Sensores:** datos laborales consumidos se conservan como antecedentes. V05 sigue renta disponible, vivienda, transferencias, productividad y uso industrial; [[Radar_Eventos_2026_10]] organiza hitos sin altas automáticas.
 
 ## 6. Criterios de validación o refutación
 
@@ -60,15 +130,80 @@ Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestacione
 - Expansión material de oferta residencial que reduzca el esfuerzo de acceso.
 - Equilibrio contributivo estable sin detracción de inversión pública productiva.
 
-## 7. Calibración actual — 03/10/2026, precierre W40
+## 7. Soporte vigente — formulación TASK_175, contraste W41
 
-- **Soporte:** Moderado-alto; conservado.
-- **Apoyo:** Se conserva corpus secular; observatorio industrial y Unitree siguen como sensores.
-- **Contraevidencia:** Productividad y adopción pueden elevar renta; NFP no atribuye sustitución a IA.
-- **Ambigüedad / límite:** Cobertura nueva directa limitada; no serie homogénea vivienda/pensiones que valide desplazamiento.
-- **Próxima falsación:** Comparar renta, ahorro, inversión y transferencias en universos compatibles.
+- **Soporte:** Moderado-alto; soporte histórico conservado, sin validación incremental directa W40.
+- **Apoyo:** Corpus secular de vivienda, demografía y transferencias.
+- **Contraevidencia:** Automatización puede elevar productividad y renta; no implica distribución automática de ganancias.
+- **Ambigüedad / límite:** Faltan series homogéneas nuevas; entregas de robots y NFP no acreditan captura fiscal.
+- **Próxima falsación:** Vivienda/salarios, ahorro de hogares, cotizaciones/prestaciones, inversión y productividad por cohortes.
 
-Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+Formulación y alcance interpretativo aprobados por Luis el 03-oct (TASK_175). W41 contrasta evidencia al 10-oct 20:38, conserva grados y aplica por separado decisiones A/B sobre eventos. Antecedentes íntegros preservados debajo; [[ACTUALIZACION_SEMANAL_231_2026_10_11]].
+
+
+
+<details>
+<summary>Formulación y contraste W40 aprobados TASK175, preservados íntegros</summary>
+
+# 💡 TESIS_03: Captura de Renta
+
+## 1. Definición
+
+Cuando vivienda y compromisos intergeneracionales crecen más que la productividad y los ingresos de las cohortes activas, cae su capacidad de ahorro e inversión. La automatización puede aliviar esa presión si su productividad se traduce en salarios reales, renta disponible o una base fiscal sostenible.
+
+La tesis describe un resultado institucional y demográfico; no presupone intención deliberada. La validación separa vivienda/demografía, cotizaciones y prestaciones comparables, y desplazamiento efectivo de ahorro o inversión. Robots entregados no demuestran productividad realizada ni distribución de sus ganancias.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## 3. Manifestaciones y contraste — precierre W40 / revisión aprobada
+
+W40 conserva el corpus secular de vivienda y demografía, sin incorporar una serie homogénea nueva que demuestre desplazamiento fiscal de ahorro o inversión. Unitree y el observatorio industrial son sensores de transformación, no prueba directa de captura de renta.
+
+Europa28-sep y la intervención30-sep conectan envejecimiento, inversión y decisión política. Productividad puede compensar cargas, pero exige observar adopción, ingresos reales y distribución de beneficios. NFP no atribuye por sí solo sustitución laboral a IA.
+
+Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro conservado: 03-oct 02:06 Europe/Madrid. Revisión interpretativa aprobada después del precierre; las declaraciones propias no aumentan por repetición el soporte empírico.
+
+## 4. Tensiones internas
+
+- **Causalidad:** el aumento del gasto en pensiones no demuestra por sí solo déficit contributivo ni desplazamiento de inversión; exige comparar cotizaciones, transferencias y ejecución presupuestaria.
+- **Efecto riqueza:** la vivienda beneficia patrimonialmente a propietarios y puede sostener consumo, aunque agrava el acceso de nuevos hogares.
+- **Productividad compensatoria:** automatización e inmigración cualificada pueden elevar la base productiva y reducir la presión por cotizante.
+- **Heterogeneidad territorial:** los promedios nacionales ocultan diferencias de vivienda, empleo y demografía.
+
+## 5. Relación con VECTORES y EVENTOS
+
+- **Vector dominante:** [[VECTOR_05_Transformacion_industrial_y_demografia]].
+- **Transmisión monetaria:** [[VECTOR_01_Arquitectura_monetaria_global]].
+- **Transmisión industrial-tecnológica:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]].
+- **Memoria cerrada:** [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]. La sostenibilidad de pensiones se monitoriza en V05 hasta que una liquidación comparable justifique una nueva ficha.
+- **Sensores:** datos laborales consumidos se conservan como antecedentes. V05 sigue renta disponible, vivienda, transferencias, productividad y uso industrial; [[Radar_Eventos_2026_10]] organiza hitos sin altas automáticas.
+
+## 6. Criterios de validación o refutación
+
+**Refuerzan la tesis:**
+- Crecimiento persistente de vivienda y transferencias por encima de salarios, productividad e ingresos contributivos.
+- Deterioro continuado del ratio cotizantes/pensionistas y mayor financiación tributaria del sistema.
+- Descenso de ahorro, movilidad residencial, inversión empresarial o formación de hogares jóvenes.
+
+**La debilitan o refutan:**
+- Aumento sostenido de productividad y salarios reales superior a vivienda y carga fiscal.
+- Expansión material de oferta residencial que reduzca el esfuerzo de acceso.
+- Equilibrio contributivo estable sin detracción de inversión pública productiva.
+
+## 7. Calibración vigente — revisión aprobada 03/10/2026 (TASK_175)
+
+- **Soporte:** Moderado-alto; soporte histórico conservado, sin validación incremental directa W40.
+- **Apoyo:** Corpus secular de vivienda, demografía y transferencias.
+- **Contraevidencia:** Automatización puede elevar productividad y renta; no implica distribución automática de ganancias.
+- **Ambigüedad / límite:** Faltan series homogéneas nuevas; entregas de robots y NFP no acreditan captura fiscal.
+- **Próxima falsación:** Vivienda/salarios, ahorro de hogares, cotizaciones/prestaciones, inversión y productividad por cohortes.
+
+Luis aprueba esta revisión con «Perfecto. Ejecuta». Corte macro conservado: 2026-10-03 02:06 Europe/Madrid; fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. La revisión modifica formulación y alcance de soporte; no cambia pesos, presiones, tendencias o carga de eventos. Xi permanece E0 de ejecución bilateral.
 
 <details>
 <summary>Calibración W39 sustituida; preservada</summary>
@@ -159,5 +294,49 @@ Fuentes y alcance: [[ACTUALIZACION_SEMANAL_231_2026_09_20]]. No se declara búsq
 - **Hipótesis del corpus propio (20/08/2026):** Europa dispone de ahorro y ciencia, pero carece de capital de escala y canales de conversión suficientes. Se usa para orientar sensores de CAPEX, no como evidencia primaria.
 - **Escala industrial china:** Unitree salió a bolsa con un plan de inversión de 4.200 M de yuanes y Alibaba comprometió 80.000 M HK$ para IA. Frente al estancamiento industrial europeo, las cifras refuerzan la hipótesis de divergencia en escala de capital, pero no prueban fuga neta de CAPEX desde Europa.
 - **Disciplina inmobiliaria china:** el Tribunal Popular Supremo confirmó cadena perpetua y confiscación patrimonial para Xu Jiayin y condenas para otros 56 acusados. El fallo cierra judicialmente el caso Evergrande; atribuirle una reasignación de capital hacia silicio es interpretación del corpus, no hecho judicial.
+
+</details>
+
+
+<details>
+<summary>Antecedente preservado: formulación, manifestaciones y calibración previas a la aprobación TASK_175</summary>
+
+Estos pasajes fueron sustituidos por la decisión humana del03-oct; no representan el estado vigente. Las alusiones al archivo Xi corresponden a una actuación después rectificada.
+
+## 1. Definición
+
+En economías de bajo crecimiento y oferta rígida, una parte creciente de la renta del trabajo y del ahorro productivo se destina a vivienda, transferencias intergeneracionales y financiación de pasivos públicos ligados al envejecimiento. El resultado potencial es menor capacidad de ahorro, inversión, movilidad y formación de capital de las cohortes activas.
+
+La tesis describe un resultado institucional y demográfico; no presupone un diseño deliberado ni atribuye toda la presión fiscal a las pensiones.
+
+La validación exige separar tres capas: **(1) vivienda y demografía**, **(2) flujo contributivo** —cotizaciones frente a prestaciones comparables— y **(3) mecanismo fiscal de captura** —desplazamiento verificable de ahorro o inversión—. La primera puede estar activa sin demostrar automáticamente las otras dos.
+
+
+
+## 3. Manifestaciones observables — corte 26-sep 20:48
+
+ACEA enero–agosto 2026 y las entregas Unitree 2025 son sensores de transformación industrial; no prueban por sí mismos captura de renta, desplazamiento contributivo o deterioro de pensiones. No se incorpora una nueva serie fiscal/demográfica homogénea en W39. [[VECTOR_05_Transformacion_industrial_y_demografia]] y [[Evento_E0_2026_09_19_Robotica_Unitree]].
+
+Fuentes fechadas en [[ACTUALIZACION_SEMANAL_231_2026_09_27]]. Las manifestaciones anteriores se conservan abajo como antecedente; su traslado no valida sus cifras.
+
+
+
+## 7. Calibración actual — 03/10/2026, precierre W40
+
+- **Soporte:** Moderado-alto; conservado.
+- **Apoyo:** Se conserva corpus secular; observatorio industrial y Unitree siguen como sensores.
+- **Contraevidencia:** Productividad y adopción pueden elevar renta; NFP no atribuye sustitución a IA.
+- **Ambigüedad / límite:** Cobertura nueva directa limitada; no serie homogénea vivienda/pensiones que valide desplazamiento.
+- **Próxima falsación:** Comparar renta, ahorro, inversión y transferencias en universos compatibles.
+
+Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. Corte 2026-10-03 02:06 Europe/Madrid. Fuentes y periodos en [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Manifestaciones W39 previas conservan fecha y condición de antecedente; este apartado rige la interpretación actual.
+
+
+
+- **Sensores:** ISM y NFP de agosto ya consumidos y rectificados en [[Radar_Eventos_2026_10]]. El seguimiento demográfico/industrial continúa en V05; el radar no incorpora automáticamente nuevas series mensuales.
+</details>
+
+</details>
+
 
 </details>

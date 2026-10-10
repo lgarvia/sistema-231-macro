@@ -2,12 +2,61 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-03 02:06 Europe/Madrid"
-ultima_revision: 2026-10-03
+corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-10
 triggers_activos: 0
 triggers_parciales: 1
-alcance_contadores: "Contadores estructurales heredados; auditoría W40 distingue cobertura actual"
+alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
 ---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+## Estado operativo — precierre W41
+
+**🟠 Elevada · → · carga primaria 12,80.** Corte 2026-10-10 20:38 Europe/Madrid; decisiones Luis A/B aplicadas TASK_202. Semáforo estructural conservado; V04 tendencia→ coherente con recalibraciónautorizada, sin inferirla deltotal.
+
+- [[Evento_E0_2026_CoWoS_Capacity]]: 12,80.
+
+## Evidencia W41
+
+[TSMC, publicado 08-oct](https://pr.tsmc.com/english/news/3343): ingresos sept 511.857 MNTD =511,857 BNTD, −0,6%MoM/+54,6%YoY; enero–sept 3.898.727 MNTD,+41,1%. Facturación agregada no identifica CoWoS/yields/AP7/entregas Blackwell. [Alibaba 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V 900 comercial Q1'27;650 clientes de familia Zhenwu no clientes V 900. Sin nuevas entregas independientes recuperadas. C33 pasa a observatorio por foco y horizonte, no fracaso; historial en [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]].
+
+## Auditoría de condiciones propias
+
+**Contadores estructurales heredados: 0 activos / 1 parciales.** No son un recuento de activaciones verificadas nuevamente en W41. Se conserva su procedencia y se audita la cobertura de cada cláusula.
+
+| Trigger | Auditoría W41 |
+|---|---|
+| 01 | NO ACREDITADO COMPLETO: falta agregado homogéneo de guía CAPEXtrimestral con desviación>15%. |
+| 02 | NO VERIFICABLE: faltan lead times generalizados de cómputo avanzado>24 semanas. |
+| 03 | SIN NUEVA ACTIVACIÓN ACREDITADA en fuentes recuperadas: no nueva restricciónformal de nodos/arquitecturas; no auditoría exhaustiva de registros. |
+| 04 | NO ACREDITADO: anuncio V 900 no auditoría técnica de procesamiento comercial viable sub 5 nm sin litografía occidental. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## 1. VECTOR ESTRUCTURAL
+
+**Seguimiento C20/C21 aprobado W40:** memoria HBM integrada en CoWoS; modelos y coste de inferencia observados aquí sin ficha ni carga propia. Comparar coste por tarea, calidad, consumo energético y uso efectivo con periodos y benchmarks compatibles. Sin nueva prueba independiente recuperada esta semana: anuncios no equivalen a disponibilidad o ventaja productiva. Fuentes corporativas y pruebas independientes deben distinguirse.
+- **Fuerzas:** Competición logística, industrial y soberana por el control de la cadena de valor de hardware avanzado (litografía, diseño y fundición) y la capacidad de cómputo asociada a la seguridad nacional.
+- **Mecanismos:** Controles unilaterales de exportación, asignación estatal de cuotas de fundición, bloqueo de patentes de diseño de chipsets y subsidios a la relocalización industrial de obleas.
+- **Chokepoints:** Equipos de litografía EUV/High-NA, fundiciones avanzadas (nodos sub-5 nm) y acceso monopolizado a materias primas críticas (galio, germanio, grafito).
+- **Transmisión:** Impacta en V04 (creación de bloques de comercio tecnológico aislados) y V06 (superioridad de los sistemas de mando y control militar).
+
+
+## Observatorio chips chinos — C33 absorbido
+
+Luisautoriza absorción 10-oct; memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. [Alibaba 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V 900 Q1 2027 anunciado;650 clientesfamilia Zhenwu. Indicadores: producción/entregas(unidadesportrimestre ymodelo), clientes, horas/cargasproductivas, yields%, coste/tarea/calidad/consumo, componentesydependencias. Sin nuevos KPIrecuperados W41. Abrir/reabrirsolo tras episodioespecífico/uso verificable yselección/calibración Luis; sin carga delobservatorio.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior W40 y memoria previa; sustituido por W41</summary>
 
 # 📝 Semiconductores y soberanía tecnológica
 
@@ -189,5 +238,7 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
