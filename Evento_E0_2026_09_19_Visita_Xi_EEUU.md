@@ -4,8 +4,8 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
 calibracion: aplicada
 carga_activa: 7.6
@@ -13,10 +13,37 @@ presion_numerica: 2
 peso_estructural: 3.8
 factor_tendencia: 1
 tags: [geopolitica, china, estados-unidos, diplomacia]
-tendencia_calibrada: "\u2192"
+tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
+
+# EE. UU.–China / ejecución
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P2 · peso 3,8 · → (1) · carga 7,60 · V06.**
+
+[Casa Blanca, 25-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/): antecedente recuperado en W42, órganos de comercio e inversión anunciados como operativos y recomendaciones de 30 BUSD en cada dirección. No constituye comercio ejecutado nuevo W42. El diálogo IA antes de terminar noviembre sigue anunciado; registro chino de 16-oct pertenece a C38/V04 por su transmisión comercial. Xi permanece E0 de ejecución, sin duplicar la visita consumida ni los controles.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| Ejecución | PARCIAL: órganos anunciados; falta inversión/comercio ejecutado y diálogo IA verificable con acuerdos. |
+| Falsación | Vigilar suspensión formal, incumplimiento documentado o continuidad operativa y flujos; anuncios no bastan. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # EE. UU.–China / ejecución
 
@@ -135,5 +162,7 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>

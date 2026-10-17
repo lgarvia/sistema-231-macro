@@ -3,13 +3,159 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-10-10
-corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
-corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
-alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+ultima_actualizacion: 2026-10-17
+corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
+corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
+alcance_actualizacion: "W42; revisión factual e interpretativa aprobada por Luis TASK_226; T03 moderado"
 vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
-revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
 ---
+
+# 💡 TESIS_04: Multipolaridad logística
+
+> Revisión factual e interpretativa W42 aprobada por Luis el 17-oct-2026, TASK_226. Corte 2026-10-17 11:51 Europe/Madrid; nominal 18-oct; domingo no observado.
+
+> ID y archivo conservados; revisión anterior de 10-oct preservada en el historial.
+
+## 1. Definición
+
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[OMI, actualización 14-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): registro acumulado 113 incidentes / 24 fallecidos, frente 100/24 al 09-oct. +13 registros no equivale a trece sucesos W42. GFS PRIDE, 13-oct, hundido en Ormuz; daños 11/13-oct documentados. Clase VLCC/GNL, interrupción de 5 Mb/d durante más de 48 h y dos primas comparables no verificados. Se conserva E1/P4/↑ por continuidad del episodio; no se inventa una activación nueva de los umbrales completos.
+
+[GIE, panel con marca 16-oct 06:00 CEST](https://www.gie.eu/): UE 840,80 TWh / 74,22%; Alemania 60,62%, España 77,94%. La marca del panel no se transforma en gas day sin metadatos. Base ENTSOG 01-oct 72%≈811 TWh es antecedente, no variación semanal comparable. Inventario no acredita racionamiento industrial; la reposición es contraevidencia frente a caída ininterrumpida. E0/P3/→, con sensibilidad al frío, GNL y flujos.
+
+**Contraevidencia:** La reposición del almacenamiento es contraevidencia frente a deterioro lineal; incidencia registrada no demuestra bloqueo total ni reducción mundial de oferta.
+
+**Ambigüedad y alcance:** Moderado-alto conservado. Faltan dos primas, tránsito homogéneo, fletes y sustitución efectiva para cuantificar transmisión hasta actividad y renta española.
+
+**Próxima falsación:** Tránsito y desvíos, cobertura/primas comparables, flujos de gas, demanda y curtailment, alternativas operativas y coste efectivo.
+
+## 4. Tensiones internas
+
+- **Persistencia frente a reversibilidad:** una listed area no prueba desvío permanente ni prima cuantificada.
+- **Precio frente a flujo:** volatilidad de Brent o fletes puede reflejar demanda y oferta, no ruptura logística.
+- **Redundancia costosa:** rutas alternativas elevan costes, pero también reducen la probabilidad de interrupción total.
+- **Normalización:** la recuperación rápida de Ormuz muestra que parte de la fricción puede ser temporal.
+
+## 5. Relación con vectores, eventos y sensores
+
+| Eslabón / ámbito | Observable y comparación | Límite de inferencia |
+|---|---|---|
+| Incidente y cobertura | Por corredor/fecha: hecho, cobertura y prima comparable | Incidencia acumulada no frecuencia semanal ni prima universal |
+| Continuidad y redundancia | Tránsito, desvío, tiempos, suministro e inventarios utilizables | Alternativas efectivas pueden absorber el shock |
+| Coste de resiliencia | Flete, seguro, tiempo e inventario/capital inmovilizado con universo y periodo | Continuidad del flujo puede coexistir con coste adicional |
+| Transmisión española | Suministro/coste efectivo y actividad atribuible por sector | No extrapolar impacto regional a desabastecimiento general |
+
+### Conexiones y seguimiento
+
+- **Vector dominante:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; V04 y V06 secundarios.
+- **Sensores activos:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
+- **España:** fuentes efectivas de suministro, alternativas disponibles, flujos de gas, costes energéticos industriales y duración de sus efectos. Medir capacidad utilizable y sustitución efectiva, sin presumirlas.
+- **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física → transmisión a precios y actividad. Ningún peldaño sustituye al siguiente.
+- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10]]. Reunión 04-oct ya consumida.
+- **Observatorios:** GNSS y Taiwán en V02/V06; sólo reabren ante evidencia material.
+
+## 6. Criterios de validación o refutación
+
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## 7. Soporte vigente y trazabilidad
+
+**Moderado-alto.** Grado conservado con el alcance indicado; debe contrastarse cada eslabón y sus explicaciones alternativas.
+
+Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# 💡 TESIS_04: Multipolaridad logística
+
+> Revisión factual W42: corte 17-oct-2026 11:51 Europe/Madrid; nominal 18-oct. Grado y definición conservados; TASK_226.
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+La seguridad del abastecimiento depende de rutas, energía, seguros y proveedores sustituibles. La autonomía efectiva exige alternativas operativas y capacidad para absorber interrupciones a un coste sostenible; cambiar una dependencia sin disponer de sustitutos no reduce necesariamente la vulnerabilidad.
+
+Los bloques pueden aceptar mayores costes para reducir exposición a nodos críticos y coerción. La tesis predice una globalización más segmentada y asegurada, sin exigir desaparición del comercio global ni primas permanentemente elevadas.
+
+Para España se sigue la cadena incidente → seguro y transporte → suministro → precio energético → actividad. Cada eslabón requiere evidencia propia. La soberanía digital se desarrolla en T06/V03/V06; aquí se conserva el alcance físico y logístico.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[OMI, actualización 14-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): registro acumulado 113 incidentes / 24 fallecidos, frente 100/24 al 09-oct. +13 registros no equivale a trece sucesos W42. GFS PRIDE, 13-oct, hundido en Ormuz; daños 11/13-oct documentados. Clase VLCC/GNL, interrupción de 5 Mb/d durante más de 48 h y dos primas comparables no verificados. Se conserva E1/P4/↑ por continuidad del episodio; no se inventa una activación nueva de los umbrales completos.
+
+[GIE, panel con marca 16-oct 06:00 CEST](https://www.gie.eu/): UE 840,80 TWh / 74,22%; Alemania 60,62%, España 77,94%. La marca del panel no se transforma en gas day sin metadatos. Base ENTSOG 01-oct 72%≈811 TWh es antecedente, no variación semanal comparable. Inventario no acredita racionamiento industrial; la reposición es contraevidencia frente a caída ininterrumpida. E0/P3/→, con sensibilidad al frío, GNL y flujos.
+
+**Contraevidencia:** La reposición del almacenamiento es contraevidencia frente a deterioro lineal; incidencia registrada no demuestra bloqueo total ni reducción mundial de oferta.
+
+**Ambigüedad y alcance:** Moderado-alto conservado. Faltan dos primas, tránsito homogéneo, fletes y sustitución efectiva para cuantificar transmisión hasta actividad y renta española.
+
+**Próxima falsación:** Tránsito y desvíos, cobertura/primas comparables, flujos de gas, demanda y curtailment, alternativas operativas y coste efectivo.
+
+## 4. Tensiones internas
+
+- **Persistencia frente a reversibilidad:** una listed area no prueba desvío permanente ni prima cuantificada.
+- **Precio frente a flujo:** volatilidad de Brent o fletes puede reflejar demanda y oferta, no ruptura logística.
+- **Redundancia costosa:** rutas alternativas elevan costes, pero también reducen la probabilidad de interrupción total.
+- **Normalización:** la recuperación rápida de Ormuz muestra que parte de la fricción puede ser temporal.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Vector dominante:** [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; V04 y V06 secundarios.
+- **Sensores activos:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
+- **España:** fuentes efectivas de suministro, alternativas disponibles, flujos de gas, costes energéticos industriales y duración de sus efectos. Medir capacidad utilizable y sustitución efectiva, sin presumirlas.
+- **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física → transmisión a precios y actividad. Ningún peldaño sustituye al siguiente.
+- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10]]. Reunión 04-oct ya consumida.
+- **Observatorios:** GNSS y Taiwán en V02/V06; sólo reabren ante evidencia material.
+
+## 6. Criterios de validación o refutación
+
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## 7. Soporte vigente y trazabilidad
+
+Moderado-alto conservado. Faltan dos primas, tránsito homogéneo, fletes y sustitución efectiva para cuantificar transmisión hasta actividad y renta española.
+
+Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # 💡 TESIS_04: Multipolaridad logística
 
@@ -332,5 +478,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
 
 </details>

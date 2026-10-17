@@ -7,22 +7,63 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4.2
-fecha_decision_peso: 2026-10-10
+peso_estructural: 4.5
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
 revision_semanal_pendiente: false
 factor_tendencia: 1.2
-tendencia_calibrada: "\u2191"
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+tendencia_calibrada: "↑"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
 
 # Riesgo marítimo
 
-## 1. Estado actual — precierre W41
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E1 · P4 · peso 4,5 · ↑ (1,2) · carga 21,60 · V02.**
+
+[OMI, actualización 14-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): registro acumulado 113 incidentes / 24 fallecidos, frente 100/24 al 09-oct. +13 registros no equivale a trece sucesos W42. GFS PRIDE, 13-oct, hundido en Ormuz; daños 11/13-oct documentados. Clase VLCC/GNL, interrupción de 5 Mb/d durante más de 48 h y dos primas comparables no verificados. Se conserva E1/P4/↑ por continuidad del episodio; no se inventa una activación nueva de los umbrales completos.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| A | NO VERIFICABLE completo: faltan dos cotizaciones/circular ≥1,5% del casco y persistencia 48 h, o denegación de cobertura 48 h. |
+| B | PARCIAL: hundimiento registrado, clase VLCC/GNL no verificada. |
+| C | NO VERIFICABLE: imposibilidad de bunkering en puertos africanos no acreditada. |
+| D | NO VERIFICABLE: falta retirada >5 Mb/d durante >48 h. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## 4. TESIS (Luis)
+El poder naval de Occidente ha fracasado en asegurar el *global commons*. La globalización eficiente ha muerto; ahora es tarifada por el riesgo. El seguro marítimo se ha convertido en un actor geopolítico, y la prima de riesgo (War Risk) opera como un arancel global en la sombra, inyectando inflación física que los bancos centrales no pueden combatir con tipos de interés.
+
+
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# Riesgo marítimo
+
+## Decisión A aplicada — W42, 17-oct-2026
+
+**E1 · P4 · peso 4,5 · ↑ (1,2) · carga intermedia 21,60 · V02.** Luis aprueba «Perfecto. Ejecútalo» (TASK_226): peso 4,2→4,5; efecto aislado +1,44. Reequilibrio relativo por transmisión multisectorial a seguros, rutas, plazos y energía; no medición nueva de volumen o prima. Clase, presión y tendencia conservan la calibración W41; B y la revisión factual W42 siguen pendientes. Los umbrales incompletos no se dan por activados. Propuesta y fuentes: [[2026_10_17_Preparacion_231_W42]].
+
+La evidencia siguiente mantiene su corte W41. Este bloque y el frontmatter prevalecen para el peso actual; el informe y los agregados W41 son comparadores históricos hasta la reconciliación posterior a B.
+
+## 1. Estado factual anterior — precierre W41 (calibración histórica)
 
 **E1 · P4 · peso 4,2 · ↑ (1,2) · carga 20,16 · V02.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
 
@@ -194,6 +235,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
 - **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
 - **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
+
+</details>
 
 </details>
 

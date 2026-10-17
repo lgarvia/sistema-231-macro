@@ -3,14 +3,167 @@ tipo: tesis_estructural
 id: TESIS_06
 estado: vigente
 soporte: alto
-soporte_alcance: "Dependencia física; hipótesis financieras y productivas separadas"
-ultima_actualizacion: 2026-10-10
-corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
-corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
-alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
+ultima_actualizacion: 2026-10-17
+corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
+corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
+alcance_actualizacion: "W42; revisión factual e interpretativa aprobada por Luis TASK_226; T03 moderado"
 vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
-revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
 ---
+
+# 💡 TESIS_06: IA: infraestructura y conversión en productividad
+
+> Revisión factual e interpretativa W42 aprobada por Luis el 17-oct-2026, TASK_226. Corte 2026-10-17 11:51 Europe/Madrid; nominal 18-oct; domingo no observado.
+
+> ID y archivo conservados; revisión anterior de 10-oct preservada en el historial.
+
+## 1. Definición
+
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[DOE 202-26-50](https://www.energy.gov/ceser/federal-power-act-section-202c-pjm-interconnection-llc-pjm-order-no-202-26-50): emitida 12-oct, vigencia 13–16-oct; autoridad temporal para recursos específicos y permiso de respaldo de centros de datos. Al corte ha vencido la vigencia operativa; obligaciones informativas no desaparecen. [PJM, 13-oct, actualizado 14-oct](https://insidelines.pjm.com/operations-update-extends-maximum-generation-alert-calls-on-demand-response/): gestión de demanda/preemergencia por calor y mantenimiento, sin uso de la autoridad de respaldo de grandes cargas en esa comunicación. [PJM 15-oct](https://insidelines.pjm.com/providing-reliable-electricity-in-a-new-reality/): demanda nueva de centros de datos 24/7 durante todo el año supera incorporación de generación/transmisión y estrecha ventanas de mantenimiento; sigue sin usar respaldo. La recurrencia y restricción estructural fundamentan ↑, conservando E0/P4. [Craig, DOE 49](https://www.energy.gov/documents/doe-order-no-202-26-49): vigente 27-sep–25-dic; informe de disponibilidad exigido el 10-oct no recuperado. Plazo ya vencido: NO VERIFICABLE, sin inferir incumplimiento.
+
+[TSMC Q3, 15-oct](https://investor.tsmc.com/english/quarterly-results/2026/q3): trimestre terminado 30-sep, ingresos 46,72 BUSD, margen bruto 66,4%; guía Q4 52,3–54,3 BUSD es previsión. [Transcripción, pp. 12/18](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf): producción de encapsulado de cinco retículas con buenos yields y persistencia de una escasez limitada de back-end, cooperación con GF. Se eleva tendencia a ↑ por restricción explícita, sin equiparar litografía y CoWoS ni declarar activados A–D. [ASML 14-oct](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026): ventas Q3 11.662 MEUR y beneficio 4.960 MEUR; insuficiencia prevista de capacidad para 2027/28 es prospectiva y se sigue separadamente en C37/V03.
+
+**Contraevidencia:** Ingresos y márgenes fuertes describen a proveedores, sin acreditar retorno o solvencia de operadores y usuarios. Buen yield es capacidad técnica parcial; las guías futuras no son producción entregada. Expansión de oferta y eficiencia pueden aliviar restricciones sin eliminar dependencia física.
+
+**Ambigüedad y alcance:** Soporte alto solo para dependencia física; financiación y conversión en productividad se evalúan por separado. Escasez back-end y demanda eléctrica no prueban retorno final, ni impago ni ahorro de trabajo por cuota.
+
+**Próxima falsación:** Entregas e interconexión efectiva, caja/deuda/compromisos, utilización recurrente, coste total por tarea, calidad y productividad medida frente base comparable.
+
+## 4. Tensiones internas
+
+- **Demanda frente a capacidad:** ingresos y Cap Ex altos pueden reflejar expansión suficiente, no escasez.
+- **Eficiencia:** mejoras algorítmicas, inferencia local y nuevos diseños pueden reducir energía por unidad de servicio.
+- **Causalidad eléctrica:** calor, mantenimiento y nuevas cargas interactúan. PJM identifica presión de grandes cargas durante todo el año; no implica causalidad exclusiva de centros de datos ni reproducción automática en España.
+- **Sustitución tecnológica:** nodos maduros, ASICs y técnicas de empaquetado pueden reducir dependencia de un único chokepoint.
+
+## 5. Relación con vectores, eventos y sensores
+
+| Eslabón / ámbito | Observable y comparación | Límite de inferencia |
+|---|---|---|
+| Fabricante y cadena física | Restricción identificada; capacidad instalada/disponible/entregada y fecha por nodo | Resultados del proveedor no retorno de compradores |
+| Operador de infraestructura | Interconexión, energía, permisos, disponibilidad, caja y compromisos | Permiso de respaldo no uso efectivo; capacidad anunciada no utilizable |
+| Usuario y proyecto | Utilización recurrente, coste por tarea útil, calidad, mantenimiento y resultado económico | Escasez física no prueba insolvencia ni productividad |
+| Desplazamiento de restricciones | Contrastar fabricación, empaquetado, memoria, red/energía y permisos | Condiciones PJM no se trasladan automáticamente a España |
+
+### Conexiones y seguimiento
+
+- **Vector dominante:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Energía V02, financiación V01, adopción V05 y autonomía V06; secundarios sin carga adicional.
+- **Sensores físicos:** [[Evento_E0_2026_CoWoS_Capacity]] y [[Evento_E0_2026_07_08_Grid_Stress_IA]]; entregas, capacidad cualificada, plazos, interconexión, energía/agua y permisos.
+- **Financiación:** caja, compromisos de CAPEX, deuda, vencimientos y retorno por empresa/proyecto. No inferir insuficiencia agregada de capital sumando CAPEX y deuda soberana.
+- **Productividad:** utilización, tareas recurrentes, coste total por tarea, calidad, mantenimiento y distribución de ganancias. Separar ahorro bruto de costes de integración y supervisión.
+- **Adopción:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y observatorio Alibaba V03, con memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. Entrega, anuncio y uso productivo son pruebas distintas.
+- **España:** medir las restricciones realmente observadas y los resultados de adopción; la ubicación o el interés profesional no elevan el soporte.
+- **Próximos controles:** ventas TSMC del 10-nov; los resultados Q3 del 15-oct ya se resolvieron en [[Radar_Eventos_2026_10]].
+
+## 6. Criterios de validación o refutación
+
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## 7. Soporte vigente y trazabilidad
+
+**Alto solo para dependencia física.** Grado conservado con el alcance indicado; debe contrastarse cada eslabón y sus explicaciones alternativas.
+
+Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# 💡 TESIS_06: IA: infraestructura y conversión en productividad
+
+> Revisión factual W42: corte 17-oct-2026 11:51 Europe/Madrid; nominal 18-oct. Grado y definición conservados; TASK_226.
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+Infraestructura y financiación habilitan capacidad de IA; su conversión en valor económico exige tareas útiles, uso recurrente, calidad suficiente y costes sostenibles. Los modelos abiertos y la ejecución local pueden ampliar opciones de despliegue y control de datos, sin eliminar dependencia de hardware, energía, licencias y mantenimiento.
+
+Se distinguen tres afirmaciones: **dependencia física**, con soporte alto; **fragilidad financiera del despliegue**, hipótesis; y **productividad y autonomía realizadas**, validación condicionada. El grado alto no se extiende automáticamente a las dos últimas.
+
+La cadena física incluye aceleradores, HBM, empaquetado, litografía, redes, generación, refrigeración y permisos. Los cuellos de botella pueden desplazarse. España es un ámbito prioritario de contraste de adopción y limitaciones observadas; caja, utilización, coste total por tarea, calidad, mantenimiento y retorno se miden por empresa o proyecto.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[DOE 202-26-50](https://www.energy.gov/ceser/federal-power-act-section-202c-pjm-interconnection-llc-pjm-order-no-202-26-50): emitida 12-oct, vigencia 13–16-oct; autoridad temporal para recursos específicos y permiso de respaldo de centros de datos. Al corte ha vencido la vigencia operativa; obligaciones informativas no desaparecen. [PJM, 13-oct, actualizado 14-oct](https://insidelines.pjm.com/operations-update-extends-maximum-generation-alert-calls-on-demand-response/): gestión de demanda/preemergencia por calor y mantenimiento, sin uso de la autoridad de respaldo de grandes cargas en esa comunicación. [PJM 15-oct](https://insidelines.pjm.com/providing-reliable-electricity-in-a-new-reality/): demanda nueva de centros de datos 24/7 durante todo el año supera incorporación de generación/transmisión y estrecha ventanas de mantenimiento; sigue sin usar respaldo. La recurrencia y restricción estructural fundamentan ↑, conservando E0/P4. [Craig, DOE 49](https://www.energy.gov/documents/doe-order-no-202-26-49): vigente 27-sep–25-dic; informe de disponibilidad exigido el 10-oct no recuperado. Plazo ya vencido: NO VERIFICABLE, sin inferir incumplimiento.
+
+[TSMC Q3, 15-oct](https://investor.tsmc.com/english/quarterly-results/2026/q3): trimestre terminado 30-sep, ingresos 46,72 BUSD, margen bruto 66,4%; guía Q4 52,3–54,3 BUSD es previsión. [Transcripción, pp. 12/18](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf): producción de encapsulado de cinco retículas con buenos yields y persistencia de una escasez limitada de back-end, cooperación con GF. Se eleva tendencia a ↑ por restricción explícita, sin equiparar litografía y CoWoS ni declarar activados A–D. [ASML 14-oct](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026): ventas Q3 11.662 MEUR y beneficio 4.960 MEUR; insuficiencia prevista de capacidad para 2027/28 es prospectiva y se sigue separadamente en C37/V03.
+
+**Contraevidencia:** Ingresos y márgenes fuertes de TSMC/ASML contradicen una crisis financiera general ya consumada del sector. Buen yield es capacidad técnica parcial; las guías futuras no son producción entregada.
+
+**Ambigüedad y alcance:** Soporte alto solo para dependencia física; financiación y conversión en productividad se evalúan por separado. Escasez back-end y demanda eléctrica no prueban retorno final, ni impago ni ahorro de trabajo por cuota.
+
+**Próxima falsación:** Entregas e interconexión efectiva, caja/deuda/compromisos, utilización recurrente, coste total por tarea, calidad y productividad medida frente base comparable.
+
+## 4. Tensiones internas
+
+- **Demanda frente a capacidad:** ingresos y Cap Ex altos pueden reflejar expansión suficiente, no escasez.
+- **Eficiencia:** mejoras algorítmicas, inferencia local y nuevos diseños pueden reducir energía por unidad de servicio.
+- **Causalidad eléctrica:** el estrés de red estival no puede atribuirse automáticamente a centros de datos.
+- **Sustitución tecnológica:** nodos maduros, ASICs y técnicas de empaquetado pueden reducir dependencia de un único chokepoint.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Vector dominante:** [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Energía V02, financiación V01, adopción V05 y autonomía V06; secundarios sin carga adicional.
+- **Sensores físicos:** [[Evento_E0_2026_CoWoS_Capacity]] y [[Evento_E0_2026_07_08_Grid_Stress_IA]]; entregas, capacidad cualificada, plazos, interconexión, energía/agua y permisos.
+- **Financiación:** caja, compromisos de CAPEX, deuda, vencimientos y retorno por empresa/proyecto. No inferir insuficiencia agregada de capital sumando CAPEX y deuda soberana.
+- **Productividad:** utilización, tareas recurrentes, coste total por tarea, calidad, mantenimiento y distribución de ganancias. Separar ahorro bruto de costes de integración y supervisión.
+- **Adopción:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y observatorio Alibaba V03, con memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. Entrega, anuncio y uso productivo son pruebas distintas.
+- **España:** medir las restricciones realmente observadas y los resultados de adopción; la ubicación o el interés profesional no elevan el soporte.
+- **Próximos controles:** ventas TSMC del 10-nov; los resultados Q3 del 15-oct ya se resolvieron en [[Radar_Eventos_2026_10]].
+
+## 6. Criterios de validación o refutación
+
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## 7. Soporte vigente y trazabilidad
+
+Soporte alto solo para dependencia física; financiación y conversión en productividad se evalúan por separado. Escasez back-end y demanda eléctrica no prueban retorno final, ni impago ni ahorro de trabajo por cuota.
+
+Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # 💡 TESIS_06: IA: infraestructura y conversión en productividad
 
@@ -382,5 +535,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
 
 </details>

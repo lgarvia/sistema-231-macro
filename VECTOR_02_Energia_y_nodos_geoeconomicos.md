@@ -2,12 +2,70 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
-ultima_revision: 2026-10-10
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
+ultima_revision: 2026-10-17
 triggers_activos: 1
 triggers_parciales: 2
-alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
+alcance_contadores: "Heredados; no recuento de activaciones revalidadas W42"
 ---
+
+# VECTOR 02 Energia y nodos geoeconomicos
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado operativo — precierre W42
+
+**🔴 Crítica · ↑ · carga primaria 53,94.** Semáforo y tendencia estructural conservados: no se deducen mecánicamente de una tendencia de evento ni de la suma de cargas.
+
+| Evento primario | Carga |
+|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | 20,64 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | 21,60 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | 11,70 |
+
+## Evidencia W42
+
+[DOE 202-26-50](https://www.energy.gov/ceser/federal-power-act-section-202c-pjm-interconnection-llc-pjm-order-no-202-26-50): emitida 12-oct, vigencia 13–16-oct; autoridad temporal para recursos específicos y permiso de respaldo de centros de datos. Al corte ha vencido la vigencia operativa; obligaciones informativas no desaparecen. [PJM, 13-oct, actualizado 14-oct](https://insidelines.pjm.com/operations-update-extends-maximum-generation-alert-calls-on-demand-response/): gestión de demanda/preemergencia por calor y mantenimiento, sin uso de la autoridad de respaldo de grandes cargas en esa comunicación. [PJM 15-oct](https://insidelines.pjm.com/providing-reliable-electricity-in-a-new-reality/): demanda nueva de centros de datos 24/7 durante todo el año supera incorporación de generación/transmisión y estrecha ventanas de mantenimiento; sigue sin usar respaldo. La recurrencia y restricción estructural fundamentan ↑, conservando E0/P4. [Craig, DOE 49](https://www.energy.gov/documents/doe-order-no-202-26-49): vigente 27-sep–25-dic; informe de disponibilidad exigido el 10-oct no recuperado. Plazo ya vencido: NO VERIFICABLE, sin inferir incumplimiento.
+
+[OMI, actualización 14-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): registro acumulado 113 incidentes / 24 fallecidos, frente 100/24 al 09-oct. +13 registros no equivale a trece sucesos W42. GFS PRIDE, 13-oct, hundido en Ormuz; daños 11/13-oct documentados. Clase VLCC/GNL, interrupción de 5 Mb/d durante más de 48 h y dos primas comparables no verificados. Se conserva E1/P4/↑ por continuidad del episodio; no se inventa una activación nueva de los umbrales completos.
+
+[GIE, panel con marca 16-oct 06:00 CEST](https://www.gie.eu/): UE 840,80 TWh / 74,22%; Alemania 60,62%, España 77,94%. La marca del panel no se transforma en gas day sin metadatos. Base ENTSOG 01-oct 72%≈811 TWh es antecedente, no variación semanal comparable. Inventario no acredita racionamiento industrial; la reposición es contraevidencia frente a caída ininterrumpida. E0/P3/→, con sensibilidad al frío, GNL y flujos.
+
+## Auditoría de condiciones propias
+
+Contadores heredados **1 activos / 2 parciales**; no recuento de umbrales revalidados W42.
+
+| Trigger | Auditoría W42 |
+|---|---|
+| 01 | NO VERIFICABLE: falta prima>0,5% del casco por tránsito y comparación completa. |
+| 02 | NO VERIFICABLE: falta caída>20% de tránsito energético en media móvil14 días. |
+| 03 | PARCIAL: incidentes no prueban terminal exportadora ni pérdida global>1 Mb/d. |
+| 04 | NO VERIFICABLE: falta desvío>30% del volumen nominal. |
+| 05 | ACTO NORMATIVO: DOE50 fue efectivo13–16oct, ya vencido operativamente; DOE49 sigue vigente. No equivale a CPD>50 MW/4h ni a respaldo realmente utilizado. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Prima de Seguro):** Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito.
+- **Trigger 02 (Interrupción de Tránsito):** Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días.
+- **Trigger 03 (Daño de Infraestructura):** Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd.
+- **Trigger 04 (Desvío de Rutas):** Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia.
+- **Trigger 05 (Emergencia Física de Red):** Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema.
+
+## 1. VECTOR ESTRUCTURAL
+
+- **Fuerzas:** Control físico, extracción y distribución de recursos energéticos primarios e infraestructura crítica de transporte logístico.
+- **Mecanismos:** Control de cuotas de producción, fijación de primas de riesgo marítimo-energético y redireccionamiento de flujos de gas licuado y crudo.
+- **Chokepoints:** Estrechos de tránsito estratégico (Ormuz, Malaca, Bab el-Mandeb), canales transoceánicos (Suez, Panamá) e infraestructuras de regasificación.
+- **Transmisión:** Impacta en V01 (inflación de oferta y tipos de interés) y V05 (costes basales de producción industrial).
+
+## Observatorio energía y renta — C36
+
+Stock TWh/% por país y gas day si consta, flujos GNL/gasoducto, demanda y curtailment industrial; seguros %casco por corredor/duración, tránsito y fletes. España: factura efectiva, IPC energía y renta disponible; distinguir IPC interanual e IAPC anual proyectado. No ficha adicional ni atribución causal automática.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # VECTOR 02 Energia y nodos geoeconomicos
 
@@ -245,6 +303,8 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

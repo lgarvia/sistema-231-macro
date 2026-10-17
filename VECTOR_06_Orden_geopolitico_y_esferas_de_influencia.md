@@ -2,12 +2,65 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
-ultima_revision: 2026-10-10
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
+ultima_revision: 2026-10-17
 triggers_activos: 0
 triggers_parciales: 1
-alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
+alcance_contadores: "Heredados; no recuento de activaciones revalidadas W42"
 ---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado operativo — precierre W42
+
+**🟡 Moderada · → · carga primaria 16,20.** Semáforo y tendencia estructural conservados: no se deducen mecánicamente de una tendencia de evento ni de la suma de cargas.
+
+| Evento primario | Carga |
+|---|---|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | 8,60 |
+
+## Evidencia W42
+
+[Casa Blanca, 25-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/): antecedente recuperado en W42, órganos de comercio e inversión anunciados como operativos y recomendaciones de 30 BUSD en cada dirección. No constituye comercio ejecutado nuevo W42. El diálogo IA antes de terminar noviembre sigue anunciado; registro chino de 16-oct pertenece a C38/V04 por su transmisión comercial. Xi permanece E0 de ejecución, sin duplicar la visita consumida ni los controles.
+
+[Calendario FEC 2026, p. 1](https://www.fec.gov/resources/cms-content/documents/2026pdates.pdf): elección general 03-nov-2026. Sigue futura; no se presume resultado, mayoría ni política monetaria electoral. Sensor: resultados oficiales por cámara y sus implicaciones legislativas; decisiones presupuestarias deben observarse después.
+
+## Auditoría de condiciones propias
+
+Contadores heredados **0 activos / 1 parciales**; no recuento de umbrales revalidados W42.
+
+| Trigger | Auditoría W42 |
+|---|---|
+| 01 | NO VERIFICABLE: liquidación alternativa>100 BUSD/mes sostenida no auditada. |
+| 02 | NO VERIFICABLE completo: defensa+15%YoY durante dos presupuestos consecutivos comparables. |
+| 03 | NO ACREDITADO nuevo: falta concesión/uso militar de base dual soberana en estrecho. |
+| 04 | NO ACREDITADO: falta decreto único que congele>50 BUSD de banco central extranjero. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## 1. VECTOR ESTRUCTURAL
+
+- **Fuerzas:** Sustitución de la gobernanza multilateral y del derecho internacional clásico por el establecimiento pragmático de esferas de control asimétrico, disuasión militar y "hechos consumados" de control físico y logístico.
+- **Mecanismos:** Incremento estructural de presupuestos de rearme, uso de diplomacia civil-militar de bypass, ocupación de nodos de infraestructura duales extraterritoriales y secuestro coactivo de reservas internacionales y activos financieros.
+- **Chokepoints:** Infraestructuras operativas de pago transfronterizo alternativos, capacidad de veto del Consejo de Seguridad, y control estratégico de infraestructura de satélites orbitales.
+- **Transmisión:** Impacta primariamente en V04 (quiebre del marco de garantías comerciales) y V02 (disrupción física de zonas marítimas exclusivas y de extracción energética).
+
+## Observatorio geopolítico / pagos / rearme
+
+C6/C17/C18: instrumentos jurídicos efectivos, liquidación noUSD por mes, contratos y entregas de defensa y uso militar de bases, con universos comparables. Xi se mide por ejecución y Midterms por resultado oficial/legislación. [WEO 13-oct](https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026): proyecciones globales 2026/27 de 3,1%/3,4%, inflación 4,7%/4,1%, datos cerrados el 01-oct; son escenario macro, no sucesos ni resultado electoral. No nuevas fichas por evaluación general.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # VECTOR 06 Orden geopolitico y esferas de influencia
 
@@ -227,5 +280,7 @@ La fricción marítima en el corredor de Oriente Medio continúa contabilizada p
 ## Seguimiento W40 — C6/C17/C18 y ejecución bilateral C1
 
 C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es antecedente, no nuevo acto W40. C17: liquidación mensual comparable, miembros operativos y uso CIPS/mBridge, no anuncios. C18: contratos, entregas y capacidad, no equiparar presupuesto y producción. Xi mantiene [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución, carga7,60; no nueva fecha exacta de reunión ni doble carga arancelaria.
+
+</details>
 
 </details>

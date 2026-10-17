@@ -1,23 +1,49 @@
 ---
-
 titulo: "España / elecciones y ejecución fiscal"
 tipo: evento
 estado: E0
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 calibracion: aplicada
 presion_numerica: 2
 peso_estructural: 4.2
 factor_tendencia: 1
-tendencia_calibrada: "\u2192"
+tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 fecha: 2026-10-10
 fecha_hito: 2026-11-29
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 origen_alta: "C35 — selección/calibración Luis, TASK_202"
 tags: [espana, elecciones, gobernabilidad, politica-fiscal]
 ---
+
+# España / elecciones y ejecución fiscal
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P2 · peso 4,2 · → (1) · carga 8,40 · V01.**
+
+[RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct, publicada y efectiva 06-oct; elección 29-nov, campaña 13–27-nov, Cortes 23-dic fuera del horizonte actual. [INE definitivo 14-oct, septiembre](https://www.ine.es/dyngs/Prensa/IPC0926.htm): IPC 4,9% interanual, 0,3% mensual, subyacente 3,1%, IAPC 5,0%; confirma el avance, no un nuevo mes de aceleración. No acredita crisis fiscal ni reacción electoral de spreads. Gobernabilidad → presupuesto/ejecución → financiación/inversión sigue hipótesis observacional. E0/P2/→.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| Institucional | CONFIRMADO calendario; resultado y gobernabilidad futuros. |
+| Fiscal/mercado | NO ACREDITADO: presupuesto/ejecución y spread atribuible al episodio electoral no observados. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # España / elecciones y ejecución fiscal
 
@@ -50,3 +76,5 @@ Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales
 [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
 
 Mayorías → capacidad presupuestaria y política fiscal → financiación soberana/inversión. Se prioriza exposición España; pensiones/vivienda siguen sus sensores, sin convertir la ficha en toda la actualidad nacional.
+
+</details>

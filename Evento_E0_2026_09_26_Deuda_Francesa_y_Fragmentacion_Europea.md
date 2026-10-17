@@ -4,8 +4,8 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
@@ -14,9 +14,36 @@ fecha_decision_peso: 2026-10-10
 revision_semanal_pendiente: false
 factor_tendencia: 1
 tags: [francia, deuda-soberana, euro, fragmentacion]
-tendencia_calibrada: "\u2192"
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
+
+# Deuda francesa
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P3 · peso 4,3 · → (1) · carga 12,90 · V01.**
+
+[Banco de Francia, catálogo TEC10](https://webstat.banque-france.fr/en/catalog/fm/): valor indexado 16-oct 4,794%, frente antecedente 09-oct 4,795%. Serie HTML sin observaciones completas recuperadas; cobertura parcial, no comparación homogénea OAT–Bund ni prueba de ruptura de absorción. Se conserva E0/P3/→; necesita curva, spread y subastas compatibles, no una variación aislada del índice.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| Financiación | NO VERIFICABLE completo: falta OAT–Bund homogéneo, demanda de subastas y persistencia de deterioro. |
+| Contraevidencia | TEC10 aislado prácticamente estable; no demuestra alivio general ni crisis. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # Deuda francesa
 
@@ -120,5 +147,7 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMIS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia ↑, factor 1,2, carga 14,4. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>

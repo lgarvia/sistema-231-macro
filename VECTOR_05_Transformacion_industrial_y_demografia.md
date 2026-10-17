@@ -2,12 +2,62 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
-ultima_revision: 2026-10-10
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
+ultima_revision: 2026-10-17
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
+alcance_contadores: "Heredados; no recuento de activaciones revalidadas W42"
 ---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado operativo — precierre W42
+
+**🟡 Moderada · → · carga primaria 5,00.** Semáforo y tendencia estructural conservados: no se deducen mecánicamente de una tendencia de evento ni de la suma de cargas.
+
+| Evento primario | Carga |
+|---|---|
+| [[Evento_E0_2026_09_19_Robotica_Unitree]] | 5,00 |
+
+## Evidencia W42
+
+No se recuperan nuevos KPI comparables de clientes recurrentes, horas productivas y coste total por tarea. La ausencia en esta revisión no demuestra que no existan. La fábrica probada en febrero es antecedente; la entrada corporativa del 20-oct es posterior al corte y se excluye. Desde el alta 19-sep no han transcurrido dos revisiones mensuales completas: no se acredita cierre por ese criterio. E0/P2/→, peso A 2,5, sin absorber toda la transformación industrial en esta empresa.
+
+## Auditoría de condiciones propias
+
+Contadores heredados **0 activos / 0 parciales**; no recuento de umbrales revalidados W42.
+
+| Trigger | Auditoría W42 |
+|---|---|
+| 01 | NO VERIFICABLE: déficit neto anual previsión social>2%PIB, no déficit general AAPP. |
+| 02 | NO VERIFICABLE: ratio<1,4 cotizantes/pensionista durante ejercicio completo no auditado. |
+| 03 | NO VERIFICABLE: Eurostat producción no salida neta CAPEX físico>5 BUSD/año. |
+| 04 | NO ACREDITADO: falta cuota local importada avanzada>25% durante6meses; no matrícula de una marca un mes. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## 1. VECTOR ESTRUCTURAL
+
+- **Fuerzas:** Transición sistémica desde manufacturas tradicionales hacia la electrificación, digitalización de plantas y automatización industrial, cruzada con el envejecimiento demográfico y la erosión fiscal del factor trabajo.
+- **Mecanismos:** Captura de rentas improductivas mediante cargas directas a la nómina y costes de vivienda, pasivos estatales no financiados transformados en deuda soberana e incentivos desalineados frente a la productividad real.
+- **Chokepoints:** Tasa de soporte demográfico (ratio activos/pasivos), carga impositiva marginal sobre el trabajo cualificado, y disponibilidad de CAPEX industrial de largo plazo.
+- **Transmisión:** Impacta primariamente en V01 (necesidad perpetua de emisión de deuda para sostener la caja pasiva) y V04 (pérdida de competitividad y fuga de capitales).
+
+## Observatorio industrial y automoción — C4 + C24
+
+Prioridad España/Europa conservada: matriculaciones (unidades/cuota por país), producción, utilización%, empleo/personas/horas, cierres/relocalización por planta/fecha, inversión ejecutada, valor añadido/productividad y comercio por categoría. [Eurostat, 15-oct, agosto](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap): producción eurozona −0,5% mensual/−1,1% anual; UE−0,3%/−0,2%. Julio mensual−0,3%/−0,4%. No demuestra causalidad china, robotización, salidas de CAPEX>5 BUSD o cierres de planta. Próximo dato 16-nov. Unitree conserva ficha propia; matrícula no producción ni cuota importada avanzada. Conservar series SMMT previas como antecedentes.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # VECTOR 05 Transformacion industrial y demografia
 
@@ -268,5 +318,7 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 ## Registro industrial W40 — C4/C24/C25
 
 Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026» sin día/hora de publicación verificable antes del corte: no se admite como dato incremental W40. C25 observa empleo por ocupación, horas, salarios y uso productivo; BLS general no atribuye pérdida de empleo a IA. Sin datos nuevos de producción, utilización o cierres contrastados; no ausencia de actividad. Próxima serie comparable y causalidad, sin fecha artificial.
+
+</details>
 
 </details>

@@ -5,8 +5,8 @@ fecha_hito: 2026-11-03
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "Decisión humana C2 — TASK_118"
 calibracion: aplicada
 presion_numerica: 2
@@ -15,9 +15,36 @@ fecha_decision_peso: 2026-10-10
 revision_semanal_pendiente: false
 factor_tendencia: 1
 tags: [elecciones, estados-unidos, politica-fiscal]
-tendencia_calibrada: "\u2192"
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
+
+# Midterms
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P2 · peso 4,3 · → (1) · carga 8,60 · V06.**
+
+[Calendario FEC 2026, p. 1](https://www.fec.gov/resources/cms-content/documents/2026pdates.pdf): elección general 03-nov-2026. Sigue futura; no se presume resultado, mayoría ni política monetaria electoral. Sensor: resultados oficiales por cámara y sus implicaciones legislativas; decisiones presupuestarias deben observarse después.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| Calendario | CONFIRMADO futuro: 03-nov; no resultado al corte. |
+| Transmisión | NO VERIFICABLE aún: composición oficial de ambas cámaras y actos legislativos posteriores. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # Midterms
 
@@ -109,5 +136,7 @@ Conecta con [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>

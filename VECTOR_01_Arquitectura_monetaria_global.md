@@ -2,12 +2,68 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
-ultima_revision: 2026-10-10
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
+ultima_revision: 2026-10-17
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
+alcance_contadores: "Heredados; no recuento de activaciones revalidadas W42"
 ---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado operativo — precierre W42
+
+**🟠 Elevada · ↑ · carga primaria 39,30.** Semáforo y tendencia estructural conservados: no se deducen mecánicamente de una tendencia de evento ni de la suma de cargas.
+
+| Evento primario | Carga |
+|---|---|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 12,90 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 8,40 |
+
+## Evidencia W42
+
+[MOF, publicación 16-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): semana 04–10-oct, deuda exterior larga neta −339,7 miles de millones JPY; cartera total −1,030 billones JPY. La semana 27-sep–03-oct se revisa a −345,7 BJPY frente −347,6 previos; cartera +826,9 frente +821,0 BJPY. Unidad original: 100 MJPY. No identifica destino Treasury ni completa comparación institucional. [H.4.1 15-oct](https://www.federalreserve.gov/releases/h41/current/default.htm): media semanal al 14-oct reservas 3.022.140 MUSD (−7.519), TGA 883.373 MUSD (+3.120); miércoles 3.030.854 y 885.823 MUSD, sin mezclar frecuencias. [SOFR](https://fred.stlouisfed.org/series/SOFR): 09/13/14/15-oct = 3,87/3,89/3,88/3,89%; 12-oct sin observación. IORB 15-oct 3,90%, diferencial −1 pb ese día. [TIC, 16-oct, agosto](https://home.treasury.gov/news/press-releases/sb0662/): entrada neta total 199,8 BUSD y compras extranjeras netas largas 300,7 BUSD; no son flujos de octubre ni japoneses. Japón→ es una decisión de continuidad sin nueva aceleración suficientemente acreditada; no prueba reversión del riesgo.
+
+[Banco de Francia, catálogo TEC10](https://webstat.banque-france.fr/en/catalog/fm/): valor indexado 16-oct 4,794%, frente antecedente 09-oct 4,795%. Serie HTML sin observaciones completas recuperadas; cobertura parcial, no comparación homogénea OAT–Bund ni prueba de ruptura de absorción. Se conserva E0/P3/→; necesita curva, spread y subastas compatibles, no una variación aislada del índice.
+
+[RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct, publicada y efectiva 06-oct; elección 29-nov, campaña 13–27-nov, Cortes 23-dic fuera del horizonte actual. [INE definitivo 14-oct, septiembre](https://www.ine.es/dyngs/Prensa/IPC0926.htm): IPC 4,9% interanual, 0,3% mensual, subyacente 3,1%, IAPC 5,0%; confirma el avance, no un nuevo mes de aceleración. No acredita crisis fiscal ni reacción electoral de spreads. Gobernabilidad → presupuesto/ejecución → financiación/inversión sigue hipótesis observacional. E0/P2/→.
+
+## Auditoría de condiciones propias
+
+Contadores heredados **0 activos / 0 parciales**; no recuento de umbrales revalidados W42.
+
+| Trigger | Auditoría W42 |
+|---|---|
+| 01 | NO VERIFICABLE completo: spread interbancario>15 pb durante5 días hábiles no auditado; SOFR puntual no todo el mercado. |
+| 02 | NO VERIFICABLE: falta uso diario SRF >50 BUSD durante >5 días hábiles; H41 no sustituye serie. |
+| 03 | NO VERIFICABLE: dos subastas sucesivas10Y/30Y BTC<2,3 no recuperadas completas. |
+| 04 | NO VERIFICABLE: falta benchmark10Y>5% durante>10 sesiones homogéneas. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## 1. VECTOR ESTRUCTURAL
+
+- **Fuerzas:** Transición de un sistema regido por tipos de interés a uno regido por la gestión de la liquidez sistémica interbancaria y soberana.
+- **Mecanismos:** Emisión de deuda pública masiva, uso de facilidades de repo (ON RRP, SRF) y absorción de liquidez global.
+- **Chokepoints:** Mercado de deuda soberana de referencia global, mercado repo y cámaras de compensación, infraestructuras de pagos y liquidación.
+- **Transmisión:** Impacta primariamente en V02 (precio de materias primas vía fortaleza de divisa de reserva) y V04 (flujos de capital y balanzas de pago).
+
+## Seguimiento aprobado W42 — C7/C8/C22/C39/C40
+
+Crédito privado: reembolsos solicitados/atendidos (% y periodo), mora, pérdidas y refinanciación por fondo. CAPEX IA: caja, deuda, vencimientos, anticipos, utilización y retorno por empresa; distinguir anunciado, cerrado y ejecutado. Stablecoins: reservas auditadas, composición y redenciones (USD/periodo). C39: apalancamiento bruto/neto de hedge funds, base Treasury y márgenes por universo; C40: incidentes verificables, interrupción y restauración de pagos/liquidación, pérdidas y horas. [GFSR 13-oct](https://www.imf.org/en/Publications/GFSR/Issues/2026/10/13/global-financial-stability-report-october-2026) identifica vulnerabilidades; es evaluación, no prueba de quiebra, venta forzosa o ciberataque concreto. No nuevas fichas ni carga por el informe. Mantener unidades, muestra y comparabilidad; no seguimiento continuo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # VECTOR 01 Arquitectura monetaria global
 
@@ -276,5 +332,7 @@ Registro inicial 27-sep: conservar diferencia entre CAPEX bruto, ajustado y anti
 ## Seguimiento aprobado W40 — C7/C8/C22
 
 Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de reembolsos (% de unidades y periodo), límites, mora/pérdidas y refinanciación; fuente SEC, fecha de presentación por verificar. Antecedentes heterogéneos: [PIF](https://www.sec.gov/Archives/edgar/data/1851322/000119312526395654/d154719dex99a1vi.htm) solicitudes11,4% frente a5%capacidad; [Fidelity](https://www.sec.gov/Archives/edgar/data/1920453/000119312526384555/d109827dex99a1vi.htm) solicitudes2,5% atendidas. No crisis sectorial acreditada. C8: reservas auditadas, composición en letras, redenciones y flujos (USD/mes), sin datos nuevos recuperados. C22 conserva panel de caja, deuda/vencimientos, anticipos, utilización y retorno; Micron positivo no representa agregado hyperscalers. Restricción delimitada con transmisión verificable genera propuesta humana, no alta automática.
+
+</details>
 
 </details>

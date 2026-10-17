@@ -7,22 +7,66 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 3.9
-factor_tendencia: 1
-tendencia_calibrada: "\u2192"
+peso_estructural: 4.3
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
 
 # Grid IA
 
-## 1. Estado actual — precierre W41
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P4 · peso 4,3 · ↑ (1,2) · carga 20,64 · V02.**
+
+[DOE 202-26-50](https://www.energy.gov/ceser/federal-power-act-section-202c-pjm-interconnection-llc-pjm-order-no-202-26-50): emitida 12-oct, vigencia 13–16-oct; autoridad temporal para recursos específicos y permiso de respaldo de centros de datos. Al corte ha vencido la vigencia operativa; obligaciones informativas no desaparecen. [PJM, 13-oct, actualizado 14-oct](https://insidelines.pjm.com/operations-update-extends-maximum-generation-alert-calls-on-demand-response/): gestión de demanda/preemergencia por calor y mantenimiento, sin uso de la autoridad de respaldo de grandes cargas en esa comunicación. [PJM 15-oct](https://insidelines.pjm.com/providing-reliable-electricity-in-a-new-reality/): demanda nueva de centros de datos 24/7 durante todo el año supera incorporación de generación/transmisión y estrecha ventanas de mantenimiento; sigue sin usar respaldo. La recurrencia y restricción estructural fundamentan ↑, conservando E0/P4. [Craig, DOE 49](https://www.energy.gov/documents/doe-order-no-202-26-49): vigente 27-sep–25-dic; informe de disponibilidad exigido el 10-oct no recuperado. Plazo ya vencido: NO VERIFICABLE, sin inferir incumplimiento.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| A | NO VERIFICABLE completo: no denegación eléctrica nueva en Loudoun >50 MW; pausa urbanística no es condición energética. |
+| B | NO ACREDITADO completo: preemergencia PJM no EEA≥2 conjuntamente atribuida a climatización estival/CPD. |
+| C | NO ACREDITADO completo: permiso de respaldo DOE50 no obligación de autogenerar/cortar CPD o gran carga >50 MW durante ≥4 h; PJM comunica no uso. |
+| D | NO VERIFICABLE: falta acto Ofgem/EirGrid con curtailment comercial CPD >100 MW. |
+| E | NO VERIFICABLE: falta moratoria hídrica España/Irlanda que impida licencias CPD >50 MW. |
+| F | NO VERIFICABLE: falta sanción/demanda CE y WUE sectorial >0,5 L/kWh completos. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## 4. TESIS (Luis)
+La IA no es una nube virtual desmaterializada; es cobre, subestaciones eléctricas y agua de refrigeración. La restricción de la computación avanzada ya no se mide en FLOPS, se mide en megavatios (MW) y en litros de agua. En un entorno donde las redes de distribución nacionales están saturadas y los recursos hídricos locales están protegidos, las restricciones físicas de red y de enfriamiento limitarán el ritmo de la IA mucho antes de que los modelos de software alcancen límites de datos. La transición digital requiere una sobreestructura física que Occidente no tiene la agilidad institucional para construir a tiempo.
+
+
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# Grid IA
+
+## Decisión A aplicada — W42, 17-oct-2026
+
+**E0 · P4 · peso 4,3 · → (1,0) · carga intermedia 17,20 · V02.** Luis aprueba «Perfecto. Ejecútalo» (TASK_226): peso 3,9→4,3; efecto aislado +1,60. Se eleva la importancia de la electricidad como restricción común de puesta en servicio, utilización y retorno del cómputo durante todo el año. Clase, presión y tendencia conservan la calibración W41; B y la revisión factual W42 siguen pendientes. No se declara activado el trigger CPD >50 MW/≥4 h. Propuesta y fuentes: [[2026_10_17_Preparacion_231_W42]].
+
+La evidencia siguiente mantiene su corte W41. Este bloque y el frontmatter prevalecen para el peso actual; el informe y los agregados W41 son comparadores históricos hasta la reconciliación posterior a B.
+
+## 1. Estado factual anterior — precierre W41 (calibración histórica)
 
 **E0 · P4 · peso 3,9 · → (1,0) · carga 15,60 · V02.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
 
@@ -209,5 +253,7 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 
 
 **Rectificación 27-sep:** el historial W36 atribuyó DOE38 a Stanton y afirmó expiración sin extensión. El [índice DOE 2026](https://www.energy.gov/ceser/2026-doe-202c-orders), consultado 27-sep, identifica 38 con Guam y 42 con Stanton (2-sep–30-nov). Aquella frase no se reutiliza como evidencia de alivio.
+
+</details>
 
 </details>

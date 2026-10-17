@@ -1,5 +1,93 @@
 # SALUD DEL SISTEMA 231
 
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+**12 eventos activos (10 E0 / 2 E1), todos calibrados; carga primaria total 155,80.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---|---|---|---|---|---|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre|Japón / liquidez]] | E0 | 4 | 4,5 | → | 1 | V01 | 18,00 |
+| [[Evento_E0_2026_07_08_Grid_Stress_IA|Grid IA]] | E0 | 4 | 4,3 | ↑ | 1,2 | V02 | 20,64 |
+| [[Evento_E0_2026_CoWoS_Capacity|CoWoS]] | E0 | 4 | 3,7 | ↑ | 1,2 | V03 | 17,76 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb|Marítimo / war risk]] | E1 | 4 | 4,5 | ↑ | 1,2 | V02 | 21,60 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack|Tariff Stack]] | E1 | 4 | 4,1 | → | 1 | V04 | 16,40 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU|Xi / ejecución bilateral]] | E0 | 2 | 3,8 | → | 1 | V06 | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU|Midterms EE. UU.]] | E0 | 2 | 4,3 | → | 1 | V06 | 8,60 |
+| [[Evento_E0_2026_09_19_Robotica_Unitree|Unitree]] | E0 | 2 | 2,5 | → | 1 | V05 | 5,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea|Francia / fragmentación]] | E0 | 3 | 4,3 | → | 1 | V01 | 12,90 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno|Gas europeo / invierno]] | E0 | 3 | 3,9 | → | 1 | V02 | 11,70 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal|España / gobernabilidad fiscal]] | E0 | 2 | 4,2 | → | 1 | V01 | 8,40 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica|China / exportación tecnológica]] | E0 | 2 | 3,6 | → | 1 | V04 | 7,20 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 39,30 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 53,94 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 17,76 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 23,60 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 5,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+**143,00 → 155,80 (+12,80):** +2,80 por pesos A; +2,80 netos por tendencias B (Japón −3,60; Grid +3,44; CoWoS +2,96); +7,20 por alta C38. Presiones y clases anteriores conservadas. Carga ordinal: no mide probabilidades ni pérdidas esperadas; el aumento no equivale a deterioro empírico de 12,80.
+
+**20 hitos abiertos (2 Régimen / 3 Crítico / 13 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 34 resoluciones acumuladas.** Horizonte 17-oct–16-dic inclusive: 60 días transcurridos / 61 fechas.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Revisión interpretativa aprobada por Luis el 17-oct: T03 pasa a moderado por el alcance de la evidencia documentada; los demás grados se conservan. El soporte no se deriva de la carga.
+
+**Limitaciones:** contadores estructurales heredados, no activaciones revalidadas; SRF diario/GC p99, flujos institucionales cubiertos, OAT–Bund, primas/duraciones marítimas y KPI productivos siguen incompletos. No se rellenan con cero. Publicación W42 autorizada por Luis el 17-oct. Base remota W41 19d44da contrastada antes de publicar; recepción y commit de W42 se registran al cierre de publicación. Siete históricos previamente staged preservados.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# SALUD DEL SISTEMA 231
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Aplicado localmente; publicación W42 pendiente.
+
+**12 eventos activos (10 E0 / 2 E1), todos calibrados; carga primaria total 155,80.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---|---|---|---|---|---|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre|Japón / liquidez]] | E0 | 4 | 4,5 | → | 1 | V01 | 18,00 |
+| [[Evento_E0_2026_07_08_Grid_Stress_IA|Grid IA]] | E0 | 4 | 4,3 | ↑ | 1,2 | V02 | 20,64 |
+| [[Evento_E0_2026_CoWoS_Capacity|CoWoS]] | E0 | 4 | 3,7 | ↑ | 1,2 | V03 | 17,76 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb|Marítimo / war risk]] | E1 | 4 | 4,5 | ↑ | 1,2 | V02 | 21,60 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack|Tariff Stack]] | E1 | 4 | 4,1 | → | 1 | V04 | 16,40 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU|Xi / ejecución bilateral]] | E0 | 2 | 3,8 | → | 1 | V06 | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU|Midterms EE. UU.]] | E0 | 2 | 4,3 | → | 1 | V06 | 8,60 |
+| [[Evento_E0_2026_09_19_Robotica_Unitree|Unitree]] | E0 | 2 | 2,5 | → | 1 | V05 | 5,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea|Francia / fragmentación]] | E0 | 3 | 4,3 | → | 1 | V01 | 12,90 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno|Gas europeo / invierno]] | E0 | 3 | 3,9 | → | 1 | V02 | 11,70 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal|España / gobernabilidad fiscal]] | E0 | 2 | 4,2 | → | 1 | V01 | 8,40 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica|China / exportación tecnológica]] | E0 | 2 | 3,6 | → | 1 | V04 | 7,20 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 39,30 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 53,94 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 17,76 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 23,60 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 5,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+**143,00 → 155,80 (+12,80):** +2,80 por pesos A; +2,80 netos por tendencias B (Japón −3,60; Grid +3,44; CoWoS +2,96); +7,20 por alta C38. Presiones y clases anteriores conservadas. Carga ordinal: no mide probabilidades ni pérdidas esperadas; el aumento no equivale a deterioro empírico de 12,80.
+
+**20 hitos abiertos (2 Régimen / 3 Crítico / 13 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 34 resoluciones acumuladas.** Horizonte 17-oct–16-dic inclusive: 60 días transcurridos / 61 fechas.
+
+Un soporte alto limitado al núcleo físico T06; tres moderado-altos (T02/T03/T04) y dos moderados (T01/T05). T05 permanece en validación. Grados conservados tras revisión W42; no se derivan de la carga.
+
+**Limitaciones:** contadores estructurales heredados, no activaciones revalidadas; SRF diario/GC p99, flujos institucionales cubiertos, OAT–Bund, primas/duraciones marítimas y KPI productivos siguen incompletos. No se rellenan con cero. PublicaciónW42 no autorizada; último commit local/copia originmain W41 19d44da. Estado remoto actual no verificado por fallo de conexión/autenticación. Siete históricos previamente staged preservados.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# SALUD DEL SISTEMA 231
+
 > Precierre W41; corte 2026-10-10 20:38 Europe/Madrid; TASK_202.
 
 **11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 143,00.**
@@ -301,6 +389,10 @@ TASK_099 está cerrada. Las próximas resoluciones del radar son Section 338 y T
 ## Regla de mantenimiento
 
 [[Prompt_Actualizacion_Eventos]] y [[Prompt_Radar_Eventos]] rigen una sola superficie de ventanas. Los informes anteriores y las fuentes históricas conservan fecha y contexto; la fecha de edición no sustituye la fecha de contraste. El control de enlaces y aritmética no verifica hechos externos.
+
+</details>
+
+</details>
 
 </details>
 

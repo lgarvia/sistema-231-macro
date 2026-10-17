@@ -3,14 +3,158 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-10-10
-corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
-corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
-alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+ultima_actualizacion: 2026-10-17
+corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
+corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
+alcance_actualizacion: "W42; revisión factual e interpretativa aprobada por Luis TASK_226; T03 moderado"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
-revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
-soporte_alcance: "Patrón de coerción modular; eficacia estabilizadora en contraste"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Coerción modular; estabilización con validación propia"
 ---
+
+# 💡 TESIS_02: Coerción modular y estabilización táctica
+
+> Revisión factual e interpretativa W42 aprobada por Luis el 17-oct-2026, TASK_226. Corte 2026-10-17 11:51 Europe/Madrid; nominal 18-oct; domingo no observado.
+
+> ID y archivo conservados; revisión anterior de 10-oct preservada en el historial.
+
+## 1. Definición
+
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[MOFCOM y Ministerio de Ciencia, anuncio 48, 16-oct 16:00 China / 10:00 Madrid](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html): consulta sobre catálogo de tecnologías prohibidas/restringidas del 16-oct al 15-nov. Registro temporal de exportaciones aplicable desde la publicación hasta entrada en vigor del catálogo revisado; cubre transferencias, licencias y determinados supuestos de control extranjero, también exportaciones en curso. Catálogo propuesto: 40 tecnologías (23 IA, 5 biotecnología, 12 fotovoltaica). [Preguntas y respuestas oficiales](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html). El catálogo definitivo sigue en consulta: no se afirma prohibición general de IA, API, productos o equipos. Anexos técnicos WPS no auditados. El hecho administrativo es efectivo; no se ha acreditado interrupción comercial material. Alta C38 E0 en observación/P2/peso 3,6/→/V04, carga 7,20, seleccionada y calibrada por Luis en B.
+
+[Casa Blanca, 25-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/): antecedente recuperado en W42, órganos de comercio e inversión anunciados como operativos y recomendaciones de 30 BUSD en cada dirección. No constituye comercio ejecutado nuevo W42. El diálogo IA antes de terminar noviembre sigue anunciado; registro chino de 16-oct pertenece a C38/V04 por su transmisión comercial. Xi permanece E0 de ejecución, sin duplicar la visita consumida ni los controles.
+
+**Contraevidencia:** Órganos bilaterales y consulta abierta son compatibles con negociación reversible; no equivalen a comercio ejecutado ni a estabilización conseguida.
+
+**Ambigüedad y alcance:** El registro efectivo apoya la modularidad coercitiva; el catálogo final y su efecto siguen pendientes. El soporte moderado-alto se refiere al patrón, no a la eficacia estabilizadora.
+
+**Próxima falsación:** Catálogo definitivo, licencias/denegaciones y continuidad de transferencias y entregas; diálogo IA y flujos ejecutados comparables.
+
+## 4. Tensiones internas
+
+- **Seguridad frente a eficiencia:** la soberanía tecnológica erosiona la interdependencia que hace posible la estabilización.
+- **Bypass inflacionario:** los intermediarios y rutas alternativas preservan el flujo, pero elevan costes y reducen productividad.
+- **Riesgo de salto discreto:** una sanción binaria, un bloqueo sostenido o una escalada militar puede romper el equilibrio sin transición gradual.
+- **Persistencia multilateral:** la continuidad de comercio sujeto a reglas multilaterales limita el desacoplamiento total. El porcentaje histórico no se usa como dato actualizado W42 sin una serie recontrastada.
+
+## 5. Relación con vectores, eventos y sensores
+
+| Eslabón / ámbito | Observable y comparación | Límite de inferencia |
+|---|---|---|
+| Regla y ámbito | Por tecnología/sector: acto vigente, registro o licencia, fecha y sujetos cubiertos | Registro temporal y catálogo final son actos distintos |
+| Ejecución administrativa | Plazos, decisiones y denegaciones por expediente y periodo | Una norma no acredita su efecto sobre contratos |
+| Flujos y coste | Contratos y entregas efectivas, coste y previsibilidad; comparar sectores afectados/no afectados | Diálogo y entrega son observaciones diferentes |
+| Estabilización condicionada | Continuidad verificable de flujos críticos bajo reglas previsibles | Retrasos/denegaciones persistentes atribuibles debilitan la eficacia estabilizadora |
+
+### Conexiones y seguimiento
+
+- **Sensor central:** [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Ejecución bilateral en [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]; costes logísticos en [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
+- **Pruebas:** normas aplicadas, licencias concedidas, entregas, continuidad de flujos y costes por sector y periodo. Separar vigencia, autorización y operación ejecutada.
+- **España:** medir exportaciones, suministros y costes empresariales cuando exista transmisión atribuible; la relevancia doméstica no valida el mecanismo global.
+- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Vectores:** V04 dominante; V06 y V02 secundarios sin duplicación de carga.
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## 7. Soporte vigente y trazabilidad
+
+**Moderado-alto para coerción; estabilización en validación.** Grado conservado con el alcance indicado; debe contrastarse cada eslabón y sus explicaciones alternativas.
+
+Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# 💡 TESIS_02: Coerción modular y estabilización táctica
+
+> Revisión factual W42: corte 17-oct-2026 11:51 Europe/Madrid; nominal 18-oct. Grado y definición conservados; TASK_226.
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+Las potencias combinan coerción selectiva y acuerdos parciales para preservar interdependencias críticas. La estabilización es condicional y reversible; requiere ejecución y continuidad de flujos además de anuncios diplomáticos.
+
+Se distinguen dos afirmaciones: **coerción modular observable**, con soporte moderado-alto; y **eficacia estabilizadora de los acuerdos**, pendiente de contraste específico. El respaldo a la primera no se transmite automáticamente a la segunda. La interdependencia puede contener rupturas y también convertirse en instrumento de presión.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[MOFCOM y Ministerio de Ciencia, anuncio 48, 16-oct 16:00 China / 10:00 Madrid](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html): consulta sobre catálogo de tecnologías prohibidas/restringidas del 16-oct al 15-nov. Registro temporal de exportaciones aplicable desde la publicación hasta entrada en vigor del catálogo revisado; cubre transferencias, licencias y determinados supuestos de control extranjero, también exportaciones en curso. Catálogo propuesto: 40 tecnologías (23 IA, 5 biotecnología, 12 fotovoltaica). [Preguntas y respuestas oficiales](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html). El catálogo definitivo sigue en consulta: no se afirma prohibición general de IA, API, productos o equipos. Anexos técnicos WPS no auditados. El hecho administrativo es efectivo; no se ha acreditado interrupción comercial material. Alta C38 E0 en observación/P2/peso 3,6/→/V04, carga 7,20, seleccionada y calibrada por Luis en B.
+
+[Casa Blanca, 25-sep](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/): antecedente recuperado en W42, órganos de comercio e inversión anunciados como operativos y recomendaciones de 30 BUSD en cada dirección. No constituye comercio ejecutado nuevo W42. El diálogo IA antes de terminar noviembre sigue anunciado; registro chino de 16-oct pertenece a C38/V04 por su transmisión comercial. Xi permanece E0 de ejecución, sin duplicar la visita consumida ni los controles.
+
+**Contraevidencia:** Órganos bilaterales y consulta abierta son compatibles con negociación reversible; no equivalen a comercio ejecutado ni a estabilización conseguida.
+
+**Ambigüedad y alcance:** El registro efectivo apoya la modularidad coercitiva; el catálogo final y su efecto siguen pendientes. El soporte moderado-alto se refiere al patrón, no a la eficacia estabilizadora.
+
+**Próxima falsación:** Catálogo definitivo, licencias/denegaciones y continuidad de transferencias y entregas; diálogo IA y flujos ejecutados comparables.
+
+## 4. Tensiones internas
+
+- **Seguridad frente a eficiencia:** la soberanía tecnológica erosiona la interdependencia que hace posible la estabilización.
+- **Bypass inflacionario:** los intermediarios y rutas alternativas preservan el flujo, pero elevan costes y reducen productividad.
+- **Riesgo de salto discreto:** una sanción binaria, un bloqueo sostenido o una escalada militar puede romper el equilibrio sin transición gradual.
+- **Persistencia multilateral:** la continuidad de comercio sujeto a reglas multilaterales limita el desacoplamiento total. El porcentaje histórico no se usa como dato actualizado W42 sin una serie recontrastada.
+
+## 5. Relación con vectores, eventos y sensores
+
+C38: [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] → V04; registro actual, catálogo final y entregas con pruebas distintas.
+
+
+- **Sensor central:** [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Ejecución bilateral en [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]; costes logísticos en [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
+- **Pruebas:** normas aplicadas, licencias concedidas, entregas, continuidad de flujos y costes por sector y periodo. Separar vigencia, autorización y operación ejecutada.
+- **España:** medir exportaciones, suministros y costes empresariales cuando exista transmisión atribuible; la relevancia doméstica no valida el mecanismo global.
+- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Vectores:** V04 dominante; V06 y V02 secundarios sin duplicación de carga.
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## 7. Soporte vigente y trazabilidad
+
+El registro efectivo apoya la modularidad coercitiva; el catálogo final y su efecto siguen pendientes. El soporte moderado-alto se refiere al patrón, no a la eficacia estabilizadora.
+
+Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # 💡 TESIS_02: Coerción modular y estabilización táctica
 
@@ -335,5 +479,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
 
 </details>

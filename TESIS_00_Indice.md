@@ -1,5 +1,53 @@
 # TESIS_00 — Índice del Sistema 231
 
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Revisión interpretativa aprobada por Luis el 17-oct: T03 pasa a moderado por el alcance de la evidencia documentada; los demás grados se conservan. El soporte no se deriva de la carga.
+
+| Tesis | Soporte / alcance | Prueba prioritaria |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Ejecución presupuestaria, margen fiscal, absorción de deuda y reacción monetaria causalmente documentada |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; estabilización en validación | Reglas/licencias, plazos, costes y entregas por tecnología/sector |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para la formulación causal conjunta | Esfuerzo residencial y carga fiscal/demográfica por cohorte, territorio y tenencia; atribución separada |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Continuidad/alternativas, tiempos, seguros, inventarios y coste de resiliencia |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Elegibilidad → activos movilizados → uso recurrente → eficiencia y origen de fondos |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo para dependencia física | Fabricante → operador → usuario; capacidad, caja, utilización y resultado económico |
+
+
+
+Carga 155,80; soporte no derivado de carga. Revisión interpretativa de seis tesis aprobada y aplicada el 17-oct, TASK_226; T03 moderado. Se conservan las seis identidades y el historial. España continúa ámbito prioritario sin séptima tesis.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# TESIS_00 — Índice del Sistema 231
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Aplicado localmente; publicación W42 pendiente.
+
+Un soporte alto limitado al núcleo físico T06; tres moderado-altos (T02/T03/T04) y dos moderados (T01/T05). T05 permanece en validación. Grados conservados tras revisión W42; no se derivan de la carga.
+
+| Tesis | Soporte / alcance | Próxima prueba |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Presupuesto y ejecución, demanda de subastas y spreads homogéneos España/Francia–Bund; contrastar la reacción monetaria bajo estrés fiscal explícito. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto; coerción, no eficacia garantizada | Catálogo definitivo, licencias/denegaciones y continuidad de transferencias y entregas; diálogo IA y flujos ejecutados comparables. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado-alto histórico, sin causalidad nueva directa | Renta disponible real, esfuerzo residencial, ahorro, cotizaciones/prestaciones y productividad, por cohorte/territorio/tenencia con periodos compatibles. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Tránsito y desvíos, cobertura/primas comparables, flujos de gas, demanda y curtailment, alternativas operativas y coste efectivo. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; en validación | Operaciones liquidadas recurrentes, costes/plazos frente alternativa, garantías admitidas y procedencia de fondos: demanda adicional frente sustitución. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo dependencia física | Entregas e interconexión efectiva, caja/deuda/compromisos, utilización recurrente, coste total por tarea, calidad y productividad medida frente base comparable. |
+
+Carga 155,80; soporte no derivado de carga. Definiciones interpretativas aprobadas el 10-oct(TASK_205) conservadas. Revisión factual W42 ejecutada bajo plan autorizado TASK_226. España continúa ámbito prioritario sin séptima tesis.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# TESIS_00 — Índice del Sistema 231
+
 > Revisión interpretativa aprobada 10-oct, TASK_205. Corte factual W41: 2026-10-10 20:38 Europe/Madrid.
 
 | Tesis | Soporte y alcance | Enfoque actualizado | Próxima prueba |
@@ -121,6 +169,10 @@ Dos soportes altos, dos moderado-altos y dos moderados. TESIS_05 permanece en va
 Un vínculo no equivale a validación; stock no es flujo; proyección no es observación; norma no es transmisión económica. Los sensores cerrados son memoria. La base anterior se conserva con su fecha y no se reetiqueta como novedad W38.
 
 [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]] · [[EVENTOS_CERRADOS_LOG]].
+
+</details>
+
+</details>
 
 </details>
 

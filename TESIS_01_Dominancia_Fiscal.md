@@ -3,13 +3,163 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-10-10
-corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
-corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
-alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+ultima_actualizacion: 2026-10-17
+corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
+corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
+alcance_actualizacion: "W42; revisión factual e interpretativa aprobada por Luis TASK_226; T03 moderado"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
-revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
 ---
+
+# 💡 TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Revisión factual e interpretativa W42 aprobada por Luis el 17-oct-2026, TASK_226. Corte 2026-10-17 11:51 Europe/Madrid; nominal 18-oct; domingo no observado.
+
+> ID y archivo conservados; revisión anterior de 10-oct preservada en el historial.
+
+## 1. Definición
+
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[MOF, publicación 16-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): semana 04–10-oct, deuda exterior larga neta −339,7 miles de millones JPY; cartera total −1,030 billones JPY. La semana 27-sep–03-oct se revisa a −345,7 BJPY frente −347,6 previos; cartera +826,9 frente +821,0 BJPY. Unidad original: 100 MJPY. No identifica destino Treasury ni completa comparación institucional. [H.4.1 15-oct](https://www.federalreserve.gov/releases/h41/current/default.htm): media semanal al 14-oct reservas 3.022.140 MUSD (−7.519), TGA 883.373 MUSD (+3.120); miércoles 3.030.854 y 885.823 MUSD, sin mezclar frecuencias. [SOFR](https://fred.stlouisfed.org/series/SOFR): 09/13/14/15-oct = 3,87/3,89/3,88/3,89%; 12-oct sin observación. IORB 15-oct 3,90%, diferencial −1 pb ese día. [TIC, 16-oct, agosto](https://home.treasury.gov/news/press-releases/sb0662/): entrada neta total 199,8 BUSD y compras extranjeras netas largas 300,7 BUSD; no son flujos de octubre ni japoneses. Japón→ es una decisión de continuidad sin nueva aceleración suficientemente acreditada; no prueba reversión del riesgo.
+
+[RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct, publicada y efectiva 06-oct; elección 29-nov, campaña 13–27-nov, Cortes 23-dic fuera del horizonte actual. [INE definitivo 14-oct, septiembre](https://www.ine.es/dyngs/Prensa/IPC0926.htm): IPC 4,9% interanual, 0,3% mensual, subyacente 3,1%, IAPC 5,0%; confirma el avance, no un nuevo mes de aceleración. No acredita crisis fiscal ni reacción electoral de spreads. Gobernabilidad → presupuesto/ejecución → financiación/inversión sigue hipótesis observacional. E0/P2/→.
+
+**Contraevidencia:** La inflación y el endurecimiento monetario heredado son contraevidencia frente a dominancia automática. El dato agregado TIC es entrada neta, y TEC10 aislado no ruptura francesa.
+
+**Ambigüedad y alcance:** No se ha probado que el banco central subordine estabilidad de precios a financiación soberana. España sigue prioridad por gobernabilidad y ejecución, sin atribuir causalidad electoral al IPC.
+
+**Próxima falsación:** Presupuesto y ejecución, demanda de subastas y spreads homogéneos España/Francia–Bund; contrastar la reacción monetaria bajo estrés fiscal explícito.
+
+## 4. Tensiones internas
+
+- **Trampa de tipos:** tipos más altos reducen demanda e inflación, pero elevan el coste marginal de refinanciación fiscal.
+- **Dominancia no observada:** una intervención preventiva de liquidez no prueba por sí sola subordinación fiscal; puede responder a un mandato independiente de estabilidad financiera.
+- **Confusión causal:** inflación de oferta, energía o aranceles puede limitar al banco central sin que exista dominancia fiscal.
+- **Puerta de no-validación:** deuda elevada, inflación de oferta, endurecimiento crediticio o compras rutinarias de reservas, por separado o conjuntamente, no validan la tesis. Debe observarse que la reacción monetaria cambia para proteger la financiación soberana, la absorción de subastas, el coste fiscal o la estabilidad financiera vinculada a la deuda.
+- **Credibilidad:** la tesis se debilita si los bancos centrales toleran deterioro de precios de la deuda sin alterar su reacción antiinflacionista.
+- **Doctrina frente a conducta:** un discurso de independencia y objetivo firme sólo refuta la tesis si se confirma después en decisiones bajo estrés de absorción; por ahora pesa como contraevidencia, no como cierre.
+
+## 5. Relación con vectores, eventos y sensores
+
+| Eslabón / ámbito | Observable y comparación | Límite de inferencia |
+|---|---|---|
+| Gobernabilidad y continuidad | Mayorías y actos presupuestarios efectivos; identificar prórroga y alternativas de ejecución | Continuidad legal no garantiza ejecución; convocatoria no bloqueo |
+| Margen fiscal y ejecución | Intereses/ingresos; crédito de inversión frente a obligaciones reconocidas y pagos, mismo periodo | Reasignación y financiación privada pueden compensar restricciones |
+| Refinanciación | Coste, demanda y absorción de deuda con series compatibles | Una rentabilidad aislada no prueba falta de absorción |
+| Dominancia monetaria condicional | Cambio efectivo de reacción monetaria con nexo documentado a protección de financiación soberana | Inflación de oferta o provisión preventiva de liquidez no prueban subordinación |
+
+### Conexiones y seguimiento
+
+- **Sensores activos:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]], [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] y [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]].
+- **España:** resultado oficial, acuerdos de gobernabilidad, presupuesto y ejecución, saldo primario, subastas y diferencial España–Bund con vencimiento y fecha comparables. Contrastar después la reacción del BCE; no imputar a la elección movimientos anteriores a la convocatoria.
+- **Próximos controles:** MOF 22-oct, decisiones monetarias de octubre, flujos MOF 10-nov y TIC 18-nov en [[Radar_Eventos_2026_10]]. TIC 16-oct ya consumido; subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
+- **Transmisión:** V01; vínculos secundarios V05 y V06 sin carga adicional.
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## 7. Soporte vigente y trazabilidad
+
+**Moderado.** Grado conservado con el alcance indicado; debe contrastarse cada eslabón y sus explicaciones alternativas.
+
+Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# 💡 TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Revisión factual W42: corte 17-oct-2026 11:51 Europe/Madrid; nominal 18-oct. Grado y definición conservados; TASK_226.
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+Los compromisos fiscales y las dificultades políticas de ajuste pueden encarecer la refinanciación y reducir el margen para inversión y estabilización. La dominancia fiscal se materializa cuando esa restricción modifica la reacción del banco central para proteger la financiación soberana, incluso en conflicto con la estabilidad de precios.
+
+La política monetaria conserva su mandato formal. Deuda elevada, subidas de rentabilidad o liquidez preventiva no bastan para demostrar subordinación fiscal: debe observarse el nexo entre restricción fiscal y decisión monetaria.
+
+España es un ámbito prioritario de contraste: elecciones → gobernabilidad → presupuesto y ejecución → financiación e inversión. Cada transición requiere evidencia; la convocatoria electoral no demuestra bloqueo, estrés soberano o dominancia monetaria.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[MOF, publicación 16-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): semana 04–10-oct, deuda exterior larga neta −339,7 miles de millones JPY; cartera total −1,030 billones JPY. La semana 27-sep–03-oct se revisa a −345,7 BJPY frente −347,6 previos; cartera +826,9 frente +821,0 BJPY. Unidad original: 100 MJPY. No identifica destino Treasury ni completa comparación institucional. [H.4.1 15-oct](https://www.federalreserve.gov/releases/h41/current/default.htm): media semanal al 14-oct reservas 3.022.140 MUSD (−7.519), TGA 883.373 MUSD (+3.120); miércoles 3.030.854 y 885.823 MUSD, sin mezclar frecuencias. [SOFR](https://fred.stlouisfed.org/series/SOFR): 09/13/14/15-oct = 3,87/3,89/3,88/3,89%; 12-oct sin observación. IORB 15-oct 3,90%, diferencial −1 pb ese día. [TIC, 16-oct, agosto](https://home.treasury.gov/news/press-releases/sb0662/): entrada neta total 199,8 BUSD y compras extranjeras netas largas 300,7 BUSD; no son flujos de octubre ni japoneses. Japón→ es una decisión de continuidad sin nueva aceleración suficientemente acreditada; no prueba reversión del riesgo.
+
+[RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct, publicada y efectiva 06-oct; elección 29-nov, campaña 13–27-nov, Cortes 23-dic fuera del horizonte actual. [INE definitivo 14-oct, septiembre](https://www.ine.es/dyngs/Prensa/IPC0926.htm): IPC 4,9% interanual, 0,3% mensual, subyacente 3,1%, IAPC 5,0%; confirma el avance, no un nuevo mes de aceleración. No acredita crisis fiscal ni reacción electoral de spreads. Gobernabilidad → presupuesto/ejecución → financiación/inversión sigue hipótesis observacional. E0/P2/→.
+
+**Contraevidencia:** La inflación y el endurecimiento monetario heredado son contraevidencia frente a dominancia automática. El dato agregado TIC es entrada neta, y TEC10 aislado no ruptura francesa.
+
+**Ambigüedad y alcance:** No se ha probado que el banco central subordine estabilidad de precios a financiación soberana. España sigue prioridad por gobernabilidad y ejecución, sin atribuir causalidad electoral al IPC.
+
+**Próxima falsación:** Presupuesto y ejecución, demanda de subastas y spreads homogéneos España/Francia–Bund; contrastar la reacción monetaria bajo estrés fiscal explícito.
+
+## 4. Tensiones internas
+
+- **Trampa de tipos:** tipos más altos reducen demanda e inflación, pero elevan el coste marginal de refinanciación fiscal.
+- **Dominancia no observada:** una intervención preventiva de liquidez no prueba por sí sola subordinación fiscal; puede responder a un mandato independiente de estabilidad financiera.
+- **Confusión causal:** inflación de oferta, energía o aranceles puede limitar al banco central sin que exista dominancia fiscal.
+- **Puerta de no-validación:** deuda elevada, inflación de oferta, endurecimiento crediticio o compras rutinarias de reservas, por separado o conjuntamente, no validan la tesis. Debe observarse que la reacción monetaria cambia para proteger la financiación soberana, la absorción de subastas, el coste fiscal o la estabilidad financiera vinculada a la deuda.
+- **Credibilidad:** la tesis se debilita si los bancos centrales toleran deterioro de precios de la deuda sin alterar su reacción antiinflacionista.
+- **Doctrina frente a conducta:** un discurso de independencia y objetivo firme sólo refuta la tesis si se confirma después en decisiones bajo estrés de absorción; por ahora pesa como contraevidencia, no como cierre.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Sensores activos:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]], [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] y [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]].
+- **España:** resultado oficial, acuerdos de gobernabilidad, presupuesto y ejecución, saldo primario, subastas y diferencial España–Bund con vencimiento y fecha comparables. Contrastar después la reacción del BCE; no imputar a la elección movimientos anteriores a la convocatoria.
+- **Próximos controles:** MOF 22-oct, decisiones monetarias de octubre, flujos MOF 10-nov y TIC 18-nov en [[Radar_Eventos_2026_10]]. TIC 16-oct ya consumido; subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
+- **Transmisión:** V01; vínculos secundarios V05 y V06 sin carga adicional.
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## 7. Soporte vigente y trazabilidad
+
+No se ha probado que el banco central subordine estabilidad de precios a financiación soberana. España sigue prioridad por gobernabilidad y ejecución, sin atribuir causalidad electoral al IPC.
+
+Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # 💡 TESIS_01: Restricción fiscal y dominancia monetaria condicional
 
@@ -348,5 +498,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
 
 </details>

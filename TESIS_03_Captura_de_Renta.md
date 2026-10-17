@@ -2,15 +2,158 @@
 tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
-soporte: moderado_alto
-ultima_actualizacion: 2026-10-10
-corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
-corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
-alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+soporte: moderado
+ultima_actualizacion: 2026-10-17
+corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
+corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
+alcance_actualizacion: "W42; revisión factual e interpretativa aprobada por Luis TASK_226; T03 moderado"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
-revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
-soporte_alcance: "Histórico; sin validación causal incremental directa W41"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Formulación causal conjunta; evidencia diferenciada por mecanismo"
 ---
+
+# 💡 TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> Revisión factual e interpretativa W42 aprobada por Luis el 17-oct-2026, TASK_226. Corte 2026-10-17 11:51 Europe/Madrid; nominal 18-oct; domingo no observado.
+
+> ID y archivo conservados; revisión anterior de 10-oct preservada en el historial.
+
+## 1. Definición
+
+El esfuerzo residencial y la carga fiscal/contributiva pueden limitar ahorro y movilidad de determinados hogares cuando superan su mejora de renta y productividad. Su contribución respectiva y el eventual desplazamiento de inversión requieren medición separada por cohorte, territorio y tenencia
+
+España es el ámbito prioritario. Se distinguen propietarios e inquilinos, cohortes y territorios. La formulación no atribuye intención general a pensionistas o propietarios; tampoco traslada evidencia de un mecanismo a toda la explicación.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct, publicada y efectiva 06-oct; elección 29-nov, campaña 13–27-nov, Cortes 23-dic fuera del horizonte actual. [INE definitivo 14-oct, septiembre](https://www.ine.es/dyngs/Prensa/IPC0926.htm): IPC 4,9% interanual, 0,3% mensual, subyacente 3,1%, IAPC 5,0%; confirma el avance, no un nuevo mes de aceleración. No acredita crisis fiscal ni reacción electoral de spreads. Gobernabilidad → presupuesto/ejecución → financiación/inversión sigue hipótesis observacional. E0/P2/→.
+
+[Eurostat 15-oct](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap): agosto registra caída industrial, sin atribución causal a robótica ni evidencia nueva por cohortes.
+
+**Contraevidencia:** El IPC definitivo confirma el avance, sin un nuevo mes de deterioro. Inventarios de gas aumentan respecto a base01-oct no comparable semanal; no caída continua demostrada.
+
+**Ambigüedad y alcance:** Soporte global moderado para la formulación causal conjunta. La evidencia histórica se conserva y debe identificarse por mecanismo; no se acredita validación causal incremental directa de vivienda, pensiones o transferencia intergeneracional en W42. IPC agregado no mide esfuerzo por tenencia/cohorte.
+
+**Próxima falsación:** Renta disponible real, esfuerzo residencial, ahorro, cotizaciones/prestaciones y productividad, por cohorte/territorio/tenencia con periodos compatibles.
+
+## 4. Tensiones internas
+
+- **Causalidad:** el aumento del gasto en pensiones no demuestra por sí solo déficit contributivo ni desplazamiento de inversión; exige comparar cotizaciones, transferencias y ejecución presupuestaria.
+- **Efecto riqueza:** la vivienda beneficia patrimonialmente a propietarios y puede sostener consumo, aunque agrava el acceso de nuevos hogares.
+- **Productividad compensatoria:** automatización e inmigración cualificada pueden elevar la base productiva y reducir la presión por cotizante.
+- **Heterogeneidad territorial:** los promedios nacionales ocultan diferencias de vivienda, empleo y demografía.
+
+## 5. Relación con vectores, eventos y sensores
+
+| Eslabón / ámbito | Observable y comparación | Límite de inferencia |
+|---|---|---|
+| Vivienda | Esfuerzo residencial/renta disponible y ahorro por cohorte, territorio y tenencia | Propietarios e inquilinos pueden registrar efectos opuestos |
+| Fiscalidad y demografía | Cotizaciones, prestaciones, transferencias y carga sobre renta con periodos comparables | Gasto en pensiones no demuestra por sí solo déficit contributivo |
+| Atribución y desplazamiento | Renta real, ahorro, movilidad e inversión efectiva; identificar mecanismo y explicaciones alternativas | IPC agregado no prueba captura ni desplazamiento de inversión |
+| Compensación y distribución | Productividad, ingresos y ahorro de los hogares expuestos | Mejora sostenida de renta y menor esfuerzo residencial debilitan la presión planteada |
+
+### Conexiones y seguimiento
+
+- **Vector dominante:** [[VECTOR_05_Transformacion_industrial_y_demografia]]; transmisión monetaria V01 y productiva V03.
+- **España:** esfuerzo residencial sobre renta disponible, alquiler/propiedad, salarios reales y productividad, ahorro por cohorte, movilidad y formación de hogares. Comparar periodos y universos compatibles.
+- **Canal fiscal:** cotizaciones, prestaciones, transferencias presupuestarias y ejecución de inversión pública; el aumento de una partida aislada no prueba desplazamiento de otra.
+- **Automatización:** uso recurrente, productividad y distribución de ganancias; [[Evento_E0_2026_09_19_Robotica_Unitree]] es un sensor tecnológico, no una medida de renta española.
+- **Memoria:** [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]. Seguimiento en V05 y [[Radar_Eventos_2026_10]], sin nueva ficha automática.
+
+## 6. Criterios de validación o refutación
+
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+## 7. Soporte vigente y trazabilidad
+
+**Moderado para la formulación causal conjunta.** T03 se recalibra de moderado-alto a moderado por la suficiencia documental del mecanismo causal conjunto y el alcance desigual de sus pruebas. Se preserva el respaldo histórico; no se declara deterioro nuevo ni refutación. Recuperar un grado superior requiere evidencia causal diferenciada para vivienda y canal fiscal/demográfico.
+
+Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# 💡 TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> Revisión factual W42: corte 17-oct-2026 11:51 Europe/Madrid; nominal 18-oct. Grado y definición conservados; TASK_226.
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+Cuando vivienda, fiscalidad y compromisos intergeneracionales absorben ingresos más deprisa que crecen salarios reales y productividad, disminuye la capacidad de ahorro y movilidad de los hogares expuestos. La automatización puede compensar esa presión si genera ganancias efectivas que se trasladan a renta disponible o a una base fiscal sostenible.
+
+España es el ámbito prioritario de contraste. Se comparan cohortes, territorios y hogares propietarios o inquilinos; los promedios nacionales no describen por igual su exposición. La tesis describe un mecanismo institucional y demográfico, sin atribuir intención general a pensionistas o propietarios.
+
+La validación separa vivienda y demografía, cotizaciones y prestaciones comparables, y desplazamiento efectivo de ahorro o inversión. Robots entregados no demuestran productividad realizada ni distribución de sus ganancias.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct, publicada y efectiva 06-oct; elección 29-nov, campaña 13–27-nov, Cortes 23-dic fuera del horizonte actual. [INE definitivo 14-oct, septiembre](https://www.ine.es/dyngs/Prensa/IPC0926.htm): IPC 4,9% interanual, 0,3% mensual, subyacente 3,1%, IAPC 5,0%; confirma el avance, no un nuevo mes de aceleración. No acredita crisis fiscal ni reacción electoral de spreads. Gobernabilidad → presupuesto/ejecución → financiación/inversión sigue hipótesis observacional. E0/P2/→.
+
+[Eurostat 15-oct](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap): agosto registra caída industrial, sin atribución causal a robótica ni evidencia nueva por cohortes.
+
+**Contraevidencia:** El IPC definitivo confirma el avance, sin un nuevo mes de deterioro. Inventarios de gas aumentan respecto a base01-oct no comparable semanal; no caída continua demostrada.
+
+**Ambigüedad y alcance:** Soporte moderado-alto histórico; sin validación causal incremental directa de vivienda, pensiones o transferencia intergeneracional en W42. IPC agregado no mide esfuerzo por tenencia/cohorte.
+
+**Próxima falsación:** Renta disponible real, esfuerzo residencial, ahorro, cotizaciones/prestaciones y productividad, por cohorte/territorio/tenencia con periodos compatibles.
+
+## 4. Tensiones internas
+
+- **Causalidad:** el aumento del gasto en pensiones no demuestra por sí solo déficit contributivo ni desplazamiento de inversión; exige comparar cotizaciones, transferencias y ejecución presupuestaria.
+- **Efecto riqueza:** la vivienda beneficia patrimonialmente a propietarios y puede sostener consumo, aunque agrava el acceso de nuevos hogares.
+- **Productividad compensatoria:** automatización e inmigración cualificada pueden elevar la base productiva y reducir la presión por cotizante.
+- **Heterogeneidad territorial:** los promedios nacionales ocultan diferencias de vivienda, empleo y demografía.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Vector dominante:** [[VECTOR_05_Transformacion_industrial_y_demografia]]; transmisión monetaria V01 y productiva V03.
+- **España:** esfuerzo residencial sobre renta disponible, alquiler/propiedad, salarios reales y productividad, ahorro por cohorte, movilidad y formación de hogares. Comparar periodos y universos compatibles.
+- **Canal fiscal:** cotizaciones, prestaciones, transferencias presupuestarias y ejecución de inversión pública; el aumento de una partida aislada no prueba desplazamiento de otra.
+- **Automatización:** uso recurrente, productividad y distribución de ganancias; [[Evento_E0_2026_09_19_Robotica_Unitree]] es un sensor tecnológico, no una medida de renta española.
+- **Memoria:** [[231_Eventos_Cerrados/Evento_E0_2026_06_15_Spain_Pensiones_Renta]]. Seguimiento en V05 y [[Radar_Eventos_2026_10]], sin nueva ficha automática.
+
+## 6. Criterios de validación o refutación
+
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+## 7. Soporte vigente y trazabilidad
+
+Soporte moderado-alto histórico; sin validación causal incremental directa de vivienda, pensiones o transferencia intergeneracional en W42. IPC agregado no mide esfuerzo por tenencia/cohorte.
+
+Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # 💡 TESIS_03: Renta disponible, vivienda y presión intergeneracional
 
@@ -338,5 +481,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
 
 </details>

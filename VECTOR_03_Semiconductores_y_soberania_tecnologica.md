@@ -2,12 +2,64 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
-ultima_revision: 2026-10-10
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
+ultima_revision: 2026-10-17
 triggers_activos: 0
 triggers_parciales: 1
-alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
+alcance_contadores: "Heredados; no recuento de activaciones revalidadas W42"
 ---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado operativo — precierre W42
+
+**🟠 Elevada · → · carga primaria 17,76.** Semáforo y tendencia estructural conservados: no se deducen mecánicamente de una tendencia de evento ni de la suma de cargas.
+
+| Evento primario | Carga |
+|---|---|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 17,76 |
+
+## Evidencia W42
+
+[TSMC Q3, 15-oct](https://investor.tsmc.com/english/quarterly-results/2026/q3): trimestre terminado 30-sep, ingresos 46,72 BUSD, margen bruto 66,4%; guía Q4 52,3–54,3 BUSD es previsión. [Transcripción, pp. 12/18](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf): producción de encapsulado de cinco retículas con buenos yields y persistencia de una escasez limitada de back-end, cooperación con GF. Se eleva tendencia a ↑ por restricción explícita, sin equiparar litografía y CoWoS ni declarar activados A–D. [ASML 14-oct](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026): ventas Q3 11.662 MEUR y beneficio 4.960 MEUR; insuficiencia prevista de capacidad para 2027/28 es prospectiva y se sigue separadamente en C37/V03.
+
+## Auditoría de condiciones propias
+
+Contadores heredados **0 activos / 1 parciales**; no recuento de umbrales revalidados W42.
+
+| Trigger | Auditoría W42 |
+|---|---|
+| 01 | NO VERIFICABLE: falta agregado de desviación trimestral guía CAPEX hyperscalers>15%. |
+| 02 | NO VERIFICABLE: falta lead time generalizado hardware>24 semanas. |
+| 03 | PARCIAL / ALCANCE PENDIENTE: registro tecnológico chino administrativo; catálogo final en consulta, sin prueba de nuevos nodos litográficos/arquitecturas concretos cubiertos. No activación automática. |
+| 04 | NO ACREDITADO: anuncios no auditoría de fabricación comercial sub5nm sin litografía occidental. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## 1. VECTOR ESTRUCTURAL
+
+- **Fuerzas:** Competición logística, industrial y soberana por el control de la cadena de valor de hardware avanzado (litografía, diseño y fundición) y la capacidad de cómputo asociada a la seguridad nacional.
+- **Mecanismos:** Controles unilaterales de exportación, asignación estatal de cuotas de fundición, bloqueo de patentes de diseño de chipsets y subsidios a la relocalización industrial de obleas.
+- **Chokepoints:** Equipos de litografía EUV/High-NA, fundiciones avanzadas (nodos sub-5 nm) y acceso monopolizado a materias primas críticas (galio, germanio, grafito).
+- **Transmisión:** Impacta en V04 (creación de bloques de comercio tecnológico aislados) y V06 (superioridad de los sistemas de mando y control militar).
+
+## Observatorios C20/C21/C33/C37
+
+C37 litografía: [ASML Q3, 14-oct](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026), ventas 11.662 MEUR, beneficio 4.960 MEUR, margen 57,5%; previsión de insuficiencia de capacidad 2027/28. Separar litografía de empaquetado CoWoS. Sensores: capacidad instalada/aceptada (equipos por periodo), pedidos/entregas por familia, plazos, restricciones y utilización; sin nueva ficha/carga.
+
+C20 HBM integrado en seguimiento de CoWoS; C21 modelos: coste por tarea, calidad, energía, uso efectivo con benchmarks compatibles. C33 Alibaba absorbido10-oct: [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]] es memoria cerrada; V900 Q1 2027 es anuncio fuera del horizonte. Indicadores: yields, entregas por modelo/trimestre, clientes, cargas productivas, coste/calidad/consumo y dependencias. No nueva prueba comparable recuperada; no ausencia de actividad inferida. Reapertura solo con episodio específico y selección/calibración de Luis.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # VECTOR 03 Semiconductores y soberania tecnologica
 
@@ -238,6 +290,8 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

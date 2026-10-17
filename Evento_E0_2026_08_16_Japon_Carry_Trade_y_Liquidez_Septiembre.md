@@ -7,22 +7,69 @@ vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 moc: "[[MOC_Politica_Monetaria]]"
 tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
 tipo: evento
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4.8
-factor_tendencia: 1.2
-tendencia_calibrada: "\u2191"
+peso_estructural: 4.5
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+factor_tendencia: 1
+tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
 
 # Japón / liquidez
 
-## 1. Estado actual — precierre W41
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P4 · peso 4,5 · → (1) · carga 18,00 · V01.**
+
+[MOF, publicación 16-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): semana 04–10-oct, deuda exterior larga neta −339,7 miles de millones JPY; cartera total −1,030 billones JPY. La semana 27-sep–03-oct se revisa a −345,7 BJPY frente −347,6 previos; cartera +826,9 frente +821,0 BJPY. Unidad original: 100 MJPY. No identifica destino Treasury ni completa comparación institucional. [H.4.1 15-oct](https://www.federalreserve.gov/releases/h41/current/default.htm): media semanal al 14-oct reservas 3.022.140 MUSD (−7.519), TGA 883.373 MUSD (+3.120); miércoles 3.030.854 y 885.823 MUSD, sin mezclar frecuencias. [SOFR](https://fred.stlouisfed.org/series/SOFR): 09/13/14/15-oct = 3,87/3,89/3,88/3,89%; 12-oct sin observación. IORB 15-oct 3,90%, diferencial −1 pb ese día. [TIC, 16-oct, agosto](https://home.treasury.gov/news/press-releases/sb0662/): entrada neta total 199,8 BUSD y compras extranjeras netas largas 300,7 BUSD; no son flujos de octubre ni japoneses. Japón→ es una decisión de continuidad sin nueva aceleración suficientemente acreditada; no prueba reversión del riesgo.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| A | PARCIAL / NO VERIFICABLE completo: ventas agregadas no completan comparación institucional de dos meses y diferencial JGB–UST cubierto >15 días hábiles. |
+| B | PARCIAL histórico: drenaje TGA de septiembre; falta causalidad completa de tensión. H.4.1 semanal de octubre no reabre ese episodio. |
+| C | NO ACREDITADO completo: SOFR 15-oct −1 pb frente IORB; no acredita estrés tres días. GC p99 sin referencia canónica definida queda NO VERIFICABLE. |
+| D | NO VERIFICABLE: falta serie SRF diaria íntegra 25–30-sep; H.4.1 no la sustituye. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## 4. TESIS (Luis)
+
+La política monetaria en 2026 ya no se juega en las ruedas de prensa sobre tipos de interés, sino en la microestructura de la fontanería financiera:
+1. **La Dominancia Fiscal exige compradores inelásticos de duración.** Cuando el ahorro japonés deja de cruzar el Pacífico porque en Tokio el dinero vuelve a tener precio, la prima por plazo (*term premium*) de la deuda soberana occidental tiene que subir para compensar la retirada del comprador marginal.
+2. **La liquidez no es una masa homogénea, es una red de distribución.** La fragilidad del sistema bancario no depende del volumen total de reservas impresas, sino de la velocidad y fricción regulatoria con la que esas reservas llegan a los balances de los *dealers* en momentos de estrés. Septiembre 2026 pondrá a prueba los amortiguadores institucionales creados tras 2019 (la SRF).
+
+---
+
+
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# Japón / liquidez
+
+## Decisión A aplicada — W42, 17-oct-2026
+
+**E0 · P4 · peso 4,5 · ↑ (1,2) · carga intermedia 21,60 · V01.** Luis aprueba «Perfecto. Ejecútalo» (TASK_226): peso 4,8→4,5; efecto aislado −1,44. Corrección del ancla ordinal relativa: la ficha no debe representar toda la arquitectura monetaria de V01. No se afirma pérdida de alcance de Japón ni alivio factual esta semana. Clase, presión y tendencia conservan la calibración W41; B y la revisión factual W42 siguen pendientes. Propuesta y fuentes: [[2026_10_17_Preparacion_231_W42]].
+
+La evidencia siguiente mantiene su corte W41. Este bloque y el frontmatter prevalecen para el peso actual; el informe y los agregados W41 son comparadores históricos hasta la reconciliación posterior a B.
+
+## 1. Estado factual anterior — precierre W41 (calibración histórica)
 
 **E0 · P4 · peso 4,8 · ↑ (1,2) · carga 23,04 · V01.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
 
@@ -245,6 +292,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger D (Uso de Facilidad de Respaldo SRF):** La Standing Repo Facility (SRF) de la Reserva Federal registra operaciones de provisión de liquidez superiores a 20 B$ diarios durante más de dos días consecutivos alrededor del cierre de trimestre (25–30 de septiembre). **Estado al corte: VENTANA PENDIENTE (25–30/09). Fuera de ella, el máximo diario observado de 254 M$ no cruza 20 B$. Se corrige «absorción» por «provisión» de liquidez, conservando importe y duración.**
 
 ---
+
+</details>
 
 </details>
 

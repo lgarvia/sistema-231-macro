@@ -7,21 +7,63 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 3.2
-factor_tendencia: 1
-tendencia_calibrada: "\u2192"
+peso_estructural: 3.7
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
 
 # CoWoS
 
-## 1. Estado actual — precierre W41
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P4 · peso 3,7 · ↑ (1,2) · carga 17,76 · V03.**
+
+[TSMC Q3, 15-oct](https://investor.tsmc.com/english/quarterly-results/2026/q3): trimestre terminado 30-sep, ingresos 46,72 BUSD, margen bruto 66,4%; guía Q4 52,3–54,3 BUSD es previsión. [Transcripción, pp. 12/18](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf): producción de encapsulado de cinco retículas con buenos yields y persistencia de una escasez limitada de back-end, cooperación con GF. Se eleva tendencia a ↑ por restricción explícita, sin equiparar litografía y CoWoS ni declarar activados A–D. [ASML 14-oct](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026): ventas Q3 11.662 MEUR y beneficio 4.960 MEUR; insuficiencia prevista de capacidad para 2027/28 es prospectiva y se sigue separadamente en C37/V03.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| A | NO ACREDITADO completo: no retraso AP7 más allá de H1 2027 demostrado. |
+| B | PERIODO INCOMPLETO: Q4 2026 no terminado; no entregas Blackwell −20% atribuibles a yields acreditadas. |
+| C | NO VERIFICABLE completo: falta agregado homogéneo de recorte CAPEX hyperscalers >10%. |
+| D | NO VERIFICABLE: falta lead time generalizado <20 semanas y sobreoferta; buenos yields no completan ambos requisitos. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## 4. TESIS (Luis)
+La transición hacia la Agentic AI (IA Agéntica) condena a los hyperscalers a operar como "industria pesada". El CAPEX (estimado en $660B-$690B para 2026) ya no es una inversión discrecional en software, sino un gasto estructural e inflexible de supervivencia. La rentabilidad de esta infraestructura debe demostrarse antes de que colapse la red eléctrica o el flujo de caja libre. El Capex masivo en silicio se estrella contra la restricción física del empaquetado CoWoS y la memoria HBM.
+
+
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# CoWoS
+
+## Decisión A aplicada — W42, 17-oct-2026
+
+**E0 · P4 · peso 3,7 · → (1,0) · carga intermedia 14,80 · V03.** Luis aprueba «Perfecto. Ejecútalo» (TASK_226): peso 3,2→3,7; efecto aislado +2,00. Se corrige la infraponderación de un nodo de empaquetado compartido por múltiples clientes. Clase, presión y tendencia conservan la calibración W41; la decisión B y la revisión factual W42 siguen pendientes. El aumento de peso no activa triggers ni acredita retraso AP7, deterioro de yields o menores entregas. Propuesta y fuentes: [[2026_10_17_Preparacion_231_W42]].
+
+La evidencia siguiente mantiene su corte W41. Este bloque y el frontmatter prevalecen para el peso actual; el informe y los agregados W41 son comparadores históricos hasta la reconciliación posterior a B.
+
+## 1. Estado factual anterior — precierre W41 (calibración histórica)
 
 **E0 · P4 · peso 3,2 · → (1,0) · carga 12,80 · V03.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
 
@@ -198,6 +240,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
 - **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
 - **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
+
+</details>
 
 </details>
 

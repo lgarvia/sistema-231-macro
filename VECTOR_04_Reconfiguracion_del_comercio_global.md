@@ -2,12 +2,65 @@
 presion: "🔴 CRÍTICA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
-ultima_revision: 2026-10-10
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
+ultima_revision: 2026-10-17
 triggers_activos: 1
 triggers_parciales: 1
-alcance_contadores: "Heredados, no equivalen a umbrales revalidados W41"
+alcance_contadores: "Heredados; no recuento de activaciones revalidadas W42"
 ---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado operativo — precierre W42
+
+**🔴 Crítica · → · carga primaria 23,60.** Semáforo y tendencia estructural conservados: no se deducen mecánicamente de una tendencia de evento ni de la suma de cargas.
+
+| Evento primario | Carga |
+|---|---|
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,20 |
+
+## Evidencia W42
+
+[BLS, 14-oct, IPC septiembre](https://www.bls.gov/news.release/archives/cpi_10142026.htm): 3,7% interanual y 0,6% mensual desestacionalizado; gasolina +9,1% mensual explica más de la mitad del aumento mensual. No atribuye 0,3 puntos a aranceles en dos meses. Antecedentes jurídicos Section 338/contramedidas Canadá preservados; vigencia jurídica, cobro efectivo y transmisión económica son pruebas distintas. Dato sectorial de septiembre previsto 04-nov, todavía futuro. Se conserva E1/P4/→.
+
+[MOFCOM y Ministerio de Ciencia, anuncio 48, 16-oct 16:00 China / 10:00 Madrid](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html): consulta sobre catálogo de tecnologías prohibidas/restringidas del 16-oct al 15-nov. Registro temporal de exportaciones aplicable desde la publicación hasta entrada en vigor del catálogo revisado; cubre transferencias, licencias y determinados supuestos de control extranjero, también exportaciones en curso. Catálogo propuesto: 40 tecnologías (23 IA, 5 biotecnología, 12 fotovoltaica). [Preguntas y respuestas oficiales](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html). El catálogo definitivo sigue en consulta: no se afirma prohibición general de IA, API, productos o equipos. Anexos técnicos WPS no auditados. El hecho administrativo es efectivo; no se ha acreditado interrupción comercial material. Alta C38 E0 en observación/P2/peso 3,6/→/V04, carga 7,20, seleccionada y calibrada por Luis en B.
+
+## Auditoría de condiciones propias
+
+Contadores heredados **1 activos / 1 parciales**; no recuento de umbrales revalidados W42.
+
+| Trigger | Auditoría W42 |
+|---|---|
+| 01 | ACTIVACIÓN JURÍDICA HEREDADA: aranceles extraordinarios; cobro no auditado íntegro, sin nueva activación W42. |
+| 02 | NO VERIFICABLE: SCFI>20% frente media90d no recuperado homogéneo. |
+| 03 | NO VERIFICABLE: liquidación comercial bilateral noUSD>50 BUSD anuales no acreditada. |
+| 04 | NO VERIFICABLE: IED industrial ejecutada+30%YoY en jurisdicción puente no acreditada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## 1. VECTOR ESTRUCTURAL
+
+- **Fuerzas:** Transición operativa hacia el neomercantilismo bilateral, la reubicación de cadenas de suministro (friend-shoring) y la resiliencia en costes sobre la eficiencia de flujos libres.
+- **Mecanismos:** Aranceles masivos sobre mercancías estratégicas, subsidios localizados a la producción interna, embargos sectoriales selectivos e inoperancia deliberada de organismos multilaterales de arbitraje.
+- **Chokepoints:** Puertos de trasbordo de mercancías de escala mundial, corredores aduaneros y el mecanismo de solución de diferencias de la OMC.
+- **Transmisión:** Impacta en V01 (inflación importada y presión cambiaria) y V05 (competitividad del parque manufactuero nacional).
+
+## Observatorio comercio / licencias / minerales
+
+C38 se incorpora como evento primario V04 por la obligación de registro, sin duplicarlo en V03/V06. C23/C27 continúan integrados; C34 requiere primario concreto antes de promover. Sensores: acto vigente, expedientes/denegaciones, plazos, contratos y entregas por tecnología; importaciones sectoriales YoY de dos meses, recaudación y márgenes con atribución. [Anuncio 48](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html) y consulta hasta el 15-nov: finalización del plazo no significa adopción del catálogo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # VECTOR 04 Reconfiguracion del comercio global
 
@@ -208,6 +261,8 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

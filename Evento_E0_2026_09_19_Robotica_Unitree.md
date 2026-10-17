@@ -4,22 +4,57 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "Decisión humana C3 — TASK_118"
 calibracion: aplicada
 presion_numerica: 2
-peso_estructural: 2.9
+peso_estructural: 2.5
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
 factor_tendencia: 1
 tags: [robotica, unitree, china, productividad, industria]
-tendencia_calibrada: "\u2192"
+tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
 
 # Unitree / robótica
 
-## 1. Estado actual — precierre W41
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E0 · P2 · peso 2,5 · → (1) · carga 5,00 · V05.**
+
+No se recuperan nuevos KPI comparables de clientes recurrentes, horas productivas y coste total por tarea. La ausencia en esta revisión no demuestra que no existan. La fábrica probada en febrero es antecedente; la entrada corporativa del 20-oct es posterior al corte y se excluye. Desde el alta 19-sep no han transcurrido dos revisiones mensuales completas: no se acredita cierre por ese criterio. E0/P2/→, peso A 2,5, sin absorber toda la transformación industrial en esta empresa.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| Uso productivo | NO VERIFICABLE: clientes recurrentes, horas/mes, coste por tarea y calidad comparables no recuperados. |
+| Continuidad | PERIODO INCOMPLETO para dos revisiones mensuales desde 19-sep; no cierre automático. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_05_Transformacion_industrial_y_demografia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
+
+# Unitree / robótica
+
+## Decisión A aplicada — W42, 17-oct-2026
+
+**E0 · P2 · peso 2,5 · → (1,0) · carga intermedia 5,00 · V05.** Luis aprueba «Perfecto. Ejecútalo» (TASK_226): peso 2,9→2,5; efecto aislado −0,80. Se distingue el alcance de un fabricante del conjunto de transformación industrial de V05. La falta de KPI recuperados no se convierte en prueba de fracaso o deterioro. Clase, presión y tendencia conservan la calibración W41; B y la revisión factual W42 siguen pendientes. Propuesta y fuentes: [[2026_10_17_Preparacion_231_W42]].
+
+La evidencia siguiente mantiene su corte W41. Este bloque y el frontmatter prevalecen para el peso actual; el informe y los agregados W41 son comparadores históricos hasta la reconciliación posterior a B.
+
+## 1. Estado factual anterior — precierre W41 (calibración histórica)
 
 **E0 · P2 · peso 2,9 · → (1,0) · carga 5,80 · V05.** Corte 2026-10-10 20:38 Europe/Madrid; nominal 11-oct. Decisión A/B aplicada 10-oct (TASK_202). Pesoordinal, presión y tendencia separados; no probabilidad.
 
@@ -113,5 +148,7 @@ Conecta con [[TESIS_06_IA_como_silicio_y_energia]], [[TESIS_03_Captura_de_Renta]
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 3, tendencia →, factor 1,0, carga 6,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>

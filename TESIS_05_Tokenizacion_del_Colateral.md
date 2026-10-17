@@ -3,13 +3,161 @@ tipo: tesis_estructural
 id: TESIS_05
 estado: en_validacion
 soporte: moderado
-ultima_actualizacion: 2026-10-10
-corte_factual_actual: "2026-10-10 20:38 Europe/Madrid"
-corte_factual_previo: "2026-10-03 02:06 Europe/Madrid"
-alcance_actualizacion: "W41; revisión interpretativa TASK_204 aprobada y aplicada TASK_205; grados conservados"
+ultima_actualizacion: 2026-10-17
+corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
+corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
+alcance_actualizacion: "W42; revisión factual e interpretativa aprobada por Luis TASK_226; T03 moderado"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
-revision_interpretativa: "2026-10-10; aprobación de Luis, TASK_205"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Admisibilidad jurídica acotada; uso/eficiencia/demanda neta en validación"
 ---
+
+# 💡 TESIS_05: Tokenización, liquidación y movilidad del colateral
+
+> Revisión factual e interpretativa W42 aprobada por Luis el 17-oct-2026, TASK_226. Corte 2026-10-17 11:51 Europe/Madrid; nominal 18-oct; domingo no observado.
+
+> ID y archivo conservados; revisión anterior de 10-oct preservada en el historial.
+
+## 1. Definición
+
+La tokenización empieza a integrarse en infraestructuras reguladas de garantías y liquidación. Que un activo sea admisible es un avance institucional; su mejora de eficiencia y su efecto sobre la liquidez o demanda neta de deuda dependen del uso, costes y origen de los fondos
+
+Admisibilidad jurídica, utilización efectiva y beneficio económico son pruebas distintas. Stablecoins, depósitos y bonos tokenizados se diferencian por derechos, reservas e infraestructura; digitalizar un activo no crea automáticamente liquidez ni colateral nuevos.
+
+## 2. Restricción estructural asociada
+
+- **Confianza:** el dinero tokenizado depende de la calidad, custodia y liquidez del activo de reserva.
+- **Regulación:** admisibilidad de reservas, reembolso, segregación patrimonial y acceso a sistemas de pago.
+- **Financiación bancaria:** migraciones desde depósitos pueden reducir crédito y alterar la demanda bancaria de deuda.
+- **Soberanía monetaria:** la adopción de stablecoins en economías débiles puede intensificar dolarización y volatilidad de capitales.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[BCE, comunicado 27-ene-2026](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260127_1~a946167ce1.en.html) y [BCE, informe de mayo de 2026, p. 77](https://www.ecb.europa.eu/press/fie/pdf/ecb.fie202605~c4c6cabe93.en.pdf): determinados valores emitidos en depositarios centrales mediante DLT son admisibles como garantía del Eurosistema desde el 30-mar-2026, sujetos a requisitos y disponibilidad para liquidación en T2S. La movilización sigue las prácticas aplicables a otros valores admisibles. Antecedente recuperado el 17-oct; informe con corte de datos 09-abr, no novedad ocurrida W42. No demuestra utilización efectiva, ahorro o demanda neta de deuda. No se acredita operación de Pontes por su fecha anunciada.
+
+[GFSR 13-oct](https://www.imf.org/en/Publications/GFSR/Issues/2026/10/13/global-financial-stability-report-october-2026) mantiene atención sobre infraestructura y vulnerabilidades financieras. El desarrollo de tokenización parte de escala reducida y retos jurídicos/operativos; una evaluación no es evidencia de repo efectivamente liquidado.
+
+**Contraevidencia:** La escala limitada y la incertidumbre de admisibilidad, interoperabilidad y convertibilidad restringen inferir ahorro sistémico o demanda neta adicional de deuda.
+
+**Ambigüedad y alcance:** Moderado, en validación. En esta revisión no se recupera evidencia nueva directa suficiente de uso recurrente y efecto causal. No se afirma ausencia universal de actividad ni se cuentan enlaces como operaciones.
+
+**Próxima falsación:** Operaciones liquidadas recurrentes, costes/plazos frente alternativa, garantías admitidas y procedencia de fondos: demanda adicional frente sustitución.
+
+## 4. Tensiones internas
+
+- **Desintermediación:** crecimiento a costa de depósitos bancarios puede reducir financiación y crédito.
+- **Composición de flujos:** si el dinero procede de fondos monetarios, el aumento de demanda neta de T-bills puede ser pequeño.
+- **Riesgo del subyacente:** una pérdida de liquidez o confianza en reservas puede romper la paridad.
+- **Centralización persistente:** gran parte de la tokenización institucional refuerza, en lugar de elimina, el dinero de banco central y la intermediación regulada.
+
+## 5. Relación con vectores, eventos y sensores
+
+| Eslabón / ámbito | Observable y comparación | Límite de inferencia |
+|---|---|---|
+| Admisibilidad jurídica | Ámbito de activos/infraestructuras admitidos y requisitos aplicables | Elegibilidad no aceptación universal de tokens |
+| Uso efectivo | Activos realmente movilizados y volumen de operaciones liquidadas recurrentes | Anuncio, piloto o emisión nominal no uso productivo sostenido |
+| Eficiencia económica | Coste y plazo total frente alternativa compatible, incluidos integración y garantías | Admisión no acredita ahorro ni liquidez adicional |
+| Demanda neta y resiliencia | Origen de fondos, sustitución de tenedores, convertibilidad y disponibilidad bajo estrés | Traslado entre compradores no demanda neta nueva |
+
+### Conexiones y seguimiento
+
+- **Vector dominante:** [[VECTOR_01_Arquitectura_monetaria_global]]; V04 y V06 secundarios.
+- **Operaciones:** volumen efectivamente liquidado, uso recurrente, ahorro de costes/plazos y liquidación contra pago. Distinguir emisión nominal, piloto y operación productiva.
+- **Garantías:** activos admitidos, marco jurídico, custodia, convertibilidad y descuentos de valoración (haircuts) verificables.
+- **Efecto monetario:** reservas de emisores, origen de fondos, migración de depósitos y demanda neta de deuda corta frente a sustitución de fondos monetarios u otros tenedores.
+- **Frecuencia:** operaciones y reservas mensuales/trimestrales; migración de depósitos trimestral; normas por hito. QRA/FOMC en [[Radar_Eventos_2026_10]] aportan contexto monetario, sin validar directamente tokenización.
+- **Memoria:** [[231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]].
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Mejora operativa | Liquidación recurrente con reducción verificable de costes/plazos y garantías reconocidas | Pilotos sin uso recurrente, costes de integración elevados o inadmisibilidad |
+| Efecto monetario | Demanda neta adicional acreditada junto con reservas, procedencia de fondos y convertibilidad | Sustitución completa de otros compradores o traslado que reduce financiación bancaria |
+| Resiliencia | Reembolso, custodia y liquidez del subyacente verificados bajo condiciones exigentes | Pérdida de paridad, bloqueo jurídico o liquidez insuficiente |
+
+**Puertas previas a abrir un evento:** norma final con efecto material; o tres observaciones mensuales comparables de demanda neta no explicada por sustitución completa; o infraestructura supervisada con uso sostenido de bonos públicos tokenizados en DvP o como garantía; o evidencia oficial de migración de depósitos atribuible. Requieren delimitación del hecho, mecanismo y calibración humana, sin alta automática.
+
+## 7. Soporte vigente y trazabilidad
+
+**Moderado; efecto económico en validación.** Admisibilidad acreditada para el ámbito delimitado del BCE; uso recurrente, ahorro y efecto monetario siguen en validación. No extender admisibilidad a todos los tokens ni inferir operación de Pontes por anuncio.
+
+Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
+
+# 💡 TESIS_05: Tokenización, liquidación y movilidad del colateral
+
+> Revisión factual W42: corte 17-oct-2026 11:51 Europe/Madrid; nominal 18-oct. Grado y definición conservados; TASK_226.
+
+> ID y archivo conservados para continuidad de enlaces. Revisión aprobada 10-oct-2026, TASK_205.
+
+## 1. Definición
+
+La tokenización puede mejorar liquidación y movilidad de garantías cuando existe reconocimiento jurídico, convertibilidad y uso recurrente. Su valor debe medirse en operaciones ejecutadas, costes, plazos y condiciones de admisibilidad.
+
+Su efecto sobre financiación y demanda de deuda depende del origen de los fondos y de cuánto representa demanda adicional frente a sustitución de compradores. Digitalizar un activo no incrementa automáticamente riqueza, liquidez neta o colateral disponible.
+
+Stablecoins, depósitos y bonos tokenizados son instrumentos distintos. La tesis no presupone eliminación de intermediarios, sustitución de SWIFT o creación automática de garantías nuevas.
+
+## 2. Restricción estructural asociada
+
+- **Confianza:** el dinero tokenizado depende de la calidad, custodia y liquidez del activo de reserva.
+- **Regulación:** admisibilidad de reservas, reembolso, segregación patrimonial y acceso a sistemas de pago.
+- **Financiación bancaria:** migraciones desde depósitos pueden reducir crédito y alterar la demanda bancaria de deuda.
+- **Soberanía monetaria:** la adopción de stablecoins en economías débiles puede intensificar dolarización y volatilidad de capitales.
+
+## 3. Manifestaciones y contraste — precierre W42
+
+[GFSR 13-oct](https://www.imf.org/en/Publications/GFSR/Issues/2026/10/13/global-financial-stability-report-october-2026) mantiene atención sobre infraestructura y vulnerabilidades financieras. El desarrollo de tokenización parte de escala reducida y retos jurídicos/operativos; una evaluación no es evidencia de repo efectivamente liquidado.
+
+**Contraevidencia:** La escala limitada y la incertidumbre de admisibilidad, interoperabilidad y convertibilidad restringen inferir ahorro sistémico o demanda neta adicional de deuda.
+
+**Ambigüedad y alcance:** Moderado, en validación. En esta revisión no se recupera evidencia nueva directa suficiente de uso recurrente y efecto causal. No se afirma ausencia universal de actividad ni se cuentan enlaces como operaciones.
+
+**Próxima falsación:** Operaciones liquidadas recurrentes, costes/plazos frente alternativa, garantías admitidas y procedencia de fondos: demanda adicional frente sustitución.
+
+## 4. Tensiones internas
+
+- **Desintermediación:** crecimiento a costa de depósitos bancarios puede reducir financiación y crédito.
+- **Composición de flujos:** si el dinero procede de fondos monetarios, el aumento de demanda neta de T-bills puede ser pequeño.
+- **Riesgo del subyacente:** una pérdida de liquidez o confianza en reservas puede romper la paridad.
+- **Centralización persistente:** gran parte de la tokenización institucional refuerza, en lugar de elimina, el dinero de banco central y la intermediación regulada.
+
+## 5. Relación con vectores, eventos y sensores
+
+- **Vector dominante:** [[VECTOR_01_Arquitectura_monetaria_global]]; V04 y V06 secundarios.
+- **Operaciones:** volumen efectivamente liquidado, uso recurrente, ahorro de costes/plazos y liquidación contra pago. Distinguir emisión nominal, piloto y operación productiva.
+- **Garantías:** activos admitidos, marco jurídico, custodia, convertibilidad y descuentos de valoración (haircuts) verificables.
+- **Efecto monetario:** reservas de emisores, origen de fondos, migración de depósitos y demanda neta de deuda corta frente a sustitución de fondos monetarios u otros tenedores.
+- **Frecuencia:** operaciones y reservas mensuales/trimestrales; migración de depósitos trimestral; normas por hito. QRA/FOMC en [[Radar_Eventos_2026_10]] aportan contexto monetario, sin validar directamente tokenización.
+- **Memoria:** [[231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]].
+
+## 6. Criterios de validación o refutación
+
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Mejora operativa | Liquidación recurrente con reducción verificable de costes/plazos y garantías reconocidas | Pilotos sin uso recurrente, costes de integración elevados o inadmisibilidad |
+| Efecto monetario | Demanda neta adicional acreditada junto con reservas, procedencia de fondos y convertibilidad | Sustitución completa de otros compradores o traslado que reduce financiación bancaria |
+| Resiliencia | Reembolso, custodia y liquidez del subyacente verificados bajo condiciones exigentes | Pérdida de paridad, bloqueo jurídico o liquidez insuficiente |
+
+**Puertas previas a abrir un evento:** norma final con efecto material; o tres observaciones mensuales comparables de demanda neta no explicada por sustitución completa; o infraestructura supervisada con uso sostenido de bonos públicos tokenizados en DvP o como garantía; o evidencia oficial de migración de depósitos atribuible. Requieren delimitación del hecho, mecanismo y calibración humana, sin alta automática.
+
+## 7. Soporte vigente y trazabilidad
+
+Moderado, en validación. En esta revisión no se recupera evidencia nueva directa suficiente de uso recurrente y efecto causal. No se afirma ausencia universal de actividad ni se cuentan enlaces como operaciones.
+
+Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # 💡 TESIS_05: Tokenización, liquidación y movilidad del colateral
 
@@ -362,5 +510,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
 
 </details>

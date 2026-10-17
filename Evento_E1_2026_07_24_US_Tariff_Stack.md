@@ -7,18 +7,54 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
-ultima_revision: 2026-10-10
-corte_factual: "2026-10-10 20:38 Europe/Madrid"
+ultima_revision: 2026-10-17
+corte_factual: "2026-10-17 11:51 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
 peso_estructural: 4.1
 factor_tendencia: 1
-tendencia_calibrada: "\u2192"
+tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A/B TASK_202, 10-oct-2026"
+decision_aplicada: "Luis — A y paquete B TASK_226, 17-oct-2026"
 ---
+
+# Tariff Stack
+
+> Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
+
+## Estado vigente y evidencia W42
+
+**E1 · P4 · peso 4,1 · → (1) · carga 16,40 · V04.**
+
+[BLS, 14-oct, IPC septiembre](https://www.bls.gov/news.release/archives/cpi_10142026.htm): 3,7% interanual y 0,6% mensual desestacionalizado; gasolina +9,1% mensual explica más de la mitad del aumento mensual. No atribuye 0,3 puntos a aranceles en dos meses. Antecedentes jurídicos Section 338/contramedidas Canadá preservados; vigencia jurídica, cobro efectivo y transmisión económica son pruebas distintas. Dato sectorial de septiembre previsto 04-nov, todavía futuro. Se conserva E1/P4/→.
+
+## Auditoría de condiciones y próxima prueba
+
+| Condición / sensor | Resultado al corte W42 |
+|---|---|
+| A | ANTECEDENTE jurídico: aplicación material íntegra de 50% Canadá en tres grupos no revalidada. |
+| B | ACTIVO HISTÓRICO: contramedidas sobre 27.600 MCAD; no nueva activación W42. |
+| C | NO VERIFICABLE: faltan dos fabricantes con deterioro >5% y atribución arancelaria. |
+| D | NO ACREDITADO: dos meses sectoriales −15% no se deducen del agregado agosto; septiembre futuro. |
+| E | NO ACREDITADO: IPC agregado no demuestra ≥0,3 pp arancelarios durante dos publicaciones. |
+
+Las definiciones anteriores conservan umbral, duración, población y causalidad. Esta auditoría no convierte una cláusula parcial en activación completa. Las dos E1 se conservan por continuidad de sus episodios, sin presumir revalidación de todos sus umbrales.
+
+## 4. TESIS (Luis)
+
+[[TESIS_02_Frictionless_Stabilization]] — La expiración de Section 122 no desactiva la coerción comercial: la redistribuye entre bases legales, países y sectores. La estabilización no consiste en volver al libre comercio previo, sino en evitar la ruptura total mientras el flujo se adapta a una arquitectura arancelaria modular. La tesis se refuerza si el comercio continúa mediante sustitución de proveedores, exenciones y acuerdos bilaterales; se debilita si las medidas derivan en embargo, ruptura sostenida de flujos o, en sentido contrario, desmantelamiento duradero de la pila.
+
+
+
+## Imputación y decisión
+
+Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
 
 # Tariff Stack
 
@@ -223,6 +259,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO. No se incorporan dos fabricantes con cuantificación comparable >5% o relocalización física atribuida.**
 - **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO. No se dispone todavía de los dos meses sectoriales comparables exigidos. El déficit agregado no sustituye el trigger.**
 - **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO. No se dispone de dos publicaciones oficiales con atribución causal ≥0,3 pp a la carga arancelaria exigida.**
+
+</details>
 
 </details>
 
