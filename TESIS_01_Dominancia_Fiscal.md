@@ -3,6 +3,68 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
+ultima_actualizacion: 2026-10-24
+corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
+corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
+alcance_actualizacion: "W43; revisión factual bajo A/B aprobadas TASK_255_ACTUALIZACION_231_W43; definición y soporte conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
+---
+
+# TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**Soporte conservado: Moderado.** La revisión actualiza evidencia y límites, sin redefinir la tesis ni deducir soporte de la carga162,90.
+
+## 1. Definición
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## Contraste factual W43
+
+**Apoyo:** [TEC10 francés23-oct](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23) aporta deterioro de financiación y [Eurostat21-oct, deudaQ2](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp) contexto fiscal, con periodos distintos. [MOF22-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) mantiene ventas exteriores sin completar diferencial cubierto. No se valida dominancia monetaria.
+
+**Contraevidencia:** [SOFR observado](https://fred.stlouisfed.org/series/SOFR) contenido pese al drenaje de reservas; adjudicación BTF francesa con demanda. [Convalidación BOE20-oct](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21788) contradice parálisis institucional absoluta en España. Son contrapesos acotados, no normalidad general.
+
+**Ambigüedad / alcance:** Faltan series soberanas homogéneas, reacción monetaria bajo estrés con nexo causal, absorción larga y transmisión bancaria. Deuda o inflación altas no bastan.
+
+**Próxima falsación:** Reversión sostenida de financiación con ejecución fiscal compatible; o evidencia de cambio de reacción monetaria destinado a proteger financiación soberana. España: presupuesto, pagos y subastas; calendario electoral no resultado.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## Trazabilidad
+
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_01
+estado: vigente
+soporte: moderado
 ultima_actualizacion: 2026-10-17
 corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
 corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
@@ -498,6 +560,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

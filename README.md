@@ -26,7 +26,7 @@ El sistema articula la realidad económica a través de cuatro capas interconect
    * `V06` — Orden geopolítico y esferas de influencia
 
 2. **6 Tesis Estructurales (`TESIS_*.md`):**
-   * Hipótesis sobre restricción fiscal y dominancia monetaria condicional, coerción modular y estabilización táctica, renta disponible/vivienda/presión intergeneracional, multipolaridad logística, tokenización/liquidación/movilidad del colateral e IA como infraestructura y conversión en productividad. Revisión aprobada 17-oct (TASK_226); seis IDs conservados, T03 moderado y otros grados mantenidos. Estado y pruebas en [[TESIS_00_Indice]].
+   * Hipótesis sobre restricción fiscal y dominancia monetaria condicional, coerción modular y estabilización táctica, renta disponible/vivienda/presión intergeneracional, multipolaridad logística, tokenización/liquidación/movilidad del colateral e IA como infraestructura y conversión en productividad. Revisión factual W43 bajo A/B aprobadas24-oct; seis IDs y grados conservados. Estado y pruebas en [[TESIS_00_Indice]].
 
 3. **Eventos Activos y Cerrados (`Evento_*.md`):**
    * Shocks concretos revisados por cortes fechados bajo condiciones de activación y métricas de presión (aranceles, cuellos de botella marítimos, descompresiones de deuda, capacidad de empaquetado de chips, etc.).
@@ -46,6 +46,24 @@ git clone https://github.com/lgarvia/sistema-231-macro.git
 ```
 
 
+## Última calibración — precierre W43
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**12 eventos activos (10 E0 / 2 E1), todos calibrados; carga primaria total 162,90.**
+
+**155,80 → 162,90 (+7,10):** pesos A +2,34; tendencia Francia +2,76; absorción Unitree −4,40; alta C41 +6,40. Las presiones de continuidades se conservan. Carga ordinal: no es probabilidad, pérdida esperada ni deterioro empírico medido en7,10 puntos.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras revisión factual W43; no se derivan de la carga.
+
+**26 hitos abiertos (2 Régimen / 4 Crítico / 18 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 36 resoluciones acumuladas.** Horizonte24-oct–23-dic inclusive:60 días transcurridos/61 fechas.
+
+[Informe vigente](ACTUALIZACION_SEMANAL_231_2026_10_25.md) · [Inventario](VECTOR_00_Indice.md) · [Radar](Radar_Eventos_2026_10.md). Unitree absorbida enV05; altaC41 DeepSeek en observación. Corte fijo24-oct20:23:28; domingo25 no observado. Publicación W43 autorizada por Luis el24-oct. Base de comparación W42:81a4cd5.
+
+
+<details>
+<summary>Estado W42 y anteriores — histórico sustituido24-oct2026</summary>
+
 ## Última calibración
 
 > Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
@@ -58,7 +76,7 @@ Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y 
 
 **20 hitos abiertos (2 Régimen / 3 Crítico / 13 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 34 resoluciones acumuladas.** Horizonte 17-oct–16-dic inclusive: 60 días transcurridos / 61 fechas.
 
-[Informe vigente](ACTUALIZACION_SEMANAL_231_2026_10_18.md) · [Inventario](VECTOR_00_Indice.md) · [Radar](Radar_Eventos_2026_10.md). Versión W42 aprobada para publicación por Luis el 17-oct. Base de comparación: W41, commit 19d44da.
+[Informe vigente](archivo/actualizaciones_semanales/ACTUALIZACION_SEMANAL_231_2026_10_18.md) · [Inventario](VECTOR_00_Indice.md) · [Radar](Radar_Eventos_2026_10.md). Versión W42 aprobada para publicación por Luis el 17-oct. Base de comparación: W41, commit 19d44da.
 
 
 
@@ -78,7 +96,7 @@ Un soporte alto limitado al núcleo físico T06; tres moderado-altos (T02/T03/T0
 
 **20 hitos abiertos (2 Régimen / 3 Crítico / 13 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 34 resoluciones acumuladas.** Horizonte 17-oct–16-dic inclusive: 60 días transcurridos / 61 fechas.
 
-[Informe vigente](ACTUALIZACION_SEMANAL_231_2026_10_18.md) · [Inventario](VECTOR_00_Indice.md) · [Radar](Radar_Eventos_2026_10.md). W42 aplicada localmente; publicación pendiente. Última publicación W41:19d44da; no confirmación remota nueva.
+[Informe vigente](archivo/actualizaciones_semanales/ACTUALIZACION_SEMANAL_231_2026_10_18.md) · [Inventario](VECTOR_00_Indice.md) · [Radar](Radar_Eventos_2026_10.md). W42 aplicada localmente; publicación pendiente. Última publicación W41:19d44da; no confirmación remota nueva.
 
 
 <details>
@@ -101,6 +119,8 @@ Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 
 
 
 **03/10/2026 — precierre W40 aplicado localmente.** **11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 144,86 (144,9 a una décima).** Xi mantenido como E0 de ejecución por decisión humana; once pesos decimales y P/tendencias conservados. **144,80 → 144,86 (+0,06)**, exclusivamente por los once pesos aprobados; presión/tendencia e inventario final de once fichas conservados frente a W39. El archivo técnico de Xi fue rectificado tras valoración conjunta y no representa un cierre vigente. Carga ordinal, no probabilidad ni pérdida esperada. [Informe vigente](archivo/actualizaciones_semanales/ACTUALIZACION_SEMANAL_231_2026_10_04.md) · [Inventario](VECTOR_00_Indice.md) · [Radar](Radar_Eventos_2026_10.md). Corte03-oct02:06 Europe/Madrid. Publicación W40 autorizada en GitHub/main.
+
+</details>
 
 </details>
 

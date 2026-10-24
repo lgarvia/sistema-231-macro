@@ -7,6 +7,62 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.6
+fecha_decision_peso: 2026-10-24
+decision_peso: "Luis — A W43 aprobada24-oct"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# Grid IA
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P4 · peso 4,60 · ↑ (factor 1.2) · carga 22,08 · V02.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_07_08_Grid_Stress_IA]]. Comparador W42: E0 / P4 / peso 4,3 / ↑.
+
+| ID | Condición que debe cumplirse | Resultado W43 y siguiente prueba |
+|---|---|---|
+| G-A | Moratoria **energética oficial** o denegación de derechos de conexión en **Loudoun** para CPD IA **>50 MW**. | **No verificable completo.** HEUF del 23-oct exige documentación a instalaciones ≥100 MW; no acredita la moratoria eléctrica o una denegación concreta. El acuerdo preliminar AWS/GWU del 20-oct tampoco resuelve por sí solo la propuesta general de pausa urbanística del 20-oct. Recuperar la resolución y, por separado, una decisión de conexión. [S16](https://www.loudoun.gov/m/newsflash/Home/Detail/10948)–[S18](https://www.loudoun.gov/m/newsflash/home/detail/10874). |
+| G-B | PJM/ERCOT emite **EEA ≥2**, por demanda conjunta de climatización residencial y CPD **en picos estivales de calor**. | **No verificable completo.** El capacity advisory para 19-oct, publicado 16-oct, es antecedente; no acredita EEA2 ni causalidad conjunta estival. Los 94.573 MW de carga y 72.000 MW de indisponibilidades no se restan entre sí para inventar un déficit. Buscar registro operativo EEA y atribución del operador. [S15](https://insidelines.pjm.com/operations-update-pjm-issues-capacity-advisory-for-oct-19/). |
+| G-C | Orden vinculante DOE/FERC/RTO/ISO obliga explícitamente a CPD o grandes cargas **>50 MW**, o generación asociada, a autogeneración/corte **≥4 horas**. | **Parcial.** La orden DOE 202-26-50 es real, pero el permiso de respaldo no demuestra toda la obligación, población y duración exigidas. El informe PJM/FERC sobre dificultad de mantenimiento tampoco prueba un corte de CPD. Exigir orden y ejecución aplicables con potencia y horas. [S14](https://insidelines.pjm.com/pjm-ferc-focus-on-large-load-challenges-at-tech-conference/), [A01](https://www.energy.gov/ceser/federal-power-act-section-202c-pjm-interconnection-llc-pjm-order-no-202-26-50). |
+| G-D | Ofgem/EirGrid aplica **curtailment forzoso efectivo** a CPD IA comerciales operativos **>100 MW combinados**. | **No verificable completo.** MPID345 aprobado 22-sep, efectivo 27-oct, sigue futuro al corte. Trata requisitos de permanencia en red ante perturbaciones y recuperación de potencia: su aprobación no prueba corte comercial ya ejecutado ni el umbral >100 MW. [A03](https://cms.eirgrid.ie/sites/default/files/publications/MPID345-CRU-Approval-271026.pdf). |
+| G-E | Moratoria hídrica municipal/estatal en **España o Irlanda** bloquea efectivamente licencias de agua de nuevos CPD IA **>50 MW**. | **No verificable.** Faltan acto aplicable, proyecto/potencia y efecto sobre licencia; requisitos de documentación hídrica de Virginia no cumplen geografía ni efecto. |
+| G-F | Sanción o demanda regulatoria de la **Comisión Europea**, a partir del registro EED, demuestra **WUE sectorial medio UE >0,5 L/kWh**. | **No verificable.** La existencia de registro/rating no aporta sanción o demanda ni una media sectorial comparable. Faltan acto, población cubierta, periodo y numerador/denominador WUE. |
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Peso4,3→4,6 aprobado en A; E0/P4/↑ conservados en B. Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Grid IA"
+fecha: 2026-07-08
+source: PJM / ERCOT / Utilities / DOE / Arizona Dept of Water Resources
+url: https://www.ferc.gov/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
+tipo: evento
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
@@ -253,6 +309,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 
 
 **Rectificación 27-sep:** el historial W36 atribuyó DOE38 a Stanton y afirmó expiración sin extensión. El [índice DOE 2026](https://www.energy.gov/ceser/2026-doe-202c-orders), consultado 27-sep, identifica 38 con Guam y 42 con Stanton (2-sep–30-nov). Aquella frase no se reutiliza como evidencia de alivio.
+
+</details>
 
 </details>
 

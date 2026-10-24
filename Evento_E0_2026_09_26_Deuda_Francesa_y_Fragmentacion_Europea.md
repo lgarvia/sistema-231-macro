@@ -4,6 +4,56 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.6
+fecha_decision_peso: 2026-10-24
+revision_semanal_pendiente: false
+factor_tendencia: 1.2
+tags: [francia, deuda-soberana, euro, fragmentacion]
+tendencia_calibrada: "↑"
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+decision_peso: "Luis — A W43 aprobada24-oct"
+---
+
+# Deuda francesa
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P3 · peso 4,60 · ↑ (factor 1.2) · carga 16,56 · V01.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]]. Comparador W42: E0 / P3 / peso 4,3 / →.
+
+- **Deterioro de financiación: observado parcialmente.** TEC10 pasa de 4,794% el 16-oct a 5,048% el 23-oct: **+25,4 pb**; máximo recuperado 5,126% el 22-oct. Es evidencia semanal nueva, con retroceso el viernes. [S07](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-16)–[S08](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23).
+- **Divergencia comparada: indicio, no spread oficial homogéneo.** Proxy TEC10 menos Bund 10Y de distinta metodología: 137,4 → 171,8 pb, **+34,4 pb**. No usarlo como OAT–Bund sincronizado ni inventar un umbral de la ficha. [S09](https://www.bundesbank.de/resource/blob/772218/c2957e9a34b596c0c5bb11811de0ff9e/472B63F073F071307366337C94F8C870/rendbund-data.pdf).
+- **Absorción y nexo bancario: no verificable completo.** AFT 19-oct adjudica BTF por 7.245 MEUR, cuatro líneas y coberturas 2,51 / 2,19 / 2,16 / 2,28. Son plazos de letras, no una subasta larga deteriorada comparada ni contagio bancario probado. [S10](https://www.aft.gouv.fr/fr/publications/communiques-presse/19-octobre-2026-emission-btf).
+- **Contexto de deuda:** Eurostat publicado 21-oct sitúa Francia en 119,1% PIB en Q2, +1,4 pp trimestral; publicación nueva, periodo antiguo. No es crecimiento semanal. [S11](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp).
+- **Escalada/falsación:** buscar persistencia y financiación/banca compatibles; una semana adversa no prueba el nexo material completo de E1. Recuperación sostenida y absorción normal serían contraevidencia. No se acreditan dos revisiones mensuales sin noticias desde el alta del 26-sep.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Peso4,3→4,6 en A y tendencia→a↑ en B; E0/P3 conservados. Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Deuda francesa"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
@@ -147,6 +197,8 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMIS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia ↑, factor 1,2, carga 14,4. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

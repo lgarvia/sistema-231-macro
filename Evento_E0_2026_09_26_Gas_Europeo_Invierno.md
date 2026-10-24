@@ -4,6 +4,53 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 3.9
+factor_tendencia: 1
+tags: [gas, europa, energia, almacenamiento, invierno]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# Gas europeo / invierno
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P3 · peso 3,90 · → (factor 1) · carga 11,70 · V02.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]]. Comparador W42: E0 / P3 / peso 3,9 / →.
+
+- **Inventario observado:** panel GIE con marca 24-oct 06:00 CEST, UE **844,77 TWh / 74,60%**, Alemania 61,15%, España 78,98%. Frente al panel 16-oct: +3,97 TWh y +0,38 pp, comparación indicativa de ocho días. Gas day no identificado: no presentarlo como variación de una semana homogénea. [S20](https://www.gie.eu/).
+- **Restricción real: no verificable completo.** Faltan cortes industriales, déficit físico o restricciones de suministro atribuibles. Inventario bajo frente a un referente no equivale a racionamiento.
+- **Conjunción pendiente:** flujos por origen, GNL, demanda ajustada por temperatura, contratos/precios identificados y uso industrial. No introducir un umbral numérico/duración que la ficha aún no define.
+- **Falsación/alivio:** mejora persistente de balance ajustado por demanda; no concluir alivio estructural por almacenamiento creciente o precio aislado. La temporada futura no vuelve incompletas las observaciones ya publicadas.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Gas europeo / invierno"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
@@ -136,6 +183,8 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMIS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia →, factor 1,0, carga 12,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

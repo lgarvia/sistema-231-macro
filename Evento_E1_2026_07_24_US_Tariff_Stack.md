@@ -7,6 +7,59 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# Tariff Stack
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E1 · P4 · peso 4,10 · → (factor 1) · carga 16,40 · V04.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Comparador W42: E1 / P4 / peso 4,1 / →.
+
+| ID | Condición que debe cumplirse | Resultado W43 y siguiente prueba |
+|---|---|---|
+| T-A | CBP/USTR/Casa Blanca confirma aplicación **material del 50%** en vehículos, alcohol y lácteos canadienses, en fecha prevista y sin suspensión/acuerdo neutralizante. | **Parcial jurídico heredado.** CSMS de 11-sep acredita instrucciones de entrada y alcance, con modificaciones/excepciones desde 15-sep; no acredita cobro íntegro en los tres grupos. No es una noticia W43. Recuperar recaudación/despachos por producto y vigencia de excepciones. [A06](https://content.govdelivery.com/bulletins/gd/USDHSCBP-429db0c). |
+| T-B | Canadá/Brasil/UE adopta contramedidas vinculantes que cubran conjuntamente **>10.000 M$ de comercio anual**. | **Activo heredado según la ficha**, no nueva activación W43. Gazette acredita el régimen canadiense efectivo desde 8-sep, base declarada 27.600 M CAD y remisiones aplicables. Mantener moneda y cobertura; no convertir base nominal en recaudación ni suponer que $ significa USD sin definirlo. Una normalización futura del umbral requiere convención explícita y base anual comparable; no se revoca aquí la decisión histórica por esa laguna. [A07](https://gazette.gc.ca/rp-pr/p2/2026/2026-09-23/html/sor-dors186-eng.html). |
+| T-C | **Al menos dos fabricantes** de sectores afectados cuantifican impacto **>5% en coste unitario, margen bruto o producción**, o anuncian **relocalización física atribuible** a las medidas. | **No verificable completo.** La carta GM de 20-oct reconoce presión inflacionaria pero no satisface esta prueba. El documento de resultados enlazado devuelve 403; no se transfiere al registro una cifra de prensa sin leer la primaria. Falta segundo fabricante, denominador comparable y nexo con estas medidas. [A08](https://news.gm.com/home.detail.html/Pages/news/us/en/2026/oct/1020-GM-letter-shareholders-Q3-2026.html). |
+| T-D | Importaciones de EE. UU. de **sectores cubiertos** caen **>15% interanual durante dos meses consecutivos**, Census/BEA. | **Periodo incompleto para agosto–septiembre / no verificable para otras parejas.** FT900 septiembre se publica 4-nov; avance 28-oct y acero 27-oct son productos distintos. El agregado agosto no prueba la caída sectorial. No sustituir interanual por mensual ni saldo comercial por importaciones físicas sectoriales. [A02](https://www.census.gov/foreign-trade/schedule.html), [A09](https://bea.gov/index.php/news/2026/us-international-trade-goods-and-services-august-2026). |
+| T-E | Evidencia **oficial causal** atribuye a nueva carga arancelaria **≥0,3 pp de inflación interanual de bienes básicos durante dos publicaciones consecutivas**. | **No verificable completo.** Falta atribución y repetición sobre la población exigida. IPC total y dos referencias al mismo mes no cumplen. |
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Tariff Stack"
+fecha: 2026-07-24
+source: USTR / Federal Register / CBP
+url: https://ustr.gov/
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
+tipo: evento
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
@@ -259,6 +312,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO. No se incorporan dos fabricantes con cuantificación comparable >5% o relocalización física atribuida.**
 - **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO. No se dispone todavía de los dos meses sectoriales comparables exigidos. El déficit agregado no sustituye el trigger.**
 - **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO. No se dispone de dos publicaciones oficiales con atribución causal ≥0,3 pp a la carga arancelaria exigida.**
+
+</details>
 
 </details>
 

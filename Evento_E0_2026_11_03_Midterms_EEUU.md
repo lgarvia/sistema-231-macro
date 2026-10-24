@@ -5,6 +5,55 @@ fecha_hito: 2026-11-03
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+origen_alta: "Decisión humana C2 — TASK_118"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.3
+fecha_decision_peso: 2026-10-10
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [elecciones, estados-unidos, politica-fiscal]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# Midterms
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P2 · peso 4,30 · → (factor 1) · carga 8,60 · V06.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_11_03_Midterms_EEUU]]. Comparador W42: E0 / P2 / peso 4,3 / →.
+
+- **Calendario confirmado:** FEC sitúa elección general el **3-nov**. Es futura, no resultado. [S39](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/).
+- **Resultado y transmisión: periodo incompleto.** Composición de ambas cámaras, capacidad legislativa y decisiones presupuestarias posteriores pendientes.
+- **Escenarios:** gobierno unificado, dividido o resultado disputado son posibilidades de vigilancia, sin probabilidades inventadas. La proximidad electoral no acredita intervención monetaria ni eleva automáticamente presión.
+- **Cierre/falsación:** observar resolución oficial y mecanismo político posterior; no cerrar por alcanzar una fecha si la incertidumbre relevante continúa.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Midterms"
+fecha: 2026-09-19
+fecha_hito: 2026-11-03
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "Decisión humana C2 — TASK_118"
@@ -136,6 +185,8 @@ Conecta con [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

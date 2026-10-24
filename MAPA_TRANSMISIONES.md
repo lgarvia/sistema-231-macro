@@ -1,3 +1,46 @@
+# Mapa de transmisiones — Sistema231
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+| Evento | Vector primario | Canal a contrastar |
+|---|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, electricidad, agua, seguros y costes físicos |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Liquidez, financiación soberana y ejecución fiscal |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional y composición legislativa |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Liquidez, financiación soberana y ejecución fiscal |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, electricidad, agua, seguros y costes físicos |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional y composición legislativa |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Liquidez, financiación soberana y ejecución fiscal |
+| [[Evento_E0_2026_CoWoS_Capacity]] | [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | Capacidad y entrega de empaquetado |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, electricidad, agua, seguros y costes físicos |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 42,96 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 55,38 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 17,76 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 30,60 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+**12 eventos activos (10 E0 / 2 E1), todos calibrados; carga primaria total 162,90.**
+
+**155,80 → 162,90 (+7,10):** pesos A +2,34; tendencia Francia +2,76; absorción Unitree −4,40; alta C41 +6,40. Las presiones de continuidades se conservan. Carga ordinal: no es probabilidad, pérdida esperada ni deterioro empírico medido en7,10 puntos.
+
+C41: procedencia del software→elegibilidad contractual/sustitución, no fabricación de chips. C38: registro/transferencia tecnológica→V04;52/49–51 en observatorio, sin carga adicional. C3 se absorbe enV05: clientes/uso/productividad; historial en [[Evento_E0_2026_09_19_Robotica_Unitree]]. España: gobernabilidad→presupuesto/ejecución→financiación/inversión; gas/marítimo→costes/suministro→actividad y renta. Cada flecha es mecanismo a comprobar, no causalidad ya probada.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras revisión factual W43; no se derivan de la carga.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
 # MAPA DE TRANSMISIONES — SISTEMA 231
 
 > Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
@@ -217,6 +260,8 @@ Informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]]; sin cambio automático de tesi
 **24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
 
 Las tres altas amplían cobertura; no alteran por sí mismas los semáforos ni validan las tesis. Xi y midterms no duplican la carga de aranceles/liquidez. [[Radar_Eventos_2026_09]] · [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+</details>
 
 </details>
 

@@ -2,6 +2,54 @@
 titulo: "España / elecciones y ejecución fiscal"
 tipo: evento
 estado: E0
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.2
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+---
+
+# España / elecciones y ejecución fiscal
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P2 · peso 4,20 · → (factor 1) · carga 8,40 · V01.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]. Comparador W42: E0 / P2 / peso 4,2 / →.
+
+- **Calendario confirmado futuro:** elecciones **29-nov**, campaña 13–27 nov y constitución de Cortes 23-dic, según RD806/2026 publicado 6-oct. No son resultados. [S13](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742).
+- **Continuidad institucional observada:** resolución de 16-oct publicada 20-oct valida RDL25/2026 por Diputación Permanente. Contraevidencia frente a parálisis absoluta; no prueba ejecución presupuestaria integral. [S12](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21788).
+- **Mecanismo fiscal/mercado: no verificable completo.** Falta cadena gobernabilidad → presupuesto/ejecución → financiación/inversión con causalidad; se necesitan series España–Bund y subastas comparables. Deuda Q2 101,4% PIB no es señal electoral semanal ([S11](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp)).
+- **Escalada/falsación:** deterioro material atribuible o, en contrario, continuidad de ejecución y financiación. No inferir crisis fiscal de elecciones convocadas. El peso 4,2 incorpora la exposición española de Luis según la calibración previa; no se redefine sin decisión.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 calibracion: aplicada
@@ -76,5 +124,7 @@ Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales
 [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
 
 Mayorías → capacidad presupuestaria y política fiscal → financiación soberana/inversión. Se prioriza exposición España; pensiones/vivienda siguen sus sensores, sin convertir la ficha en toda la actualidad nacional.
+
+</details>
 
 </details>

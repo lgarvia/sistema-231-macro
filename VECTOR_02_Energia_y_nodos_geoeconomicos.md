@@ -2,6 +2,65 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+ultima_revision: 2026-10-24
+triggers_activos: 1
+triggers_parciales: 2
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W43"
+---
+
+# VECTOR 02 Energia y nodos geoeconomicos
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado operativo W43
+
+**🔴 Crítica · ↑ · carga primaria 55,38.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de carga o tendencia de ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | 22,08 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | 11,70 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | 21,60 |
+
+## Evidencia y límites
+
+[PJM22-oct](https://insidelines.pjm.com/pjm-ferc-focus-on-large-load-challenges-at-tech-conference/) aporta mecanismo de demanda continua y mantenimiento, sin corte CPD completo. [OMI22-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) mantiene recurrencia física; no se deducen primas o barriles paralizados del contador. [GIE, panel24-oct](https://www.gie.eu/) mejora indicativamente inventario: gas day no identificado, sin prueba de racionamiento. MPID345 efectivo27-oct y controles de permisos siguen observación separada, no apagón consumado.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; la cobertura por cláusula es la siguiente, sin convertir faltantes en cero.
+
+| Condición | Prueba / población | Resultado W43 |
+|---|---|---|
+| V02-01 | Prima adicional >0,5% del casco por tránsito | NO VERIFICABLE: faltan cotizaciones primarias comparables y corredor/base temporal. |
+| V02-02 | Tránsito energético −20% en media móvil14d | NO VERIFICABLE: daños OMI no son serie de volumen/tránsito. [S19](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) |
+| V02-03 | Daño a terminales con pérdida global >1Mb/d | NO ACREDITADO completo: no se cuantifica pérdida de capacidad exportadora global. [S19](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) |
+| V02-04 | Desvío >30% del volumen nominal regular | NO VERIFICABLE: faltan denominador, corredor y rutas comparables. |
+| V02-05 | Orden202(c), EEA3 o instrucción equivalente con obligación operativa | Antecedente jurídico W42 conservado; no nueva activación completa revalidada. PJM22-oct explica mecanismo; advisory no es EEA3 ni nuevo despacho obligatorio. [S14](https://insidelines.pjm.com/pjm-ferc-focus-on-large-load-challenges-at-tech-conference/)/[S15](https://insidelines.pjm.com/operations-update-pjm-issues-capacity-advisory-for-oct-19/) |
+
+### Definiciones canónicas conservadas
+- **Trigger 01 (Prima de Seguro):** Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito.
+- **Trigger 02 (Interrupción de Tránsito):** Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días.
+- **Trigger 03 (Daño de Infraestructura):** Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd.
+- **Trigger 04 (Desvío de Rutas):** Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia.
+- **Trigger 05 (Emergencia Física de Red):** Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema.
+
+## Observatorio V02 — C14/C36/C46
+
+Electricidad: MW/horas efectivos de conexión, autogeneración o corte, potencia y causa. Agua: licencia, jurisdicción y capacidad impedida; HEUF no moratoria energética. Irlanda: [MPID345](https://cms.eirgrid.ie/sites/default/files/publications/MPID345-CRU-Approval-271026.pdf), aprobación22-sep/efecto27-oct futuro; permanencia en red no curtailment comercial probado. Marítimo: dos primas comparables %casco/corredor, denegaciones≥48h, volumen/duración física y bunkering. Gas: TWh/%, flujos/GNL, demanda climática y uso industrial. No igualar stock a racionamiento.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 ultima_revision: 2026-10-17
 triggers_activos: 1
@@ -303,6 +362,8 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

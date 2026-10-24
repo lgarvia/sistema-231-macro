@@ -2,10 +2,16 @@
 tipo: log_cierres_eventos
 creado: 2026-04-26
 actualizador: Sistema 231 / Front Office
-ultima_actualizacion: 2026-10-10
+ultima_actualizacion: 2026-10-24
 ---
 
+
 # REGISTRO DE CIERRES DE EVENTOS
+
+## [2026-10-24] Cierre: Unitree / robótica (C3)
+
+**Tipo:** absorción editorial en V05, aprobada por Luis con B W43 («Perfecto. Aprobado!»). No fracaso ni dos revisiones mensuales acreditadas. Calibración previa al archivo: E0/P2/peso A2,2/→, contribución intermedia4,40. Efecto B−4,40; carga activa0 por inventario. Historial íntegro y sensores en [[Evento_E0_2026_09_19_Robotica_Unitree]] y [[VECTOR_05_Transformacion_industrial_y_demografia#Observatorio industrial, robótica y automoción — C3/C4/C24/C25]]. Se mantiene el nombre original en231_Eventos_Cerrados; reapertura requiere evidencia y decisión humana.
+
 
 ## [2026-10-10] Cierre: Alibaba / chips chinos (C33)
 

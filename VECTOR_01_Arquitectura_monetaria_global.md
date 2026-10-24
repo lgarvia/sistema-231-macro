@@ -2,6 +2,63 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+ultima_revision: 2026-10-24
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W43"
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado operativo W43
+
+**🟠 Elevada · ↑ · carga primaria 42,96.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de carga o tendencia de ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 16,56 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 8,40 |
+
+## Evidencia y límites
+
+Francia presenta deterioro semanal medido y pasa a ↑ por decisión B; no se acredita contagio bancario. [TEC10 23-oct](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23). Japón mantiene ventas exteriores semanales, sin completar diferencial cubierto e institucional. [MOF22-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf). [H.4.1 22-oct](https://www.federalreserve.gov/releases/H41/Current/) y [SOFR](https://fred.stlouisfed.org/series/SOFR) separan drenaje de reservas y precio repo contenido. España conserva continuidad institucional parcial y calendario futuro ([BOE20-oct](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21788)).
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; la cobertura por cláusula es la siguiente, sin convertir faltantes en cero.
+
+| Condición | Prueba / población | Resultado W43 |
+|---|---|---|
+| V01-01 | Spread interbancario >15 pb durante5 días hábiles | NO VERIFICABLE completo: SOFR contenido16–22 oct no representa todos los diferenciales interbancarios; falta benchmark inequívoco. [S04](https://fred.stlouisfed.org/series/SOFR)/[S05](https://fred.stlouisfed.org/series/IORB) |
+| V01-02 | Facilidades repo >50 BUSD durante >5 días hábiles | NO VERIFICABLE agregado/duración: Treasury overnight no sustituye totalSRF ni todos los días exigidos. [S06](https://fred.stlouisfed.org/series/RPONTSYD) |
+| V01-03 | BTC10Y/30Y <2,3 en dos emisiones sucesivas | NO VERIFICABLE: resultados primarios US7–8oct no recuperados completos. BTF de Francia no cumple universo. |
+| V01-04 | Soberano10Y >5% durante >10 sesiones | No se acredita secuencia actual completa: UST10Y4,96%22-oct interrumpe su secuencia; Francia solo22–23 supera5% en la semana. Benchmark debe identificarse. [S08](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23)/[S44](https://www.federalreserve.gov/releases/h15/) |
+
+### Definiciones canónicas conservadas
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## Observatorio V01 — C7/C8/C9/C22/C39/C40
+
+Seguir reembolsos solicitados/atendidos y mora por fondo; reservas/redenciones de stablecoins y depósitos; CAPEX/caja/deuda/compromisos de operadores IA; márgenes/ventas forzosas por fondo y cortes de infraestructura de pagos (horas/volumen). [GFSR octubre](https://www.imf.org/en/Publications/GFSR/Issues/2026/10/13/global-financial-stability-report-october-2026) identifica riesgos, no episodios nuevos. Cada registro conservará periodo, unidad, actor y primario. SOFR mediano no sustituye GCp99 ni SRF diario agregado.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 ultima_revision: 2026-10-17
 triggers_activos: 0
@@ -332,6 +389,8 @@ Registro inicial 27-sep: conservar diferencia entre CAPEX bruto, ajustado y anti
 ## Seguimiento aprobado W40 — C7/C8/C22
 
 Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de reembolsos (% de unidades y periodo), límites, mora/pérdidas y refinanciación; fuente SEC, fecha de presentación por verificar. Antecedentes heterogéneos: [PIF](https://www.sec.gov/Archives/edgar/data/1851322/000119312526395654/d154719dex99a1vi.htm) solicitudes11,4% frente a5%capacidad; [Fidelity](https://www.sec.gov/Archives/edgar/data/1920453/000119312526384555/d109827dex99a1vi.htm) solicitudes2,5% atendidas. No crisis sectorial acreditada. C8: reservas auditadas, composición en letras, redenciones y flujos (USD/mes), sin datos nuevos recuperados. C22 conserva panel de caja, deuda/vencimientos, anticipos, utilización y retorno; Micron positivo no representa agregado hyperscalers. Restricción delimitada con transmisión verificable genera propuesta humana, no alta automática.
+
+</details>
 
 </details>
 

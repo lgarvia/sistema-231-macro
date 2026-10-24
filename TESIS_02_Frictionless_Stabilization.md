@@ -3,6 +3,66 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-10-24
+corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
+corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
+alcance_actualizacion: "W43; revisión factual bajo A/B aprobadas TASK_255_ACTUALIZACION_231_W43; definición y soporte conservados"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Coerción modular; estabilización con validación propia"
+---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**Soporte conservado: Moderado-alto para coerción; eficacia estabilizadora en validación.** La revisión actualiza evidencia y límites, sin redefinir la tesis ni deducir soporte de la carga162,90.
+
+## 1. Definición
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## Contraste factual W43
+
+**Apoyo:** [DHS20-oct](https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive) y [MOFCOM52,19-oct](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_531d1a665fab4dafb810927f37788e24.html) añaden mecanismos de exclusión/procedimiento. Refuerzan diversidad de instrumentos, sin sumar cada norma como evento.
+
+**Contraevidencia:** [Interlocución GE Aerospace](https://www.mofcom.gov.cn/tpjj/art/2026/art_82a82dd6927d4ca49f88056133ee7344.html) conserva cooperación selectiva. Los trámites chinos incluyen facilidades/excepciones; una modificación normativa no demuestra endurecimiento neto.
+
+**Ambigüedad / alcance:** Exclusión administrativa no ejecución ni daño económico cuantificado; controles49–51 futuros; firma/excepciones íntegras DHS pendientes. El grado de coerción no acredita eficacia estabilizadora.
+
+**Próxima falsación:** Licencias, plazos y entregas verificadas por tecnología/sector; continuidad a coste sostenible. Ruptura persistente de flujos o desmantelamiento duradero del control delimitarían la formulación.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## Trazabilidad
+
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-10-17
 corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
 corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
@@ -479,6 +539,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

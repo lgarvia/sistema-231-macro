@@ -7,6 +7,63 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+revision_semanal_pendiente: false
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# Riesgo marítimo
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E1 · P4 · peso 4,50 · ↑ (factor 1.2) · carga 21,60 · V02.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]]. Comparador W42: E1 / P4 / peso 4,5 / ↑.
+
+| ID | Condición que debe cumplirse | Resultado W43 y siguiente prueba |
+|---|---|---|
+| M-A | **Dos brokers independientes o circular LMA/Lloyd's verificable** documentan prima adicional **≥1,5% del casco para el mismo corredor Ormuz/Bab el-Mandeb**, **o** retirada/denegación efectiva **≥48 horas**. | **No verificable completo.** JWLA035 lista áreas, no fija primas. LMA indica disponibilidad de cobertura bajo solicitud: no demuestra aceptación universal ni prima concreta; tampoco retirada efectiva por 48 h. Faltan cotizaciones comparables o prueba de denegación. [A04](https://lmalloyds.com/specialist_area/marine/). |
+| M-B | Ataque físico verificado **y hundimiento o daño estructural crítico**, sobre **VLCC petrolero o LNG gasero**, en **Ormuz/Bab el-Mandeb**. | **Parcial.** OMI documenta nuevos daños; no incorpora todas las cláusulas de este trigger. AL DASMA es oil carrier de 109.719 t de peso muerto según ClassNK: no llamarlo VLCC ni confundir cualquier daño con daño crítico. Faltan tipo y gravedad documentados para cada buque pertinente. [S19](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx), [A05](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9653446). |
+| M-C | Declaración **oficial de saturación de puertos africanos de servicio**, incapacitados para bunkering de tráfico desviado. | **No verificable.** No se recupera declaración portuaria que acredite saturación e incapacidad causal. Desvíos, congestión y precio del flete no completan esa conjunción. |
+| M-D | Cierre parcial **documentado de Ormuz** paraliza **>5 millones b/d** del suministro del Golfo durante **>48 horas**. | **No verificable.** Falta medición primaria de volumen y duración; incidentes acumulados no son barriles paralizados. |
+
+OMI 22-oct: 120 incidentes acumulados y 24 fallecidos. Las nuevas filas identificables del 18–20 oct constituyen evidencia de continuidad física, pero el incremento de un contador acumulado no equivale sin más a siete ataques ocurridos durante W43 ([S19](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx)).
+
+**Rectificación de método aplicada en W43:** la definición canónica M-A asigna ≥48 h a retirada/denegación. La tabla-resumen W42 añade «persistencia 48 h» al ramal de prima: no reproducir esa ampliación del requisito sin decisión. Auditar primas y retirada como ramas distintas; no tocar el histórico ni declarar una activación por corregir la redacción.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Riesgo marítimo"
+fecha: 2026-06-15
+source: Lloyd's Market Association Joint War Committee / IMO
+url: https://lmalloyds.com/committee/joint-war-committee/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [logística, fletes, guerra, ormuz, suez]
+tipo: evento
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 estado: E1
@@ -235,6 +292,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
 - **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
 - **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
+
+</details>
 
 </details>
 

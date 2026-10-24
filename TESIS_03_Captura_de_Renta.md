@@ -3,6 +3,66 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado
+ultima_actualizacion: 2026-10-24
+corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
+corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
+alcance_actualizacion: "W43; revisión factual bajo A/B aprobadas TASK_255_ACTUALIZACION_231_W43; definición y soporte conservados"
+vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Formulación causal conjunta; evidencia diferenciada por mecanismo"
+---
+
+# TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**Soporte conservado: Moderado para formulación causal conjunta.** La revisión actualiza evidencia y límites, sin redefinir la tesis ni deducir soporte de la carga162,90.
+
+## 1. Definición
+El esfuerzo residencial y la carga fiscal/contributiva pueden limitar ahorro y movilidad de determinados hogares cuando superan su mejora de renta y productividad. Su contribución respectiva y el eventual desplazamiento de inversión requieren medición separada por cohorte, territorio y tenencia
+
+España es el ámbito prioritario. Se distinguen propietarios e inquilinos, cohortes y territorios. La formulación no atribuye intención general a pensionistas o propietarios; tampoco traslada evidencia de un mecanismo a toda la explicación.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## Contraste factual W43
+
+**Apoyo:** [Eurostat21-oct](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp) aporta ratios de deudaQ2, no carga por cohorte ni desplazamiento de inversión. La prioridad española continúa en ejecución fiscal, renta y vivienda por mecanismos separados.
+
+**Contraevidencia:** [Convalidación publicada20-oct](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21788) muestra capacidad institucional parcial; dato de deuda española estable enQ2 no prueba bloqueo. Ninguna de estas pruebas resuelve esfuerzo residencial o incidencia contributiva.
+
+**Ambigüedad / alcance:** Sin nueva medición conjunta por cohorte/territorio/tenencia de renta, vivienda, impuestos, prestaciones y productividad. No se usan cifras del corpus personal sin contraste ni se eleva soporte por actualidad mediática.
+
+**Próxima falsación:** Comparar renta disponible real y ahorro frente a esfuerzo residencial/carga fiscal y productividad, con población y periodo compatibles. Mejoras que absorban esas cargas o explicaciones alternativas debilitan el nexo conjunto.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+## Trazabilidad
+
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_03
+estado: vigente
+soporte: moderado
 ultima_actualizacion: 2026-10-17
 corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
 corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
@@ -481,6 +541,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

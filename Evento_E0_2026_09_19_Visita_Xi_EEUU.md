@@ -4,6 +4,54 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+origen_alta: "Decisión humana C1 — TASK_118"
+calibracion: aplicada
+carga_activa: 7.6
+presion_numerica: 2
+peso_estructural: 3.8
+factor_tendencia: 1
+tags: [geopolitica, china, estados-unidos, diplomacia]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# EE. UU.–China / ejecución
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P2 · peso 3,80 · → (factor 1) · carga 7,60 · V06.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]. Comparador W42: E0 / P2 / peso 3,8 / →.
+
+- **Implementación de compromisos: parcial.** El marco anunciado en septiembre no demuestra contratos, inversión, licencias o entregas ejecutados nuevos durante W43.
+- **Novedad específica:** reunión con GE Aerospace del 21-oct, publicada 22-oct ([S37](https://www.mofcom.gov.cn/tpjj/art/2026/art_82a82dd6927d4ca49f88056133ee7344.html)), documenta interlocución corporativa. No equivale a entrega de los 30 BUSD anunciados ni demuestra por sí sola concesión atribuible a la visita.
+- **Falsación:** incumplimiento o suspensión formal, o ejecución verificable con cantidades/fechas y atribución. Cambios de precios necesitan controlar otras causas.
+- **Ciclo de vida:** la visita pasada no cierra automáticamente un seguimiento de ejecución. Anuncios 48–52 de MOFCOM se estudian por mecanismo comercial en V04; no se duplica su carga aquí. La resolución de la ficha dependerá de la implementación o absorción decidida por Luis.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "EE. UU.–China / ejecución"
+fecha: 2026-09-19
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
@@ -162,6 +210,8 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

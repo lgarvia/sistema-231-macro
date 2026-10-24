@@ -1,3 +1,48 @@
+# Inventario y vectores — Sistema231
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**12 eventos activos (10 E0 / 2 E1), todos calibrados; carga primaria total 162,90.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA|Grid IA]] | E0 | 4 | 4,60 | ↑ | 1,2 | V02 | 22,08 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre|Japón / liquidez]] | E0 | 4 | 4,50 | → | 1 | V01 | 18,00 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU|EE. UU.–China / ejecución]] | E0 | 2 | 3,80 | → | 1 | V06 | 7,60 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea|Deuda francesa]] | E0 | 3 | 4,60 | ↑ | 1,2 | V01 | 16,56 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno|Gas europeo / invierno]] | E0 | 3 | 3,90 | → | 1 | V02 | 11,70 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,90 | → | 1 | V04 | 7,80 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU|Midterms]] | E0 | 2 | 4,30 | → | 1 | V06 | 8,60 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal|España / elecciones y ejecución fiscal]] | E0 | 2 | 4,20 | → | 1 | V01 | 8,40 |
+| [[Evento_E0_2026_CoWoS_Capacity|CoWoS]] | E0 | 4 | 3,70 | ↑ | 1,2 | V03 | 17,76 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb|Riesgo marítimo]] | E1 | 4 | 4,50 | ↑ | 1,2 | V02 | 21,60 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+| [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil|DeepSeek / contratación federal civil]] | E0 | 2 | 3,20 | → | 1 | V04 | 6,40 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 42,96 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 55,38 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 17,76 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 30,60 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 16,20 |
+
+**155,80 → 162,90 (+7,10):** pesos A +2,34; tendencia Francia +2,76; absorción Unitree −4,40; alta C41 +6,40. Las presiones de continuidades se conservan. Carga ordinal: no es probabilidad, pérdida esperada ni deterioro empírico medido en7,10 puntos.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras revisión factual W43; no se derivan de la carga.
+
+**26 hitos abiertos (2 Régimen / 4 Crítico / 18 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 36 resoluciones acumuladas.** Horizonte24-oct–23-dic inclusive:60 días transcurridos/61 fechas.
+
+Unitree/C3 absorbida enV05 y archivada por decisiónB, sin perder sensores. C41 seguimiento administrativo federal civil; C42–C45 observatorioV04 y C46 Grid/V02. V05 carga0,00 no significa ausencia de riesgo. Sin nuevas E1. Clases, pesos y factores proceden de A/B aprobadas24-oct.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
 # VECTOR_00 — Índice del Sistema 231
 
 > Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
@@ -302,6 +347,8 @@ Seis vectores, seis tesis, ocho eventos (6 E0 / 2 E1). Radar: 22 hitos, 0 ventan
 UE 22/09; BoJ 24/09; cierre 25–30/09; Section 338 29/09; Micron 30/09. Japón B parcial, C/SRF sin estrés acreditado completo; las lagunas se conservan visibles. Xi admitido por Luis; fecha 24/09 de fuente secundaria, confirmación primaria pendiente. Midterms 03/11 con ficha; Unitree y el observatorio industrial sin fecha artificial. Detalle: [[Radar_Eventos_2026_09]].
 
 Conecta con [[TESIS_00_Indice]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]].
+
+</details>
 
 </details>
 

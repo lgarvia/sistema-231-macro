@@ -1,3 +1,29 @@
+# Tesis del Sistema231 — revisión factual W43
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras revisión factual W43; no se derivan de la carga.
+
+| Tesis | Soporte / alcance | Próxima prueba / falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Reversión sostenida de financiación con ejecución fiscal compatible; o evidencia de cambio de reacción monetaria destinado a proteger financiación soberana. España: presupuesto, pagos y subastas; calendario electoral no resultado. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; eficacia estabilizadora en validación | Licencias, plazos y entregas verificadas por tecnología/sector; continuidad a coste sostenible. Ruptura persistente de flujos o desmantelamiento duradero del control delimitarían la formulación. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Comparar renta disponible real y ahorro frente a esfuerzo residencial/carga fiscal y productividad, con población y periodo compatibles. Mejoras que absorban esas cargas o explicaciones alternativas debilitan el nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Alternativas utilizables con tiempos/costes sostenibles y normalización de seguros/suministro debilitarían el canal de encarecimiento; interrupción medida con efecto industrial lo reforzaría. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Operaciones liquidadas, activos y colateral admisible, costes/plazos frente a alternativa y origen de fondos; distinguir demanda adicional de sustitución. Mantener estado en validación. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo para dependencia física | Entregas/interconexión operativas, caja/deuda/compromisos, utilización recurrente, coste total por tarea/calidad y productividad frente a base. Capacidad y eficiencia suficientes pueden reducir congestión sin eliminar dependencia física. |
+
+**12 eventos activos (10 E0 / 2 E1), todos calibrados; carga primaria total 162,90.**
+
+Se conservan las seis identidades y formulaciones previas. Francia↑ no demuestra dominancia; restricciones tecnológicas no validan eficacia estabilizadora; retirar Unitree no refuta adopción industrial; infraestructura física no acredita retorno económico. Revisión interpretativa de17-oct conservada, sin atribuir nueva decisión de grados a Luis.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
 # TESIS_00 — Índice del Sistema 231
 
 > Precierre W42 · nominal 18-oct-2026 · corte factual 2026-10-17 11:51 Europe/Madrid. Domingo 18 no observado. A y B aprobadas por Luis, TASK_226. Versión W42 y revisión de tesis aprobadas para publicación por Luis el 17-oct-2026.
@@ -169,6 +195,8 @@ Dos soportes altos, dos moderado-altos y dos moderados. TESIS_05 permanece en va
 Un vínculo no equivale a validación; stock no es flujo; proyección no es observación; norma no es transmisión económica. Los sensores cerrados son memoria. La base anterior se conserva con su fecha y no se reetiqueta como novedad W38.
 
 [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]] · [[EVENTOS_CERRADOS_LOG]].
+
+</details>
 
 </details>
 

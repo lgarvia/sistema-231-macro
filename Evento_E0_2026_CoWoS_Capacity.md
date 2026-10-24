@@ -7,6 +7,61 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 3.7
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_255_ACTUALIZACION_231_W43, 24-oct-2026"
+---
+
+# CoWoS
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado vigente W43
+
+**E0 · P4 · peso 3,70 · ↑ (factor 1.2) · carga 17,76 · V03.**
+
+## Evidencia y auditoría al corte
+
+Ficha: [[Evento_E0_2026_CoWoS_Capacity]]. Comparador W42: E0 / P4 / peso 3,7 / ↑.
+
+| ID | Condición que debe cumplirse | Resultado W43 y siguiente prueba |
+|---|---|---|
+| C-A | Anuncio **oficial** de retraso de equipamiento/conexión de **AP7 Chiayi** que posponga producción en masa **más allá de H1 2027**. | **No verificable.** No se recupera tal anuncio. Ingresos, ampliaciones y guía TSMC no prueban por sí solos cumplimiento del calendario particular de AP7. [S21](https://pr.tsmc.com/english/news/3346)–[S22](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf). |
+| C-B | Problemas verificados de **yields CoWoS-L** reducen entregas físicas **Nvidia Blackwell un 20% por debajo de la guía Q4 2026**, con nexo causal. | **Periodo incompleto / no verificable.** Q4 no terminó; falta comparar entregas y guía, y atribuirlas al proceso concreto. La declaración de excelentes yields de 5x reticle es contraevidencia acotada: no resuelve todos los productos CoWoS-L/Blackwell. [S22](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf). |
+| C-C | Recorte **agregado >10%** de guía de CAPEX tecnológico de **hyperscalers** en resultados Q3/Q4 2026, que señale freno en adquisición física de aceleradores. | **No verificable completo.** No se reconstruye agregado homogéneo con guía anterior/nueva, universo y calendario fiscal. CAPEX de TSMC no es CAPEX de hyperscalers. El umbral de evento >10% no se sustituye por el umbral diferente de V03. |
+| C-D | Sobrecapacidad o contracción de pedidos lleva el **lead time de empaquetado CoWoS por debajo de 20 semanas de forma generalizada**. | **No verificable.** Falta distribución de plazos/pedidos que pruebe generalización y causa. TSMC reconoce escasez ligera en back-end; ASML describe otra fase de la cadena. Ninguno constituye una serie de plazos CoWoS. [S22](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)–[S23](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026). |
+
+Los resultados SK hynix del 28-oct siguen como próxima observación, no resultado incorporado ([S24](https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/)). Ni crecimiento de ventas ni un buen rendimiento industrial validan por sí solos rentabilidad del CAPEX de los clientes.
+
+## Decisión y transmisión
+
+Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "CoWoS"
+fecha: 2026-06-28
+source: TSMC / TrendForce / Micron / Silicon Analysts
+url: https://www.tsmc.com/
+vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
+tipo: evento
 ultima_revision: 2026-10-17
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 estado: E0
@@ -240,6 +295,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
 - **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
 - **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
+
+</details>
 
 </details>
 

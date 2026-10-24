@@ -2,6 +2,65 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+ultima_revision: 2026-10-24
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W43"
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado operativo W43
+
+**🟡 Moderada · → · carga primaria 0,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de carga o tendencia de ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| Ninguna ficha activa; observatorio operativo | 0,00 |
+
+## Evidencia y límites
+
+[ACEA22-oct](https://www.acea.auto/pc-registrations/new-car-registrations-5-7-in-september-2026-year-to-date-battery-electric-22-7-market-share/) aporta demanda y mezcla de motorización, no origen importado ni fabricación local. [Eurostat15-oct](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap) es antecedente de producción agosto. Unitree se absorbe por decisión editorial B, no por fracaso ni dos revisiones mensuales; [aviso21-oct](https://www.unitree.com/disclosure/listedinfo/announcement/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%20%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E5%BC%82%E5%B8%B8%E6%B3%A2%E5%8A%A8%E5%85%AC%E5%91%8A.pdf) no prueba productividad industrial.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; la cobertura por cláusula es la siguiente, sin convertir faltantes en cero.
+
+| Condición | Prueba / población | Resultado W43 |
+|---|---|---|
+| V05-01 | Déficit neto anual de previsión social >2%PIB | NO VERIFICABLE para último ejercicio cerrado;2026 incompleto. Previsión de gasto no es saldo neto anual contributivo. [S34](https://www.airef.es/wp-content/uploads/2026/04/Presupuestos-iniciales-2026/Informe-Presupuestos-Iniciales-2026.pdf) |
+| V05-02 | Ratio <1,4 cotizantes/pensionista durante ejercicio completo | NO VERIFICABLE: denominadores y ejercicio pendientes. No usar número de pensiones como personas ni afiliación puntual como promedio anual. |
+| V05-03 | Salida neta de CAPEX físico >5BUSD/año | NO VERIFICABLE: producción y matriculaciones no miden flujo neto de inversión física. [S31](https://www.acea.auto/pc-registrations/new-car-registrations-5-7-in-september-2026-year-to-date-battery-electric-22-7-market-share/)/[S32](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap) |
+| V05-04 | Importados avanzados >25% durante6 meses | NO ACREDITADO: BEV22,7% no es cuota importada y acumulado no acredita seis meses de persistencia. [S31](https://www.acea.auto/pc-registrations/new-car-registrations-5-7-in-september-2026-year-to-date-battery-electric-22-7-market-share/) |
+
+### Definiciones canónicas conservadas
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## Observatorio industrial, robótica y automoción — C3/C4/C24/C25
+
+Unitree/C3 absorbida el24-oct por aprobación B. Memoria: [[Evento_E0_2026_09_19_Robotica_Unitree]] en cerrados. Registrar cliente/planta/tarea, unidades entregadas/instaladas/operativas, horas útiles por robot/mes, fallos e intervenciones por hora, teleoperación, coste total/calidad por tarea y pedidos repetidos. Separar fuente de emisor y cliente final.
+
+Industria/automoción: producción, utilización%, empleo/personas/horas, cierres/relocalizaciones por planta/fecha, CAPEX físico ejecutado, valor añadido/productividad y comercio por origen/modelo; matriculaciones no producción ni cuota importada avanzada. Pensiones C5 mantiene cuentas netas y ratio contributivo anual pendientes; C25 requiere atribución por tarea, no empleo agregado como efecto IA.
+
+Carga primaria0,00 significa ninguna ficha activa en V05; presión moderada y observación se conservan. Revisión semanal no equivale a vigilancia continua. Reapertura de episodio con primario y decisión/calibración humana.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 ultima_revision: 2026-10-17
 triggers_activos: 0
@@ -318,6 +377,8 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 ## Registro industrial W40 — C4/C24/C25
 
 Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026» sin día/hora de publicación verificable antes del corte: no se admite como dato incremental W40. C25 observa empleo por ocupación, horas, salarios y uso productivo; BLS general no atribuye pérdida de empleo a IA. Sin datos nuevos de producción, utilización o cierres contrastados; no ausencia de actividad. Próxima serie comparable y causalidad, sin fecha artificial.
+
+</details>
 
 </details>
 

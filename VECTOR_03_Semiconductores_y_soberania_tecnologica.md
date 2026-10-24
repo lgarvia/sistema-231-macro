@@ -2,6 +2,61 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+ultima_revision: 2026-10-24
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W43"
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado operativo W43
+
+**🟠 Elevada · → · carga primaria 17,76.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de carga o tendencia de ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 17,76 |
+
+## Evidencia y límites
+
+[TSMC15-oct](https://pr.tsmc.com/english/news/3346) y [transcripción](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf) son antecedentes recontrastados: escasez de back-end y expansión con buenos yields. [ASML14-oct](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026) informa otra fase y previsión2027/28. No confundir litografía/HBM/CoWoS ni ventas con entregas o uso productivo. [Convocatoria21-oct](https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/) fija resultados SK hynix28-oct futuros.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; la cobertura por cláusula es la siguiente, sin convertir faltantes en cero.
+
+| Condición | Prueba / población | Resultado W43 |
+|---|---|---|
+| V03-01 | Desviación trimestral >15% en CAPEX agregado de hyperscalers | NO VERIFICABLE: falta agregado homogéneo de guía anterior/nueva y universo; CAPEX TSMC es del fabricante. [S22](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf) |
+| V03-02 | Lead time avanzado >24 semanas generalizado | NO VERIFICABLE: previsión ASML2027/28 y declaración de back-end no son distribución actual de plazos. [S22](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)/[S23](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026) |
+| V03-03 | Restricciones de nuevos nodos/arquitecturas de hardware | Alcance específico pendiente: DeepSeek es software federal civil;49–51 otros bienes;48 anexos técnicos sin auditoría completa. No homologar a nodos litográficos. [S25](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)/[S30](https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive) |
+| V03-04 | Fabricación comercial viable sub5nm sin litografía occidental | NO ACREDITADO: no se recupera nueva evidencia técnica auditable suficiente. |
+
+### Definiciones canónicas conservadas
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## Observatorio V03 — C20/C21/C33/C37
+
+CoWoS/HBM: capacidad, yields, plazos y entregas por producto; litografía ASML: equipos, pedidos, capacidad, aceptación y calendarios. C33/chips chinos continúa absorbido: roadmap no entrega comercial. Modelos: coste por tarea/calidad, energía, uso y dependencias. Contrastar fabricante→operador→usuario; CAPEX fabricante no agregado hyperscalers. Resultados28-oct son futuro sensor, no cifras adelantadas.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 ultima_revision: 2026-10-17
 triggers_activos: 0
@@ -290,6 +345,8 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

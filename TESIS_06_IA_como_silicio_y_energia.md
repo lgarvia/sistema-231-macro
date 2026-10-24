@@ -4,6 +4,69 @@ id: TESIS_06
 estado: vigente
 soporte: alto
 soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
+ultima_actualizacion: 2026-10-24
+corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
+corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
+alcance_actualizacion: "W43; revisión factual bajo A/B aprobadas TASK_255_ACTUALIZACION_231_W43; definición y soporte conservados"
+vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+---
+
+# TESIS_06: IA: infraestructura y conversión en productividad
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**Soporte conservado: Alto solo para dependencia física.** La revisión actualiza evidencia y límites, sin redefinir la tesis ni deducir soporte de la carga162,90.
+
+## 1. Definición
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## Contraste factual W43
+
+**Apoyo:** [PJM22-oct](https://insidelines.pjm.com/pjm-ferc-focus-on-large-load-challenges-at-tech-conference/) refuerza el eslabón eléctrico durante mantenimiento. [TSMC15-oct](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf) es antecedente recontrastado de back-end y capacidad; no novedad repetida.
+
+**Contraevidencia:** Capacidad y buenos yields del fabricante limitan una lectura de imposibilidad técnica. Absorber Unitree no refuta robótica: preserva sensores de uso enV05. Restricción regional no universal.
+
+**Ambigüedad / alcance:** Financiación por proyecto/empresa y productividad del usuario requieren pruebas propias: no extrapolar rentabilidad del fabricante, inversión anunciada o demostraciones robóticas.
+
+**Próxima falsación:** Entregas/interconexión operativas, caja/deuda/compromisos, utilización recurrente, coste total por tarea/calidad y productividad frente a base. Capacidad y eficiencia suficientes pueden reducir congestión sin eliminar dependencia física.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## Trazabilidad
+
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_06
+estado: vigente
+soporte: alto
+soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
 ultima_actualizacion: 2026-10-17
 corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
 corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
@@ -535,6 +598,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

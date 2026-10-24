@@ -3,6 +3,66 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-10-24
+corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
+corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
+alcance_actualizacion: "W43; revisión factual bajo A/B aprobadas TASK_255_ACTUALIZACION_231_W43; definición y soporte conservados"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**Soporte conservado: Moderado-alto.** La revisión actualiza evidencia y límites, sin redefinir la tesis ni deducir soporte de la carga162,90.
+
+## 1. Definición
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## Contraste factual W43
+
+**Apoyo:** [OMI22-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) mantiene incidentes físicos; [PJM22-oct](https://insidelines.pjm.com/pjm-ferc-focus-on-large-load-challenges-at-tech-conference/) documenta restricción operativa de un nodo energético. Vulnerabilidad local observada no pérdida global de suministro.
+
+**Contraevidencia:** [Panel GIE24-oct](https://www.gie.eu/) ofrece reposición indicativa; cobertura marítima bajo solicitud no equivale a cierre asegurador universal. Hay adaptación y alternativas, aunque su coste no esté medido íntegro.
+
+**Ambigüedad / alcance:** Faltan primas comparables, volumen/duración interrumpidos, tránsito y capacidad alternativa; no se atribuye pérdida energética a número de buques dañados.
+
+**Próxima falsación:** Alternativas utilizables con tiempos/costes sostenibles y normalización de seguros/suministro debilitarían el canal de encarecimiento; interrupción medida con efecto industrial lo reforzaría.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## Trazabilidad
+
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-10-17
 corte_factual_actual: "2026-10-17 11:51 Europe/Madrid"
 corte_factual_previo: "2026-10-10 20:38 Europe/Madrid"
@@ -478,6 +538,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

@@ -2,6 +2,62 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+ultima_revision: 2026-10-24
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W43"
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado operativo W43
+
+**🟡 Moderada · → · carga primaria 16,20.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de carga o tendencia de ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | 8,60 |
+
+## Evidencia y límites
+
+[Reunión GE Aerospace21-oct, publicada22-oct](https://www.mofcom.gov.cn/tpjj/art/2026/art_82a82dd6927d4ca49f88056133ee7344.html) y [comisión China–Rusia19-oct](https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_6ce5408b135340f8b132b11480202446.html) acreditan interlocución, no contratos o liquidación comercial. [FEC](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) mantiene3-nov futuro. [CIPS participantes septiembre](https://www.cips.com.cn/kjjqgsyyingw/index/index.shtml) no mide volumen mensual liquidado sinUSD. Cooperación selectiva y restricciones coexisten.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; la cobertura por cláusula es la siguiente, sin convertir faltantes en cero.
+
+| Condición | Prueba / población | Resultado W43 |
+|---|---|---|
+| V06-01 | Liquidación comercial alternativa >100BUSD/mes sostenida | NO VERIFICABLE: red CIPS no es serie comercial liquidada; falta persistencia. [S40](https://www.cips.com.cn/kjjqgsyyingw/index/index.shtml) |
+| V06-02 | Defensa de primer nivel +15% interanual, dos presupuestos | NO VERIFICABLE completo: agregado OTAN/estimaciones no sustituye dos presupuestos individuales homogéneos. [S35](https://www.nato.int/en/news-and-events/articles/news/2026/07/07/defence-investment-update-record-spending-in-europe-and-canada) |
+| V06-03 | Concesión o uso militar de base dual en estrecho | NO ACREDITADO nuevo: comisión China–Rusia no demuestra adjudicación/uso de base. [S38](https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_6ce5408b135340f8b132b11480202446.html) |
+| V06-04 | Acto único sobre activos de banco central extranjero >50BUSD | NO ACREDITADO nuevo: listados personales/corporativos no son reservas de banco central. [S36](https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/russia-s-war-of-aggression-against-ukraine-eu-agrees-largest-ever-package-of-listings-targeting-almost-1600-individuals-and-entities-in-russia-s-military-industrial-complex/)/[S43](https://www.consilium.europa.eu/en/press/press-releases/2026/09/22/ukraine-s-territorial-integrity-eu-extends-individual-listings-for-further-three-years/) |
+
+### Definiciones canónicas conservadas
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## Observatorio V06 — C6/C17/C18
+
+Sanciones: acto/vigencia y activos realmente afectados, no equiparar listados a reservas incautadas. Pagos: moneda/uso, volumen liquidado mensual y persistencia; participantes no liquidación. Rearme: presupuesto→contrato→entrega→operatividad por país. Sin nuevo episodio autónomo acreditado. Daños marítimos tienen carga en V02; solo hecho estatal independiente justificaría otra imputación V06.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 ultima_revision: 2026-10-17
 triggers_activos: 0
@@ -280,6 +336,8 @@ La fricción marítima en el corredor de Oriente Medio continúa contabilizada p
 ## Seguimiento W40 — C6/C17/C18 y ejecución bilateral C1
 
 C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es antecedente, no nuevo acto W40. C17: liquidación mensual comparable, miembros operativos y uso CIPS/mBridge, no anuncios. C18: contratos, entregas y capacidad, no equiparar presupuesto y producción. Xi mantiene [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución, carga7,60; no nueva fecha exacta de reunión ni doble carga arancelaria.
+
+</details>
 
 </details>
 

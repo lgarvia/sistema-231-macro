@@ -1,6 +1,43 @@
 ---
 titulo: "Unitree / robótica"
 fecha: 2026-09-19
+tipo: evento_cerrado
+estado: cerrado
+vector: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
+ultima_revision: 2026-10-24
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+origen_alta: "Decisión humana C3 — TASK_118"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 2.2
+fecha_decision_peso: 2026-10-24
+decision_peso: "Luis — A W43 previa a absorción"
+factor_tendencia: 1
+tags: [robotica, unitree, china, productividad, industria]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — B W43: absorción V05, 24-oct-2026"
+fecha_cierre: 2026-10-24
+motivo_cierre: "Absorción editorial C3 en observatorio industrial V05, aprobada Luis B W43"
+---
+
+# Unitree / robótica — absorbida en V05
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+**Cerrada por absorción editorial el24-oct2026, decisión B de Luis.** No fracaso del producto ni aplicación del criterio de dos revisiones mensuales. Memoria anterior íntegra en el historial. Peso2,5→2,2 aprobado en A antes del archivo; calibración histórica E0/P2/→, contribución intermedia4,40. Contribución activa actual0,00 por retirada del inventario.
+
+La decisión cambia la unidad de seguimiento: [[VECTOR_05_Transformacion_industrial_y_demografia#Observatorio industrial, robótica y automoción — C3/C4/C24/C25]] conserva clientes, tareas, horas útiles/mes, fallos e intervención humana, coste/calidad por tarea y pedidos repetidos. Fuente de emisor21-oct: [aviso2026-003](https://www.unitree.com/disclosure/listedinfo/announcement/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%20%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E5%BC%82%E5%B8%B8%E6%B3%A2%E5%8A%A8%E5%85%AC%E5%91%8A.pdf), sin nuevos KPI productivos auditados. No se diagnostica caída de productividad por falta de cobertura.
+
+Reapertura solo con episodio delimitado, primario y decisión/calibración humana. [[EVENTOS_CERRADOS_LOG]] · [[ACTUALIZACION_SEMANAL_231_2026_10_25]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+titulo: "Unitree / robótica"
+fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
@@ -148,6 +185,8 @@ Conecta con [[TESIS_06_IA_como_silicio_y_energia]], [[TESIS_03_Captura_de_Renta]
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 3, tendencia →, factor 1,0, carga 6,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

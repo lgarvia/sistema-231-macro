@@ -2,6 +2,65 @@
 presion: "🔴 CRÍTICA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
+ultima_revision: 2026-10-24
+triggers_activos: 1
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W43"
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
+
+## Estado operativo W43
+
+**🔴 Crítica · → · carga primaria 30,60.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de carga o tendencia de ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,80 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+| [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]] | 6,40 |
+
+## Evidencia y límites
+
+C38 conserva registro de tecnologías del anuncio48 ([MOFCOM16-oct](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)); su catálogo final sigue pendiente. C41 incorpora exclusión de contratación/software federal civil ([DHS20-oct](https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive)), separada de aranceles y del régimen chino. Tariff mantiene su activación heredada, sin cobro/efectos plenamente revalidados.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; la cobertura por cláusula es la siguiente, sin convertir faltantes en cero.
+
+| Condición | Prueba / población | Resultado W43 |
+|---|---|---|
+| V04-01 | Arancel extraordinario >20% en sectores estratégicos | Base jurídica heredada, sin reauditoría integral de cobro. DeepSeek y registros no son aranceles ni nueva recaudación acreditada. |
+| V04-02 | Desviación SCFI >20% frente a media90d, sostenida | NO VERIFICABLE: falta serie primaria homogénea y ventana completa. |
+| V04-03 | Comercio bilateral noUSD >50BUSD anuales | NO VERIFICABLE: participantes CIPS no equivalen a importe comercial liquidado. [S40](https://www.cips.com.cn/kjjqgsyyingw/index/index.shtml) |
+| V04-04 | IED industrial +30% interanual en jurisdicción puente | NO VERIFICABLE: anuncio de inversión o IED total no acreditan inversión industrial ejecutada. |
+
+### Definiciones canónicas conservadas
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## Observatorio V04 — C23/C27/C42–C45
+
+C42: [anuncio52,19-oct](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_531d1a665fab4dafb810927f37788e24.html), identificación aduanera de doble uso y no liberación durante examen, con facilidades y excepciones. No se acredita endurecimiento neto frente al régimen sustituido ni demora real por citar el texto. Registrar expediente/producto/destino, documentación completa, días hábiles y resolución.
+
+C43–C45: [drones49](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html), [tuneladoras50](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_1628d886f39840489513af242f93517b.html) y [dragas51](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html), publicados19-oct, vigencia18-nov futura. Universos y trámites distintos del48; no incorporar automáticamente a C38. Sensor: clasificación, destino, licencias/registro y entregas tras vigencia. C23 chips estadounidenses y C27 minerales/licencias siguen seguimiento por producto; no doble carga con C41 o Xi.
+
+
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+
+
+<details>
+<summary>Estado W42 y memoria previa — sustituido24-oct2026, preservado íntegro</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-17 11:51 Europe/Madrid"
 ultima_revision: 2026-10-17
 triggers_activos: 1
@@ -261,6 +320,8 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 
