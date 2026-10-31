@@ -4,6 +4,103 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.6
+fecha_decision_peso: 2026-10-24
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [francia, deuda-soberana, euro, fragmentacion]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+decision_peso: "Luis — A W43 aprobada24-oct"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# Deuda francesa
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P3 · peso 4,60 · → (factor 1) · carga 13,80 · V01.**
+
+## Evidencia y auditoría al corte
+
+**Observado:** TEC10 francés5,048%23-oct→4,930%30-oct:−11,8pb. Sesiones26–30oct:4,934/4,944/4,936/4,894/4,930% [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23)]. Es vencimiento constante, no un spreadOAT–Bund sincronizado. El >5%del22–23oct permanece como antecedente, no nivel actual.
+
+**Condiciones cualitativas:** coste soberano, absorción de deuda, persistencia y nexo bancario deben verificarse por separado. No se recupera una subasta larga homogénea o contagio bancario que completeE1. La reversión semanal justifica **↑→estable**, sin certificar saneamiento fiscal ni exigir↓.
+
+**Falsación:** financiación estable con ejecución fiscal y absorción compatibles debilitaría el estrés; deterioro persistente con colocaciones/crédito lo reforzaría. P3/peso4,6 conservados. No nuevo umbral numérico inventado.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; Francia ↑→estable; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "Deuda francesa"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.6
+fecha_decision_peso: 2026-10-24
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [francia, deuda-soberana, euro, fragmentacion]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+decision_peso: "Luis — A W43 aprobada24-oct"
+---
+
+# Deuda francesa
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P3 · peso 4,60 · → (factor 1) · carga 13,80 · V01.**
+
+## Evidencia y auditoría al corte
+
+**Observado:** TEC10 francés5,048%23-oct→4,930%30-oct:−11,8pb. Sesiones26–30oct:4,934/4,944/4,936/4,894/4,930% [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23)]. Es vencimiento constante, no un spreadOAT–Bund sincronizado. El >5%del22–23oct permanece como antecedente, no nivel actual.
+
+**Condiciones cualitativas:** coste soberano, absorción de deuda, persistencia y nexo bancario deben verificarse por separado. No se recupera una subasta larga homogénea o contagio bancario que completeE1. La reversión semanal justifica **↑→estable**, sin certificar saneamiento fiscal ni exigir↓.
+
+**Falsación:** financiación estable con ejecución fiscal y absorción compatibles debilitaría el estrés; deterioro persistente con colocaciones/crédito lo reforzaría. P3/peso4,6 conservados. No nuevo umbral numérico inventado.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; Francia ↑→estable; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "Deuda francesa"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
@@ -42,7 +139,7 @@ Ficha: [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]]. Comparad
 Luis aprueba A revisada y B principal el24-oct. Peso4,3→4,6 en A y tendencia→a↑ en B; E0/P3 conservados. Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -89,7 +186,7 @@ Las definiciones anteriores conservan umbral, duración, población y causalidad
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -122,7 +219,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -140,7 +237,7 @@ Luis solicita peso **4,3** y confirma «Aplica cambios y sigue». Peso vigente 4
 
 [AFT TEC10](https://www.aft.gouv.fr/fr/tec-10-du-jour): 4,90% al 01 y 02-oct frente a 4,63% al 25-sep (+27 pb). [Bundesbank, PDF fechado 01-oct](https://www.bundesbank.de/resource/blob/772218/c2957e9a34b596c0c5bb11811de0ff9e/472B63F073F071307366337C94F8C870/rendbund-data.pdf): 10Y 3,60% al 01-oct. Proxy TEC10−Bund =130 pb al 01-oct frente a105 al25-sep (+25 pb); no serie oficial homogénea OAT–Bund. No se compara Francia 02-oct con Alemania 01-oct como observación sincronizada. Tensión de financiación observada, contagio bancario/fragmentación/dominancia no demostrados.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -193,10 +290,14 @@ Intensificar si hay divergencia persistente con deterioro de colocaciones o tran
 
 26-sep: selección C10 aprobada por Luis. 27-sep: autorización del conjunto propuesto y aplicación local. Revisión semanal, sin vigilancia continua. La tesis personal de Luis queda pendiente de su formulación; el agente registra hechos y propone mecanismos.
 
-Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMISIONES]].
+Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANSMISIONES]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia ↑, factor 1,2, carga 14,4. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
+
+</details>
 
 </details>
 

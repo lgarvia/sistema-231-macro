@@ -275,7 +275,7 @@ Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 
 
 **19 hitos abiertos (2 Régimen / 3 Crítico / 12 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 31 resoluciones acumuladas.** Horizonte 10-oct–09-dic inclusive:60 d transcurridos/61 fechas.
 
-21−5+3=19 hitos;26+5=31 resoluciones. Cinco vencidos retirados de futuros: OPEP 04-oct (NO MATERIAL de cuota), comercio 06-oct (estadística materialsin D), subastas 07/08-oct (NO VERIFICABLE), MOF 08-oct (flujosmateriales Aincompleto), TSMC 08-oct (NO MATERIAL para A–D). Craig 10-oct siguependiente al corte: obligaciónencláusula D, Hvigencia; jornada USsinterminar ysinreporterecuperado, no incumplimientoinferido. Nuevos OPEP 01-nov, España 13-nov/29-nov. Horizonte+60 d hasta 09-dic; sin exhaustividadprometida ni fechasartificiales. [[Radar_Eventos_2026_10]].
+21−5+3=19 hitos;26+5=31 resoluciones. Cinco vencidos retirados de futuros: OPEP 04-oct (NO MATERIAL de cuota), comercio 06-oct (estadística materialsin D), subastas 07/08-oct (NO VERIFICABLE), MOF 08-oct (flujosmateriales Aincompleto), TSMC 08-oct (NO MATERIAL para A–D). Craig 10-oct siguependiente al corte: obligaciónencláusula D, Hvigencia; jornada USsinterminar ysinreporterecuperado, no incumplimientoinferido. Nuevos OPEP 01-nov, España 13-nov/29-nov. Horizonte+60 d hasta 09-dic; sin exhaustividadprometida ni fechasartificiales. [[Radar_Eventos_2026_10_r1]].
 
 ## Fuentes, método y límites
 

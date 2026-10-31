@@ -2,6 +2,201 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+## Estado operativo W44
+
+**🟡 Moderada · → · carga primaria 17,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | 9,40 |
+
+## Evidencia y límites
+
+[R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadoTSE25/26-oct es observado; política futura deBrasil no lo es. [S31](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)elecciónUS03-nov sigue futura yR03–05sondeos/competitividad no resultados. [R11](https://english.mofcom.gov.cn/News/SignificantNews/art/2026/art_4563e1bf2d9a45d38a4663496815d2e0.html)–12marco bilateral no flujos ejecutados; [S27](https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/)–28cooperaciónUE–Canadá/contrato marco no capacidad militar ya entregada. Mantener alcance institucional y evitar duplicar normas comercialesV04 o rutasV02.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V06-01 | alternativonoUSD>100BUSD/messostenido | No verificableliquidacióncomercial/moneda/persistencia. |
+| V06-02 | defensa+15%dos presupuestos | No verificabledos presupuestosindividualeshomogéneos;contratomarcoS28noesotest. |
+| V06-03 | basedualsoberanaenestrecho | No nuevaadjudicación/usomilitaracreditado;cooperaciónS27–28noequivale. |
+| V06-04 | decretoreservasBC>50BUSD | No nuevoactoacreditadoconpoblación/importe;listadoscorporativosnoreservasBC. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## Observatorio estructural — actualización W44
+
+**C6/C16/C17/C18/C19:** actos/vigencia yactivosreservasBCefectivos; volumencomercialliquidado por moneda/mes/persistencia; presupuesto→contrato→entrega→operatividad porpaís. Participantes/cumbre no liquidación; techo contractual no pago. Hecho militar soberano autónomo paraV06, sin duplicarMarítimoV02.
+
+**C48Brasil — observatorio autorizado, sin fichaE0:** [R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadooficial25/26-oct; observarcoalición/actos delnuevo mandato, decisionesinternacionales,tratados/ratificación ytransmisión efectiva. [L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)USD50,0B de posición decapital2024 porcontroladorúltimo español, no flujo anual ni pérdida. [L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)deuda98%proyectada enjulio no dato observado/últimavintageoctubre contrastada. EnlacesV04comercio/inversión yV01financiación, sin sumar esa exposición como carga.
+
+Sin fechafirme deactoadicional, no hito deBrasil inventado. Nueva decisión con alcance material permite proponer ficha calibrada aLuis; el altaalternativaC48 no fue elegida enB. Midtermsrequiere resultados/medidas; fecha03-nov no mayoría futura.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟡 Moderada · → · carga primaria 17,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | 9,40 |
+
+## Evidencia y límites
+
+[R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadoTSE25/26-oct es observado; política futura deBrasil no lo es. [S31](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)elecciónUS03-nov sigue futura yR03–05sondeos/competitividad no resultados. [R11](https://english.mofcom.gov.cn/News/SignificantNews/art/2026/art_4563e1bf2d9a45d38a4663496815d2e0.html)–12marco bilateral no flujos ejecutados; [S27](https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/)–28cooperaciónUE–Canadá/contrato marco no capacidad militar ya entregada. Mantener alcance institucional y evitar duplicar normas comercialesV04 o rutasV02.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V06-01 | alternativonoUSD>100BUSD/messostenido | No verificableliquidacióncomercial/moneda/persistencia. |
+| V06-02 | defensa+15%dos presupuestos | No verificabledos presupuestosindividualeshomogéneos;contratomarcoS28noesotest. |
+| V06-03 | basedualsoberanaenestrecho | No nuevaadjudicación/usomilitaracreditado;cooperaciónS27–28noequivale. |
+| V06-04 | decretoreservasBC>50BUSD | No nuevoactoacreditadoconpoblación/importe;listadoscorporativosnoreservasBC. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## Observatorio estructural — actualización W44
+
+**C6/C16/C17/C18/C19:** actos/vigencia yactivosreservasBCefectivos; volumencomercialliquidado por moneda/mes/persistencia; presupuesto→contrato→entrega→operatividad porpaís. Participantes/cumbre no liquidación; techo contractual no pago. Hecho militar soberano autónomo paraV06, sin duplicarMarítimoV02.
+
+**C48Brasil — observatorio autorizado, sin fichaE0:** [R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadooficial25/26-oct; observarcoalición/actos delnuevo mandato, decisionesinternacionales,tratados/ratificación ytransmisión efectiva. [L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)USD50,0B de posición decapital2024 porcontroladorúltimo español, no flujo anual ni pérdida. [L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)deuda98%proyectada enjulio no dato observado/últimavintageoctubre contrastada. EnlacesV04comercio/inversión yV01financiación, sin sumar esa exposición como carga.
+
+Sin fechafirme deactoadicional, no hito deBrasil inventado. Nueva decisión con alcance material permite proponer ficha calibrada aLuis; el altaalternativaC48 no fue elegida enB. Midtermsrequiere resultados/medidas; fecha03-nov no mayoría futura.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟡 Moderada · → · carga primaria 17,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,60 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | 9,40 |
+
+## Evidencia y límites
+
+[R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadoTSE25/26-oct es observado; política futura deBrasil no lo es. [S31](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)elecciónUS03-nov sigue futura yR03–05sondeos/competitividad no resultados. [R11](https://english.mofcom.gov.cn/News/SignificantNews/art/2026/art_4563e1bf2d9a45d38a4663496815d2e0.html)–12marco bilateral no flujos ejecutados; [S27](https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/)–28cooperaciónUE–Canadá/contrato marco no capacidad militar ya entregada. Mantener alcance institucional y evitar duplicar normas comercialesV04 o rutasV02.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. Urda no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V06-01 | alternativonoUSD>100BUSD/messostenido | No verificableliquidacióncomercial/moneda/persistencia. |
+| V06-02 | defensa+15%dos presupuestos | No verificabledos presupuestosindividualeshomogéneos;contratomarcoS28noesotest. |
+| V06-03 | basedualsoberanaenestrecho | No nuevaadjudicación/usomilitaracreditado;cooperaciónS27–28noequivale. |
+| V06-04 | decretoreservasBC>50BUSD | No nuevoactoacreditadoconpoblación/importe;listadoscorporativosnoreservasBC. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## Observatorio estructural — actualización W44
+
+**C6/C16/C17/C18/C19:** actos/vigencia yactivosreservasBCefectivos; volumencomercialliquidado por moneda/mes/persistencia; presupuesto→contrato→entrega→operatividad porpaís. Participantes/cumbre no liquidación; techo contractual no pago. Hecho militar soberano autónomo paraV06, sin duplicarMarítimoV02.
+
+**C48Brasil — observatorio autorizado, sin fichaE0:** [R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadooficial25/26-oct; observarcoalición/actos delnuevo mandato, decisionesinternacionales,tratados/ratificación ytransmisión efectiva. [L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)USD50,0B de posición decapital2024 porcontroladorúltimo español, no flujo anual ni pérdida. [L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)deuda98%proyectada enjulio no dato observado/últimavintageoctubre contrastada. EnlacesV04comercio/inversión yV01financiación, sin sumar esa exposición como carga.
+
+Sin fechafirme deactoadicional, no hito deBrasil inventado. Nueva decisión con alcance material permite proponer ficha calibrada aLuis; el altaalternativaC48 no fue elegida enB. Midtermsrequiere resultados/medidas; fecha03-nov no mayoría futura.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 ultima_revision: 2026-10-24
 triggers_activos: 0
@@ -48,7 +243,7 @@ Contadores previos conservados como heredados; la cobertura por cláusula es la 
 Sanciones: acto/vigencia y activos realmente afectados, no equiparar listados a reservas incautadas. Pagos: moneda/uso, volumen liquidado mensual y persistencia; participantes no liquidación. Rearme: presupuesto→contrato→entrega→operatividad por país. Sin nuevo episodio autónomo acreditado. Daños marítimos tienen carga en V02; solo hecho estatal independiente justificaría otra imputación V06.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -113,7 +308,7 @@ Contadores heredados **0 activos / 1 parciales**; no recuento de umbrales revali
 
 C6/C17/C18: instrumentos jurídicos efectivos, liquidación noUSD por mes, contratos y entregas de defensa y uso militar de bases, con universos comparables. Xi se mide por ejecución y Midterms por resultado oficial/legislación. [WEO 13-oct](https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026): proyecciones globales 2026/27 de 3,1%/3,4%, inflación 4,7%/4,1%, datos cerrados el 01-oct; son escenario macro, no sucesos ni resultado electoral. No nuevas fichas por evaluación general.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -156,7 +351,7 @@ C6/C17/C18: instrumentos jurídicos efectivos, liquidación noUSD por mes, contr
 - **Transmisión:** Impacta primariamente en V04 (quiebre del marco de garantías comerciales) y V02 (disrupción física de zonas marítimas exclusivas y de extracción energética).
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -181,7 +376,7 @@ Xi se mantiene por decisión de Luis tras valoración conjunta. [Board of Trade,
 
 Contadores heredados 0 activos/1 parcial. Acuerdo comercial no cumple guerra, defensa mutua o incautación; liquidación alternativa >100 B USD/mes y dos presupuestos de rearme >15% anual no verificados completos.
 
-Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10_r1]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
 
 
 **Decisión final Xi,03-oct:** mantener [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución de acuerdos, P2/peso3,8/→, carga7,60; once activos y total144,86. Archivo técnico rectificado tras análisis conjunto. Radar21 hitos, diálogoIA anunciado hasta30-nov. Prevalece este estado sobre el historial de reconsideración.
@@ -277,7 +472,7 @@ Los antecedentes conservados al final no son cotizaciones ni estados vigentes. L
 
 ## Rectificación y reconciliación — 06/09/2026 (TASK_090)
 
-Revisión de consistencia con eventos y radar: se conserva el estado operativo y la fecha del contraste factual anterior. Las futuras ventanas se consultan en [[Radar_Eventos_2026_10]]; no se añade carga por calendario ni se certifican de nuevo todas las fuentes estructurales.
+Revisión de consistencia con eventos y radar: se conserva el estado operativo y la fecha del contraste factual anterior. Las futuras ventanas se consultan en [[Radar_Eventos_2026_10_r1]]; no se añade carga por calendario ni se certifican de nuevo todas las fuentes estructurales.
 
 ## Revisión W37 — 12/09/2026 (TASK_099)
 
@@ -336,6 +531,12 @@ La fricción marítima en el corredor de Oriente Medio continúa contabilizada p
 ## Seguimiento W40 — C6/C17/C18 y ejecución bilateral C1
 
 C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es antecedente, no nuevo acto W40. C17: liquidación mensual comparable, miembros operativos y uso CIPS/mBridge, no anuncios. C18: contratos, entregas y capacidad, no equiparar presupuesto y producción. Xi mantiene [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución, carga7,60; no nueva fecha exacta de reunión ni doble carga arancelaria.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

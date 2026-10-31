@@ -1,6 +1,6 @@
 # RADAR DE EVENTOS — SEPTIEMBRE 2026
 
-> Histórico archivado 03-oct; radar activo [[Radar_Eventos_2026_10]]. Estado W39 conservado como memoria.
+> Histórico archivado 03-oct; radar activo [[Radar_Eventos_2026_10_r1]]. Estado W39 conservado como memoria.
 
 > **Versión:** 2.6 — TASK_148, precierre W39 reconciliado el 27-sep.
 > **Corte de evidencia nueva:** 26/09/2026 20:48 Europe/Madrid; aplicación 27-sep. Calendarios: fuentes y fecha de contraste diferenciadas en §7; no se anticipan resultados.

@@ -35,7 +35,7 @@ carga_activa: 0
 
 [Alibaba, anunciado 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V900 producción comercial Q1-2027; 650 clientes corresponden a la familia Zhenwu, no al V900. Antecedente recontrastado, sin nuevas entregas W40 verificadas. Peso 2,9 por menor novedad; fecha Q1-2027 fuera del radar 60 días. No certifica autosuficiencia ni rendimiento independiente.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -78,7 +78,7 @@ Conecta con [[TESIS_06_IA_como_silicio_y_energia]] como test de restricciones f�
 
 27-sep: alta C33 autorizada; revisión semanal, sin seguimiento automático. Tras dos revisiones mensuales sin señal adicional, proponer absorción en V03 o conservación prospectiva a Luis.
 
-Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMISIONES]].
+Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANSMISIONES]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 3, tendencia →, factor 1,0, carga 6,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].

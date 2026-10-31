@@ -3,6 +3,192 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Coerción modular; estabilización con validación propia"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+**Soporte conservado: Moderado-alto para coerción; eficacia estabilizadora en validación.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga154,36.
+
+## 1. Definición
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## Contraste factual W44
+
+**Apoyo:** [S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/)modifica perímetro arancelario yR10proponeOISP; muestran instrumentos diferenciados junto aregistroChina/DeepSeek [[S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)–[S19](https://www.govinfo.gov/content/pkg/FR-2026-10-20/html/2026-21447.htm)]. Propuesta yvigencia se separan deejecución.
+
+**Contraevidencia:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firmaChina–Suiza yS27cooperaciónUE–Canadá muestran selectividad, no ruptura total. [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propone suspensión yS22negociación: no endurecimiento automático.
+
+**Ambigüedad / alcance:** Sin licencias/entregas/cobros comparables que prueben estabilización. AnexosChina pendientes; el anexoDHS fue leído enTASK271 y se distingue emisión24-jul/publicación20-oct, sin ejecución poragencia probada. Firma/acuerdo no entradavigor ni efectomaterial por defecto.
+
+**Próxima falsación:** Texto final, licencias, plazos,costes yentregas porsector; continuidadsostenible vsinterrupciónpersistente. No validar eficacia por cada normanueva.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Coerción modular; estabilización con validación propia"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Moderado-alto para coerción; eficacia estabilizadora en validación.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga157,96.
+
+## 1. Definición
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## Contraste factual W44
+
+**Apoyo:** [S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/)modifica perímetro arancelario yR10proponeOISP; muestran instrumentos diferenciados junto aregistroChina/DeepSeek [[S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)–[S19](https://www.govinfo.gov/content/pkg/FR-2026-10-20/html/2026-21447.htm)]. Propuesta yvigencia se separan deejecución.
+
+**Contraevidencia:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firmaChina–Suiza yS27cooperaciónUE–Canadá muestran selectividad, no ruptura total. [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propone suspensión yS22negociación: no endurecimiento automático.
+
+**Ambigüedad / alcance:** Sin licencias/entregas/cobros comparables que prueben estabilización. AnexosChina pendientes; el anexoDHS fue leído enTASK271 y se distingue emisión24-jul/publicación20-oct, sin ejecución poragencia probada. Firma/acuerdo no entradavigor ni efectomaterial por defecto.
+
+**Próxima falsación:** Texto final, licencias, plazos,costes yentregas porsector; continuidadsostenible vsinterrupciónpersistente. No validar eficacia por cada normanueva.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Coerción modular; estabilización con validación propia"
+---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Moderado-alto para coerción; eficacia estabilizadora en validación.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga172,76.
+
+## 1. Definición
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## Contraste factual W44
+
+**Apoyo:** [S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/)modifica perímetro arancelario yR10proponeOISP; muestran instrumentos diferenciados junto aregistroChina/DeepSeek [[S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)–[S19](https://www.govinfo.gov/content/pkg/FR-2026-10-20/html/2026-21447.htm)]. Propuesta yvigencia se separan deejecución.
+
+**Contraevidencia:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firmaChina–Suiza yS27cooperaciónUE–Canadá muestran selectividad, no ruptura total. [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propone suspensión yS22negociación: no endurecimiento automático.
+
+**Ambigüedad / alcance:** Sin licencias/entregas/cobros comparables que prueben estabilización. AnexosChina/DHS pendientes. Firma/acuerdo no entradavigor ni efectomaterial por defecto.
+
+**Próxima falsación:** Texto final, licencias, plazos,costes yentregas porsector; continuidadsostenible vsinterrupciónpersistente. No validar eficacia por cada normanueva.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-10-24
 corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
 corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
@@ -49,10 +235,10 @@ La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora req
 
 ## Trazabilidad
 
-Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10_r1]].
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -124,7 +310,7 @@ La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora req
 - **Sensor central:** [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Ejecución bilateral en [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]; costes logísticos en [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Pruebas:** normas aplicadas, licencias concedidas, entregas, continuidad de flujos y costes por sector y periodo. Separar vigencia, autorización y operación ejecutada.
 - **España:** medir exportaciones, suministros y costes empresariales cuando exista transmisión atribuible; la relevancia doméstica no valida el mecanismo global.
-- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10_r1]].
 - **Vectores:** V04 dominante; V06 y V02 secundarios sin duplicación de carga.
 
 ## 6. Criterios de validación o refutación
@@ -141,7 +327,7 @@ La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora req
 
 Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -193,7 +379,7 @@ C38: [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] → V04; r
 - **Sensor central:** [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Ejecución bilateral en [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]; costes logísticos en [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Pruebas:** normas aplicadas, licencias concedidas, entregas, continuidad de flujos y costes por sector y periodo. Separar vigencia, autorización y operación ejecutada.
 - **España:** medir exportaciones, suministros y costes empresariales cuando exista transmisión atribuible; la relevancia doméstica no valida el mecanismo global.
-- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10_r1]].
 - **Vectores:** V04 dominante; V06 y V02 secundarios sin duplicación de carga.
 
 ## 6. Criterios de validación o refutación
@@ -210,7 +396,7 @@ El registro efectivo apoya la modularidad coercitiva; el catálogo final y su ef
 
 Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -251,7 +437,7 @@ Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 
 - **Sensor central:** [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Ejecución bilateral en [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]; costes logísticos en [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Pruebas:** normas aplicadas, licencias concedidas, entregas, continuidad de flujos y costes por sector y periodo. Separar vigencia, autorización y operación ejecutada.
 - **España:** medir exportaciones, suministros y costes empresariales cuando exista transmisión atribuible; la relevancia doméstica no valida el mecanismo global.
-- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Próximos controles:** datos comerciales 04-nov y ventana anunciada de diálogo IA hasta 30-nov, sin día exacto confirmado, en [[Radar_Eventos_2026_10_r1]].
 - **Vectores:** V04 dominante; V06 y V02 secundarios sin duplicación de carga.
 
 ## 6. Criterios de validación o refutación
@@ -320,7 +506,7 @@ Próxima falsación: Aplicación, licencias, flujos ycontinuidad/ruptura de acue
 - **Vectores secundarios:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
 - **Sensor central activo:** [[Evento_E1_2026_07_24_US_Tariff_Stack]].
 - **Sensores complementarios:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y la memoria cerrada [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]].
-- **Próximos puntos de control:** aplicación efectiva de medidas comerciales ya vigentes, datos comerciales 04-nov; publicación 06-oct ya consumida y ejecución de acuerdos Xi, incluida ventana anunciada de diálogo IA hasta 30-nov sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Próximos puntos de control:** aplicación efectiva de medidas comerciales ya vigentes, datos comerciales 04-nov; publicación 06-oct ya consumida y ejecución de acuerdos Xi, incluida ventana anunciada de diálogo IA hasta 30-nov sin día exacto confirmado, en [[Radar_Eventos_2026_10_r1]].
 
 ## 6. Criterios de validación o refutación
 
@@ -387,7 +573,7 @@ Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro c
 - **Vectores secundarios:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] y [[VECTOR_02_Energia_y_nodos_geoeconomicos]].
 - **Sensor central activo:** [[Evento_E1_2026_07_24_US_Tariff_Stack]].
 - **Sensores complementarios:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y la memoria cerrada [[231_Eventos_Cerrados/Evento_E0_2026_05_20_Taiwan_Riesgo_Estrecho]].
-- **Próximos puntos de control:** aplicación efectiva de medidas comerciales ya vigentes, datos comerciales 06-oct/04-nov y ejecución de acuerdos Xi, incluida ventana anunciada de diálogo IA hasta30-nov sin día exacto confirmado, en [[Radar_Eventos_2026_10]].
+- **Próximos puntos de control:** aplicación efectiva de medidas comerciales ya vigentes, datos comerciales 06-oct/04-nov y ejecución de acuerdos Xi, incluida ventana anunciada de diálogo IA hasta30-nov sin día exacto confirmado, en [[Radar_Eventos_2026_10_r1]].
 
 ## 6. Criterios de validación o refutación
 
@@ -534,11 +720,17 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 
 
-- **Próximos puntos de control:** ejecución estadounidense del 15 y 29/09, transmisión física de Section 301/338 y datos de precios, comercio e inventarios en [[Radar_Eventos_2026_10]].
+- **Próximos puntos de control:** ejecución estadounidense del 15 y 29/09, transmisión física de Section 301/338 y datos de precios, comercio e inventarios en [[Radar_Eventos_2026_10_r1]].
 </details>
 
 </details>
 
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

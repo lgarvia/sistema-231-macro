@@ -7,6 +7,119 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.6
+fecha_decision_peso: 2026-10-24
+decision_peso: "Luis — A W43 aprobada24-oct"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# Grid IA
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P4 · peso 4,60 · ↑ (factor 1.2) · carga 22,08 · V02.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| G-A | Moratoria **energética oficial** o denegación de derechos de conexión en **Loudoun** para CPD IA **>50 MW**. | **No verificable completo.** Propuesta de pausa urbanística y acuerdoAWS no acreditan denegación eléctrica específica/potencia; falta acto resolutivo aplicable. |
+| G-B | PJM/ERCOT emite **EEA ≥2**, por demanda conjunta de climatización residencial y CPD **en picos estivales de calor**. | **No verificable completo.** No se recupera registro que complete nivel, población y causalidad estival. No desplazar el requisito a otoño para activarlo. |
+| G-C | Orden vinculante DOE/FERC/RTO/ISO obliga explícitamente a CPD o grandes cargas **>50 MW**, o generación asociada, a autogeneración/corte **≥4 horas**. | **Parcial heredado; ejecución nueva no verificable.** Orden histórica no acredita toda población/horas; faltan instrucción y registro operativo aplicables. |
+| G-D | Ofgem/EirGrid aplica **curtailment forzoso efectivo** a CPD IA comerciales operativos **>100 MW combinados**. | **Parcial normativo.** [S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)confirma efecto27-oct deMPID345. Faltan cortes ejecutados, potencia agregada y población;FRT no equivale a corte. |
+| G-E | Moratoria hídrica municipal/estatal en **España o Irlanda** bloquea efectivamente licencias de agua de nuevos CPD IA **>50 MW**. | **No verificable.** Sin acto/proyecto/potencia/efecto recuperados; no se presume inexistencia. |
+| G-F | Sanción o demanda regulatoria de la **Comisión Europea**, a partir del registro EED, demuestra **WUE sectorial medio UE >0,5 L/kWh**. | **No verificable.** Faltan acto, media sectorial comparable y periodo; registroEED por sí solo no basta. |
+
+MPID345 es efectivo27-oct [[S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)]; permanencia en red no equivale a corte comercial. [L04](https://www.iea.org/reports/powering-artificial-intelligence),14-oct, es antecedente sobre restricciones y colas con proyectos duplicados/especulativos; solicitudes no son MW construidos. C14/C46 se integran sin otra carga.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "Grid IA"
+fecha: 2026-07-08
+source: PJM / ERCOT / Utilities / DOE / Arizona Dept of Water Resources
+url: https://www.ferc.gov/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
+tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.6
+fecha_decision_peso: 2026-10-24
+decision_peso: "Luis — A W43 aprobada24-oct"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+---
+
+# Grid IA
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P4 · peso 4,60 · ↑ (factor 1.2) · carga 22,08 · V02.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| G-A | Moratoria **energética oficial** o denegación de derechos de conexión en **Loudoun** para CPD IA **>50 MW**. | **No verificable completo.** Propuesta de pausa urbanística y acuerdoAWS no acreditan denegación eléctrica específica/potencia; falta acto resolutivo aplicable. |
+| G-B | PJM/ERCOT emite **EEA ≥2**, por demanda conjunta de climatización residencial y CPD **en picos estivales de calor**. | **No verificable completo.** No se recupera registro que complete nivel, población y causalidad estival. No desplazar el requisito a otoño para activarlo. |
+| G-C | Orden vinculante DOE/FERC/RTO/ISO obliga explícitamente a CPD o grandes cargas **>50 MW**, o generación asociada, a autogeneración/corte **≥4 horas**. | **Parcial heredado; ejecución nueva no verificable.** Orden histórica no acredita toda población/horas; faltan instrucción y registro operativo aplicables. |
+| G-D | Ofgem/EirGrid aplica **curtailment forzoso efectivo** a CPD IA comerciales operativos **>100 MW combinados**. | **Parcial normativo.** [S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)confirma efecto27-oct deMPID345. Faltan cortes ejecutados, potencia agregada y población;FRT no equivale a corte. |
+| G-E | Moratoria hídrica municipal/estatal en **España o Irlanda** bloquea efectivamente licencias de agua de nuevos CPD IA **>50 MW**. | **No verificable.** Sin acto/proyecto/potencia/efecto recuperados; no se presume inexistencia. |
+| G-F | Sanción o demanda regulatoria de la **Comisión Europea**, a partir del registro EED, demuestra **WUE sectorial medio UE >0,5 L/kWh**. | **No verificable.** Faltan acto, media sectorial comparable y periodo; registroEED por sí solo no basta. |
+
+MPID345 es efectivo27-oct [[S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)]; permanencia en red no equivale a corte comercial. [L04](https://www.iea.org/reports/powering-artificial-intelligence),14-oct, es antecedente sobre restricciones y colas con proyectos duplicados/especulativos; solicitudes no son MW construidos. C14/C46 se integran sin otra carga.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "Grid IA"
+fecha: 2026-07-08
+source: PJM / ERCOT / Utilities / DOE / Arizona Dept of Water Resources
+url: https://www.ferc.gov/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
+tipo: evento
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
@@ -48,7 +161,7 @@ Ficha: [[Evento_E0_2026_07_08_Grid_Stress_IA]]. Comparador W42: E0 / P4 / peso 4
 Luis aprueba A revisada y B principal el24-oct. Peso4,3→4,6 aprobado en A; E0/P4/↑ conservados en B. Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -108,7 +221,7 @@ La IA no es una nube virtual desmaterializada; es cobre, subestaciones eléctric
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -150,7 +263,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -164,7 +277,7 @@ Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Los canales
 
 [Orden DOE 202-26-49, publicada 25-sep](https://www.energy.gov/documents/doe-order-no-202-26-49): Craig1, vigencia 27-sep–25-dic; exige disponibilidad y despacho cuando necesario, no acredita despacho realizado ni CPD >50 MW obligado ≥4h. Informe de disponibilidad exigido 10-oct. A/B sin moratoria energética o EEA2 por CPD+calor acreditadas; C no cumple condiciones completas; D/E/F sin evidencia suficiente de curtailment, moratoria hídrica o sanción WUE. Menor novedad relativa no prueba resolución del problema. C14 agua se integra aquí.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -309,6 +422,10 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 
 
 **Rectificación 27-sep:** el historial W36 atribuyó DOE38 a Stanton y afirmó expiración sin extensión. El [índice DOE 2026](https://www.energy.gov/ceser/2026-doe-202c-orders), consultado 27-sep, identifica 38 con Guam y 42 con Stanton (2-sep–30-nov). Aquella frase no se reutiliza como evidencia de alivio.
+
+</details>
+
+</details>
 
 </details>
 

@@ -7,6 +7,117 @@ vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 moc: "[[MOC_Politica_Monetaria]]"
 tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
 tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# Japón / liquidez
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P4 · peso 4,50 · → (factor 1) · carga 18,00 · V01.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| J-A | JGB 30Y frente a UST 30Y cubierto a yenes favorable al japonés durante **más de 15 días hábiles consecutivos**, junto con **dos meses consecutivos** de ventas/no reinversión institucional de bonos extranjeros, MOF/TIC. | **Parcial.** [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)venta deuda larga18–24oct−92,6BJPY. Faltan diferencial cubierto diario y dos meses institucionales;BoJ1,25 no los sustituye. |
+| J-B | Impuestos corporativos del **15-sep** elevan TGA **>900 BUSD** y provocan reservas **<3,1 TUSD en la misma quincena**. | **Parcial histórico/no verificable causal.** [S07](https://fred.stlouisfed.org/series/WRESBAL)–08octubre no reabren la ventana de septiembre ni prueban el nexo fiscal original. |
+| J-C1 | SOFR−IORB **>8 pb durante tres días hábiles consecutivos**. | **No activado con evidencia23–29oct.** +2/+3/+5/+4/+4pb [[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)]. No extender a observaciones posteriores no publicadas. |
+| J-C2 | Alternativamente, dispersión del **percentil 99 de GC repo >25 pb**. | **No verificable.** Benchmark de dispersión no definido inequívocamente y serie comparable no recuperada; medianaSOFR no la refuta. |
+| J-D | SRF **>20 BUSD diarios durante más de dos días consecutivos alrededor del 25–30 sep**. | **No verificable retrospectivo.** Falta serie diaria íntegra/agregado correcto de ventana cerrada. No llamar periodo futuro/incompleto a septiembre ya terminado. |
+
+BoJ30-oct mantiene1,25% y anuncia mayor ritmo de ventasETF desdeenero2027 [[S04](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf)]; no ventas ya ejecutadas. MOF29-oct:deuda exterior larga18–24oct−92,6BJPY; revisión11–17oct−161,6→−160,5BJPY [[S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)]. SOFR−IORB23/26/27/28/29oct=+2/+3/+5/+4/+4pb [[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)]. Reservas medias28-oct2.893.770MUSD(−68.837M) yTGA999.727M(+47.725M) [[S07](https://fred.stlouisfed.org/series/WRESBAL)–[S08](https://fred.stlouisfed.org/series/WTREGEN)]; no prueba causal de la quincena fiscal de septiembre.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "Japón / liquidez"
+fecha: 2026-08-16
+source: Bank of Japan / Japan Ministry of Finance / U.S. Treasury TIC / Federal Reserve
+url: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+moc: "[[MOC_Politica_Monetaria]]"
+tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
+tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-10-17
+decision_peso: "Luis — A TASK_226, Perfecto. Ejecútalo"
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+---
+
+# Japón / liquidez
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P4 · peso 4,50 · → (factor 1) · carga 18,00 · V01.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| J-A | JGB 30Y frente a UST 30Y cubierto a yenes favorable al japonés durante **más de 15 días hábiles consecutivos**, junto con **dos meses consecutivos** de ventas/no reinversión institucional de bonos extranjeros, MOF/TIC. | **Parcial.** [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)venta deuda larga18–24oct−92,6BJPY. Faltan diferencial cubierto diario y dos meses institucionales;BoJ1,25 no los sustituye. |
+| J-B | Impuestos corporativos del **15-sep** elevan TGA **>900 BUSD** y provocan reservas **<3,1 TUSD en la misma quincena**. | **Parcial histórico/no verificable causal.** [S07](https://fred.stlouisfed.org/series/WRESBAL)–08octubre no reabren la ventana de septiembre ni prueban el nexo fiscal original. |
+| J-C1 | SOFR−IORB **>8 pb durante tres días hábiles consecutivos**. | **No activado con evidencia23–29oct.** +2/+3/+5/+4/+4pb [[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)]. No extender a observaciones posteriores no publicadas. |
+| J-C2 | Alternativamente, dispersión del **percentil 99 de GC repo >25 pb**. | **No verificable.** Benchmark de dispersión no definido inequívocamente y serie comparable no recuperada; medianaSOFR no la refuta. |
+| J-D | SRF **>20 BUSD diarios durante más de dos días consecutivos alrededor del 25–30 sep**. | **No verificable retrospectivo.** Falta serie diaria íntegra/agregado correcto de ventana cerrada. No llamar periodo futuro/incompleto a septiembre ya terminado. |
+
+BoJ30-oct mantiene1,25% y anuncia mayor ritmo de ventasETF desdeenero2027 [[S04](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf)]; no ventas ya ejecutadas. MOF29-oct:deuda exterior larga18–24oct−92,6BJPY; revisión11–17oct−161,6→−160,5BJPY [[S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)]. SOFR−IORB23/26/27/28/29oct=+2/+3/+5/+4/+4pb [[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)]. Reservas medias28-oct2.893.770MUSD(−68.837M) yTGA999.727M(+47.725M) [[S07](https://fred.stlouisfed.org/series/WRESBAL)–[S08](https://fred.stlouisfed.org/series/WTREGEN)]; no prueba causal de la quincena fiscal de septiembre.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "Japón / liquidez"
+fecha: 2026-08-16
+source: Bank of Japan / Japan Ministry of Finance / U.S. Treasury TIC / Federal Reserve
+url: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+moc: "[[MOC_Politica_Monetaria]]"
+tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
+tipo: evento
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
@@ -47,7 +158,7 @@ Ficha: [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]]. Compara
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -110,7 +221,7 @@ La política monetaria en 2026 ya no se juega en las ruedas de prensa sobre tipo
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -150,7 +261,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -164,7 +275,7 @@ Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales
 
 [H.4.1, publicado 01-oct](https://www.federalreserve.gov/releases/h41/current/): al 30-sep TGA 984.046 M USD (+36.729 frente a 23-sep) y reservas 2.881.686 M USD (−88.236); media semanal de reservas 2.948.090 M USD (+17.897), distinta del saldo puntual. [SOFR](https://fred.stlouisfed.org/series/SOFR) 25/28/29/30-sep y 01-oct: 3,90/3,90/3,88/3,90/3,87%, frente a [IORB](https://fred.stlouisfed.org/series/IORB) 3,90%: 0/0/−2/0/−3 pb. No activa la rama SOFR (>8 pb durante tres días). SRF diario y GC p99 no verificables; el repo en balance de 1.200 M USD no es volumen diario SRF. SOFR 02-oct se publica fuera del corte. [MOF, publicado 01-oct](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf): ventas netas de deuda exterior larga de 1.904,9 y 684,5 miles de millones JPY en 13–19 y 20–26-sep. Revisión 06–12-sep: +1.082,9 → +1.091,0 (+8,1). Dos semanas no cumplen dos meses; falta diferencial 30Y cubierto >15 días hábiles. B parcial por saldos y causalidad incompleta; D, ventana vencida, NO VERIFICABLE sin SRF diario. Peso baja dos décimas por menor incidencia tras el cierre, manteniendo relevancia alta.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -347,6 +458,10 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger D (Uso de Facilidad de Respaldo SRF):** La Standing Repo Facility (SRF) de la Reserva Federal registra operaciones de provisión de liquidez superiores a 20 B$ diarios durante más de dos días consecutivos alrededor del cierre de trimestre (25–30 de septiembre). **Estado al corte: VENTANA PENDIENTE (25–30/09). Fuera de ella, el máximo diario observado de 254 M$ no cruza 20 B$. Se corrige «absorción» por «provisión» de liquidez, conservando importe y duración.**
 
 ---
+
+</details>
+
+</details>
 
 </details>
 

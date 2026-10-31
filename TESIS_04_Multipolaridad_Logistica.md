@@ -3,6 +3,192 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+**Soporte conservado: Moderado-alto.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga154,36.
+
+## 1. Definición
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## Contraste factual W44
+
+**Apoyo:** [ACER27-oct](https://acer.europa.eu/news/eu-gas-storage-75-filled) y [OMI30-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) mantienen exposición energética y riesgo de rutas. Urda se excluye como apoyo macro vigente por decisión de Luis; no se extrapola su interrupción a evidencia sistémica.
+
+**Contraevidencia:** menor demanda de gas indicada porACER y capacidad de adaptación limitan ruptura inevitable. Faltan costes comparables y capacidad alternativa efectivamente utilizada; no se usa elPAT ferroviario como contrapeso de una tesis macro.
+
+**Ambigüedad / alcance:** Sin volumen/duración interrumpidos homogéneos, primas comparables o capacidad alternativa realizada. ContadorOMI no barriles; anuncio de sustitución no capacidad real.
+
+**Próxima falsación:** flujos, seguros, tránsito y alternativas energéticas/logísticas operativas a coste sostenible. Normalización persistente debilitaría fricción; interrupción medida con efecto industrial la reforzaría.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Moderado-alto.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga157,96.
+
+## 1. Definición
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## Contraste factual W44
+
+**Apoyo:** [ACER27-oct](https://acer.europa.eu/news/eu-gas-storage-75-filled) y [OMI30-oct](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) mantienen exposición energética y riesgo de rutas. Urda se excluye como apoyo macro vigente por decisión de Luis; no se extrapola su interrupción a evidencia sistémica.
+
+**Contraevidencia:** menor demanda de gas indicada porACER y capacidad de adaptación limitan ruptura inevitable. Faltan costes comparables y capacidad alternativa efectivamente utilizada; no se usa elPAT ferroviario como contrapeso de una tesis macro.
+
+**Ambigüedad / alcance:** Sin volumen/duración interrumpidos homogéneos, primas comparables o capacidad alternativa realizada. ContadorOMI no barriles; anuncio de sustitución no capacidad real.
+
+**Próxima falsación:** flujos, seguros, tránsito y alternativas energéticas/logísticas operativas a coste sostenible. Normalización persistente debilitaría fricción; interrupción medida con efecto industrial la reforzaría.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Moderado-alto.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga172,76.
+
+## 1. Definición
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## Contraste factual W44
+
+**Apoyo:** [R01](https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/comunicado-renfe-accidente-urda)interrupciónUrda es prueba local de dependencia de nodo; [S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)gas yS13incidentes marítimos mantienen preguntas de resiliencia. AltaE1Urda no implica desabastecimiento general ni validación global.
+
+**Contraevidencia:** Alternativas programadasRenfe ymenor demanda de gas indicadaACER limitan ruptura inevitable [[R01](https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/comunicado-renfe-accidente-urda),[S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)]; aún hay que medir prestación ycoste efectivo.
+
+**Ambigüedad / alcance:** Sin volumen/duración interrumpidos homogéneos, primas comparables o capacidad alternativa realizada. ContadorOMI no barriles; trenprogramado no circulación.
+
+**Próxima falsación:** Restitución yalternativas utilizables a coste/tiempos sostenibles debilitarían fricciónpersistente; interrupciónmedida conefectoindustrial/turístico la reforzaría sin extrapolar local→global.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-10-24
 corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
 corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
@@ -49,10 +235,10 @@ La autonomía depende de alternativas operativas y capacidad de absorber fricci�
 
 ## Trazabilidad
 
-Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10_r1]].
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -125,7 +311,7 @@ La autonomía depende de alternativas operativas y capacidad de absorber fricci�
 - **Sensores activos:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
 - **España:** fuentes efectivas de suministro, alternativas disponibles, flujos de gas, costes energéticos industriales y duración de sus efectos. Medir capacidad utilizable y sustitución efectiva, sin presumirlas.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física → transmisión a precios y actividad. Ningún peldaño sustituye al siguiente.
-- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10]]. Reunión 04-oct ya consumida.
+- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10_r1]]. Reunión 04-oct ya consumida.
 - **Observatorios:** GNSS y Taiwán en V02/V06; sólo reabren ante evidencia material.
 
 ## 6. Criterios de validación o refutación
@@ -142,7 +328,7 @@ La autonomía depende de alternativas operativas y capacidad de absorber fricci�
 
 Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -194,7 +380,7 @@ Para España se sigue la cadena incidente → seguro y transporte → suministro
 - **Sensores activos:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
 - **España:** fuentes efectivas de suministro, alternativas disponibles, flujos de gas, costes energéticos industriales y duración de sus efectos. Medir capacidad utilizable y sustitución efectiva, sin presumirlas.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física → transmisión a precios y actividad. Ningún peldaño sustituye al siguiente.
-- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10]]. Reunión 04-oct ya consumida.
+- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10_r1]]. Reunión 04-oct ya consumida.
 - **Observatorios:** GNSS y Taiwán en V02/V06; sólo reabren ante evidencia material.
 
 ## 6. Criterios de validación o refutación
@@ -211,7 +397,7 @@ Moderado-alto conservado. Faltan dos primas, tránsito homogéneo, fletes y sust
 
 Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -255,7 +441,7 @@ Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 
 - **Sensores activos:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] y [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]].
 - **España:** fuentes efectivas de suministro, alternativas disponibles, flujos de gas, costes energéticos industriales y duración de sus efectos. Medir capacidad utilizable y sustitución efectiva, sin presumirlas.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física → transmisión a precios y actividad. Ningún peldaño sustituye al siguiente.
-- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10]]. Reunión 04-oct ya consumida.
+- **Próximos controles:** OPEP 01-nov, seguros, tránsito y flujos en [[Radar_Eventos_2026_10_r1]]. Reunión 04-oct ya consumida.
 - **Observatorios:** GNSS y Taiwán en V02/V06; sólo reabren ante evidencia material.
 
 ## 6. Criterios de validación o refutación
@@ -322,7 +508,7 @@ Próxima falsación: Tránsito, primas/fletes, flujos GNL, alternativasoperativa
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Sensor activo:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Observatorios transferidos:** GNSS y Taiwán permanecen en V02/V06 y en sus fichas cerradas; sólo reabren ante trigger material.
-- **Sensores próximos:** reunión de siete países participantes OPEP+ del 04-oct (no JMMC), seguros, tránsito, flujos de gas y ejecución comercial en [[Radar_Eventos_2026_10]]; EIA continúa como fuente V02.
+- **Sensores próximos:** reunión de siete países participantes OPEP+ del 04-oct (no JMMC), seguros, tránsito, flujos de gas y ejecución comercial en [[Radar_Eventos_2026_10_r1]]; EIA continúa como fuente V02.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física. Ningún peldaño sustituye automáticamente al siguiente.
 
 ## 6. Criterios de validación o refutación
@@ -388,7 +574,7 @@ Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro c
 - **Vectores secundarios:** [[VECTOR_04_Reconfiguracion_del_comercio_global]] y [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 - **Sensor activo:** [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]].
 - **Observatorios transferidos:** GNSS y Taiwán permanecen en V02/V06 y en sus fichas cerradas; sólo reabren ante trigger material.
-- **Sensores próximos:** reunión de siete países participantes OPEP+ del04-oct (no JMMC), seguros, tránsito, flujos de gas y ejecución comercial en [[Radar_Eventos_2026_10]]; EIA continúa como fuente V02.
+- **Sensores próximos:** reunión de siete países participantes OPEP+ del04-oct (no JMMC), seguros, tránsito, flujos de gas y ejecución comercial en [[Radar_Eventos_2026_10_r1]]; EIA continúa como fuente V02.
 - **Escalera probatoria:** incidente verificado → encarecimiento o retirada de cobertura → desvío o interrupción física. Ningún peldaño sustituye automáticamente al siguiente.
 
 ## 6. Criterios de validación o refutación
@@ -533,11 +719,17 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 
 
-- **Sensores próximos:** ejecución Section 338 del 29/09, JMMC de OPEP+ del 04/10 y sanciones UE en [[Radar_Eventos_2026_10]]; EIA se mantiene como fuente de seguimiento de V02, sin presuponer una fila en el radar actual.
+- **Sensores próximos:** ejecución Section 338 del 29/09, JMMC de OPEP+ del 04/10 y sanciones UE en [[Radar_Eventos_2026_10_r1]]; EIA se mantiene como fuente de seguimiento de V02, sin presuponer una fila en el radar actual.
 </details>
 
 </details>
 
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

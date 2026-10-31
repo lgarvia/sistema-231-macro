@@ -4,6 +4,101 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "Decisión humana C1 — TASK_118"
+calibracion: aplicada
+carga_activa: 7.6
+presion_numerica: 2
+peso_estructural: 3.8
+factor_tendencia: 1
+tags: [geopolitica, china, estados-unidos, diplomacia]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# EE. UU.–China / ejecución
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P2 · peso 3,80 · → (factor 1) · carga 7,60 · V06.**
+
+## Evidencia y auditoría al corte
+
+**Hecho y alcance:** [R11](https://english.mofcom.gov.cn/News/SignificantNews/art/2026/art_4563e1bf2d9a45d38a4663496815d2e0.html)–[R12](https://www.whitehouse.gov/wp-content/uploads/2026/09/Terms-of-Reference-for-30-for-30-Framework.pdf) describen compromisos bilaterales de septiembre y procedimientos domésticos pendientes. No se recupera ejecución cuantificada nueva atribuible a esos compromisos. El diálogo conserva valor como canal, sin convertirlo en entregas.
+
+**Condiciones cualitativas:** acto aplicable → licencia/contrato → suministro/inversión material. Conversaciones, firma o suspensión propuesta [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm) no completan la cadena. No se documenta ruptura formal que justifique cerrar la ficha.
+
+**Próxima prueba y falsación:** contrastar actos por partida, licencias y flujos ejecutados con periodo/base; incumplimiento persistente o cancelación formal delimitarían el mecanismo. No dar por efectivo el30-for-30 al30-oct sin acto primario suficiente.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "EE. UU.–China / ejecución"
+fecha: 2026-09-19
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "Decisión humana C1 — TASK_118"
+calibracion: aplicada
+carga_activa: 7.6
+presion_numerica: 2
+peso_estructural: 3.8
+factor_tendencia: 1
+tags: [geopolitica, china, estados-unidos, diplomacia]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+---
+
+# EE. UU.–China / ejecución
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P2 · peso 3,80 · → (factor 1) · carga 7,60 · V06.**
+
+## Evidencia y auditoría al corte
+
+**Hecho y alcance:** [R11](https://english.mofcom.gov.cn/News/SignificantNews/art/2026/art_4563e1bf2d9a45d38a4663496815d2e0.html)–[R12](https://www.whitehouse.gov/wp-content/uploads/2026/09/Terms-of-Reference-for-30-for-30-Framework.pdf) describen compromisos bilaterales de septiembre y procedimientos domésticos pendientes. No se recupera ejecución cuantificada nueva atribuible a esos compromisos. El diálogo conserva valor como canal, sin convertirlo en entregas.
+
+**Condiciones cualitativas:** acto aplicable → licencia/contrato → suministro/inversión material. Conversaciones, firma o suspensión propuesta [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm) no completan la cadena. No se documenta ruptura formal que justifique cerrar la ficha.
+
+**Próxima prueba y falsación:** contrastar actos por partida, licencias y flujos ejecutados con periodo/base; incumplimiento persistente o cancelación formal delimitarían el mecanismo. No dar por efectivo el30-for-30 al30-oct sin acto primario suficiente.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "EE. UU.–China / ejecución"
+fecha: 2026-09-19
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
@@ -40,7 +135,7 @@ Ficha: [[Evento_E0_2026_09_19_Visita_Xi_EEUU]]. Comparador W42: E0 / P2 / peso 3
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -87,7 +182,7 @@ Las definiciones anteriores conservan umbral, duración, población y causalidad
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -120,7 +215,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -132,7 +227,7 @@ Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]].
 
 **E0 · P2 · peso3,8 · →(1,0) · carga7,60 · V06.** Luis aprueba mantener el seguimiento tras considerar Tudanca y el contraste primario. El archivo técnico previo fue prematuro y se rectifica; visita ya celebrada, ejecución todavía por comprobar. No ascenso a E1 ni doble carga de aranceles.
 
-[USTR27-sep](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade): recomendaciones de trato futuro. [Comunicado oficial chino28-sep](https://english.www.gov.cn/news/202609/28/content_WS6aba53c5c6d00ca5f9a0d803.html): procesos domésticos pendientes y próximo diálogoIA antes de fin de noviembre. Anuncio de una parte, sin día exacto confirmado ni resultado anticipado; ventana en [[Radar_Eventos_2026_10]]. Fuentes anteriores al corte03-oct02:06, recuperadas en reconsideración posterior.
+[USTR27-sep](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade): recomendaciones de trato futuro. [Comunicado oficial chino28-sep](https://english.www.gov.cn/news/202609/28/content_WS6aba53c5c6d00ca5f9a0d803.html): procesos domésticos pendientes y próximo diálogoIA antes de fin de noviembre. Anuncio de una parte, sin día exacto confirmado ni resultado anticipado; ventana en [[Radar_Eventos_2026_10_r1]]. Fuentes anteriores al corte03-oct02:06, recuperadas en reconsideración posterior.
 
 **Sensores:** instrumentos legales efectivos; cumplimiento/operaciones/licencias documentados; celebración y contenido del diálogo/canalIA. Revisar al finalizar noviembre. Proponer cierre cuando no haya mecanismo autónomo o quede absorbido por otras fichas/vectores; ausencia de noticia no demuestra fracaso. Las normas arancelarias puntúan en Tariff Stack; aquí se sigue implementación bilateral y mecanismoIA.
 
@@ -210,6 +305,10 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
+
+</details>
 
 </details>
 

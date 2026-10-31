@@ -7,6 +7,107 @@ tipo: evento
 vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 estado_seguimiento: en_observacion
 candidato_origen: C38
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.9
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha_decision_peso: 2026-10-24
+decision_peso: "Luis — A W43 aprobada24-oct"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# China: registro y controles de exportación de tecnologías estratégicas
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P2 · peso 3,90 · → (factor 1) · carga 7,80 · V04.**
+
+## Evidencia y auditoría al corte
+
+**Hecho:** anuncio48,16-oct, registro temporal y consulta hasta15-nov recontrastados [[S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)]. Es antecedente jurídico vigente, no nueva prohibición general aprobadaW44. Anexos técnicosWPS no auditados.
+
+**Condiciones cualitativas:** registro/expediente → licencia, plazo y transferencia efectiva. Sin catálogo definitivo ni denegación/entrega impedida recuperada. Anuncios49–52 y propuestaOISP estadounidense tienen objetos distintos; no amplían esta ficha por defecto.
+
+**Próxima prueba:** texto final/vigencia, tecnología/destino, expedientes comparables, plazos y entregas. Presión2 y tendencia estable conservadas; consulta futura no resultado.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "China: registro y controles de exportación de tecnologías estratégicas"
+fecha: 2026-10-16
+source: "MOFCOM / Ministerio de Ciencia y Tecnología"
+url: https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html
+tipo: evento
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+estado_seguimiento: en_observacion
+candidato_origen: C38
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.9
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha_decision_peso: 2026-10-24
+decision_peso: "Luis — A W43 aprobada24-oct"
+---
+
+# China: registro y controles de exportación de tecnologías estratégicas
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P2 · peso 3,90 · → (factor 1) · carga 7,80 · V04.**
+
+## Evidencia y auditoría al corte
+
+**Hecho:** anuncio48,16-oct, registro temporal y consulta hasta15-nov recontrastados [[S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)]. Es antecedente jurídico vigente, no nueva prohibición general aprobadaW44. Anexos técnicosWPS no auditados.
+
+**Condiciones cualitativas:** registro/expediente → licencia, plazo y transferencia efectiva. Sin catálogo definitivo ni denegación/entrega impedida recuperada. Anuncios49–52 y propuestaOISP estadounidense tienen objetos distintos; no amplían esta ficha por defecto.
+
+**Próxima prueba:** texto final/vigencia, tecnología/destino, expedientes comparables, plazos y entregas. Presión2 y tendencia estable conservadas; consulta futura no resultado.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "China: registro y controles de exportación de tecnologías estratégicas"
+fecha: 2026-10-16
+source: "MOFCOM / Ministerio de Ciencia y Tecnología"
+url: https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html
+tipo: evento
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+estado_seguimiento: en_observacion
+candidato_origen: C38
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 estado: E0
@@ -43,7 +144,7 @@ Ficha: [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]]. Compara
 Luis aprueba A revisada y B principal el24-oct. Peso3,6→3,9 aprobado en A; E0/P2/→ conservados. Anuncios49–52 siguen separados en observatorioV04. Imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -93,6 +194,10 @@ Ficha nueva de seguimiento administrativo: registro efectivo y catálogo final s
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+</details>
+
+</details>
 
 </details>

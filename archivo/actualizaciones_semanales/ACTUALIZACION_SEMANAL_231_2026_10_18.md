@@ -197,7 +197,7 @@ Versión W42 y revisión de seis tesis aprobadas para publicación por Luis el 1
 
 El informe W41 sustituido se conserva íntegro en archivo. Publicación con lista explícita de 33 archivos del satélite, excluyendo notas privadas, temporales y siete históricos con cambios previos ajenos. Base remota W41 commit 19d44da comprobada antes de publicar; recepción y commit W42 se verifican y registran al cierre de la publicación. Los pendientes de evidencia señalados no se sustituyen por cero ni se consideran decisiones de calibración pendientes.
 
-[[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 <details>
 <summary>Estado anterior a la revisión interpretativa aprobada el 17-oct-2026 — histórico</summary>
 
@@ -398,6 +398,6 @@ Cada dato anterior enlaza documento primario y especifica publicación/periodo/u
 
 Aplicación y reconciliación local TASK_226; fichas/vectores/tesis/radar/índices/Salud/mapa/README y solo bloques 231 de Dashboard/Snapshot/mapa del vault. Informe W41 sustituido conservado íntegro en archivo. PublicaciónW42 pendiente de autorización; sin commit/push y sin tocar los siete históricos staged ajenos. Última publicación conocidaW41 commit 19d44da; conectividad actual remota no verificada. Comprobaciones estructurales y numéricas en registroCOMM y scratch/task226_validation.json.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 </details>

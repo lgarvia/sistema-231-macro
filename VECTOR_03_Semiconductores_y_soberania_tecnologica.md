@@ -2,6 +2,192 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+## Estado operativo W44
+
+**🟠 Elevada · → · carga primaria 19,68.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 19,68 |
+
+## Evidencia y límites
+
+[S14](https://news.skhynix.com/en/q3-2026-business-results/)resultadosSKhynix28-oct/HBM4 yS15–16/R06PPE/caja de operadores refuerzan eslabones físicos distintos. [R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)TSMC15-oct yR07GF08-oct son antecedentes: buenosyields y oferta futura limitan escasez universal. No plazos/yields específicosCoWoS ni entregasBlackwell recuperados. Dependencia física no implica retorno del operador ni productividad del usuario.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V03-01 | desviacióntrimestral>15%guíaagregadaCAPEX | No verificableagregadohomogéneo;[S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)PPErealizado no esguidance. |
+| V03-02 | leadtimeavanzado>24semanasgeneralizado | No verificableplazos; no confundir conC-D<20. |
+| V03-03 | restriccionesnuevosnodoshardware | No nueva activación hardware acreditada: softwareDeepSeek y maquinaria232sonotrosobjetos. |
+| V03-04 | comercialsub5nmsinlitografíaoccidental | No verificableevidenciatécnicaauditada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## Observatorio estructural — actualización W44
+
+**C20HBM:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)capacidad/entregas/yields/plazos porgeneración/periodo; LTA ycapacidadvendida no todo producido. **CoWoS/C37litografía:** pedidos/entregas/plazos/rendimiento/aceptación, fabricanteyproducto definidos; HBM/interposer/empaquetado no una mismaetapa. **C21modelos:** tarea/calidad constante, energía/latencia/fiabilidad/costeútil, no solo token.
+
+**C33Alibaba/chips chinos:** mantener absorción; entregas/clientes/pruebas/capacidadreal porproducto, no roadmap. [R07](https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/)rampaGF2028 no suministroactual. C22financiación resideV01; V05mide uso productivo final. Ruptura verificable permite propuesta específica aLuis sin alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟠 Elevada · → · carga primaria 19,68.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 19,68 |
+
+## Evidencia y límites
+
+[S14](https://news.skhynix.com/en/q3-2026-business-results/)resultadosSKhynix28-oct/HBM4 yS15–16/R06PPE/caja de operadores refuerzan eslabones físicos distintos. [R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)TSMC15-oct yR07GF08-oct son antecedentes: buenosyields y oferta futura limitan escasez universal. No plazos/yields específicosCoWoS ni entregasBlackwell recuperados. Dependencia física no implica retorno del operador ni productividad del usuario.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V03-01 | desviacióntrimestral>15%guíaagregadaCAPEX | No verificableagregadohomogéneo;[S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)PPErealizado no esguidance. |
+| V03-02 | leadtimeavanzado>24semanasgeneralizado | No verificableplazos; no confundir conC-D<20. |
+| V03-03 | restriccionesnuevosnodoshardware | No nueva activación hardware acreditada: softwareDeepSeek y maquinaria232sonotrosobjetos. |
+| V03-04 | comercialsub5nmsinlitografíaoccidental | No verificableevidenciatécnicaauditada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## Observatorio estructural — actualización W44
+
+**C20HBM:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)capacidad/entregas/yields/plazos porgeneración/periodo; LTA ycapacidadvendida no todo producido. **CoWoS/C37litografía:** pedidos/entregas/plazos/rendimiento/aceptación, fabricanteyproducto definidos; HBM/interposer/empaquetado no una mismaetapa. **C21modelos:** tarea/calidad constante, energía/latencia/fiabilidad/costeútil, no solo token.
+
+**C33Alibaba/chips chinos:** mantener absorción; entregas/clientes/pruebas/capacidadreal porproducto, no roadmap. [R07](https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/)rampaGF2028 no suministroactual. C22financiación resideV01; V05mide uso productivo final. Ruptura verificable permite propuesta específica aLuis sin alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟠 Elevada · → · carga primaria 19,68.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 19,68 |
+
+## Evidencia y límites
+
+[S14](https://news.skhynix.com/en/q3-2026-business-results/)resultadosSKhynix28-oct/HBM4 yS15–16/R06PPE/caja de operadores refuerzan eslabones físicos distintos. [R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)TSMC15-oct yR07GF08-oct son antecedentes: buenosyields y oferta futura limitan escasez universal. No plazos/yields específicosCoWoS ni entregasBlackwell recuperados. Dependencia física no implica retorno del operador ni productividad del usuario.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. Urda no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V03-01 | desviacióntrimestral>15%guíaagregadaCAPEX | No verificableagregadohomogéneo;[S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)PPErealizado no esguidance. |
+| V03-02 | leadtimeavanzado>24semanasgeneralizado | No verificableplazos; no confundir conC-D<20. |
+| V03-03 | restriccionesnuevosnodoshardware | No nueva activación hardware acreditada: softwareDeepSeek y maquinaria232sonotrosobjetos. |
+| V03-04 | comercialsub5nmsinlitografíaoccidental | No verificableevidenciatécnicaauditada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## Observatorio estructural — actualización W44
+
+**C20HBM:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)capacidad/entregas/yields/plazos porgeneración/periodo; LTA ycapacidadvendida no todo producido. **CoWoS/C37litografía:** pedidos/entregas/plazos/rendimiento/aceptación, fabricanteyproducto definidos; HBM/interposer/empaquetado no una mismaetapa. **C21modelos:** tarea/calidad constante, energía/latencia/fiabilidad/costeútil, no solo token.
+
+**C33Alibaba/chips chinos:** mantener absorción; entregas/clientes/pruebas/capacidadreal porproducto, no roadmap. [R07](https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/)rampaGF2028 no suministroactual. C22financiación resideV01; V05mide uso productivo final. Ruptura verificable permite propuesta específica aLuis sin alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 ultima_revision: 2026-10-24
 triggers_activos: 0
@@ -47,7 +233,7 @@ Contadores previos conservados como heredados; la cobertura por cláusula es la 
 CoWoS/HBM: capacidad, yields, plazos y entregas por producto; litografía ASML: equipos, pedidos, capacidad, aceptación y calendarios. C33/chips chinos continúa absorbido: roadmap no entrega comercial. Modelos: coste por tarea/calidad, energía, uso y dependencias. Contrastar fabricante→operador→usuario; CAPEX fabricante no agregado hyperscalers. Resultados28-oct son futuro sensor, no cifras adelantadas.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -111,7 +297,7 @@ C37 litografía: [ASML Q3, 14-oct](https://www.investor.asml.com/news-releases/n
 
 C20 HBM integrado en seguimiento de CoWoS; C21 modelos: coste por tarea, calidad, energía, uso efectivo con benchmarks compatibles. C33 Alibaba absorbido10-oct: [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]] es memoria cerrada; V900 Q1 2027 es anuncio fuera del horizonte. Indicadores: yields, entregas por modelo/trimestre, clientes, cargas productivas, coste/calidad/consumo y dependencias. No nueva prueba comparable recuperada; no ausencia de actividad inferida. Reapertura solo con episodio específico y selección/calibración de Luis.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -159,7 +345,7 @@ C20 HBM integrado en seguimiento de CoWoS; C21 modelos: coste por tarea, calidad
 
 Luisautoriza absorción 10-oct; memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. [Alibaba 22-sep](https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1): V 900 Q1 2027 anunciado;650 clientesfamilia Zhenwu. Indicadores: producción/entregas(unidadesportrimestre ymodelo), clientes, horas/cargasproductivas, yields%, coste/tarea/calidad/consumo, componentesydependencias. Sin nuevos KPIrecuperados W41. Abrir/reabrirsolo tras episodioespecífico/uso verificable yselección/calibración Luis; sin carga delobservatorio.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -179,7 +365,7 @@ Luisautoriza absorción 10-oct; memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alib
 
 Contadores heredados 0 activos/1 parcial. Ingresos Micron no prueban CAPEX agregado, lead times generalizados, yields CoWoS o bypass de litografía. No nueva activación completa.
 
-Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10_r1]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
 
 <details>
 <summary>Estado operativo W39 sustituido; memoria íntegra</summary>
@@ -345,6 +531,12 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

@@ -3,6 +3,198 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+**Soporte conservado: Moderado.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga154,36.
+
+## 1. Definición
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## Contraste factual W44
+
+**Apoyo:** [S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)documenta exposición de energía; [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)ventas exteriores de deuda japonesa yS07–08reservas/TGA ilustran restricciones de financiación con periodos propios. España mantiene próximos pasos institucionales [[S30](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)], no ejecuciónfiscal ya demostrada.
+
+**Contraevidencia:** Fed28-oct,BCE29-oct yBoJ30-oct mantienen tipos [[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm),[S03](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html),[S04](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf)]; no prueba de reacción subordinada al fisco. FranciaTEC10revierte11,8pbsemanales ySOFR−IORBno cumple>8pb3d [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23),[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)].
+
+**Ambigüedad / alcance:** Faltan diferencial cubierto15d+flujosinstitucionales2meses, SRF/GCp99, curvas/subastas homogéneas ycausalidad de reacciónmonetaria. El eventual canal electoral de Urda es una hipótesis secundaria, sin prueba de infrafinanciación o crisis soberana y sin carga propia.
+
+**Próxima falsación:** Presupuesto/ejecución/subastas yfinanciaciónestable; o cambio de reacciónBC destinado a proteger soberano en conflicto conprecios. Proximidad electoral ysalidaBCE no lo demuestran.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_01
+estado: vigente
+soporte: moderado
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Moderado.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga157,96.
+
+## 1. Definición
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## Contraste factual W44
+
+**Apoyo:** [S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)documenta exposición de energía; [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)ventas exteriores de deuda japonesa yS07–08reservas/TGA ilustran restricciones de financiación con periodos propios. España mantiene próximos pasos institucionales [[S30](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)], no ejecuciónfiscal ya demostrada.
+
+**Contraevidencia:** Fed28-oct,BCE29-oct yBoJ30-oct mantienen tipos [[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm),[S03](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html),[S04](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf)]; no prueba de reacción subordinada al fisco. FranciaTEC10revierte11,8pbsemanales ySOFR−IORBno cumple>8pb3d [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23),[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)].
+
+**Ambigüedad / alcance:** Faltan diferencial cubierto15d+flujosinstitucionales2meses, SRF/GCp99, curvas/subastas homogéneas ycausalidad de reacciónmonetaria. El eventual canal electoral de Urda es una hipótesis secundaria, sin prueba de infrafinanciación o crisis soberana y sin carga propia.
+
+**Próxima falsación:** Presupuesto/ejecución/subastas yfinanciaciónestable; o cambio de reacciónBC destinado a proteger soberano en conflicto conprecios. Proximidad electoral ysalidaBCE no lo demuestran.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_01
+estado: vigente
+soporte: moderado
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
+---
+
+# TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Moderado.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga172,76.
+
+## 1. Definición
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## Contraste factual W44
+
+**Apoyo:** [S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)documenta exposición de energía; [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)ventas exteriores de deuda japonesa yS07–08reservas/TGA ilustran restricciones de financiación con periodos propios. España mantiene próximos pasos institucionales [[S30](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)], no ejecuciónfiscal ya demostrada.
+
+**Contraevidencia:** Fed28-oct,BCE29-oct yBoJ30-oct mantienen tipos [[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm),[S03](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html),[S04](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf)]; no prueba de reacción subordinada al fisco. FranciaTEC10revierte11,8pbsemanales ySOFR−IORBno cumple>8pb3d [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23),[S02](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm),[S06](https://fred.stlouisfed.org/series/SOFR)].
+
+**Ambigüedad / alcance:** Faltan diferencial cubierto15d+flujosinstitucionales2meses, SRF/GCp99, curvas/subastas homogéneas ycausalidad de reacciónmonetaria. Urda no acredita infrafinanciación ni crisis soberana.
+
+**Próxima falsación:** Presupuesto/ejecución/subastas yfinanciaciónestable; o cambio de reacciónBC destinado a proteger soberano en conflicto conprecios. Proximidad electoral ysalidaBCE no lo demuestran.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_01
+estado: vigente
+soporte: moderado
 ultima_actualizacion: 2026-10-24
 corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
 corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
@@ -51,10 +243,10 @@ España es un ámbito prioritario de contraste: gobernabilidad → presupuesto �
 
 ## Trazabilidad
 
-Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10_r1]].
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -129,7 +321,7 @@ España es un ámbito prioritario de contraste: gobernabilidad → presupuesto �
 
 - **Sensores activos:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]], [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] y [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]].
 - **España:** resultado oficial, acuerdos de gobernabilidad, presupuesto y ejecución, saldo primario, subastas y diferencial España–Bund con vencimiento y fecha comparables. Contrastar después la reacción del BCE; no imputar a la elección movimientos anteriores a la convocatoria.
-- **Próximos controles:** MOF 22-oct, decisiones monetarias de octubre, flujos MOF 10-nov y TIC 18-nov en [[Radar_Eventos_2026_10]]. TIC 16-oct ya consumido; subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
+- **Próximos controles:** MOF 22-oct, decisiones monetarias de octubre, flujos MOF 10-nov y TIC 18-nov en [[Radar_Eventos_2026_10_r1]]. TIC 16-oct ya consumido; subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
 - **Transmisión:** V01; vínculos secundarios V05 y V06 sin carga adicional.
 
 ## 6. Criterios de validación o refutación
@@ -146,7 +338,7 @@ España es un ámbito prioritario de contraste: gobernabilidad → presupuesto �
 
 Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -200,7 +392,7 @@ España es un ámbito prioritario de contraste: elecciones → gobernabilidad �
 
 - **Sensores activos:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]], [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] y [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]].
 - **España:** resultado oficial, acuerdos de gobernabilidad, presupuesto y ejecución, saldo primario, subastas y diferencial España–Bund con vencimiento y fecha comparables. Contrastar después la reacción del BCE; no imputar a la elección movimientos anteriores a la convocatoria.
-- **Próximos controles:** MOF 22-oct, decisiones monetarias de octubre, flujos MOF 10-nov y TIC 18-nov en [[Radar_Eventos_2026_10]]. TIC 16-oct ya consumido; subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
+- **Próximos controles:** MOF 22-oct, decisiones monetarias de octubre, flujos MOF 10-nov y TIC 18-nov en [[Radar_Eventos_2026_10_r1]]. TIC 16-oct ya consumido; subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
 - **Transmisión:** V01; vínculos secundarios V05 y V06 sin carga adicional.
 
 ## 6. Criterios de validación o refutación
@@ -217,7 +409,7 @@ No se ha probado que el banco central subordine estabilidad de precios a financi
 
 Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -263,7 +455,7 @@ Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 
 
 - **Sensores activos:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]], [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] y [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]].
 - **España:** resultado oficial, acuerdos de gobernabilidad, presupuesto y ejecución, saldo primario, subastas y diferencial España–Bund con vencimiento y fecha comparables. Contrastar después la reacción del BCE; no imputar a la elección movimientos anteriores a la convocatoria.
-- **Próximos controles:** TIC 16-oct, decisiones monetarias de octubre y flujos MOF 10-nov en [[Radar_Eventos_2026_10]]. Subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
+- **Próximos controles:** TIC 16-oct, decisiones monetarias de octubre y flujos MOF 10-nov en [[Radar_Eventos_2026_10_r1]]. Subastas 07–08 oct y MOF 08-oct quedan como antecedentes con sus lagunas.
 - **Transmisión:** V01; vínculos secundarios V05 y V06 sin carga adicional.
 
 ## 6. Criterios de validación o refutación
@@ -334,7 +526,7 @@ Próxima falsación: Absorciónsubastas, diferencial cubierto, spreadscomparable
 - **Evento sensor activo:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]].
 - **Restricción fiscal europea:** [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]], sin validación automática de dominancia monetaria.
 - **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]] y [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_07_02_US_NFP]].
-- **Próximos sensores:** TIC 16-oct, flujos MOF 10-nov y decisiones monetarias deoctubre en [[Radar_Eventos_2026_10]]. Subastas 07–08 oct y MOF 08-oct ya resueltos con sus lagunas.
+- **Próximos sensores:** TIC 16-oct, flujos MOF 10-nov y decisiones monetarias deoctubre en [[Radar_Eventos_2026_10_r1]]. Subastas 07–08 oct y MOF 08-oct ya resueltos con sus lagunas.
 
 ## 6. Criterios de validación o refutación
 
@@ -403,7 +595,7 @@ Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro c
 - **Evento sensor activo:** [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]].
 - **Restricción fiscal europea:** [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]], sin validación automática de dominancia monetaria.
 - **Memoria de contraste:** [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_06_20_Stress_Colateral_SOFR]] y [[20 Académico/23 MOC/231 Eventos/231_Eventos_Cerrados/Evento_E0_2026_07_02_US_NFP]].
-- **Próximos sensores:** [[Radar_Eventos_2026_10]]: subastas soberanas 07–08-oct (provisionales), flujos mensuales japoneses 08-oct y decisiones FOMC/BCE de octubre; cierre Q3 ya consumido con lagunas SRF explícitas.
+- **Próximos sensores:** [[Radar_Eventos_2026_10_r1]]: subastas soberanas 07–08-oct (provisionales), flujos mensuales japoneses 08-oct y decisiones FOMC/BCE de octubre; cierre Q3 ya consumido con lagunas SRF explícitas.
 
 ## 6. Criterios de validación o refutación
 
@@ -555,11 +747,17 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 
 
-- **Próximos sensores:** [[Radar_Eventos_2026_10]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
+- **Próximos sensores:** [[Radar_Eventos_2026_10_r1]]; los hitos del 15–18/09 están consumidos y el siguiente test de liquidez es 25–30/09.
 </details>
 
 </details>
 
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

@@ -2,6 +2,167 @@
 titulo: "España / elecciones y ejecución fiscal"
 tipo: evento
 estado: E0
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.5
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# España / elecciones y ejecución fiscal
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+## Estado vigente W44
+
+**E0 · P2 · peso 4,50 · → (factor 1) · carga 9,00 · V01.**
+
+## Evidencia y auditoría al corte
+
+**Hecho jurídico:** RD806 fija elección29-nov, campaña13–27nov y constitución deCortes23-dic [[S30](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)]. Son próximos hitos; no gobierno o presupuesto ya aprobados. [R02](https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/301026-sanchez-declaraciones-cecopi.aspx) aporta reacción institucional aUrda, no modificación fiscal ejecutada.
+
+**Condiciones cualitativas:** gobernabilidad → presupuesto → ejecución → financiación/inversión. Cada transición necesita evidencia; no se acredita crisis soberana a partir del accidente. Continuidad institucional previa limita la tesis de parálisis absoluta, sin probar normalidad futura.
+
+**Próxima prueba:** resultados, acuerdos, ley presupuestaria, pagos/subastas/spread homogéneo. A4,2→4,5; B conservaE0/P2/estable. Urda deja de tener ficha o carga propia tras la decisión01-nov; solo posible contexto electoral, sin efecto causal demostrado. Pensiones sigue en observatorioV05 con transmisión fiscal secundaria.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 4,2→4,5; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+## Adenda de ámbito — 01-nov2026
+
+Urda/C47 queda fuera del inventario macro por decisión de Luis el01-nov. Solo se conserva como posible contexto electoral en [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]/V01: hipótesis de transmisión política por comprobar, sin causalidad demostrada, nueva ficha, aumento de presión o carga adicional.
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.5
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# España / elecciones y ejecución fiscal
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P2 · peso 4,50 · → (factor 1) · carga 9,00 · V01.**
+
+## Evidencia y auditoría al corte
+
+**Hecho jurídico:** RD806 fija elección29-nov, campaña13–27nov y constitución deCortes23-dic [[S30](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)]. Son próximos hitos; no gobierno o presupuesto ya aprobados. [R02](https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/301026-sanchez-declaraciones-cecopi.aspx) aporta reacción institucional aUrda, no modificación fiscal ejecutada.
+
+**Condiciones cualitativas:** gobernabilidad → presupuesto → ejecución → financiación/inversión. Cada transición necesita evidencia; no se acredita crisis soberana a partir del accidente. Continuidad institucional previa limita la tesis de parálisis absoluta, sin probar normalidad futura.
+
+**Próxima prueba:** resultados, acuerdos, ley presupuestaria, pagos/subastas/spread homogéneo. A4,2→4,5; B conservaE0/P2/estable. Urda deja de tener ficha o carga propia tras la decisión01-nov; solo posible contexto electoral, sin efecto causal demostrado. Pensiones sigue en observatorioV05 con transmisión fiscal secundaria.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 4,2→4,5; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+## Adenda de ámbito — 01-nov2026
+
+Urda/C47 queda fuera del inventario macro por decisión de Luis el01-nov. Solo se conserva como posible contexto electoral en [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]/V01: hipótesis de transmisión política por comprobar, sin causalidad demostrada, nueva ficha, aumento de presión o carga adicional.
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.5
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+---
+
+# España / elecciones y ejecución fiscal
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P2 · peso 4,50 · → (factor 1) · carga 9,00 · V01.**
+
+## Evidencia y auditoría al corte
+
+**Hecho jurídico:** RD806 fija elección29-nov, campaña13–27nov y constitución deCortes23-dic [[S30](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)]. Son próximos hitos; no gobierno o presupuesto ya aprobados. [R02](https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/301026-sanchez-declaraciones-cecopi.aspx) aporta reacción institucional aUrda, no modificación fiscal ejecutada.
+
+**Condiciones cualitativas:** gobernabilidad → presupuesto → ejecución → financiación/inversión. Cada transición necesita evidencia; no se acredita crisis soberana a partir del accidente. Continuidad institucional previa limita la tesis de parálisis absoluta, sin probar normalidad futura.
+
+**Próxima prueba:** resultados, acuerdos, ley presupuestaria, pagos/subastas/spread homogéneo. A4,2→4,5; B conservaE0/P2/estable. Urda tiene carga propia soloV02; pensiones sigue observatorioV05 con transmisión fiscal secundaria.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 4,2→4,5; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 calibracion: aplicada
@@ -40,7 +201,7 @@ Ficha: [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]. Compara
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -87,7 +248,7 @@ Las definiciones anteriores conservan umbral, duración, población y causalidad
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_01_Arquitectura_monetaria_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -121,9 +282,15 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 Mayorías → capacidad presupuestaria y política fiscal → financiación soberana/inversión. Se prioriza exposición España; pensiones/vivienda siguen sus sensores, sin convertir la ficha en toda la actualidad nacional.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

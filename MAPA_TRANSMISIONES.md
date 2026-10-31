@@ -1,5 +1,140 @@
 # Mapa de transmisiones — Sistema231
 
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+| Evento | Vector primario | Canal a contrastar |
+|---|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional, inserción internacional y capacidad legislativa |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional, inserción internacional y capacidad legislativa |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_CoWoS_Capacity]] | [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | Fabricación/empaquetado/HBM → entrega de sistemas |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 40,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 52,68 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 19,68 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 24,20 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 17,00 |
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 154,36.**
+
+**157,96 → 154,36 (−3,60):** marítimo de ↑ a → (factor1,2→1), con E1/P4/peso4,5 conservados, por decisión expresa de Luis el01-nov. Frente a W43:162,90→154,36(−8,54)=+4,22 por pesos A−2,76 por Francia−6,40 por absorciónDeepSeek−3,60 por marítimo; alta/retiradaUrda se compensan. Separar recalibración e inventario de una mejora económica observada.
+
+Urda/C47 queda fuera del inventario macro por decisión de Luis el01-nov. Solo se conserva como posible contexto electoral en [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]/V01: hipótesis de transmisión política por comprobar, sin causalidad demostrada, nueva ficha, aumento de presión o carga adicional. DeepSeek/C41 pasa al observatorioV04 sin ficha ni carga propia. BrasilC48 ypensionesC5 conservan su seguimiento autorizado; red,hardware,financiación yproductividad son eslabones distintos.
+
+España: gobernabilidad → presupuesto → ejecución → financiación e inversión. Midterms: composición legislativa → medidas → ejecución. Cada flecha es una hipótesis comprobable. Las normas 48, 49–52, OISP y las restricciones sobre DeepSeek mantienen sus perímetros; firma o acuerdo no equivalen a entregas.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+# Mapa de transmisiones — Sistema231
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+| Evento | Vector primario | Canal a contrastar |
+|---|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional, inserción internacional y capacidad legislativa |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional, inserción internacional y capacidad legislativa |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_CoWoS_Capacity]] | [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | Fabricación/empaquetado/HBM → entrega de sistemas |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 40,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 56,28 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 19,68 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 24,20 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 17,00 |
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 157,96.**
+
+**172,76 → 157,96 (−14,80):** retirada de Urda−8,40 y absorción de DeepSeek−6,40, por decisión de Luis el01-nov. Sin cambios de pesos, presiones o factores de las once fichas retenidas. Frente a W43:162,90→157,96(−4,94)=+4,22 por pesos A−2,76 por Francia−6,40 por absorción; alta y retirada de Urda se compensan. La reducción es de inventario, no una mejora económica observada.
+
+Urda/C47 queda fuera del inventario macro por decisión de Luis el01-nov. Solo se conserva como posible contexto electoral en [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]/V01: hipótesis de transmisión política por comprobar, sin causalidad demostrada, nueva ficha, aumento de presión o carga adicional. DeepSeek/C41 pasa al observatorioV04 sin ficha ni carga propia. BrasilC48 ypensionesC5 conservan su seguimiento autorizado; red,hardware,financiación yproductividad son eslabones distintos.
+
+España: gobernabilidad → presupuesto → ejecución → financiación e inversión. Midterms: composición legislativa → medidas → ejecución. Cada flecha es una hipótesis comprobable. Las normas 48, 49–52, OISP y las restricciones sobre DeepSeek mantienen sus perímetros; firma o acuerdo no equivalen a entregas.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+# Mapa de transmisiones — Sistema231
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+| Evento | Vector primario | Canal a contrastar |
+|---|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional, inserción internacional y capacidad legislativa |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E0_2026_11_03_Midterms_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Ejecución institucional, inserción internacional y capacidad legislativa |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Financiación, liquidez, balance soberano y ejecución fiscal |
+| [[Evento_E0_2026_CoWoS_Capacity]] | [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | Fabricación/empaquetado/HBM → entrega de sistemas |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Suministro, capacidad y continuidad de nodos físicos |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Acceso a mercado, contratación, registro y barreras comerciales |
+| [[Evento_E1_2026_10_28_Urda_Interrupcion_Corredor_Madrid_Andalucia]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Interrupción de corredor → movilidad, tiempo/coste yrestauración |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 40,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 64,68 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 19,68 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 30,60 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 17,00 |
+
+**13 eventos activos (10 E0 / 3 E1), todos calibrados; carga primaria total 172,76.**
+
+**162,90 → 172,76 (+9,86):** pesos A +4,22 (Gas+0,90; Midterms+0,80; España+0,60; CoWoS+1,92); tendencia Francia−2,76; altaUrda+8,40. Presiones conservadas. Carga ordinal, no probabilidad ni pérdida esperada. La variación mezcla recalibración y nueva evidencia/inventario; no mide deterioro empírico de9,86puntos.
+
+Urda se imputa a V02 por continuidad ferroviaria; movilidad y productividad (V05) y gobernanza (V01) son canales secundarios por comprobar. No se infiere causa técnica o infrafinanciación. Brasil C48 queda en el observatorio V06, con enlaces a inversión/comercio (V04) y financiación (V01), sin ficha E0 ni cargas adicionales. Pensiones C5 conecta V05 con presupuesto y ejecución en V01 solo cuando exista evidencia. Red, hardware, financiación y productividad son eslabones distintos.
+
+España: gobernabilidad → presupuesto → ejecución → financiación e inversión. Midterms: composición legislativa → medidas → ejecución. Cada flecha es una hipótesis comprobable. Las normas 48, 49–52, OISP y las restricciones sobre DeepSeek mantienen sus perímetros; firma o acuerdo no equivalen a entregas.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+# Mapa de transmisiones — Sistema231
+
 > Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
 
 | Evento | Vector primario | Canal a contrastar |
@@ -35,7 +170,7 @@ C41: procedencia del software→elegibilidad contractual/sustitución, no fabric
 Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras revisión factual W43; no se derivan de la carga.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -75,7 +210,7 @@ Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y 
 
 C38 registro/licencias→V04, relación conV03/T02/T06 sin carga extra. C37 litografía→observatorioV03. C7/C22/C39/C40financiación/apalancamiento/ciberinfraestructura→V01 sin evento nuevo. España: gobernabilidad→presupuesto/ejecución→financiación/inversión. Gas/marítimo→coste/suministro→renta/actividad España. FísicaIA→V02/V03; financiación→V01; productividad→V05/T06. Son canales a contrastar, no atribuciones causales ya acreditadas.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 
@@ -119,7 +254,7 @@ Tesis revisadas por aprobación de Luis el 17-oct: T01 ejecución/margen fiscal;
 
 C38 registro/licencias→V04, relación conV03/T02/T06 sin carga extra. C37 litografía→observatorioV03. C7/C22/C39/C40financiación/apalancamiento/ciberinfraestructura→V01 sin evento nuevo. España: gobernabilidad→presupuesto/ejecución→financiación/inversión. Gas/marítimo→coste/suministro→renta/actividad España. FísicaIA→V02/V03; financiación→V01; productividad→V05/T06. Son canales a contrastar, no atribuciones causales ya acreditadas.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -159,7 +294,7 @@ España: mayorías → gobernabilidad → presupuesto/ejecución → financiaci�
 
 **144,86 → 143,00 (−1,86):** +1,40 por pesos; −5,86 por recalibrar tendencias (Francia −2,58; Tariff −3,28); +2,60 netos por inventario (España +8,40; Alibaba −5,80). No es una variación de pérdidas esperadas: carga ordinal, sin calibración empírica de probabilidades.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[EVENTOS_CERRADOS_LOG]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[EVENTOS_CERRADOS_LOG]].
 
 
 <details>
@@ -215,7 +350,7 @@ España: mayorías → gobernabilidad → presupuesto/ejecución → financiaci�
 
 **144,80 → 144,86 (+0,06)**, exclusivamente por los once pesos aprobados; presión/tendencia e inventario final de once fichas conservados frente a W39. El archivo técnico de Xi fue rectificado tras valoración conjunta y no representa un cierre vigente. Carga ordinal, no probabilidad ni pérdida esperada.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 **Decisión final Xi,03-oct:** mantener [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución de acuerdos, P2/peso3,8/→, carga7,60; once activos y total144,86. Archivo técnico rectificado tras análisis conjunto. Radar21 hitos, diálogoIA anunciado hasta30-nov. Prevalece este estado sobre el historial de reconsideración.
@@ -260,6 +395,12 @@ Informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]]; sin cambio automático de tesi
 **24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
 
 Las tres altas amplían cobertura; no alteran por sí mismas los semáforos ni validan las tesis. Xi y midterms no duplican la carga de aranceles/liquidez. [[Radar_Eventos_2026_09]] · [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

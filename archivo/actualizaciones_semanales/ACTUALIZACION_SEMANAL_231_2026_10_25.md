@@ -104,7 +104,7 @@ Apoyo/contraevidencia/ambigüedad desarrollados en cada tesis: Francia y deuda n
 
 **26 hitos abiertos (2 Régimen / 4 Crítico / 18 Elevado / 2 Latente), seis observatorios, cero ventanas enriquecidas y 36 resoluciones acumuladas.** Horizonte24-oct–23-dic inclusive:60 días transcurridos/61 fechas.
 
-Se retiran de futuros dos hitos vencidos con resolución trazable y se añaden ocho hitos con mecanismo y fuente: MPID34527-oct, SKhynix28-oct, MOF29-oct, Eurostat16-nov, controles chinos18-nov, MOFmensual8-dic, BCE17-dic y Cortes españolas23-dic. Mantener actos aprobados/futuros separados de sus efectos. Fechas recontrastadas o heredadas declaradas en [[Radar_Eventos_2026_10]]. No hay ventana enriquecida ni vigilancia continua.
+Se retiran de futuros dos hitos vencidos con resolución trazable y se añaden ocho hitos con mecanismo y fuente: MPID34527-oct, SKhynix28-oct, MOF29-oct, Eurostat16-nov, controles chinos18-nov, MOFmensual8-dic, BCE17-dic y Cortes españolas23-dic. Mantener actos aprobados/futuros separados de sus efectos. Fechas recontrastadas o heredadas declaradas en [[Radar_Eventos_2026_10_r1]]. No hay ventana enriquecida ni vigilancia continua.
 
 ## Publicación y preservación
 
@@ -168,4 +168,4 @@ Consulta24-oct2026. Cada referencia indica documento/periodo; fuentes mutables s
 Fuentes adicionales de auditoría: [DOE50](https://www.energy.gov/ceser/federal-power-act-section-202c-pjm-interconnection-llc-pjm-order-no-202-26-50), [Census calendario](https://www.census.gov/foreign-trade/schedule.html), [CRU MPID345](https://cms.eirgrid.ie/sites/default/files/publications/MPID345-CRU-Approval-271026.pdf), [LMA](https://lmalloyds.com/specialist_area/marine/), [ClassNK ALDASMA](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9653446), [CBP11-sep](https://content.govdelivery.com/bulletins/gd/USDHSCBP-429db0c), [CanadaGazette23-sep](https://gazette.gc.ca/rp-pr/p2/2026/2026-09-23/html/sor-dors186-eng.html), [GM20-oct](https://news.gm.com/home.detail.html/Pages/news/us/en/2026/oct/1020-GM-letter-shareholders-Q3-2026.html), [BEA6-oct/agosto](https://bea.gov/index.php/news/2026/us-international-trade-goods-and-services-august-2026). Ninguna prueba por sí sola todas las cláusulas del trigger al que orienta. ResultadoGM enlazado devolvió403; no se atribuye lectura ni se suple con cifra secundaria.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].

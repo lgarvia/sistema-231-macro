@@ -1,3 +1,82 @@
+# Tesis — índice del Sistema231
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+| Tesis | Soporte / alcance | Próxima prueba y falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado; dominancia monetaria condicional | Presupuesto/ejecución/subastas yfinanciaciónestable; o cambio de reacciónBC destinado a proteger soberano en conflicto conprecios. Proximidad electoral ysalidaBCE no lo demuestran. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; estabilización en validación | Texto final, licencias, plazos,costes yentregas porsector; continuidadsostenible vsinterrupciónpersistente. No validar eficacia por cada normanueva. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Cuentas anuales contributivas netas, ratio personas cotizantes/pensionistas yserie compatible de renta/ahorro/esfuerzo residencial. Productividad que absorba cargas debilita nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Flujos,seguros,tránsito yalternativas energéticas/logísticas operativas a coste sostenible; sinUrda como apoyo macro vigente. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Operación liquidada repetida, activo/elegibilidad, volumen,costes/plazos/haircuts frente a alternativa yorigen de fondos; distinguir demandaadicional de sustitución. Estado envalidación conservado. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo dependencia física | Fabricante:entregas/yields/plazos; operador:caja/deuda/compromisos/interconexión/utilización; usuario:costetotal/calidad/productividad recurrente. Cada eslabón requiere prueba propia. |
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 154,36.**
+
+Urda se retira del apoyo macro vigente deT04 por decisión de Luis; no se altera definición o grado. Tipos sin cambio y alivio francés limitan dominancia automática; hardware/gasto no prueban retorno o productividad. DeepSeek pasa a seguimientoV04 sin ficha propia. T05continúaenvalidación.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+# Tesis — índice del Sistema231
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+| Tesis | Soporte / alcance | Próxima prueba y falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado; dominancia monetaria condicional | Presupuesto/ejecución/subastas yfinanciaciónestable; o cambio de reacciónBC destinado a proteger soberano en conflicto conprecios. Proximidad electoral ysalidaBCE no lo demuestran. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; estabilización en validación | Texto final, licencias, plazos,costes yentregas porsector; continuidadsostenible vsinterrupciónpersistente. No validar eficacia por cada normanueva. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Cuentas anuales contributivas netas, ratio personas cotizantes/pensionistas yserie compatible de renta/ahorro/esfuerzo residencial. Productividad que absorba cargas debilita nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Flujos,seguros,tránsito yalternativas energéticas/logísticas operativas a coste sostenible; sinUrda como apoyo macro vigente. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Operación liquidada repetida, activo/elegibilidad, volumen,costes/plazos/haircuts frente a alternativa yorigen de fondos; distinguir demandaadicional de sustitución. Estado envalidación conservado. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo dependencia física | Fabricante:entregas/yields/plazos; operador:caja/deuda/compromisos/interconexión/utilización; usuario:costetotal/calidad/productividad recurrente. Cada eslabón requiere prueba propia. |
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 157,96.**
+
+Urda se retira del apoyo macro vigente deT04 por decisión de Luis; no se altera definición o grado. Tipos sin cambio y alivio francés limitan dominancia automática; hardware/gasto no prueban retorno o productividad. DeepSeek pasa a seguimientoV04 sin ficha propia. T05continúaenvalidación.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+# Tesis — índice del Sistema231
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+| Tesis | Soporte / alcance | Próxima prueba y falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado; dominancia monetaria condicional | Presupuesto/ejecución/subastas yfinanciaciónestable; o cambio de reacciónBC destinado a proteger soberano en conflicto conprecios. Proximidad electoral ysalidaBCE no lo demuestran. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; estabilización en validación | Texto final, licencias, plazos,costes yentregas porsector; continuidadsostenible vsinterrupciónpersistente. No validar eficacia por cada normanueva. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Cuentas anuales contributivas netas, ratio personas cotizantes/pensionistas yserie compatible de renta/ahorro/esfuerzo residencial. Productividad que absorba cargas debilita nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Restitución yalternativas utilizables a coste/tiempos sostenibles debilitarían fricciónpersistente; interrupciónmedida conefectoindustrial/turístico la reforzaría sin extrapolar local→global. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Operación liquidada repetida, activo/elegibilidad, volumen,costes/plazos/haircuts frente a alternativa yorigen de fondos; distinguir demandaadicional de sustitución. Estado envalidación conservado. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo dependencia física | Fabricante:entregas/yields/plazos; operador:caja/deuda/compromisos/interconexión/utilización; usuario:costetotal/calidad/productividad recurrente. Cada eslabón requiere prueba propia. |
+
+**13 eventos activos (10 E0 / 3 E1), todos calibrados; carga primaria total 172,76.**
+
+Urda aporta evidencia local sobre la dependencia de un nodo; no valida por sí sola el alcance global de T04. Los tipos sin cambio y el alivio semanal francés limitan una inferencia automática de dominancia fiscal. HBM y gasto del operador no prueban retorno o productividad. T05 continúa en validación.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
 # Tesis del Sistema231 — revisión factual W43
 
 > Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
@@ -18,7 +97,7 @@ Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y 
 Se conservan las seis identidades y formulaciones previas. Francia↑ no demuestra dominancia; restricciones tecnológicas no validan eficacia estabilizadora; retirar Unitree no refuta adopción industrial; infraestructura física no acredita retorno económico. Revisión interpretativa de17-oct conservada, sin atribuir nueva decisión de grados a Luis.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -43,7 +122,7 @@ Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y 
 
 Carga 155,80; soporte no derivado de carga. Revisión interpretativa de seis tesis aprobada y aplicada el 17-oct, TASK_226; T03 moderado. Se conservan las seis identidades y el historial. España continúa ámbito prioritario sin séptima tesis.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 
@@ -67,7 +146,7 @@ Un soporte alto limitado al núcleo físico T06; tres moderado-altos (T02/T03/T0
 
 Carga 155,80; soporte no derivado de carga. Definiciones interpretativas aprobadas el 10-oct(TASK_205) conservadas. Revisión factual W42 ejecutada bajo plan autorizado TASK_226. España continúa ámbito prioritario sin séptima tesis.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -87,7 +166,7 @@ Carga 155,80; soporte no derivado de carga. Definiciones interpretativas aprobad
 
 Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 en validación. Revisión interpretativa TASK_204 aprobada y aplicada el 10-oct (TASK_205), con grados conservados. T02 distingue coerción de eficacia estabilizadora; T03 conserva soporte histórico sin nueva validación causal W41. España es ámbito prioritario de contraste en T01/T03/T04/T06, sin séptima tesis ni carga adicional.
 
-Carga 143,00; el grado de soporte no se deriva de la carga. [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]].
+Carga 143,00; el grado de soporte no se deriva de la carga. [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Índice anterior a TASK_205; memoria sustituida</summary>
@@ -108,7 +187,7 @@ Carga 143,00; el grado de soporte no se deriva de la carga. [[ACTUALIZACION_SEMA
 
 Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 en validación. Formulaciones aprobadas TASK_175 preservadas; ninguna tesis gana soporte por número de enlaces o por nueva ficha.
 
-Carga 143,00, sin causalidadderivada de su variación. [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]].
+Carga 143,00, sin causalidadderivada de su variación. [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -127,7 +206,7 @@ Carga 143,00, sin causalidadderivada de su variación. [[ACTUALIZACION_SEMANAL_2
 | [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; en validación | Liquidación programable y movilidad de garantías; tokenizar no crea capital ni demanda neta automáticamente. Verificar operaciones, DvP, admisibilidad y haircut. |
 | [[TESIS_06_IA_como_silicio_y_energia\|IA: infraestructura, financiación y adopción productiva]] | Alto para dependencia física | Financiación y adopción/productividad son hipótesis separadas. Contrastar capacidad/costes, CAPEX/caja/crédito por empresa y tareas útiles/dependencias por capa. |
 
-**Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados.** T05 en validación; T03/T05 sin validación incremental directa. Grados diferenciados de peso/incidencia de eventos: la carga sigue144,86. Fuentes macro [[ACTUALIZACION_SEMANAL_231_2026_10_04]]; pruebas futuras [[Radar_Eventos_2026_10]]. Las publicaciones propias muestran evolución del argumento, no corroboración independiente.
+**Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados.** T05 en validación; T03/T05 sin validación incremental directa. Grados diferenciados de peso/incidencia de eventos: la carga sigue144,86. Fuentes macro [[ACTUALIZACION_SEMANAL_231_2026_10_04]]; pruebas futuras [[Radar_Eventos_2026_10_r1]]. Las publicaciones propias muestran evolución del argumento, no corroboración independiente.
 
 <details>
 <summary>Índice W40 previo a TASK_175; sustituido y preservado</summary>
@@ -145,7 +224,7 @@ Carga 143,00, sin causalidadderivada de su variación. [[ACTUALIZACION_SEMANAL_2
 | [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado | Se mantiene en validación; seguimiento stablecoins integrado en V01. Contraevidencia: Reservas en letras o digitalización no prueban colateral nuevo admisible. Límite: Sin prueba nueva de admisibilidad, haircut y liquidación auditada. Falsación: Operación ejecutada de repo/garantía con condiciones y activo tokenizado verificables. |
 | [[TESIS_06_IA_como_silicio_y_energia]] | Alto | Órdenes DOE y resultados Micron respaldan dependencia de infraestructura y hardware. Contraevidencia: Micron crece con caja positiva; no activación completa Grid o CoWoS. Límite: Ingresos/guía no son yields, capacidad, entregas o utilización; Alibaba sigue prospectivo. Falsación: Contrastar entregas, capacidad cualificada, lead times, energía, agua, utilización y caja. |
 
-Dos altos, dos moderado-altos y dos moderados. T05 en validación; T03/T05 sin validación incremental directa. Archivo Xi no refuta ni valida tesis. Fuentes y fechas [[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]].
+Dos altos, dos moderado-altos y dos moderados. T05 en validación; T03/T05 sin validación incremental directa. Archivo Xi no refuta ni valida tesis. Fuentes y fechas [[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 </details>
@@ -195,6 +274,12 @@ Dos soportes altos, dos moderado-altos y dos moderados. TESIS_05 permanece en va
 Un vínculo no equivale a validación; stock no es flujo; proyección no es observación; norma no es transmisión económica. Los sensores cerrados son memoria. La base anterior se conserva con su fecha y no se reetiqueta como novedad W38.
 
 [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]] · [[EVENTOS_CERRADOS_LOG]].
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

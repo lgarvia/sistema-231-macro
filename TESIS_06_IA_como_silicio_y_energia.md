@@ -4,6 +4,201 @@ id: TESIS_06
 estado: vigente
 soporte: alto
 soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# TESIS_06: IA: infraestructura y conversión en productividad
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+**Soporte conservado: Alto solo para dependencia física.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga154,36.
+
+## 1. Definición
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## Contraste factual W44
+
+**Apoyo:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)HBM4 yS15–16/R06gasto/caja deoperadores actualizan hardware/financiación; [S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)requisitosred no corte comercial. [L04](https://www.iea.org/reports/powering-artificial-intelligence)IEA es antecedente, con previsiónCAPEX2026>USD700B principalmenteCPD, no electricidadsola.
+
+**Contraevidencia:** [R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)TSMCbuenosyields yR07GFofertafutura; eficiencia ycapacidad pueden aliviar cuellos sineliminar dependencia. Gastocreciente no acredita imposibilidad técnica ni retorno.
+
+**Ambigüedad / alcance:** PPE vsCAPEXconarrendamientos/guías no agregadohomogéneo. HBM/interposers/CoWoS distintos. IFRinstalaciones no productividad por tarea; no hay prueba conjunta de desplazamiento de crédito.
+
+**Próxima falsación:** Fabricante:entregas/yields/plazos; operador:caja/deuda/compromisos/interconexión/utilización; usuario:costetotal/calidad/productividad recurrente. Cada eslabón requiere prueba propia.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_06
+estado: vigente
+soporte: alto
+soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# TESIS_06: IA: infraestructura y conversión en productividad
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Alto solo para dependencia física.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga157,96.
+
+## 1. Definición
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## Contraste factual W44
+
+**Apoyo:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)HBM4 yS15–16/R06gasto/caja deoperadores actualizan hardware/financiación; [S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)requisitosred no corte comercial. [L04](https://www.iea.org/reports/powering-artificial-intelligence)IEA es antecedente, con previsiónCAPEX2026>USD700B principalmenteCPD, no electricidadsola.
+
+**Contraevidencia:** [R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)TSMCbuenosyields yR07GFofertafutura; eficiencia ycapacidad pueden aliviar cuellos sineliminar dependencia. Gastocreciente no acredita imposibilidad técnica ni retorno.
+
+**Ambigüedad / alcance:** PPE vsCAPEXconarrendamientos/guías no agregadohomogéneo. HBM/interposers/CoWoS distintos. IFRinstalaciones no productividad por tarea; no hay prueba conjunta de desplazamiento de crédito.
+
+**Próxima falsación:** Fabricante:entregas/yields/plazos; operador:caja/deuda/compromisos/interconexión/utilización; usuario:costetotal/calidad/productividad recurrente. Cada eslabón requiere prueba propia.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_06
+estado: vigente
+soporte: alto
+soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
+ultima_actualizacion: 2026-10-31
+corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
+corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
+alcance_actualizacion: "W44; revisión factual bajo A/B Luis TASK_270; definición y soporte conservados"
+vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+---
+
+# TESIS_06: IA: infraestructura y conversión en productividad
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**Soporte conservado: Alto solo para dependencia física.** Revisión de evidencia y límites; formulación y grado conservados, sin deducirlos de carga172,76.
+
+## 1. Definición
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## Contraste factual W44
+
+**Apoyo:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)HBM4 yS15–16/R06gasto/caja deoperadores actualizan hardware/financiación; [S12](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)requisitosred no corte comercial. [L04](https://www.iea.org/reports/powering-artificial-intelligence)IEA es antecedente, con previsiónCAPEX2026>USD700B principalmenteCPD, no electricidadsola.
+
+**Contraevidencia:** [R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)TSMCbuenosyields yR07GFofertafutura; eficiencia ycapacidad pueden aliviar cuellos sineliminar dependencia. Gastocreciente no acredita imposibilidad técnica ni retorno.
+
+**Ambigüedad / alcance:** PPE vsCAPEXconarrendamientos/guías no agregadohomogéneo. HBM/interposers/CoWoS distintos. IFRinstalaciones no productividad por tarea; no hay prueba conjunta de desplazamiento de crédito.
+
+**Próxima falsación:** Fabricante:entregas/yields/plazos; operador:caja/deuda/compromisos/interconexión/utilización; usuario:costetotal/calidad/productividad recurrente. Cada eslabón requiere prueba propia.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## Trazabilidad
+
+Revisión factual semanal ejecutada tras A/B aprobadas31-oct. Se preservan identidad, definición, criterios y soporte previamente aprobados; no se atribuye nueva aprobación interpretativa de grados. Fuentes con periodo propio/publicación≤corte, consulta31-oct. No se valida una tesis por número de eventos o enlaces.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_06
+estado: vigente
+soporte: alto
+soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
 ultima_actualizacion: 2026-10-24
 corte_factual_actual: "2026-10-24 20:23:28 Europe/Madrid"
 corte_factual_previo: "2026-10-17 11:51 Europe/Madrid"
@@ -52,10 +247,10 @@ Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa
 
 ## Trazabilidad
 
-Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10]].
+Revisión semanal autorizada dentro de B,24-oct. Conserva definición e identidad y grado previamente aprobados; no atribuye una nueva aprobación interpretativa específica ni publicación a esa decisión. Fuentes consultadas24-oct, con antecedentes y futuros separados. Eventos/imputación en [[VECTOR_00_Indice]]; observatorios y próximos sensores en [[Radar_Eventos_2026_10_r1]].
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -133,7 +328,7 @@ Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa
 - **Productividad:** utilización, tareas recurrentes, coste total por tarea, calidad, mantenimiento y distribución de ganancias. Separar ahorro bruto de costes de integración y supervisión.
 - **Adopción:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y observatorio Alibaba V03, con memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. Entrega, anuncio y uso productivo son pruebas distintas.
 - **España:** medir las restricciones realmente observadas y los resultados de adopción; la ubicación o el interés profesional no elevan el soporte.
-- **Próximos controles:** ventas TSMC del 10-nov; los resultados Q3 del 15-oct ya se resolvieron en [[Radar_Eventos_2026_10]].
+- **Próximos controles:** ventas TSMC del 10-nov; los resultados Q3 del 15-oct ya se resolvieron en [[Radar_Eventos_2026_10_r1]].
 
 ## 6. Criterios de validación o refutación
 
@@ -149,7 +344,7 @@ Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa
 
 Luis aprueba las seis propuestas y su publicación con «Perfecto. Aplica estas revisiones y publica en github» el 17-oct-2026. Aplicación TASK_226. Corte factual 2026-10-17 11:51 Europe/Madrid; la fecha de aprobación no amplía la evidencia. La revisión interpretativa no cambia inventario, calibración ni carga 155,80.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -206,7 +401,7 @@ La cadena física incluye aceleradores, HBM, empaquetado, litografía, redes, ge
 - **Productividad:** utilización, tareas recurrentes, coste total por tarea, calidad, mantenimiento y distribución de ganancias. Separar ahorro bruto de costes de integración y supervisión.
 - **Adopción:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y observatorio Alibaba V03, con memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. Entrega, anuncio y uso productivo son pruebas distintas.
 - **España:** medir las restricciones realmente observadas y los resultados de adopción; la ubicación o el interés profesional no elevan el soporte.
-- **Próximos controles:** ventas TSMC del 10-nov; los resultados Q3 del 15-oct ya se resolvieron en [[Radar_Eventos_2026_10]].
+- **Próximos controles:** ventas TSMC del 10-nov; los resultados Q3 del 15-oct ya se resolvieron en [[Radar_Eventos_2026_10_r1]].
 
 ## 6. Criterios de validación o refutación
 
@@ -222,7 +417,7 @@ Soporte alto solo para dependencia física; financiación y conversión en produ
 
 Revisión W42 bajo autorización del plan y A/B de Luis; no una nueva redefinición de tesis. Corte 2026-10-17 11:51 Europe/Madrid. Definición, restricciones y criterios previos conservados. Datos anteriores al corte aunque recuperados después; fuentes móviles identificadas por publicación/periodo.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -271,7 +466,7 @@ Fuentes, periodos y límites en [[ACTUALIZACION_SEMANAL_231_2026_10_11]]. Corte 
 - **Productividad:** utilización, tareas recurrentes, coste total por tarea, calidad, mantenimiento y distribución de ganancias. Separar ahorro bruto de costes de integración y supervisión.
 - **Adopción:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y observatorio Alibaba V03, con memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]. Entrega, anuncio y uso productivo son pruebas distintas.
 - **España:** medir las restricciones realmente observadas y los resultados de adopción; la ubicación o el interés profesional no elevan el soporte.
-- **Próximos controles:** resultados TSMC 15-oct y ventas 10-nov en [[Radar_Eventos_2026_10]].
+- **Próximos controles:** resultados TSMC 15-oct y ventas 10-nov en [[Radar_Eventos_2026_10_r1]].
 
 ## 6. Criterios de validación o refutación
 
@@ -348,7 +543,7 @@ Próxima falsación: Capacidad/entregas/plazos, energía/agua, utilización, caj
 - **Autonomía:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]], sin inferir independencia completa por disponer de pesos abiertos.
 - **Sensores activos:** [[Evento_E0_2026_CoWoS_Capacity]] y [[Evento_E0_2026_07_08_Grid_Stress_IA]].
 - **Adopción e industria:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y observatorio Alibaba en V03 (memoria [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]]), distinguiendo entrega, anuncio y uso productivo observado.
-- **Próximos sensores verificados:** resultados TSMC 15-oct y ventas 10-nov; ventas 08-oct ya consumidas en [[Radar_Eventos_2026_10]]; FERC/DOE se siguen mediante el observatorio y Grid, con consulta del instrumento específico antes de actuar.
+- **Próximos sensores verificados:** resultados TSMC 15-oct y ventas 10-nov; ventas 08-oct ya consumidas en [[Radar_Eventos_2026_10_r1]]; FERC/DOE se siguen mediante el observatorio y Grid, con consulta del instrumento específico antes de actuar.
 
 ## 6. Criterios diferenciados de validación o refutación
 
@@ -423,7 +618,7 @@ Base factual y periodos: [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Corte macro c
 - **Autonomía:** [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]], sin inferir independencia completa por disponer de pesos abiertos.
 - **Sensores activos:** [[Evento_E0_2026_CoWoS_Capacity]] y [[Evento_E0_2026_07_08_Grid_Stress_IA]].
 - **Adopción e industria:** [[Evento_E0_2026_09_19_Robotica_Unitree]] y [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], distinguiendo entrega, anuncio y uso productivo observado.
-- **Próximos sensores verificados:** ventas mensuales de TSMC el 08/10 y 10/11 en [[Radar_Eventos_2026_10]]; FERC/DOE se siguen mediante el observatorio y Grid, con consulta del instrumento específico antes de actuar.
+- **Próximos sensores verificados:** ventas mensuales de TSMC el 08/10 y 10/11 en [[Radar_Eventos_2026_10_r1]]; FERC/DOE se siguen mediante el observatorio y Grid, con consulta del instrumento específico antes de actuar.
 
 ## 6. Criterios diferenciados de validación o refutación
 
@@ -598,6 +793,12 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

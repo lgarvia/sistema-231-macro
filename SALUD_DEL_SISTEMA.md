@@ -1,3 +1,156 @@
+# Salud del Sistema231 — W44
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 154,36.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,60 | ↑ | 1,2 | V02 | 22,08 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 4 | 4,50 | → | 1 | V01 | 18,00 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,80 | → | 1 | V06 | 7,60 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,60 | → | 1 | V01 | 13,80 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,20 | → | 1 | V02 | 12,60 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,90 | → | 1 | V04 | 7,80 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU\|Midterms]] | E0 | 2 | 4,70 | → | 1 | V06 | 9,40 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 4,50 | → | 1 | V01 | 9,00 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,10 | ↑ | 1,2 | V03 | 19,68 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,50 | → | 1 | V02 | 18,00 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 40,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 52,68 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 19,68 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 24,20 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 17,00 |
+
+**157,96 → 154,36 (−3,60):** marítimo de ↑ a → (factor1,2→1), con E1/P4/peso4,5 conservados, por decisión expresa de Luis el01-nov. Frente a W43:162,90→154,36(−8,54)=+4,22 por pesos A−2,76 por Francia−6,40 por absorciónDeepSeek−3,60 por marítimo; alta/retiradaUrda se compensan. Separar recalibración e inventario de una mejora económica observada.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+**26 hitos abiertos (2 Régimen / 4 Crítico / 17 Elevado / 3 Latente), seis observatorios, cero ventanas enriquecidas y 44 resoluciones acumuladas.** Horizonte01-nov–31-dic inclusive:60días transcurridos/61fechas.
+
+## Cobertura y límites
+
+Once fichas con calibración completa y primario único. Se conservan23triggers formales/24ramas de cinco fichas y seis seguimientos cualitativos activos. DeepSeek conserva memoria por absorción; Urda queda fuera de ámbito macro.25condiciones de vector sin cambio y contadores históricos explícitos.
+
+Lagunas: diferencial a 30 años cubierto y flujos institucionales; SRF diario y GCp99; absorción de deuda larga y nexo bancario; primas y volúmenes marítimos; MW, horas y WUE; AP7, Blackwell, plazos, rendimientos y CAPEX agregado homogéneo; productividad por tarea; anexosChina y ejecución/excepcionesporagenciaDHS; expedientes comerciales; liquidación no USD; cuentas anuales netas de pensiones. El estado físico de Urda no condiciona ya la carga macro; solo se observa eventual transmisión electoral enC35. Ninguna se sustituye por cero.
+
+A y B aprobadas el 31-oct. Las seis tesis se revisan sin redefinirlas ni cambiar grados. El radar resuelve los hitos vencidos y separa los futuros de la evidencia. Publicación W44 autorizada por Luis01-nov; versión conciliada para GitHub/main. Se preserva la historia y se conservan los cortes globales de otros proyectos.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+# Salud del Sistema231 — W44
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**11 eventos activos (9 E0 / 2 E1), todos calibrados; carga primaria total 157,96.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,60 | ↑ | 1,2 | V02 | 22,08 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 4 | 4,50 | → | 1 | V01 | 18,00 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,80 | → | 1 | V06 | 7,60 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,60 | → | 1 | V01 | 13,80 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,20 | → | 1 | V02 | 12,60 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,90 | → | 1 | V04 | 7,80 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU\|Midterms]] | E0 | 2 | 4,70 | → | 1 | V06 | 9,40 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 4,50 | → | 1 | V01 | 9,00 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,10 | ↑ | 1,2 | V03 | 19,68 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,50 | ↑ | 1,2 | V02 | 21,60 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 40,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 56,28 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 19,68 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 24,20 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 17,00 |
+
+**172,76 → 157,96 (−14,80):** retirada de Urda−8,40 y absorción de DeepSeek−6,40, por decisión de Luis el01-nov. Sin cambios de pesos, presiones o factores de las once fichas retenidas. Frente a W43:162,90→157,96(−4,94)=+4,22 por pesos A−2,76 por Francia−6,40 por absorción; alta y retirada de Urda se compensan. La reducción es de inventario, no una mejora económica observada.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+**26 hitos abiertos (2 Régimen / 4 Crítico / 17 Elevado / 3 Latente), seis observatorios, cero ventanas enriquecidas y 44 resoluciones acumuladas.** Horizonte31-oct–30-dic inclusive:60días transcurridos/61fechas.
+
+## Cobertura y límites
+
+Once fichas con calibración completa y primario único. Se conservan23triggers formales/24ramas de cinco fichas y seis seguimientos cualitativos activos. DeepSeek conserva memoria por absorción; Urda queda fuera de ámbito macro.25condiciones de vector sin cambio y contadores históricos explícitos.
+
+Lagunas: diferencial a 30 años cubierto y flujos institucionales; SRF diario y GCp99; absorción de deuda larga y nexo bancario; primas y volúmenes marítimos; MW, horas y WUE; AP7, Blackwell, plazos, rendimientos y CAPEX agregado homogéneo; productividad por tarea; anexosChina y ejecución/excepcionesporagenciaDHS; expedientes comerciales; liquidación no USD; cuentas anuales netas de pensiones. El estado físico de Urda no condiciona ya la carga macro; solo se observa eventual transmisión electoral enC35. Ninguna se sustituye por cero.
+
+A y B aprobadas el 31-oct. Las seis tesis se revisan sin redefinirlas ni cambiar grados. El radar resuelve los hitos vencidos y separa los futuros de la evidencia. W44 queda aplicado localmente, sin commit ni publicación. Se preserva la historia y se conservan los cortes globales de otros proyectos.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+# Salud del Sistema231 — W44
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+**13 eventos activos (10 E0 / 3 E1), todos calibrados; carga primaria total 172,76.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,60 | ↑ | 1,2 | V02 | 22,08 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 4 | 4,50 | → | 1 | V01 | 18,00 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,80 | → | 1 | V06 | 7,60 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,60 | → | 1 | V01 | 13,80 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,20 | → | 1 | V02 | 12,60 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,90 | → | 1 | V04 | 7,80 |
+| [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil\|DeepSeek / contratación federal civil]] | E0 | 2 | 3,20 | → | 1 | V04 | 6,40 |
+| [[Evento_E0_2026_11_03_Midterms_EEUU\|Midterms]] | E0 | 2 | 4,70 | → | 1 | V06 | 9,40 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 4,50 | → | 1 | V01 | 9,00 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,10 | ↑ | 1,2 | V03 | 19,68 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,50 | ↑ | 1,2 | V02 | 21,60 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+| [[Evento_E1_2026_10_28_Urda_Interrupcion_Corredor_Madrid_Andalucia\|Urda / corredor Madrid–Andalucía]] | E1 | 3 | 2,80 | → | 1 | V02 | 8,40 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 40,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 64,68 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 19,68 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 30,60 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 17,00 |
+
+**162,90 → 172,76 (+9,86):** pesos A +4,22 (Gas+0,90; Midterms+0,80; España+0,60; CoWoS+1,92); tendencia Francia−2,76; altaUrda+8,40. Presiones conservadas. Carga ordinal, no probabilidad ni pérdida esperada. La variación mezcla recalibración y nueva evidencia/inventario; no mide deterioro empírico de9,86puntos.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Definiciones y grados conservados tras contraste factualW44; no se derivan de la carga.
+
+**26 hitos abiertos (2 Régimen / 4 Crítico / 17 Elevado / 3 Latente), seis observatorios, cero ventanas enriquecidas y 44 resoluciones acumuladas.** Horizonte31-oct–30-dic inclusive:60días transcurridos/61fechas.
+
+## Cobertura y límites
+
+Trece fichas con calibración completa y un vector primario por ficha. Se conservan los 23 triggers formales de cinco fichas, representados en 24 ramas, y los siete seguimientos cualitativos anteriores. Urda tiene una condición de admisión propia, auditada por separado. No se acredita una nueva activación completa de los 23 triggers heredados. Las 25 condiciones de vector se revisan por cláusula; sus contadores históricos se identifican expresamente como heredados.
+
+Lagunas: diferencial a 30 años cubierto y flujos institucionales; SRF diario y GCp99; absorción de deuda larga y nexo bancario; primas y volúmenes marítimos; MW, horas y WUE; AP7, Blackwell, plazos, rendimientos y CAPEX agregado homogéneo; productividad por tarea; anexos y excepciones DHS/China; expedientes comerciales; liquidación no USD; cuentas anuales netas de pensiones; causa, duración, coste y restitución de Urda. Ninguna se sustituye por cero.
+
+A y B aprobadas el 31-oct. Las seis tesis se revisan sin redefinirlas ni cambiar grados. El radar resuelve los hitos vencidos y separa los futuros de la evidencia. W44 queda aplicado localmente, sin commit ni publicación. Se preserva la historia y se conservan los cortes globales de otros proyectos.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
 # Salud del Sistema231 — W43
 
 > Precierre W43 · nominal 25-oct-2026 · corte factual 2026-10-24 20:23:28 Europe/Madrid. Domingo25 no observado. A y B aprobadas por Luis, TASK_255_ACTUALIZACION_231_W43. Versión W43 autorizada para publicación por Luis el24-oct2026.
@@ -43,7 +196,7 @@ Lagunas: diferencial30Y cubierto/institucional, SRF diario25–30sep y GCp99; sp
 A/B y publicación W43 autorizadas por Luis el24-oct2026. Se preservan siete históricos previamente MM; la revisión no modifica agenda, memoria o corte global de otros proyectos.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -87,7 +240,7 @@ Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y 
 
 **Limitaciones:** contadores estructurales heredados, no activaciones revalidadas; SRF diario/GC p99, flujos institucionales cubiertos, OAT–Bund, primas/duraciones marítimas y KPI productivos siguen incompletos. No se rellenan con cero. Publicación W42 autorizada por Luis el 17-oct. Base remota W41 19d44da contrastada antes de publicar; recepción y commit de W42 se registran al cierre de publicación. Siete históricos previamente staged preservados.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 
@@ -132,7 +285,7 @@ Un soporte alto limitado al núcleo físico T06; tres moderado-altos (T02/T03/T0
 
 **Limitaciones:** contadores estructurales heredados, no activaciones revalidadas; SRF diario/GC p99, flujos institucionales cubiertos, OAT–Bund, primas/duraciones marítimas y KPI productivos siguen incompletos. No se rellenan con cero. PublicaciónW42 no autorizada; último commit local/copia originmain W41 19d44da. Estado remoto actual no verificado por fallo de conexión/autenticación. Siete históricos previamente staged preservados.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -167,7 +320,7 @@ Un soporte alto limitado al núcleo físico T06; tres moderado-altos (T02/T03/T0
 
 Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 en validación. Revisión interpretativa TASK_204 aprobada y aplicada el 10-oct (TASK_205), con grados conservados. T02 distingue coerción de eficacia estabilizadora; T03 conserva soporte histórico sin nueva validación causal W41. España es ámbito prioritario de contraste en T01/T03/T04/T06, sin séptima tesis ni carga adicional.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]]. Cambios previos preservados; siete históricos previamente staged excluidos de la publicación W41.
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]]. Cambios previos preservados; siete históricos previamente staged excluidos de la publicación W41.
 
 
 <details>
@@ -201,7 +354,7 @@ Un soporte alto (núcleo físico T06), tres moderado-altos y dos moderados; T05 
 
 **144,80 → 144,86 (+0,06)**, exclusivamente por los once pesos aprobados; presión/tendencia e inventario final de once fichas conservados frente a W39. El archivo técnico de Xi fue rectificado tras valoración conjunta y no representa un cierre vigente. Carga ordinal, no probabilidad ni pérdida esperada.
 
-Detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[VECTOR_00_Indice]] · [[MAPA_TRANSMISIONES]] · [[Radar_Eventos_2026_10]]. Ocho cambios locales previos preservados, incluido contenido/staging anterior de Salud; no operación sobre el índice Git. La recepción remota se comprueba en la publicación y se registra por separado.
+Detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]] · [[VECTOR_00_Indice]] · [[MAPA_TRANSMISIONES]] · [[Radar_Eventos_2026_10_r1]]. Ocho cambios locales previos preservados, incluido contenido/staging anterior de Salud; no operación sobre el índice Git. La recepción remota se comprueba en la publicación y se registra por separado.
 
 
 **Decisión final Xi,03-oct:** mantener [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución de acuerdos, P2/peso3,8/→, carga7,60; once activos y total144,86. Archivo técnico rectificado tras análisis conjunto. Radar21 hitos, diálogoIA anunciado hasta30-nov. Prevalece este estado sobre el historial de reconsideración.
@@ -440,6 +593,12 @@ TASK_099 está cerrada. Las próximas resoluciones del radar son Section 338 y T
 ## Regla de mantenimiento
 
 [[Prompt_Actualizacion_Eventos]] y [[Prompt_Radar_Eventos]] rigen una sola superficie de ventanas. Los informes anteriores y las fuentes históricas conservan fecha y contexto; la fecha de edición no sustituye la fecha de contraste. El control de enlaces y aritmética no verifica hechos externos.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

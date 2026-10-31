@@ -2,11 +2,20 @@
 tipo: log_cierres_eventos
 creado: 2026-04-26
 actualizador: Sistema 231 / Front Office
-ultima_actualizacion: 2026-10-24
+ultima_actualizacion: "2026-11-01"
 ---
 
 
 # REGISTRO DE CIERRES DE EVENTOS
+
+## [2026-11-01] Cierre: Urda / corredor Madrid–Andalucía (C47)
+
+**Tipo:** exclusión de ámbito macro, decisión expresa de Luis. No restitución ferroviaria ni fin de investigación. Calibración históricaE1/P3/2,8/→; retirar8,40de carga activa. Solo posible contexto electoral enC35/V01, sin causalidad afirmada ni carga adicional. Memoria [[Evento_E1_2026_10_28_Urda_Interrupcion_Corredor_Madrid_Andalucia]], nombre original conservado en231_Eventos_Cerrados. No otro observatorio físico que sustituya la ficha excluida.
+
+## [2026-11-01] Cierre: DeepSeek / contratación federal civil (C41)
+
+**Tipo:** absorción editorial en observatorioV04, autorizada por Luis. Calibración históricaE0/P2/3,2/→; retirar6,40de carga. No derogación ni resolución del riesgo. Memoria [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]]; sensores ycronología en [[VECTOR_04_Reconfiguracion_del_comercio_global#C41 — DeepSeek absorbida por decisión de Luis el01-nov]]. Se distingue emisiónoriginal24-jul y aviso20-oct; no ejecución poragencia inferida.
+
 
 ## [2026-10-24] Cierre: Unitree / robótica (C3)
 

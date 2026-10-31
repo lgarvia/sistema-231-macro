@@ -4,6 +4,103 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.2
+factor_tendencia: 1
+tags: [gas, europa, energia, almacenamiento, invierno]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# Gas europeo / invierno
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P3 · peso 4,20 · → (factor 1) · carga 12,60 · V02.**
+
+## Evidencia y auditoría al corte
+
+**Observado/publicado:** ACER27-oct informa almacenamientoUE75%al21-oct; menorGNL estival y exposición a oferta estadounidense. El impacto de coste estimado18–33B€ es estimación institucional, no pérdida industrial ejecutadaW44 [[S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)]. Periodos observados distintos de fecha de publicación.
+
+**Condiciones cualitativas:** inventario y flujos → precio/coste → restricciones industriales. No se acredita racionamiento ni corte industrial. Demanda inferior a2022 y capacidad de sustitución limitan una lectura de ruptura inevitable.
+
+**Próxima prueba:** TWh/%por país ygasday; flujos/GNL/demanda ajustada por clima, facturas y restricciones reales. A sube peso3,9→4,2 por alcance estructural; B conservaP3/estable: una publicación no acredita aceleración homogénea.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 3,9→4,2; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "Gas europeo / invierno"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.2
+factor_tendencia: 1
+tags: [gas, europa, energia, almacenamiento, invierno]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+---
+
+# Gas europeo / invierno
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P3 · peso 4,20 · → (factor 1) · carga 12,60 · V02.**
+
+## Evidencia y auditoría al corte
+
+**Observado/publicado:** ACER27-oct informa almacenamientoUE75%al21-oct; menorGNL estival y exposición a oferta estadounidense. El impacto de coste estimado18–33B€ es estimación institucional, no pérdida industrial ejecutadaW44 [[S11](https://acer.europa.eu/news/eu-gas-storage-75-filled)]. Periodos observados distintos de fecha de publicación.
+
+**Condiciones cualitativas:** inventario y flujos → precio/coste → restricciones industriales. No se acredita racionamiento ni corte industrial. Demanda inferior a2022 y capacidad de sustitución limitan una lectura de ruptura inevitable.
+
+**Próxima prueba:** TWh/%por país ygasday; flujos/GNL/demanda ajustada por clima, facturas y restricciones reales. A sube peso3,9→4,2 por alcance estructural; B conservaP3/estable: una publicación no acredita aceleración homogénea.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 3,9→4,2; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "Gas europeo / invierno"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
@@ -39,7 +136,7 @@ Ficha: [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]]. Comparador W42: E0 / P3 / 
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -85,7 +182,7 @@ Las definiciones anteriores conservan umbral, duración, población y causalidad
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -118,7 +215,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -132,7 +229,7 @@ Imputación exclusiva a [[VECTOR_02_Energia_y_nodos_geoeconomicos]]. Los canales
 
 [GIE, instantánea 02-oct 06:00 CEST](https://www.gie.eu/): UE 810,70 TWh/71,64%, Alemania 58,03%, Países Bajos 58,88%. Frente a 26-sep: UE +13,50 TWh/+1,19 pp; Alemania +0,96 pp y Países Bajos +2,05 pp. Alivio marginal observable; no garantiza suministro invernal sin balances de demanda, clima y flujos. P3/→ conservados, peso 3,9.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -179,10 +276,14 @@ Conecta con [[TESIS_04_Multipolaridad_Logistica]] y [[TESIS_06_IA_como_silicio_y
 
 27-sep: alta C13 autorizada junto con las otras propuestas. Seguimiento en revisiones semanales; sin fecha artificial de hito ni automatización. Si deja de aportar señal independiente, proponer absorción en V02 a Luis.
 
-Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10]] · [[MAPA_TRANSMISIONES]].
+Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANSMISIONES]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia →, factor 1,0, carga 12,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
+
+</details>
 
 </details>
 

@@ -2,6 +2,218 @@
 presion: "🔴 CRÍTICA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 1
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+## Estado operativo W44
+
+**🔴 Crítica · → · carga primaria 24,20.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,80 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+
+## Evidencia y límites
+
+[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/) modifica productosCanadá con vigencia30-oct, sin cobro auditado completo. [S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)/S19 registroChina/DeepSeek son antecedentes recontrastados, no nuevaejecución. [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)OISPpropuesto, [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)robótica232negociación, [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)suspensiónmarítimapropuesta yR14firmaChina–Suiza se mantienen diferenciados; anuncio/consulta/firma no entrega ni leyfinal por defecto.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V04-01 | arancelextraordinario>20%estratégico | Basejurídicaheredada y ajuste50%[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/);sin reauditoríadecobro. [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)no impone tasa nueva. |
+| V04-02 | SCFI>20%vsmedia90dsostenida | No verificableseriehomogéneacompleta. |
+| V04-03 | comercionoUSD>50BUSD/año | No verificablevolumen/moneda/serie;declaracióncumbre no liquidación. |
+| V04-04 | IEDindustrial+30%enjurisdicciónpuente | No verificableIEDindustrialejecutadacomparable. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## Observatorio estructural — actualización W44
+
+**C23/C27/C34/C38/C42–C45:** norma/partida/tecnología/destino, autoridad, fechaefectiva, trámite/licencia yoperación conplazo/volumen. Conservar instrumentos distintos48/49/50/51/52; C41 se sigue por absorción en el apartado propio inferior. No todo dron/robot ni todo usuario cubierto.
+
+**C50OISP:** [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)consulta07-dic, texto final/ámbito/vigencia yoperaciónafectada; no prohibición nueva consumada. **C51robótica232:** [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)negociación/reporte180d, fuera60d; acuerdo/tasa/vigencia ycostereal, no adopciónproductivaV05. **C52marítimo301:** [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propuestahasta09-ene2027, fuerahorizonte; decisiónfinalycobroseparados; comentarios30-octvencidos no prueba de prórroga.
+
+**C53China–Suiza:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firma30-oct; ratificación/vigencia/partidas yflujos pendientes, sin fecha efectiva inventada. **BrasilC48/V06:** participacióncomercial/IED observada, stock2024controladorúltimo enUSD [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)], no pérdida ni cambio debloque inferido de elección. Sinotra carga.
+
+### C41 — DeepSeek absorbida por decisión de Luis el01-nov
+
+Seguimiento en este observatorio, sin ficha activa ni carga propia. Memoria en [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]]. No se afirma derogación, inexistencia de restricciones ni ejecución económica completa.
+
+Rectificación documental recuperada enTASK271: el [anexo de la orden2026-01](https://public-inspection.federalregister.gov/2026-21447.pdf), páginasPDF3–6 leídas visualmente, indica emisión original24-jul-2026; el aviso se publicó20-oct. Ordena exclusión/retirada inmediatamente tras emisión y permite solicitudes de excepción dentro de60días; ese plazo no es una demora general de retirada. Ámbito federal civil con límites/excepciones, no prohibición privada general. No acredita cumplimiento o coste poragencia.
+
+Sensores: contratos excluidos, instalaciones retiradas, excepciones solicitadas/resueltas, coste y tiempo de migración poragencia/periodo yproductos de terceros afectados. Separar texto jurídico, obligación y cumplimiento. La antigüedad del acto y falta de incidencia económica autónoma recuperada sustentan la absorción editorial; el riesgo continúa observable. Reapertura solo con episodio delimitado y decisión/calibración humana.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 1
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🔴 Crítica · → · carga primaria 24,20.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,80 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+
+## Evidencia y límites
+
+[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/) modifica productosCanadá con vigencia30-oct, sin cobro auditado completo. [S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)/S19 registroChina/DeepSeek son antecedentes recontrastados, no nuevaejecución. [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)OISPpropuesto, [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)robótica232negociación, [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)suspensiónmarítimapropuesta yR14firmaChina–Suiza se mantienen diferenciados; anuncio/consulta/firma no entrega ni leyfinal por defecto.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V04-01 | arancelextraordinario>20%estratégico | Basejurídicaheredada y ajuste50%[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/);sin reauditoríadecobro. [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)no impone tasa nueva. |
+| V04-02 | SCFI>20%vsmedia90dsostenida | No verificableseriehomogéneacompleta. |
+| V04-03 | comercionoUSD>50BUSD/año | No verificablevolumen/moneda/serie;declaracióncumbre no liquidación. |
+| V04-04 | IEDindustrial+30%enjurisdicciónpuente | No verificableIEDindustrialejecutadacomparable. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## Observatorio estructural — actualización W44
+
+**C23/C27/C34/C38/C42–C45:** norma/partida/tecnología/destino, autoridad, fechaefectiva, trámite/licencia yoperación conplazo/volumen. Conservar instrumentos distintos48/49/50/51/52; C41 se sigue por absorción en el apartado propio inferior. No todo dron/robot ni todo usuario cubierto.
+
+**C50OISP:** [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)consulta07-dic, texto final/ámbito/vigencia yoperaciónafectada; no prohibición nueva consumada. **C51robótica232:** [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)negociación/reporte180d, fuera60d; acuerdo/tasa/vigencia ycostereal, no adopciónproductivaV05. **C52marítimo301:** [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propuestahasta09-ene2027, fuerahorizonte; decisiónfinalycobroseparados; comentarios30-octvencidos no prueba de prórroga.
+
+**C53China–Suiza:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firma30-oct; ratificación/vigencia/partidas yflujos pendientes, sin fecha efectiva inventada. **BrasilC48/V06:** participacióncomercial/IED observada, stock2024controladorúltimo enUSD [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)], no pérdida ni cambio debloque inferido de elección. Sinotra carga.
+
+### C41 — DeepSeek absorbida por decisión de Luis el01-nov
+
+Seguimiento en este observatorio, sin ficha activa ni carga propia. Memoria en [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]]. No se afirma derogación, inexistencia de restricciones ni ejecución económica completa.
+
+Rectificación documental recuperada enTASK271: el [anexo de la orden2026-01](https://public-inspection.federalregister.gov/2026-21447.pdf), páginasPDF3–6 leídas visualmente, indica emisión original24-jul-2026; el aviso se publicó20-oct. Ordena exclusión/retirada inmediatamente tras emisión y permite solicitudes de excepción dentro de60días; ese plazo no es una demora general de retirada. Ámbito federal civil con límites/excepciones, no prohibición privada general. No acredita cumplimiento o coste poragencia.
+
+Sensores: contratos excluidos, instalaciones retiradas, excepciones solicitadas/resueltas, coste y tiempo de migración poragencia/periodo yproductos de terceros afectados. Separar texto jurídico, obligación y cumplimiento. La antigüedad del acto y falta de incidencia económica autónoma recuperada sustentan la absorción editorial; el riesgo continúa observable. Reapertura solo con episodio delimitado y decisión/calibración humana.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 1
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🔴 Crítica · → · carga primaria 30,60.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,80 |
+| [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]] | 6,40 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+
+## Evidencia y límites
+
+[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/) modifica productosCanadá con vigencia30-oct, sin cobro auditado completo. [S18](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)/S19 registroChina/DeepSeek son antecedentes recontrastados, no nuevaejecución. [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)OISPpropuesto, [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)robótica232negociación, [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)suspensiónmarítimapropuesta yR14firmaChina–Suiza se mantienen diferenciados; anuncio/consulta/firma no entrega ni leyfinal por defecto.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. Urda no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V04-01 | arancelextraordinario>20%estratégico | Basejurídicaheredada y ajuste50%[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/);sin reauditoríadecobro. [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)no impone tasa nueva. |
+| V04-02 | SCFI>20%vsmedia90dsostenida | No verificableseriehomogéneacompleta. |
+| V04-03 | comercionoUSD>50BUSD/año | No verificablevolumen/moneda/serie;declaracióncumbre no liquidación. |
+| V04-04 | IEDindustrial+30%enjurisdicciónpuente | No verificableIEDindustrialejecutadacomparable. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## Observatorio estructural — actualización W44
+
+**C23/C27/C34/C38/C41/C42–C45:** norma/partida/tecnología/destino, autoridad, fechaefectiva, trámite/licencia yoperación conplazo/volumen. Conservar instrumentos distintos48/49/50/51/52; DeepSeek limitado aámbitocivilfederal. No todo dron/robot ni todo usuario cubierto.
+
+**C50OISP:** [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)consulta07-dic, texto final/ámbito/vigencia yoperaciónafectada; no prohibición nueva consumada. **C51robótica232:** [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)negociación/reporte180d, fuera60d; acuerdo/tasa/vigencia ycostereal, no adopciónproductivaV05. **C52marítimo301:** [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propuestahasta09-ene2027, fuerahorizonte; decisiónfinalycobroseparados; comentarios30-octvencidos no prueba de prórroga.
+
+**C53China–Suiza:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firma30-oct; ratificación/vigencia/partidas yflujos pendientes, sin fecha efectiva inventada. **BrasilC48/V06:** participacióncomercial/IED observada, stock2024controladorúltimo enUSD [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)], no pérdida ni cambio debloque inferido de elección. Sinotra carga.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 ultima_revision: 2026-10-24
 triggers_activos: 1
@@ -51,7 +263,7 @@ C42: [anuncio52,19-oct](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_531d1a665
 C43–C45: [drones49](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html), [tuneladoras50](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_1628d886f39840489513af242f93517b.html) y [dragas51](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html), publicados19-oct, vigencia18-nov futura. Universos y trámites distintos del48; no incorporar automáticamente a C38. Sensor: clasificación, destino, licencias/registro y entregas tras vigencia. C23 chips estadounidenses y C27 minerales/licencias siguen seguimiento por producto; no doble carga con C41 o Xi.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -116,7 +328,7 @@ Contadores heredados **1 activos / 1 parciales**; no recuento de umbrales revali
 
 C38 se incorpora como evento primario V04 por la obligación de registro, sin duplicarlo en V03/V06. C23/C27 continúan integrados; C34 requiere primario concreto antes de promover. Sensores: acto vigente, expedientes/denegaciones, plazos, contratos y entregas por tecnología; importaciones sectoriales YoY de dos meses, recaudación y márgenes con atribución. [Anuncio 48](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html) y consulta hasta el 15-nov: finalización del plazo no significa adopción del catálogo.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -158,7 +370,7 @@ C38 se incorpora como evento primario V04 por la obligación de registro, sin du
 - **Transmisión:** Impacta en V01 (inflación importada y presión cambiaria) y V05 (competitividad del parque manufactuero nacional).
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -178,7 +390,7 @@ Seguimiento de ejecución de acuerdos con China en este vector para licencias/co
 
 Contadores heredados 1 activo/1 parcial. Vigencia de exclusiones no prueba SCFI, IED, pagos alternativos ni atribución de inflación. Medición de aplicación y transmisión pendiente.
 
-Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10_r1]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
 
 <details>
 <summary>Estado operativo W39 sustituido; memoria íntegra</summary>
@@ -320,6 +532,12 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

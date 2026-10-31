@@ -5,6 +5,105 @@ fecha_hito: 2026-11-03
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "Decisión humana C2 — TASK_118"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.7
+fecha_decision_peso: 2026-10-31
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [elecciones, estados-unidos, politica-fiscal]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# Midterms
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P2 · peso 4,70 · → (factor 1) · carga 9,40 · V06.**
+
+## Evidencia y auditoría al corte
+
+**Situación al corte31-oct:** elección federal03-nov futura [[S31](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)]. Ipsos26-oct yMarist27-oct aportan53/44 y52/44 en subgrupos de votantes probables, con trabajos de campo/muestras distintos [[R04](https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot)–[R05](https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/)]; no se promedian ni convierten en escaños. Cook30-oct: índice propio sobre competitividad; artículos completos403 [[R03](https://www.cookpolitical.com/?lctg=587e487172fbf2056f8b4e5e&stream=top)].
+
+**Condiciones cualitativas:** composición oficial de cámaras → capacidad legislativa → medidas y ejecución. Resultados/certificación y política posterior no observados. La Fed mantiene tipos28-oct [[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)]; motivación preelectoral es interpretación, no causalidad demostrada por el comunicado.
+
+**Próxima prueba:** resultados oficiales, mayorías y legislación ejecutada. A4,3→4,7 por alcance de la capacidad decisoria; B conservaE0/P2/estable, sin escalar por proximidad.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 4,3→4,7; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "Midterms"
+fecha: 2026-09-19
+fecha_hito: 2026-11-03
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+origen_alta: "Decisión humana C2 — TASK_118"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 4.7
+fecha_decision_peso: 2026-10-31
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [elecciones, estados-unidos, politica-fiscal]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+---
+
+# Midterms
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P2 · peso 4,70 · → (factor 1) · carga 9,40 · V06.**
+
+## Evidencia y auditoría al corte
+
+**Situación al corte31-oct:** elección federal03-nov futura [[S31](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)]. Ipsos26-oct yMarist27-oct aportan53/44 y52/44 en subgrupos de votantes probables, con trabajos de campo/muestras distintos [[R04](https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot)–[R05](https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/)]; no se promedian ni convierten en escaños. Cook30-oct: índice propio sobre competitividad; artículos completos403 [[R03](https://www.cookpolitical.com/?lctg=587e487172fbf2056f8b4e5e&stream=top)].
+
+**Condiciones cualitativas:** composición oficial de cámaras → capacidad legislativa → medidas y ejecución. Resultados/certificación y política posterior no observados. La Fed mantiene tipos28-oct [[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)]; motivación preelectoral es interpretación, no causalidad demostrada por el comunicado.
+
+**Próxima prueba:** resultados oficiales, mayorías y legislación ejecutada. A4,3→4,7 por alcance de la capacidad decisoria; B conservaE0/P2/estable, sin escalar por proximidad.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 4,3→4,7; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "Midterms"
+fecha: 2026-09-19
+fecha_hito: 2026-11-03
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 origen_alta: "Decisión humana C2 — TASK_118"
@@ -41,7 +140,7 @@ Ficha: [[Evento_E0_2026_11_03_Midterms_EEUU]]. Comparador W42: E0 / P2 / peso 4,
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -89,7 +188,7 @@ Las definiciones anteriores conservan umbral, duración, población y causalidad
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -122,7 +221,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -140,7 +239,7 @@ Luis solicita peso **4,3** y confirma «Aplica cambios y sigue». Peso vigente 4
 
 Elecciones futuras 03-nov según [FEC](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/), calendario heredado contrastado en W39. Peso 4,2 por mayor proximidad; P2/→ conservados. La fecha y la mayor relevancia temporal no anticipan ganador ni garantizan apoyo fiscal o monetario.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -176,7 +275,7 @@ Mayorías → capacidad legislativa/control → política fiscal y comercial. Co
 
 ## 5. Decisión e historial
 
-19/09/2026 — Luis: «C1 y C2 mete». La fila electoral ya existía en [[Radar_Eventos_2026_10]]; ahora enlaza esta ficha. No se añade otra fila para el mismo hito.
+19/09/2026 — Luis: «C1 y C2 mete». La fila electoral ya existía en [[Radar_Eventos_2026_10_r1]]; ahora enlaza esta ficha. No se añade otra fila para el mismo hito.
 
 Conecta con [[VECTOR_00_Indice]].
 
@@ -185,6 +284,10 @@ Conecta con [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
+
+</details>
 
 </details>
 

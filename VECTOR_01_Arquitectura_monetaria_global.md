@@ -2,6 +2,208 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+## Estado operativo W44
+
+**🟠 Elevada · ↑ · carga primaria 40,80.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 13,80 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 9,00 |
+
+## Evidencia y límites
+
+[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)/S03/S04:Fed/BCE/BoJ mantienen tipos en28–30oct; no demuestra subordinación fiscal. [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)–08 registran flujos japoneses, reservas yTGA, con lagunas institucionales/diarias. FranciaTEC10revierte11,8pb23→30oct [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23)], contraevidencia a aceleración semanal; no normalización fiscal ni bancaria. Presión elevada/tendencia estructural↑se conservan por conjunto de financiación/restricción, separadas deFrancia→y de carga40,80.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V01-01 | spreadinterbancario>15pb5d | No verificablebenchmarkcompleto;SOFR−IORB2–5pb no representa todos los spreads. |
+| V01-02 | repodeemergencia>50BUSD>5d | No verificableagregado/serie diaria/duración. Reservassemanales no son utilizaciónSRF. |
+| V01-03 | BTC10/30Y<2,3dos emisiones | No verificable: no recuperados dos resultados de emisiones homogéneas. |
+| V01-04 | soberano10Y>5%>10sesiones | Secuencia actual francesa interrumpida26–30oct<5% [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)]. No generalizar a todo soberano ni ventana histórica. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## Observatorio estructural — actualización W44
+
+**C7/C8/C9/C22/C39/C40:** fuente regulatoria/emisor/operador concreta; reembolsos pedidos/atendidos y pérdidas porperiodo; depósitos/redenciones/reservas poractivo; repo/SRF/USD porfecha ybenchmark; caja/deuda/PPE/obligaciones deoperadores con trimestre fiscal yguía previa/nueva compatibles. [S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)/S16/R06 son emisores distintos, no agregadoCAPEX homogéneo. No sumar gasto con ysinarrendamientos o guías/calendarios distintos.
+
+**C49 sucesiónBCE:** [S29](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)anuncia salida07-feb2027, fuera de60d; observar nombramiento/mandato y decisiones, sin calendario inventado del sucesor. Brasil/V06 tiene enlace financiero secundario: distinguir deudaFMI/autoridades, curva/moneda/periodo, stock de capital/flujo/pérdida [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)–[L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)]. PensionesV05 transmite aEspaña solo si presupuesto/ejecución lo acredita.
+
+**T05:** elegibilidad jurídica → operaciones efectivamente liquidadas → volumen recurrente, coste/plazo y origen de fondos. [R13](https://www.ipsos.com/en-us/only-one-five-americans-say-us-financial-system-secure)encuesta de uso/interés no liquidez ni colateralnuevo. Una ruptura identificable genera propuesta aLuis; no alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+Urda/C47 queda fuera del inventario macro por decisión de Luis el01-nov. Solo se conserva como posible contexto electoral en [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]/V01: hipótesis de transmisión política por comprobar, sin causalidad demostrada, nueva ficha, aumento de presión o carga adicional.
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟠 Elevada · ↑ · carga primaria 40,80.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 13,80 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 9,00 |
+
+## Evidencia y límites
+
+[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)/S03/S04:Fed/BCE/BoJ mantienen tipos en28–30oct; no demuestra subordinación fiscal. [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)–08 registran flujos japoneses, reservas yTGA, con lagunas institucionales/diarias. FranciaTEC10revierte11,8pb23→30oct [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23)], contraevidencia a aceleración semanal; no normalización fiscal ni bancaria. Presión elevada/tendencia estructural↑se conservan por conjunto de financiación/restricción, separadas deFrancia→y de carga40,80.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V01-01 | spreadinterbancario>15pb5d | No verificablebenchmarkcompleto;SOFR−IORB2–5pb no representa todos los spreads. |
+| V01-02 | repodeemergencia>50BUSD>5d | No verificableagregado/serie diaria/duración. Reservassemanales no son utilizaciónSRF. |
+| V01-03 | BTC10/30Y<2,3dos emisiones | No verificable: no recuperados dos resultados de emisiones homogéneas. |
+| V01-04 | soberano10Y>5%>10sesiones | Secuencia actual francesa interrumpida26–30oct<5% [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)]. No generalizar a todo soberano ni ventana histórica. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## Observatorio estructural — actualización W44
+
+**C7/C8/C9/C22/C39/C40:** fuente regulatoria/emisor/operador concreta; reembolsos pedidos/atendidos y pérdidas porperiodo; depósitos/redenciones/reservas poractivo; repo/SRF/USD porfecha ybenchmark; caja/deuda/PPE/obligaciones deoperadores con trimestre fiscal yguía previa/nueva compatibles. [S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)/S16/R06 son emisores distintos, no agregadoCAPEX homogéneo. No sumar gasto con ysinarrendamientos o guías/calendarios distintos.
+
+**C49 sucesiónBCE:** [S29](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)anuncia salida07-feb2027, fuera de60d; observar nombramiento/mandato y decisiones, sin calendario inventado del sucesor. Brasil/V06 tiene enlace financiero secundario: distinguir deudaFMI/autoridades, curva/moneda/periodo, stock de capital/flujo/pérdida [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)–[L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)]. PensionesV05 transmite aEspaña solo si presupuesto/ejecución lo acredita.
+
+**T05:** elegibilidad jurídica → operaciones efectivamente liquidadas → volumen recurrente, coste/plazo y origen de fondos. [R13](https://www.ipsos.com/en-us/only-one-five-americans-say-us-financial-system-secure)encuesta de uso/interés no liquidez ni colateralnuevo. Una ruptura identificable genera propuesta aLuis; no alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+Urda/C47 queda fuera del inventario macro por decisión de Luis el01-nov. Solo se conserva como posible contexto electoral en [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]]/V01: hipótesis de transmisión política por comprobar, sin causalidad demostrada, nueva ficha, aumento de presión o carga adicional.
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟠 Elevada · ↑ · carga primaria 40,80.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,00 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 13,80 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 9,00 |
+
+## Evidencia y límites
+
+[S01](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)/S03/S04:Fed/BCE/BoJ mantienen tipos en28–30oct; no demuestra subordinación fiscal. [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf)–08 registran flujos japoneses, reservas yTGA, con lagunas institucionales/diarias. FranciaTEC10revierte11,8pb23→30oct [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)–[S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-23)], contraevidencia a aceleración semanal; no normalización fiscal ni bancaria. Presión elevada/tendencia estructural↑se conservan por conjunto de financiación/restricción, separadas deFrancia→y de carga40,80.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. Urda no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V01-01 | spreadinterbancario>15pb5d | No verificablebenchmarkcompleto;SOFR−IORB2–5pb no representa todos los spreads. |
+| V01-02 | repodeemergencia>50BUSD>5d | No verificableagregado/serie diaria/duración. Reservassemanales no son utilizaciónSRF. |
+| V01-03 | BTC10/30Y<2,3dos emisiones | No verificable: no recuperados dos resultados de emisiones homogéneas. |
+| V01-04 | soberano10Y>5%>10sesiones | Secuencia actual francesa interrumpida26–30oct<5% [[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-10-30)]. No generalizar a todo soberano ni ventana histórica. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## Observatorio estructural — actualización W44
+
+**C7/C8/C9/C22/C39/C40:** fuente regulatoria/emisor/operador concreta; reembolsos pedidos/atendidos y pérdidas porperiodo; depósitos/redenciones/reservas poractivo; repo/SRF/USD porfecha ybenchmark; caja/deuda/PPE/obligaciones deoperadores con trimestre fiscal yguía previa/nueva compatibles. [S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)/S16/R06 son emisores distintos, no agregadoCAPEX homogéneo. No sumar gasto con ysinarrendamientos o guías/calendarios distintos.
+
+**C49 sucesiónBCE:** [S29](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)anuncia salida07-feb2027, fuera de60d; observar nombramiento/mandato y decisiones, sin calendario inventado del sucesor. Brasil/V06 tiene enlace financiero secundario: distinguir deudaFMI/autoridades, curva/moneda/periodo, stock de capital/flujo/pérdida [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)–[L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)]. PensionesV05 transmite aEspaña solo si presupuesto/ejecución lo acredita.
+
+**T05:** elegibilidad jurídica → operaciones efectivamente liquidadas → volumen recurrente, coste/plazo y origen de fondos. [R13](https://www.ipsos.com/en-us/only-one-five-americans-say-us-financial-system-secure)encuesta de uso/interés no liquidez ni colateralnuevo. Una ruptura identificable genera propuesta aLuis; no alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 ultima_revision: 2026-10-24
 triggers_activos: 0
@@ -49,7 +251,7 @@ Contadores previos conservados como heredados; la cobertura por cláusula es la 
 Seguir reembolsos solicitados/atendidos y mora por fondo; reservas/redenciones de stablecoins y depósitos; CAPEX/caja/deuda/compromisos de operadores IA; márgenes/ventas forzosas por fondo y cortes de infraestructura de pagos (horas/volumen). [GFSR octubre](https://www.imf.org/en/Publications/GFSR/Issues/2026/10/13/global-financial-stability-report-october-2026) identifica riesgos, no episodios nuevos. Cada registro conservará periodo, unidad, actor y primario. SOFR mediano no sustituye GCp99 ni SRF diario agregado.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -117,7 +319,7 @@ Contadores heredados **0 activos / 0 parciales**; no recuento de umbrales revali
 
 Crédito privado: reembolsos solicitados/atendidos (% y periodo), mora, pérdidas y refinanciación por fondo. CAPEX IA: caja, deuda, vencimientos, anticipos, utilización y retorno por empresa; distinguir anunciado, cerrado y ejecutado. Stablecoins: reservas auditadas, composición y redenciones (USD/periodo). C39: apalancamiento bruto/neto de hedge funds, base Treasury y márgenes por universo; C40: incidentes verificables, interrupción y restauración de pagos/liquidación, pérdidas y horas. [GFSR 13-oct](https://www.imf.org/en/Publications/GFSR/Issues/2026/10/13/global-financial-stability-report-october-2026) identifica vulnerabilidades; es evaluación, no prueba de quiebra, venta forzosa o ciberataque concreto. No nuevas fichas ni carga por el informe. Mantener unidades, muestra y comparabilidad; no seguimiento continuo.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -166,7 +368,7 @@ Crédito privado: reembolsos solicitados/atendidos (% y periodo), mora, pérdida
 Crédito privado: solicitado/atendido (%unidades, periodo), mora/pérdidas yrefinanciación por fondo. Stablecoins: reservas auditadas/composición/redenciones (USD yperiodo). CAPEXIA: caja, deuda, vencimientos, anticipos, utilización/retorno por empresa; distinguir inversiónanunciada/cerrada/ejecutada. Prioridadhumana elevada para proyectos, sin nueva ficha/carga. Mantener registro previo en memoria; no agregado nuevo comparable recuperado W41.
 
 [BOE, RD 806/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es): disposición 05-oct/publicación y vigencia 06-oct; disolución de Cortes, elección 29-nov, campaña 13–27 nov y constitución Cortes 23-dic (fuera del radar 09-dic). Resultado, investidura y política fiscal futuros. Peso 4,2 aprobado por exposición España y utilidad del sistema para Luis, no equivalencia de alcance mundial con EEUU. [Banco de España 09-oct](https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/proyecciones-macro-informe-trimestral/proyecciones-e-informe-trimestral-de-la-economia-espanola-tercer-trimestre-2026.html): proyecciones cerradas 02-oct, crecimiento 2026 2,6%/2027 2,2%; IAPCmedio previsto 3,9%/3,7%; deuda prevista 98,5%/96,2%PIB. Fortalezas proyectadas son contraevidencia frente a crisis presumida. Supuestos 21-mayo–24-sept: gas+52%, rentabilidad España 10 Y+55 pb; preceden convocatoria, no reacción electoral ni cambio W41. [INE avance 29-sept](https://ine.es/dyngs/Prensa/es/adIPC0926.html): IPCsept 4,9%YoY frente 4,3%agosto, subyacente 3,1%, combustibles y turismo influyen; antecedente, avance pendiente de definitivo. No equiparar IPCmensual YoY y proyección IAPCmediaanual.
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -188,7 +390,7 @@ Crédito privado: solicitado/atendido (%unidades, periodo), mora/pérdidas yrefi
 
 Contadores estructurales heredados 0 activos/0 parciales, no revalidación integral. SOFR no satisface >15 pb durante cinco días; SRF diario, subastas comparables, diferencial cubierto y 10Y>5% no verificables completos. No dominancia fiscal activada.
 
-Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10_r1]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
 
 <details>
 <summary>Estado operativo W39 sustituido; memoria íntegra</summary>
@@ -389,6 +591,12 @@ Registro inicial 27-sep: conservar diferencia entre CAPEX bruto, ajustado y anti
 ## Seguimiento aprobado W40 — C7/C8/C22
 
 Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de reembolsos (% de unidades y periodo), límites, mora/pérdidas y refinanciación; fuente SEC, fecha de presentación por verificar. Antecedentes heterogéneos: [PIF](https://www.sec.gov/Archives/edgar/data/1851322/000119312526395654/d154719dex99a1vi.htm) solicitudes11,4% frente a5%capacidad; [Fidelity](https://www.sec.gov/Archives/edgar/data/1920453/000119312526384555/d109827dex99a1vi.htm) solicitudes2,5% atendidas. No crisis sectorial acreditada. C8: reservas auditadas, composición en letras, redenciones y flujos (USD/mes), sin datos nuevos recuperados. C22 conserva panel de caja, deuda/vencimientos, anticipos, utilización y retorno; Micron positivo no representa agregado hyperscalers. Restricción delimitada con transmisión verificable genera propuesta humana, no alta automática.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

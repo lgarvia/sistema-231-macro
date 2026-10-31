@@ -7,6 +7,113 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# CoWoS
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E0 · P4 · peso 4,10 · ↑ (factor 1.2) · carga 19,68 · V03.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| C-A | Anuncio **oficial** de retraso de equipamiento/conexión de **AP7 Chiayi** que posponga producción en masa **más allá de H1 2027**. | **No verificable.** No se recupera anuncio específico; datosHBM yCAPEX no acreditan AP7. |
+| C-B | Problemas verificados de **yields CoWoS-L** reducen entregas físicas **Nvidia Blackwell un 20% por debajo de la guía Q4 2026**, con nexo causal. | **Periodo incompleto/no verificable.** Q4sin cerrar; faltan guía, entregas y nexo causal. [S14](https://news.skhynix.com/en/q3-2026-business-results/)envíosHBM4 no sonBlackwell. |
+| C-C | Recorte **agregado >10%** de guía de CAPEX tecnológico de **hyperscalers** en resultados Q3/Q4 2026, que señale freno en adquisición física de aceleradores. | **No verificable agregado.** [S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)–17no muestran ese recorte en sus medidas observadas; falta universo/guías homogéneas anteriores-nuevas y calendario fiscal. No usar crecimiento de gasto realizado como prueba matemática de todas las guías. |
+| C-D | Sobrecapacidad o contracción de pedidos lleva el **lead time de empaquetado CoWoS por debajo de 20 semanas de forma generalizada**. | **No verificable.** Sin distribución de plazos/pedidos y causalidad; expectativa de escasezHBM no demuestra todos los procesosCoWoS. |
+
+ResultadosSKhynix28-oct yPPE deMicrosoft/AlphabetQ3 apoyan actividad/demanda [[S14](https://news.skhynix.com/en/q3-2026-business-results/)–[S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast),[R06](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm)]. HBM, interposers y empaquetado no son la misma etapa. TSMC15-oct buenosyields/ligera escasezback-end yGF08-oct rampaH1-2028 son antecedentes/contraevidencia de oferta [[R07](https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/)–[R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)]. Rumor de subida20%deprecios no consolidado. Ningún resultado agregado activaAP7/Blackwell/plazos específicos.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 3,7→4,1; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "CoWoS"
+fecha: 2026-06-28
+source: TSMC / TrendForce / Micron / Silicon Analysts
+url: https://www.tsmc.com/
+vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
+tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+fecha_decision_peso: 2026-10-31
+decision_peso: "Luis — A revisada W44 aprobada31-oct"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+---
+
+# CoWoS
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E0 · P4 · peso 4,10 · ↑ (factor 1.2) · carga 19,68 · V03.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| C-A | Anuncio **oficial** de retraso de equipamiento/conexión de **AP7 Chiayi** que posponga producción en masa **más allá de H1 2027**. | **No verificable.** No se recupera anuncio específico; datosHBM yCAPEX no acreditan AP7. |
+| C-B | Problemas verificados de **yields CoWoS-L** reducen entregas físicas **Nvidia Blackwell un 20% por debajo de la guía Q4 2026**, con nexo causal. | **Periodo incompleto/no verificable.** Q4sin cerrar; faltan guía, entregas y nexo causal. [S14](https://news.skhynix.com/en/q3-2026-business-results/)envíosHBM4 no sonBlackwell. |
+| C-C | Recorte **agregado >10%** de guía de CAPEX tecnológico de **hyperscalers** en resultados Q3/Q4 2026, que señale freno en adquisición física de aceleradores. | **No verificable agregado.** [S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)–17no muestran ese recorte en sus medidas observadas; falta universo/guías homogéneas anteriores-nuevas y calendario fiscal. No usar crecimiento de gasto realizado como prueba matemática de todas las guías. |
+| C-D | Sobrecapacidad o contracción de pedidos lleva el **lead time de empaquetado CoWoS por debajo de 20 semanas de forma generalizada**. | **No verificable.** Sin distribución de plazos/pedidos y causalidad; expectativa de escasezHBM no demuestra todos los procesosCoWoS. |
+
+ResultadosSKhynix28-oct yPPE deMicrosoft/AlphabetQ3 apoyan actividad/demanda [[S14](https://news.skhynix.com/en/q3-2026-business-results/)–[S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast),[R06](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm)]. HBM, interposers y empaquetado no son la misma etapa. TSMC15-oct buenosyields/ligera escasezback-end yGF08-oct rampaH1-2028 son antecedentes/contraevidencia de oferta [[R07](https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/)–[R08](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)]. Rumor de subida20%deprecios no consolidado. Ningún resultado agregado activaAP7/Blackwell/plazos específicos.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso 3,7→4,1; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "CoWoS"
+fecha: 2026-06-28
+source: TSMC / TrendForce / Micron / Silicon Analysts
+url: https://www.tsmc.com/
+vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
+tipo: evento
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 estado: E0
@@ -47,7 +154,7 @@ Los resultados SK hynix del 28-oct siguen como próxima observación, no resulta
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -104,7 +211,7 @@ La transición hacia la Agentic AI (IA Agéntica) condena a los hyperscalers a o
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -144,7 +251,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -158,7 +265,7 @@ Imputación exclusiva a [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]. L
 
 [Micron, publicado 30-sep](https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx): trimestre fiscal terminado 03-sep, ingresos 54.229 M USD frente a 41.456 el trimestre anterior; CAPEX neto 10.774 M USD y FCF ajustado 33.199 M USD. Guía FQ1-27 de 61.500 ±1.500 M USD es previsión. Refuerza incidencia industrial de memoria, pero no prueba yields, entregas Blackwell ni capacidad CoWoS. A/B sin retraso AP7 o caída cuantificada acreditados; Q4 incompleto. C/D sin agregado hyperscalers o lead time generalizado verificables. C20 HBM integrado; no se presupone sold-out o HBM4. [TSMC calendario](https://investor.tsmc.com/english/financial-calendar): 08-oct, 15-oct y 10-nov, provisional.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -295,6 +402,10 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
 - **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
 - **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
+
+</details>
+
+</details>
 
 </details>
 

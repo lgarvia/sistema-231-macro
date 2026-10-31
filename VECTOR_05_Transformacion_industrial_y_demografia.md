@@ -2,6 +2,198 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+
+## Estado operativo W44
+
+**🟡 Moderada · → · carga primaria 0,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| Ninguna ficha activa; observatorio operativo | 0,00 |
+
+## Evidencia y límites
+
+[S23](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap)PIBQ3preliminar yS24VW29-oct aportan actividad con objetos distintos: PIB no producción industrial, extraordinarios no todos aranceles. [S25](https://ifr.org/?lang=en)IFRstock/instalaciones2025 no KPIUnitree ni productividad útil. C5pensiones se recupera explícitamente con cuentas anuales netas/ratio contributivo pendientes. Carga0,00 significa ninguna ficha primaria activa, no ausencia de riesgo; Urda ya no tiene imputación macro activa por decisión de Luis.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V05-01 | déficitnetopensiones>2%PIBanual | No verificableúltimoejerciciocomparable;2026sin cerrar,previsiónnogastoefectivo/saldoneto. |
+| V05-02 | soporte<1,4cotizantes/pensionistaaño | No verificablepromedios/denominador/ejercicio;no sustituirpersonasporpensiones. |
+| V05-03 | salidanetaCAPEXfísico>5BUSD/año | No verificableflujojurisdicción;menorproducciónVWnoCAPEXneto. |
+| V05-04 | importadosavanzados>25%6meses | No verificableorigen/serie6meses;cuotaBEVnoimportada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## Observatorio estructural — actualización W44
+
+**C3/C4/C24/C25/C26:** preservarUnitreeabsorbida, no reabrir porIFRagregado. Cliente/planta/tarea; unidades entregadas/instaladas/operativas; horasútiles porrobot/mes; fallos/intervención/teleoperación; costetotal/calidad yrecompras. Industria: producción,utilización%,empleo/personas/horas,CAPEXfísicoejecutado porplanta/periodo; BEVno cuotaimportada. EmpleoIA exige adopciónpor tarea ycomparador, no agregado causal.
+
+**C5pensiones — recuperado enB:** fuente cuentas/liquidaciónSeguridadSocial/IGAE/AIReF según objeto; ingresoscontributivos,gastocontributivo,transferenciasyperímetro compatibles, saldoanual/PIB; cotizantes ypersonaspensionistas promedioanual, no número depensiones como personas. No sumartransferencias dosveces ni anualizar nómina mensual para activar déficitneto. [L06](https://revista.seg-social.es/-/25-a%C3%B1os-del-pacto-de-toledo)historiaPactoToledo orienta precisión institucional, no activaciónfiscalW44.
+
+Salarios/renta/vivienda: cohorte,territorioytenencia, periodo/denominador compatibles; productividad yhoras de uso frente abase. La incidencia electoral posible de Urda se limita aC35/V01; no se usa aquí como prueba de déficit anual de inversión o productividad. Ruptura autónoma lleva propuesta aLuis; no nueva ficha por cuota.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Adenda de inventario 01-nov-2026, decisión expresa de Luis: Urda retirado por falta de transmisión macro autónoma suficiente y DeepSeek archivada por absorción en V04. Corte factual conservado:31-oct22:25:41; no nueva actualidad dominical. Marítimo conserva E1/P4/peso4,5/↑; la propuesta de tendencia estable no se aplica.
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟡 Moderada · → · carga primaria 0,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| Ninguna ficha activa; observatorio operativo | 0,00 |
+
+## Evidencia y límites
+
+[S23](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap)PIBQ3preliminar yS24VW29-oct aportan actividad con objetos distintos: PIB no producción industrial, extraordinarios no todos aranceles. [S25](https://ifr.org/?lang=en)IFRstock/instalaciones2025 no KPIUnitree ni productividad útil. C5pensiones se recupera explícitamente con cuentas anuales netas/ratio contributivo pendientes. Carga0,00 significa ninguna ficha primaria activa, no ausencia de riesgo; Urda ya no tiene imputación macro activa por decisión de Luis.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. La retirada de fichas no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V05-01 | déficitnetopensiones>2%PIBanual | No verificableúltimoejerciciocomparable;2026sin cerrar,previsiónnogastoefectivo/saldoneto. |
+| V05-02 | soporte<1,4cotizantes/pensionistaaño | No verificablepromedios/denominador/ejercicio;no sustituirpersonasporpensiones. |
+| V05-03 | salidanetaCAPEXfísico>5BUSD/año | No verificableflujojurisdicción;menorproducciónVWnoCAPEXneto. |
+| V05-04 | importadosavanzados>25%6meses | No verificableorigen/serie6meses;cuotaBEVnoimportada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## Observatorio estructural — actualización W44
+
+**C3/C4/C24/C25/C26:** preservarUnitreeabsorbida, no reabrir porIFRagregado. Cliente/planta/tarea; unidades entregadas/instaladas/operativas; horasútiles porrobot/mes; fallos/intervención/teleoperación; costetotal/calidad yrecompras. Industria: producción,utilización%,empleo/personas/horas,CAPEXfísicoejecutado porplanta/periodo; BEVno cuotaimportada. EmpleoIA exige adopciónpor tarea ycomparador, no agregado causal.
+
+**C5pensiones — recuperado enB:** fuente cuentas/liquidaciónSeguridadSocial/IGAE/AIReF según objeto; ingresoscontributivos,gastocontributivo,transferenciasyperímetro compatibles, saldoanual/PIB; cotizantes ypersonaspensionistas promedioanual, no número depensiones como personas. No sumartransferencias dosveces ni anualizar nómina mensual para activar déficitneto. [L06](https://revista.seg-social.es/-/25-a%C3%B1os-del-pacto-de-toledo)historiaPactoToledo orienta precisión institucional, no activaciónfiscalW44.
+
+Salarios/renta/vivienda: cohorte,territorioytenencia, periodo/denominador compatibles; productividad yhoras de uso frente abase. La incidencia electoral posible de Urda se limita aC35/V01; no se usa aquí como prueba de déficit anual de inversión o productividad. Ruptura autónoma lleva propuesta aLuis; no nueva ficha por cuota.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+<details>
+<summary>Estado anterior a las retiradas autorizadas01-nov2026 — histórico íntegro</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+ultima_revision: 2026-10-31
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W44"
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado operativo W44
+
+**🟡 Moderada · → · carga primaria 0,00.** Semáforo y tendencia estructural conservados; no derivados mecánicamente de la carga o de una ficha.
+
+| Evento primario | Carga |
+|---|---:|
+| Ninguna ficha activa; observatorio operativo | 0,00 |
+
+## Evidencia y límites
+
+[S23](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap)PIBQ3preliminar yS24VW29-oct aportan actividad con objetos distintos: PIB no producción industrial, extraordinarios no todos aranceles. [S25](https://ifr.org/?lang=en)IFRstock/instalaciones2025 no KPIUnitree ni productividad útil. C5pensiones se recupera explícitamente con cuentas anuales netas/ratio contributivo pendientes. Carga0,00 significa ninguna ficha primaria activa, no ausencia de riesgo;Urda se imputaV02 por continuidad física.
+
+## Auditoría de condiciones propias
+
+Contadores previos conservados como heredados; no son recuentos de activaciones revalidadasW44. Urda no modifica los umbrales de vector.
+
+| Condición | Prueba / población | Resultado W44 |
+|---|---|---|
+| V05-01 | déficitnetopensiones>2%PIBanual | No verificableúltimoejerciciocomparable;2026sin cerrar,previsiónnogastoefectivo/saldoneto. |
+| V05-02 | soporte<1,4cotizantes/pensionistaaño | No verificablepromedios/denominador/ejercicio;no sustituirpersonasporpensiones. |
+| V05-03 | salidanetaCAPEXfísico>5BUSD/año | No verificableflujojurisdicción;menorproducciónVWnoCAPEXneto. |
+| V05-04 | importadosavanzados>25%6meses | No verificableorigen/serie6meses;cuotaBEVnoimportada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## Observatorio estructural — actualización W44
+
+**C3/C4/C24/C25/C26:** preservarUnitreeabsorbida, no reabrir porIFRagregado. Cliente/planta/tarea; unidades entregadas/instaladas/operativas; horasútiles porrobot/mes; fallos/intervención/teleoperación; costetotal/calidad yrecompras. Industria: producción,utilización%,empleo/personas/horas,CAPEXfísicoejecutado porplanta/periodo; BEVno cuotaimportada. EmpleoIA exige adopciónpor tarea ycomparador, no agregado causal.
+
+**C5pensiones — recuperado enB:** fuente cuentas/liquidaciónSeguridadSocial/IGAE/AIReF según objeto; ingresoscontributivos,gastocontributivo,transferenciasyperímetro compatibles, saldoanual/PIB; cotizantes ypersonaspensionistas promedioanual, no número depensiones como personas. No sumartransferencias dosveces ni anualizar nómina mensual para activar déficitneto. [L06](https://revista.seg-social.es/-/25-a%C3%B1os-del-pacto-de-toledo)historiaPactoToledo orienta precisión institucional, no activaciónfiscalW44.
+
+Salarios/renta/vivienda: cohorte,territorioytenencia, periodo/denominador compatibles; productividad yhoras de uso frente abase. Urda aporta preguntas de movilidad/coste, no déficit anual de inversión demostrado. Ruptura autónoma lleva propuesta aLuis; no nueva ficha por cuota.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 ultima_revision: 2026-10-24
 triggers_activos: 0
@@ -51,7 +243,7 @@ Industria/automoción: producción, utilización%, empleo/personas/horas, cierre
 Carga primaria0,00 significa ninguna ficha activa en V05; presión moderada y observación se conservan. Revisión semanal no equivale a vigilancia continua. Reapertura de episodio con primario y decisión/calibración humana.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -113,7 +305,7 @@ Contadores heredados **0 activos / 0 parciales**; no recuento de umbrales revali
 
 Prioridad España/Europa conservada: matriculaciones (unidades/cuota por país), producción, utilización%, empleo/personas/horas, cierres/relocalización por planta/fecha, inversión ejecutada, valor añadido/productividad y comercio por categoría. [Eurostat, 15-oct, agosto](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap): producción eurozona −0,5% mensual/−1,1% anual; UE−0,3%/−0,2%. Julio mensual−0,3%/−0,4%. No demuestra causalidad china, robotización, salidas de CAPEX>5 BUSD o cierres de planta. Próximo dato 16-nov. Unitree conserva ficha propia; matrícula no producción ni cuota importada avanzada. Conservar series SMMT previas como antecedentes.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Historial anterior a la aplicación B del 17-oct-2026 — no es estado vigente</summary>
@@ -159,7 +351,7 @@ Prioridad España/Europa conservada: matriculaciones (unidades/cuota por país),
 
 Prioridad España/Europa aprobada 10-oct: ochoindicadores con unidad, periodo yuniverso: matriculaciones(unidades/cuota porpaís), producción(unidades), utilización%, empleo(personas/horas), cierres/relocalización(instalación yfecha), inversión ejecutada(moneda), valor añadido/productividad ycomercio(importacionesporcategoría). [SMMTseptiembre](https://www.smmt.co.uk/vehicle-data/car-registrations/): BYD 20.140 UK/cuota 5,75%, publicación 05-oct; no sustitución UE ni cuotaimportadaavanzada. Clientes/horas/costes Unitree siguenenficha. Registro previo íntegro preservado; falta agregado UEacotado quejustifique alta.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -179,7 +371,7 @@ Prioridad España/Europa aprobada 10-oct: ochoindicadores con unidad, periodo yu
 
 Contadores heredados 0 activos/0 parciales. NFP no mide productividad causal por IA ni cumple ratios anuales de pensiones. Series de déficit previsional, cotizantes/pensionistas, desplazamiento fiscal y vivienda no verificables íntegramente.
 
-Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
+Fuentes consultadas 03-oct salvo calendarios identificados como heredados; detalle [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Observatorios y calendario [[Radar_Eventos_2026_10_r1]]. Las bases W39 que siguen son antecedentes fechados; prevalece este estado.
 
 <details>
 <summary>Estado operativo W39 sustituido; memoria íntegra</summary>
@@ -377,6 +569,12 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 ## Registro industrial W40 — C4/C24/C25
 
 Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026» sin día/hora de publicación verificable antes del corte: no se admite como dato incremental W40. C25 observa empleo por ocupación, horas, salarios y uso productivo; BLS general no atribuye pérdida de empleo a IA. Sin datos nuevos de producción, utilización o cierres contrastados; no ausencia de actividad. Próxima serie comparable y causalidad, sin fecha artificial.
+
+</details>
+
+</details>
+
+</details>
 
 </details>
 

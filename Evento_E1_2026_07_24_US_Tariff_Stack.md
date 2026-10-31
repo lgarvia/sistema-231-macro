@@ -7,6 +7,113 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+cierre_operativo: "2026-11-01 00:21:48 Europe/Madrid"
+---
+
+# Tariff Stack
+
+> Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
+
+
+
+## Estado vigente W44
+
+**E1 · P4 · peso 4,10 · → (factor 1) · carga 16,40 · V04.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| T-A | CBP/USTR/Casa Blanca confirma aplicación **material del 50%** en vehículos, alcohol y lácteos canadienses, en fecha prevista y sin suspensión/acuerdo neutralizante. | **Parcial jurídico heredado.** [S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/)refina partidas/efecto30-oct, sin auditar recaudación por tresgrupos/anexos íntegros. No nueva activación histórica. |
+| T-B | Canadá/Brasil/UE adopta contramedidas vinculantes que cubran conjuntamente **>10.000 M$ de comercio anual**. | **Activo heredado según ficha; sin revalidación íntegra nueva.** No convertir modificaciónUS en represalia nueva; mantener moneda y base de cobertura histórica. |
+| T-C | **Al menos dos fabricantes** de sectores afectados cuantifican impacto **>5% en coste unitario, margen bruto o producción**, o anuncian **relocalización física atribuible** a las medidas. | **No verificable completo.** VWyTRATON no son dos emisores independientes con impacto causal cuantificado suficiente; pérdidas por extraordinarios no se atribuyen a medidas arancelarias. |
+| T-D | Importaciones de EE. UU. de **sectores cubiertos** caen **>15% interanual durante dos meses consecutivos**, Census/BEA. | **Periodo incompleto para parejaagosto–septiembre/no verificable otras.** FT900septiembreprevisto04-nov según radar; no consumir resultado futuro ni avance agregado como sectorial comparable. |
+| T-E | Evidencia **oficial causal** atribuye a nueva carga arancelaria **≥0,3 pp de inflación interanual de bienes básicos durante dos publicaciones consecutivas**. | **No verificable.** No recuperada atribución causal repetida. IPCagregado o discurso sobre energía no cumplen población/causa. |
+
+[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/) modifica partidas canadienses con efecto30-oct00:01ET; norma no cobro auditado. VW29-oct no representa dos fabricantes independientes ni demuestra que todos los extraordinarios sean arancelarios [[S24](https://www.volkswagen-group.com/en/press-releases/volkswagen-group-nine-month-results-underline-urgent-need-for-action-20799)]. [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm) suspensión marítima propuesta yS22 negociación232robótica no son aranceles nuevos ejecutados. RepresaliaB heredada se conserva con límites, no nueva activación.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo al cierre operativo01-nov — histórico; enlaces al radar de octubre reparados</summary>
+
+---
+titulo: "Tariff Stack"
+fecha: 2026-07-24
+source: USTR / Federal Register / CBP
+url: https://ustr.gov/
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
+tipo: evento
+ultima_revision: 2026-10-31
+corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
+aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A/B TASK_270_ACTUALIZACION_231_W44 aprobadas31-oct-2026"
+---
+
+# Tariff Stack
+
+> Precierre W44 · nominal 01-nov-2026 · corte factual 2026-10-31 22:25:41 Europe/Madrid. Domingo01-nov no observado. A y B aprobadas por Luis el31-oct, TASK_270_ACTUALIZACION_231_W44. Aplicado localmente; publicación W44 no autorizada.
+
+## Estado vigente W44
+
+**E1 · P4 · peso 4,10 · → (factor 1) · carga 16,40 · V04.**
+
+## Evidencia y auditoría al corte
+
+| ID | Condición canónica conservada | Resultado W44 / siguiente prueba |
+|---|---|---|
+| T-A | CBP/USTR/Casa Blanca confirma aplicación **material del 50%** en vehículos, alcohol y lácteos canadienses, en fecha prevista y sin suspensión/acuerdo neutralizante. | **Parcial jurídico heredado.** [S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/)refina partidas/efecto30-oct, sin auditar recaudación por tresgrupos/anexos íntegros. No nueva activación histórica. |
+| T-B | Canadá/Brasil/UE adopta contramedidas vinculantes que cubran conjuntamente **>10.000 M$ de comercio anual**. | **Activo heredado según ficha; sin revalidación íntegra nueva.** No convertir modificaciónUS en represalia nueva; mantener moneda y base de cobertura histórica. |
+| T-C | **Al menos dos fabricantes** de sectores afectados cuantifican impacto **>5% en coste unitario, margen bruto o producción**, o anuncian **relocalización física atribuible** a las medidas. | **No verificable completo.** VWyTRATON no son dos emisores independientes con impacto causal cuantificado suficiente; pérdidas por extraordinarios no se atribuyen a medidas arancelarias. |
+| T-D | Importaciones de EE. UU. de **sectores cubiertos** caen **>15% interanual durante dos meses consecutivos**, Census/BEA. | **Periodo incompleto para parejaagosto–septiembre/no verificable otras.** FT900septiembreprevisto04-nov según radar; no consumir resultado futuro ni avance agregado como sectorial comparable. |
+| T-E | Evidencia **oficial causal** atribuye a nueva carga arancelaria **≥0,3 pp de inflación interanual de bienes básicos durante dos publicaciones consecutivas**. | **No verificable.** No recuperada atribución causal repetida. IPCagregado o discurso sobre energía no cumplen población/causa. |
+
+[S20](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/) modifica partidas canadienses con efecto30-oct00:01ET; norma no cobro auditado. VW29-oct no representa dos fabricantes independientes ni demuestra que todos los extraordinarios sean arancelarios [[S24](https://www.volkswagen-group.com/en/press-releases/volkswagen-group-nine-month-results-underline-urgent-need-for-action-20799)]. [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm) suspensión marítima propuesta yS22 negociación232robótica no son aranceles nuevos ejecutados. RepresaliaB heredada se conserva con límites, no nueva activación.
+
+## Decisión y transmisión
+
+A y B aprobadas por Luis el31-oct: peso conservado; clase, presión y tendencia conservadas; imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Vínculos secundarios sin duplicar carga. La aprobación calibra el seguimiento; no elimina las lagunas ni convierte un futuro en hecho.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_01]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+
+
+<details>
+<summary>W43 y memoria anterior — sustituido31-oct-2026; texto histórico íntegro</summary>
+
+---
+titulo: "Tariff Stack"
+fecha: 2026-07-24
+source: USTR / Federal Register / CBP
+url: https://ustr.gov/
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
+tipo: evento
 ultima_revision: 2026-10-24
 corte_factual: "2026-10-24 20:23:28 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
@@ -45,7 +152,7 @@ Ficha: [[Evento_E1_2026_07_24_US_Tariff_Stack]]. Comparador W42: E1 / P4 / peso 
 Luis aprueba A revisada y B principal el24-oct. Clase, presión, peso y factor conservados según A/B. Imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]; vínculos secundarios sin duplicar carga. Condiciones completas auditadas; no se declara nueva activación formal por una cláusula parcial.
 
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_25]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -103,7 +210,7 @@ Las definiciones anteriores conservan umbral, duración, población y causalidad
 
 ## Imputación y decisión
 
-Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10]].
+Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
 
 
 <details>
@@ -138,7 +245,7 @@ Las condiciones canónicas no se reducen ni cambian por este corte. Umbral, dura
 
 Imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Los canales secundarios no duplican carga. Luis aprueba el paquete con «Acepto todo esto. Dale y sigue con el siguiente paso» (10-oct, TASK_202). Alta España E0/P2/peso 4,2/→/V01; Alibaba absorbido en V03; Francia y aranceles pasan de ↑ a →. Los tres pesos previamente decididos permanecen. Sin nuevas E1.
 
-[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10]] · [[VECTOR_00_Indice]].
+[[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 
 <details>
@@ -152,7 +259,7 @@ Imputación exclusiva a [[VECTOR_04_Reconfiguracion_del_comercio_global]]. Los c
 
 [Proclamación estadounidense, publicada 08-sep](https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/): exclusiones de productos canadienses previstas desde 29-sep 00:01 ET. La fecha jurídica pasa a consumida; no acredita cobro/rechazos, transmisión económica completa o ausencia de suspensión. A/B conservan antecedentes jurídicos; C carece de dos fabricantes y causalidad >5%; D requiere datos 06-oct/04-nov y dos meses >15% YoY; E sin dos publicaciones con atribución ≥0,3 pp. C23 controles y C27 minerales se integran sin duplicar carga.
 
-Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10]].
+Fuentes consultadas 03-oct; solo publicaciones anteriores al corte. Condiciones no acreditadas completas no se marcan como activadas. Las secciones históricas mantienen su fecha; prevalece este snapshot y [[ACTUALIZACION_SEMANAL_231_2026_10_04]]. Radar activo [[Radar_Eventos_2026_10_r1]].
 
 <details>
 <summary>Snapshot W39 sustituido; se conserva la calibración anterior</summary>
@@ -312,6 +419,10 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger C — transmisión industrial:** al menos dos fabricantes de sectores afectados cuantifican un impacto superior al 5% en coste unitario, margen bruto o volumen de producción, o anuncian relocalización física atribuible a las medidas. **Estado al corte: NO ACREDITADO. No se incorporan dos fabricantes con cuantificación comparable >5% o relocalización física atribuida.**
 - **Trigger D — contracción física:** las importaciones estadounidenses de los sectores cubiertos caen más del 15% interanual durante dos meses consecutivos según Census/BEA. **Estado al corte: PERIODO INCOMPLETO. No se dispone todavía de los dos meses sectoriales comparables exigidos. El déficit agregado no sustituye el trigger.**
 - **Trigger E — transmisión de precios:** evidencia oficial atribuye a la nueva carga arancelaria al menos 0,3 puntos porcentuales de la inflación interanual de bienes básicos durante dos publicaciones consecutivas. **Estado al corte: NO ACREDITADO. No se dispone de dos publicaciones oficiales con atribución causal ≥0,3 pp a la carga arancelaria exigida.**
+
+</details>
+
+</details>
 
 </details>
 
