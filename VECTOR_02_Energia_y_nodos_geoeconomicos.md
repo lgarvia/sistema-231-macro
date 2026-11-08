@@ -2,6 +2,82 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-08
+triggers_activos: 1
+triggers_parciales: 2
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 53.20
+---
+
+# VECTOR 02 Energia y nodos geoeconomicos
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado operativo W45
+
+**🔴 Crítica · ↑ · carga primaria 53,20.** Semáforo y tendencia estructural conservados; no se derivan de la suma ni de un hito futuro.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | 21,60 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | 13,20 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | 18,40 |
+
+## Evidencia y límites
+
+AIE03nov documenta exposición de gas/recarga2027 ([S13](https://www.iea.org/news/low-storage-buffers-in-europe-could-prolong-global-gas-market-tightness-well-into-2027)), con flexibilidad contractual/oferta alternativa como contrapeso. OMI mantiene daño y fallecimientos, pero [S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx)/B03 discrepan en fecha/contador: no una serie homogénea de aceleración. Loudoun aplaza discusión a17nov ([S16](https://www.loudoun.gov/m/newsflash/home/detail/10938)), MPID345 es FRT ([S18](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)), sin moratoria energética o corte comercial demostrados. OPEP01nov conserva niveles requeridos para diciembre y anuncia29nov ([S15](https://www.opec.org/pr-detail/620-1-november-2026.html)), no producción realizada. Solo Grid/Gas/Marítimo aportan carga primaria; C22 es conexión financiera secundaria. Urda continúa excluida de ámbito macro.
+
+## Auditoría de condiciones propias
+
+Contadores previos heredados, sin nueva certificación universal. Condiciones propias separadas de las fichas.
+
+| ID / condición | Resultado W45 |
+|---|---|
+| V02-01 primacasco>0,5% | No verificable cotizaciones;distinto deM-A1,5%. |
+| V02-02 tránsitoenergético−20%media14d | No verificable serie/denominador14d;GNLacumuladoS13 no equivale. |
+| V02-03 dañoterminal reducecapacidadglobal>1Mb/d | No verificable terminal/capacidad/causa;ataqueabuque no lo demuestra. |
+| V02-04 desvío>30%volumennominal | No verificable corredor/serie/denominador. |
+| V02-05 orden202(c)/EEA3equivalente conobligación | Antecedentes heredados;no nueva orden/ejecución equivalente recuperada.[S17](https://ferc.gov/cost-transparency-customer-protection)–18no la sustituyen. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Prima de Seguro):** Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito.
+- **Trigger 02 (Interrupción de Tránsito):** Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días.
+- **Trigger 03 (Daño de Infraestructura):** Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd.
+- **Trigger 04 (Desvío de Rutas):** Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia.
+- **Trigger 05 (Emergencia Física de Red):** Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema.
+
+## Observatorio estructural — actualización W45
+
+**S17/FERC — precisión08nov:** [Q03](https://ferc.gov/cost-transparency-customer-protection) muestra actualización19oct y seis expedientes. Plazos16/20nov se incorporan como ANUNCIADO en radar; falta lectura íntegra de cartas de prórroga. Presentación/reforma propuesta no obligación final de corte, población/hora activadas ni tarifa ya aprobada. Se observará reparto de costes/garantías de conexión.
+
+### Sensores de continuidad y antecedentes W44
+
+Los siguientes sensores se conservan con sus fuentes y cortes anteriores. No son nuevas observaciones W45; las cifras dinámicas deben leerse con el periodo indicado. La actualización factual W45 está arriba.
+
+**Grid/C14/C46:** fuente operador/regulador; MW/horas de conexión/corte/autogeneración, proyecto ycausa; licencia hídrica/geografía/potencia; cumplimiento/derogaciónMPID345 yMWrealmenteafectados. [L04](https://www.iea.org/reports/powering-artificial-intelligence)antecedenteIEA: colas especulativas/duplicadas; no convertir solicitud en capacidad.
+
+**Gas/C12/C36:** ACER/operadores/estadística; stockTWh/%y gasday porpaís, flujosGNL/unidad/periodo, demanda/clima, coste/factura yrestricciónindustrialreal. OPEPcuota no producción/exportación. **Marítimo/C15/C32:** corredor, dosprimascomparables%casco, denegaciónhoras, volumenyduración, desvíos ybunkering; no atribuir sabotaje sin prueba.
+
+C47 se retira también del seguimiento físico macro deV02; su memoria queda archivada. No se crea otro observatorio ferroviario que sustituya la ficha excluida.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+Revisión semanal o evidencia primaria autorizada; no vigilancia continua ni alta automática.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 ultima_revision: 2026-10-31
 triggers_activos: 1
@@ -567,6 +643,8 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

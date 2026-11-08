@@ -4,6 +4,54 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+origen_alta: "Decisión humana C1 — TASK_118"
+calibracion: aplicada
+carga_activa: 7.6
+presion_numerica: 2
+peso_estructural: 3.6
+factor_tendencia: 1
+tags: [geopolitica, china, estados-unidos, diplomacia]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+---
+
+# EE. UU.–China / ejecución
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P2 · peso 3,60 · → (factor 1) · carga 7,20 · V06.**
+
+## Evidencia, transmisión y falsación
+
+**Nuevo contraste:** readout estadounidense06nov recoge llamada Bessent–He Lifeng y peticiones sobre ejecución de Busan ([R13](https://home.treasury.gov/news/press-releases/sb0684)). Actualiza interlocución y posición de una parte; no acredita por sí mismo ejecución del30-for-30 de Washington ni licencias/entregas equivalentes. La fuente china [S28](https://www.mofcom.gov.cn/syxwfb/art/2026/art_196a37d8ef564f1bbad2a84f315e5889.html) tuvo acceso limitado.
+
+**Peso desde cero:3,60.** Se pondera esta ficha delimitada de ejecución bilateral; el conjunto del conflicto comercial ya se observa en V04. Acto aplicable → licencia/contrato → entrega/inversión realizada. Fecha, firma o llamada no completan esa cadena. Mantener E0/P2/→ según B.
+
+**Prueba / falsación:** cumplimiento por instrumento, partida, licencia y flujo con base comparable; incumplimiento persistente o cancelación formal permitirían revisar. Diálogo IA anunciado antes de fin de noviembre conserva respaldo anterior, sin reconfirmación bilateral nueva.
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "EE. UU.–China / ejecución"
+fecha: 2026-09-19
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
@@ -305,6 +353,8 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

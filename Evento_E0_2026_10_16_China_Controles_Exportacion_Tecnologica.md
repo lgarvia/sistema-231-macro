@@ -7,6 +7,55 @@ tipo: evento
 vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 estado_seguimiento: en_observacion
 candidato_origen: C38
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.8
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# China / registro tecnológico
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P2 · peso 3,80 · → (factor 1) · carga 7,60 · V04.**
+
+## Evidencia, transmisión y falsación
+
+**Alcance jurídico:** anuncio48 de16oct recontrastado: registro temporal/consulta hasta15nov de40tecnologías,23deIA, con excepciones; no prohibición general definitiva ([S22](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)). Anexos WPS no auditados. Anuncios49–52 son instrumentos distintos, con vigencia prevista18nov según contraste anterior; no se extiende automáticamente el catálogo de esta ficha.
+
+**Peso desde cero:3,80.** Alcance tecnológico transversal, delimitado por tecnologías/destinos y opciones de licencia. Registro/consulta → expediente/plazo/licencia → transferencia/entrega. Sin denegación material nueva recuperada que complete E1. Mantener E0/P2/→.
+
+**Prueba / falsación:** texto final, ámbito/vigencia, expedientes comparables, plazos, entregas y excepciones ejecutadas. El fin de consulta es hito futuro, no aprobación automática ni prueba de bloqueo.
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_04_Reconfiguracion_del_comercio_global]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "China: registro y controles de exportación de tecnologías estratégicas"
+fecha: 2026-10-16
+source: "MOFCOM / Ministerio de Ciencia y Tecnología"
+url: https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html
+tipo: evento
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+estado_seguimiento: en_observacion
+candidato_origen: C38
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 estado: E0
@@ -195,6 +244,8 @@ Ficha nueva de seguimiento administrativo: registro efectivo y catálogo final s
 ## Imputación y decisión
 
 Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones secundarias sin carga. Pesos A y selección/calibración B decididos por Luis; no hay nuevas presiones, cierres, fusiones ni promociones de las once fichas anteriores. [[ACTUALIZACION_SEMANAL_231_2026_10_18]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_10_r1]].
+
+</details>
 
 </details>
 

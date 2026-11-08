@@ -1,3 +1,47 @@
+# Inventario y vectores — Sistema231 / W45
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+**11 eventos activos (8 E0 / 3 E1), todos calibrados; carga primaria total 157,20.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Vector primario | Carga |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,50 | ↑ | 1,2 | V02 | 21,60 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 4 | 4,60 | → | 1 | V01 | 18,40 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,60 | → | 1 | V06 | 7,20 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,00 | → | 1 | V01 | 12,00 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,40 | → | 1 | V02 | 13,20 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China / registro tecnológico]] | E0 | 2 | 3,80 | → | 1 | V04 | 7,60 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / gobernabilidad fiscal]] | E0 | 2 | 3,50 | → | 1 | V01 | 7,00 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,50 | ↑ | 1,2 | V03 | 21,60 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,60 | → | 1 | V02 | 18,40 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera\|Ajuste de valoraciones IA / transmisión financiera]] | E1 | 3 | 4,60 | → | 1 | V01 | 13,80 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 51,20 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 53,20 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 21,60 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 24,00 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 7,20 |
+
+**154,36 → 157,20 (+2,84)** = −1,56 por los pesos A −9,40 por cierre C2/Midterms +13,80 por alta C22. Las otras diez fichas conservan clase, presión y factor. Variación de calibración e inventario; no mide un deterioro económico observado de2,84puntos.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Las seis definiciones y grados se conservan tras el contraste factual W45; no se deducen de la carga.
+
+**31 hitos abiertos (1 Régimen / 3 Crítico / 24 Elevado / 3 Latente), seis observatorios, cero ventanas enriquecidas y 51 resoluciones acumuladas.** Horizonte07-nov–06-ene2027 inclusive:60días transcurridos/61fechas. Una ventana mensual oficial se conserva íntegra y solo intersecta parcialmente el horizonte.
+
+Midterms consumido; C22 financiero activo. Primario único por ficha y cero carga adicional por transmisiones secundarias.
+
+Repaso08nov TASK316: cuatro hitos añadidos (CoreWeave/NVIDIA/FERC16/FERC20);31hitos vigentes. Eventos/cargas y grados de tesis conservados. T03/T05 precisan alcance de la evidencia; detalle en informe semanal.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
 # Inventario y vectores — Sistema231
 
 > Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
@@ -482,6 +526,8 @@ Seis vectores, seis tesis, ocho eventos (6 E0 / 2 E1). Radar: 22 hitos, 0 ventan
 UE 22/09; BoJ 24/09; cierre 25–30/09; Section 338 29/09; Micron 30/09. Japón B parcial, C/SRF sin estrés acreditado completo; las lagunas se conservan visibles. Xi admitido por Luis; fecha 24/09 de fuente secundaria, confirmación primaria pendiente. Midterms 03/11 con ficha; Unitree y el observatorio industrial sin fecha artificial. Detalle: [[Radar_Eventos_2026_09]].
 
 Conecta con [[TESIS_00_Indice]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]].
+
+</details>
 
 </details>
 

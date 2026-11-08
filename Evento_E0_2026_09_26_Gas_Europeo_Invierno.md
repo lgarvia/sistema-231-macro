@@ -4,6 +4,53 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.4
+factor_tendencia: 1
+tags: [gas, europa, energia, almacenamiento, invierno]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# Gas europeo / invierno
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P3 · peso 4,40 · → (factor 1) · carga 13,20 · V02.**
+
+## Evidencia, transmisión y falsación
+
+**Exposición y horizonte:** AIE03nov advierte que los buffers bajos europeos y la recarga podrían prolongar competencia por GNL hasta2027; contratos flexibles y oferta norteamericana son contrapesos ([S13](https://www.iea.org/news/low-storage-buffers-in-europe-could-prolong-global-gas-market-tightness-well-into-2027)). Son evaluación/previsión y agregados con periodos propios, no racionamiento industrial ejecutado. No convertir bcm de GNL acumulado en petróleo diario ni en un gas day europeo homogéneo.
+
+**Peso4,40 aprobado expresamente por Luis.** Alcance UE, industria/hogares y persistencia de aprovisionamiento/recarga; no duplicar el mismo daño en marítimo. B conserva E0/P3/→: falta serie compatible que imponga aceleración.
+
+**Próxima prueba / falsación:** almacenamiento TWh/% y gas day por país; flujos/GNL, demanda ajustada por clima; contratos/precio/factura, sustitución y restricción real. Balance robusto ajustado por demanda debilitaría tensión; inventario aislado o previsión no completan coste→restricción industrial.
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "Gas europeo / invierno"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
@@ -280,6 +327,8 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia →, factor 1,0, carga 12,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

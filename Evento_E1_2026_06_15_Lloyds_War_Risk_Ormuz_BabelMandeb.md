@@ -7,6 +7,66 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.6
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# Riesgo marítimo
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E1 · P4 · peso 4,60 · → (factor 1) · carga 18,40 · V02.**
+
+## Evidencia, transmisión y falsación
+
+**Episodio observado y discrepancia abierta:** comunicado OMI06nov: al menos130ataques/25fallecidos y VELOS SAPPHIRE fechado05nov ([S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx)); panel con fecha06nov:129/25 y ataque04nov ([B03](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx)). Mantener ambos atribuidos; no conciliar sin prueba ni contar diferencia como nuevos ataques semanales. Confirman daño/fallecimiento, pero no completan tipo VLCC/LNG y daño estructural crítico exigidos por M-B.
+
+**Peso desde cero:4,60.** Chokepoints energéticos globales, sustitución costosa y persistencia; no aumento por el mismo argumento de recarga europea. E1/P4/→ conserva episodio y calibración: no reactivación nueva semanal ni aceleración por contador acumulado.
+
+**Próxima prueba / falsación:** corredor/fechas, cotizaciones independientes en%casco o retirada/denegación≥48h, capacidad/barriles/duración, desvíos y bunkering. OPEP01nov mantiene niveles requeridos para diciembre y anuncia29nov; cuota no producción/exportación ejecutada ([S15](https://www.opec.org/pr-detail/620-1-november-2026.html)).
+
+## Auditoría íntegra de condiciones formales
+
+Las condiciones siguientes se conservan. Una cláusula parcial no activa la conjunción; las lagunas no se imputan como cero. C22 es un episodio financiero distinto.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| M-A | Dos brokers independientes/circularLMA prima≥1,5%casco mismo corredor, o retirada/denegación≥48h. | **No verificable.** [S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx) no contiene cotizaciones ni duración de denegación. Las48h se aplican a retirada, no se añaden a la rama de prima. |
+| M-B | Ataque y hundimiento/daño estructural críticoVLCC oLNG enOrmuz/Bab. | **Parcial con nueva evidencia.** [S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx)/B03 confirman ataque y fallecimiento, pero discrepan fecha05/04nov y contador≥130/129; no completa tipoVLCC/LNG y daño estructural crítico. No equiparar víctima con esa categoría de daño. |
+| M-C | Declaración oficial de saturación de puertos africanos que impide bunkering desviado. | **No verificable.** No recuperada declaración/población y nexo de incapacidad. |
+| M-D | Cierre parcialOrmuz paraliza>5Mb/d del suministro delGolfo durante>48h. | **No verificable completo.** [S13](https://www.iea.org/news/low-storage-buffers-in-europe-could-prolong-global-gas-market-tightness-well-into-2027) describeGNL enbcm y periodo agregado; no permite convertirlo en petróleo diario ni acreditar la duración exacta del umbral. |
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "Riesgo marítimo"
+fecha: 2026-06-15
+source: Lloyd's Market Association Joint War Committee / IMO
+url: https://lmalloyds.com/committee/joint-war-committee/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [logística, fletes, guerra, ormuz, suez]
+tipo: evento
 ultima_revision: "2026-11-01"
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 estado: E1
@@ -403,6 +463,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Ataque físico verificado y hundimiento o daño estructural crítico a un buque petrolero VLCC o gasero LNG en el Estrecho de Ormuz o Bab el-Mandeb. **Estado al corte: NO ACREDITADO COMPLETO. El aumento del recuento OMI no prueba daño estructural crítico o hundimiento de VLCC/LNG en los corredores exigidos.**
 - **Trigger C:** Declaración oficial de saturación en los puertos de servicio africanos (ej. Durban, Walvis Bay) incapacitados para repostar (bunkering) el tráfico desviado. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin declaración oficial incorporada de incapacidad de bunkering por saturación en los puertos indicados.**
 - **Trigger D:** Cierre parcial documentado del Estrecho de Ormuz que paralice más de 5 millones de b/d del suministro del Golfo Pérsico durante más de 48 horas. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Sin serie primaria incorporada que pruebe >5 Mb/d paralizados durante >48 horas.**
+
+</details>
 
 </details>
 

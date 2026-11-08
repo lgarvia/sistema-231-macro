@@ -2,6 +2,80 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-08
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 21.60
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado operativo W45
+
+**🟠 Elevada · → · carga primaria 21,60.** Semáforo y tendencia estructural conservados; no se derivan de la suma ni de un hito futuro.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 21,60 |
+
+## Evidencia y límites
+
+AMD03nov, trimestre cerrado26sep, documenta demanda Data Center del emisor ([S19](https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm)), no yields CoWoS ni entregas Blackwell. TSMC15oct aporta buen rendimiento/capacidad futura como contrapeso ([R11](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)). Flujos de caja/inversión [R05](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)–[R07](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx) no constituyen agregado homogéneo de guías CAPEX ni cancelación de pedidos. El repricing C22 se imputa a V01: no prueba alivio físico o nueva escasez por sí solo. La próxima facturación TSMC10nov permanece futura y agregada.
+
+## Auditoría de condiciones propias
+
+Contadores previos heredados, sin nueva certificación universal. Condiciones propias separadas de las fichas.
+
+| ID / condición | Resultado W45 |
+|---|---|
+| V03-01 desviacióntrimestral>15%guíaagregadaCAPEX | No verificableuniverso/guías;compromisosS12 y ventasS19sonotrosobjetos. |
+| V03-02 plazoavanzado>24semanasgeneralizado | No verificable distribución;no confundir conC-D<20. |
+| V03-03 restriccionesnuevosnodoshardware | No nuevo acto hardware completo revalidado;registrotecnologías no todo nodo litográfico. |
+| V03-04 comercialsub5nmsinlitografíaoccidental | No verificableevidenciatécnicaauditada. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## Observatorio estructural — actualización W45
+
+**Frontera con C22:** separar fabricantes/proveedor de empaquetado, operadores financiadores y usuario final. No volver a abrir Alibaba/C33 ni chips chinos absorbidos por la caída bursátil. Sensores: entrega/aceptación/yield/plazo con producto y periodo, frente a guía compatible.
+
+### Sensores de continuidad y antecedentes W44
+
+Los siguientes sensores se conservan con sus fuentes y cortes anteriores. No son nuevas observaciones W45; las cifras dinámicas deben leerse con el periodo indicado. La actualización factual W45 está arriba.
+
+**C20HBM:** [S14](https://news.skhynix.com/en/q3-2026-business-results/)capacidad/entregas/yields/plazos porgeneración/periodo; LTA ycapacidadvendida no todo producido. **CoWoS/C37litografía:** pedidos/entregas/plazos/rendimiento/aceptación, fabricanteyproducto definidos; HBM/interposer/empaquetado no una mismaetapa. **C21modelos:** tarea/calidad constante, energía/latencia/fiabilidad/costeútil, no solo token.
+
+**C33Alibaba/chips chinos:** mantener absorción; entregas/clientes/pruebas/capacidadreal porproducto, no roadmap. [R07](https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/)rampaGF2028 no suministroactual. C22financiación resideV01; V05mide uso productivo final. Ruptura verificable permite propuesta específica aLuis sin alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+Revisión semanal o evidencia primaria autorizada; no vigilancia continua ni alta automática.
+
+## Próxima comprobación — repaso08nov
+
+NVIDIA17nov, Q3FY2027cerrado25oct [Q02](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx): ventas/márgenes/guía, cobros/inventario y restricciones/entregas por producto solo si se publican. No obtener yields/plazos CoWoS de una cifra agregada ni presumir cancelaciones por precio bursátil. Hito añadido al radar; clase/P/peso/factor conservados.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 ultima_revision: 2026-10-31
 triggers_activos: 0
@@ -531,6 +605,8 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

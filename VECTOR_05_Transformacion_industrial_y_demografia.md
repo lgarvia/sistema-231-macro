@@ -2,6 +2,78 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-08
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 0
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado operativo W45
+
+**🟡 Moderada · → · carga primaria 0,00.** Semáforo y tendencia estructural conservados; no se derivan de la suma ni de un hito futuro.
+
+| Evento primario | Carga |
+|---|---:|
+| Ninguna ficha primaria activa; observatorio operativo | 0,00 |
+
+## Evidencia y límites
+
+BLS05nov: productividad no agrícola Q3preliminar+3,6%trimestral anualizada/+2,1%YoY; costes laborales unitarios−0,7%trimestral anualizado ([S23](https://www.bls.gov/news.release/prod2.nr0.htm)). BLS06nov: empleo octubre+165.000/paro4,1% ([B01](https://www.bls.gov/news.release/empsit.nr0.htm)). Son agregados estadounidenses, sin causalidad IA ni resultado poslectoral; manufacturas y España son otros perímetros. INE/IPI [S24](https://www.ine.es/dyngs/Prensa/es/IPI0926.htm) solo pudo contrastarse mediante extracto de búsqueda, no lectura íntegra: no se eleva a prueba material. No nuevas cuentas netas de pensiones compatibles ni KPI productivos Unitree. Carga0,00 refleja inventario sin ficha primaria, no riesgo ausente.
+
+## Auditoría de condiciones propias
+
+Contadores previos heredados, sin nueva certificación universal. Condiciones propias separadas de las fichas.
+
+| ID / condición | Resultado W45 |
+|---|---|
+| V05-01 déficitnetopensiones>2%PIBanual | No verificablecuentasnetas compatibles;2026sin cerrar. |
+| V05-02 soporte<1,4cotizantes/pensionistaaño | No verificablepersonas/promedios/ejercicio;no sustituirpensionesporpersonas. |
+| V05-03 salidanetaCAPEXfísico>5BUSD/año | No verificableflujojurisdicción;compromisosIAno son fuga anual ejecutada. |
+| V05-04 importadosavanzados>25%6meses | No verificableserieorigen/persistencia. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## Observatorio estructural — actualización W45
+
+**C5 pensiones y uso productivo:** mantener cuentas/liquidación anual neta y ratio de personas con perímetro común. Nuevas nóminas mensuales o instalación de robots no completan las condiciones. C22 solo transmite a empleo si hay decisiones/uso/plantas y causalidad financiera verificables.
+
+### Sensores de continuidad y antecedentes W44
+
+Los siguientes sensores se conservan con sus fuentes y cortes anteriores. No son nuevas observaciones W45; las cifras dinámicas deben leerse con el periodo indicado. La actualización factual W45 está arriba.
+
+**C3/C4/C24/C25/C26:** preservarUnitreeabsorbida, no reabrir porIFRagregado. Cliente/planta/tarea; unidades entregadas/instaladas/operativas; horasútiles porrobot/mes; fallos/intervención/teleoperación; costetotal/calidad yrecompras. Industria: producción,utilización%,empleo/personas/horas,CAPEXfísicoejecutado porplanta/periodo; BEVno cuotaimportada. EmpleoIA exige adopciónpor tarea ycomparador, no agregado causal.
+
+**C5pensiones — recuperado enB:** fuente cuentas/liquidaciónSeguridadSocial/IGAE/AIReF según objeto; ingresoscontributivos,gastocontributivo,transferenciasyperímetro compatibles, saldoanual/PIB; cotizantes ypersonaspensionistas promedioanual, no número depensiones como personas. No sumartransferencias dosveces ni anualizar nómina mensual para activar déficitneto. [L06](https://revista.seg-social.es/-/25-a%C3%B1os-del-pacto-de-toledo)historiaPactoToledo orienta precisión institucional, no activaciónfiscalW44.
+
+Salarios/renta/vivienda: cohorte,territorioytenencia, periodo/denominador compatibles; productividad yhoras de uso frente abase. La incidencia electoral posible de Urda se limita aC35/V01; no se usa aquí como prueba de déficit anual de inversión o productividad. Ruptura autónoma lleva propuesta aLuis; no nueva ficha por cuota.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+Revisión semanal o evidencia primaria autorizada; no vigilancia continua ni alta automática.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 ultima_revision: 2026-10-31
 triggers_activos: 0
@@ -569,6 +641,8 @@ El Tribunal Popular Supremo confirmó cadena perpetua, privación de derechos po
 ## Registro industrial W40 — C4/C24/C25
 
 Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026» sin día/hora de publicación verificable antes del corte: no se admite como dato incremental W40. C25 observa empleo por ocupación, horas, salarios y uso productivo; BLS general no atribuye pérdida de empleo a IA. Sin datos nuevos de producción, utilización o cierres contrastados; no ausencia de actividad. Próxima serie comparable y causalidad, sin fecha artificial.
+
+</details>
 
 </details>
 

@@ -1,3 +1,45 @@
+# Mapa de transmisiones — Sistema231 / W45
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+| Evento | Vector primario | Canal a contrastar |
+|---|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Capacidad/suministro, conexión y continuidad de nodos físicos |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Valoración, financiación, balance, absorción y ejecución fiscal |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | Acuerdo/institución → acto aplicable → ejecución |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Valoración, financiación, balance, absorción y ejecución fiscal |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Capacidad/suministro, conexión y continuidad de nodos físicos |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Norma/registro/arancel → licencia/cobro → coste/entrega |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Valoración, financiación, balance, absorción y ejecución fiscal |
+| [[Evento_E0_2026_CoWoS_Capacity]] | [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | Fabricación/empaquetado/HBM → entrega de sistemas |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | Capacidad/suministro, conexión y continuidad de nodos físicos |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | [[VECTOR_04_Reconfiguracion_del_comercio_global]] | Norma/registro/arancel → licencia/cobro → coste/entrega |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] | [[VECTOR_01_Arquitectura_monetaria_global]] | Valoración, financiación, balance, absorción y ejecución fiscal |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 51,20 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 53,20 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 21,60 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 24,00 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 7,20 |
+
+**11 eventos activos (8 E0 / 3 E1), todos calibrados; carga primaria total 157,20.**
+
+**154,36 → 157,20 (+2,84)** = −1,56 por los pesos A −9,40 por cierre C2/Midterms +13,80 por alta C22. Las otras diez fichas conservan clase, presión y factor. Variación de calibración e inventario; no mide un deterioro económico observado de2,84puntos.
+
+C22: repricing → capital/garantías/financiación → compromisos/inversión → demanda de hardware/red → uso/empleo. Cada flecha requiere evidencia propia; una caída no acredita automáticamente el resto. Primario V01; vínculos V03/V02/V05 sin duplicar carga. Midterms cerrado como fecha electoral; instituciones posteriores en V06, con certificación/ley/ejecución por contrastar. No causalidad intencional probada por orden temporal.
+
+Gas y marítimo pueden compartir causa; no suman pérdidas independientes. C54 productos301 se integra en V04 y es distinto de C52 portuario. Urda excluida, DeepSeek/Unitree/Alibaba absorbidos; Brasil/pensiones en observatorio.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Las seis definiciones y grados se conservan tras el contraste factual W45; no se deducen de la carga.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
 # Mapa de transmisiones — Sistema231
 
 > Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
@@ -395,6 +437,8 @@ Informe [[ACTUALIZACION_SEMANAL_231_2026_09_27]]; sin cambio automático de tesi
 **24,0 + 16,0 + 12,0 + 19,2 + 19,2 = 90,4**, subtotal de cinco eventos calibrados. Frente a 89,6 del corte técnico: **+0,8 = +4,8 Japón −4,0 CoWoS**, exclusivamente por pesos aprobados (5/4/3/4/4); P y tendencia conservadas. Las tres altas no están puntuadas: el total del inventario ampliado está pendiente. ND no es cero. No es una probabilidad de crisis.
 
 Las tres altas amplían cobertura; no alteran por sí mismas los semáforos ni validan las tesis. Xi y midterms no duplican la carga de aranceles/liquidez. [[Radar_Eventos_2026_09]] · [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
+
+</details>
 
 </details>
 

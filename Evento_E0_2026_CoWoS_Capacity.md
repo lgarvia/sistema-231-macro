@@ -7,6 +7,66 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# CoWoS
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P4 · peso 4,50 · ↑ (factor 1.2) · carga 21,60 · V03.**
+
+## Evidencia, transmisión y falsación
+
+**Hardware frente a bolsa:** AMD03nov, Q3 cerrado26sep, Data Center8.546MUSD frente a4.341MUSD un año antes ([S19](https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm)). Documenta demanda del emisor; no yields CoWoS, Blackwell ni retraso AP7. TSMC15oct aporta buenos rendimientos y capacidad futura como contraevidencia de escasez universal, con lectura parcial de transcripción ([R11](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)). Facturación octubre se publicaría10nov, aún futura ([S20](https://investor.tsmc.com/english/financial-calendar)).
+
+**Peso desde cero:4,50.** Cuello de empaquetado difícil de sustituir y con transmisión a plataformas; no se carga aquí todo CAPEX ni la financiación de C22. E0/P4/↑ conservados expresamente en B. No se declara nueva aceleración empírica ni cancelación física por caída bursátil.
+
+**Prueba / falsación:** anuncio AP7, entregas/guía Blackwell y causalidad de yields, guías agregadas homogéneas y plazos generalizados. Estados de caja/PPE de [R05](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)–[R07](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx) añaden financiación por empresa, sin completar automáticamente C-C de recorte agregado>10% y causa física.
+
+## Auditoría íntegra de condiciones formales
+
+Las condiciones siguientes se conservan. Una cláusula parcial no activa la conjunción; las lagunas no se imputan como cero. C22 es un episodio financiero distinto.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| C-A | Anuncio oficialAP7Chiayi retrasa equipamiento/conexión y producción más alláH1-2027. | **No verificable.** Sin anuncio primario específico recuperado; resultadosAMD y rumores de ampliación no prueban retrasoAP7. |
+| C-B | YieldsCoWoS-L causan entregasBlackwell20%bajo guíaQ4-2026. | **Periodo incompleto/no verificable.** Q4no cerrado; faltan guía, entregas y causalidad. VentasAMD no sustituyen productosNVIDIA. |
+| C-C | Recorte agregado>10%de guíaCAPEXhyperscalersQ3/Q4 señala freno físico en aceleradores. | **No verificable agregado.** No recuperado universo homogéneo de guías anteriores/nuevas. [S12](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm) contiene compromisos de otro perímetro; [S19](https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm) no es CAPEXagregado de clientes. |
+| C-D | Sobrecapacidad/contracción de pedidos→plazoCoWoS<20semanas generalizado. | **No verificable.** Sin distribución comparable de plazos/pedidos/causa. Demanda fabricante no prueba todos los plazos. |
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_03_Semiconductores_y_soberania_tecnologica]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "CoWoS"
+fecha: 2026-06-28
+source: TSMC / TrendForce / Micron / Silicon Analysts
+url: https://www.tsmc.com/
+vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
+tipo: evento
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 estado: E0
@@ -402,6 +462,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 - **Trigger B:** Reportes verificados de problemas de rendimiento (yields) en las obleas CoWoS-L que reduzcan las entregas físicas de GPUs NVIDIA Blackwell un 20% por debajo del guidance de Q4 2026. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. Q4 2026 no está consumido; no se acredita el nexo yields→entregas −20% frente a la guía comparable.**
 - **Trigger C:** Recorte agregado superior al 10% en el guidance de Capex tecnológico de Hyperscalers en las llamadas de ganancias de Q3 o Q4 2026, señalando un freno en la adquisición física de aceleradores. **Estado al corte: PERIODO INCOMPLETO / NO ACREDITADO. No se calculó un recorte agregado >10% sobre una base comparable de guías Q3/Q4; no se mezclan periodos fiscales con naturales.**
 - **Trigger D:** Evidencia de sobrecapacidad o contracción en los pedidos a pie de fundición que reduzca el lead time de empaquetado CoWoS por debajo de las 20 semanas de forma generalizada. **Estado al corte: NO VERIFICABLE EN ESTE CORTE. Falta una serie o evidencia generalizada de lead times <20 semanas, sin sustituirla por noticias de capacidad.**
+
+</details>
 
 </details>
 

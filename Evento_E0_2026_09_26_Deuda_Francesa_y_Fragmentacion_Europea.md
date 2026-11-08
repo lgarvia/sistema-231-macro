@@ -4,6 +4,53 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.0
+fecha_decision_peso: 2026-11-07
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [francia, deuda-soberana, euro, fragmentacion]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# Deuda francesa
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P3 · peso 4,00 · → (factor 1) · carga 12,00 · V01.**
+
+## Evidencia, transmisión y falsación
+
+**Alivio verificable y riesgo fiscal:** TEC10 francés30oct4,930%→06nov4,759%, −17,1pb; sesiones02–06nov4,909/4,928/4,880/4,752/4,759% ([S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-06)). Es tipo a vencimiento constante, no spread OAT–Bund. AFT05nov coloca11.999M€ en cuatro OAT, coberturas2,27/2,82/2,97/2,62; rendimientos medios ponderados4,74/4,89/5,08/5,27%, no yields de corte ([S11](https://www.aft.gouv.fr/fr/dernieres-adjudications)). Liquidación09nov futura. Una cobertura<2,3 no completa dos emisiones.
+
+HCFP, aviso firmado02nov/publicado04nov, considera difícil el crecimiento0,5%, más probable0,3%, y frágil el déficit5,4% del PIB con riesgo5,5% ([R08](https://www.hcfp.fr/node/302)–[R09](https://www.hcfp.fr/sites/default/files/2026-11/Avis%20HCFP-2026-6%20-%20PLFG%202026.pdf)). Son previsiones/juicios, no liquidación fiscal. Se resuelve la laguna previa de acceso a esa síntesis; no se audita todo el anexo.
+
+**Peso desde cero:4,00.** Nodo soberano relevante, alcance menor que una dislocación global de colateral. Coste→absorción→balance bancario/fragmentación necesitan pruebas separadas. E0/P3/→; ni normalización fiscal por una semana de alivio ni contagio bancario demostrado. Falsación: absorción/ejecución sostenibles; intensificación: deterioro persistente con transmisión acreditada.
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "Deuda francesa"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
@@ -294,6 +341,8 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANS
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P3, peso 4, tendencia ↑, factor 1,2, carga 14,4. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

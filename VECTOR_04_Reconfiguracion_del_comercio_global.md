@@ -2,6 +2,87 @@
 presion: "🔴 CRÍTICA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-08
+triggers_activos: 1
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 24.0
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado operativo W45
+
+**🔴 Crítica · → · carga primaria 24,00.** Semáforo y tendencia estructural conservados; no se derivan de la suma ni de un hito futuro.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,60 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+
+## Evidencia y límites
+
+[R12](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/) modifica cobertura Canadá; [B02](https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/USTR%20FRN%20Extending%20Section%20301%20China%20FTT%20Exclusions%20to%20Jan%202027.pdf) extiende178exclusiones Section301 de productos con efectos10nov–09ene2027. Modularidad y alivios coexisten; volumen/cobro neto no auditados, sin inferir desescalada integral. [S21](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026) ya publica septiembre comercial: falta pareja sectorial compatible para Tariff D. Registro/consulta China anuncio48 ([S22](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html)) es distinto de49–52, OISP, robótica232 y restricciones DeepSeek. C54 se integra; no confundir exclusiones de productos con tasas portuarias C52. Los instrumentos conservan su población/vigencia propia.
+
+## Auditoría de condiciones propias
+
+Contadores previos heredados, sin nueva certificación universal. Condiciones propias separadas de las fichas.
+
+| ID / condición | Resultado W45 |
+|---|---|
+| V04-01 arancelextraordinario>20%estratégico | Antecedentejurídicoheredado;sin reauditoría general de actos nuevos/cobro. |
+| V04-02 SCFI>20%vsmedia90dsostenida | No verificableseriehomogénea/periodo. |
+| V04-03 comercionoUSD>50BUSD/año | No verificablevolumen/moneda/perímetro anual;HongKong en corpus no lo acredita. |
+| V04-04 IEDindustrial+30%jurisdicciónpuente | No verificable flujoindustrialejecutadocomparable. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## Observatorio estructural — actualización W45
+
+**C54 — 178 exclusiones de productos301:** [B02](https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/USTR%20FRN%20Extending%20Section%20301%20China%20FTT%20Exclusions%20to%20Jan%202027.pdf) leído íntegro; entradas10nov00:01ET–09ene202723:59ET, anexos/HTS propios. Integrar en Tariff/V04, comprobar instrucciones CBP, cobertura/cobro y operaciones. Entrada10nov en radar; vencimiento09ene fuera del horizonte06ene. C52 conserva seguimiento de procedimiento portuario sin trasladarle esta resolución. DeepSeek sigue absorbida y no derogada.
+
+### Sensores de continuidad y antecedentes W44
+
+Los siguientes sensores se conservan con sus fuentes y cortes anteriores. No son nuevas observaciones W45; las cifras dinámicas deben leerse con el periodo indicado. La actualización factual W45 está arriba.
+
+**C23/C27/C34/C38/C42–C45:** norma/partida/tecnología/destino, autoridad, fechaefectiva, trámite/licencia yoperación conplazo/volumen. Conservar instrumentos distintos48/49/50/51/52; C41 se sigue por absorción en el apartado propio inferior. No todo dron/robot ni todo usuario cubierto.
+
+**C50OISP:** [R10](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm)consulta07-dic, texto final/ámbito/vigencia yoperaciónafectada; no prohibición nueva consumada. **C51robótica232:** [S22](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)negociación/reporte180d, fuera60d; acuerdo/tasa/vigencia ycostereal, no adopciónproductivaV05. **C52marítimo301:** [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21755.htm)propuestahasta09-ene2027, fuerahorizonte; decisiónfinalycobroseparados; comentarios30-octvencidos no prueba de prórroga.
+
+**C53China–Suiza:** [R14](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d90375a8c65e4f20a82aa117e261de42.html)firma30-oct; ratificación/vigencia/partidas yflujos pendientes, sin fecha efectiva inventada. **BrasilC48/V06:** participacióncomercial/IED observada, stock2024controladorúltimo enUSD [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)], no pérdida ni cambio debloque inferido de elección. Sinotra carga.
+
+### C41 — DeepSeek absorbida por decisión de Luis el01-nov
+
+Seguimiento en este observatorio, sin ficha activa ni carga propia. Memoria en [[Evento_E0_2026_10_20_DeepSeek_Contratacion_Federal_Civil]]. No se afirma derogación, inexistencia de restricciones ni ejecución económica completa.
+
+Rectificación documental recuperada enTASK271: el [anexo de la orden2026-01](https://public-inspection.federalregister.gov/2026-21447.pdf), páginasPDF3–6 leídas visualmente, indica emisión original24-jul-2026; el aviso se publicó20-oct. Ordena exclusión/retirada inmediatamente tras emisión y permite solicitudes de excepción dentro de60días; ese plazo no es una demora general de retirada. Ámbito federal civil con límites/excepciones, no prohibición privada general. No acredita cumplimiento o coste poragencia.
+
+Sensores: contratos excluidos, instalaciones retiradas, excepciones solicitadas/resueltas, coste y tiempo de migración poragencia/periodo yproductos de terceros afectados. Separar texto jurídico, obligación y cumplimiento. La antigüedad del acto y falta de incidencia económica autónoma recuperada sustentan la absorción editorial; el riesgo continúa observable. Reapertura solo con episodio delimitado y decisión/calibración humana.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+Revisión semanal o evidencia primaria autorizada; no vigilancia continua ni alta automática.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 ultima_revision: 2026-10-31
 triggers_activos: 1
@@ -532,6 +613,8 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 
 - **Corte de esta revisión:** 2026-09-19 05:29 Europe/Madrid; precierre W38. Detalle y lagunas: [[ACTUALIZACION_SEMANAL_231_2026_09_20]].
 - **Contadores estructurales:** se conserva la calibración anterior; no equivalen a verificación nueva de todas las series históricas.
+
+</details>
 
 </details>
 

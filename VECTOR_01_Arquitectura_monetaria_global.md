@@ -2,6 +2,85 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-08
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 51.2
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado operativo W45
+
+**🟠 Elevada · ↑ · carga primaria 51,20.** Semáforo y tendencia estructural conservados; no se derivan de la suma ni de un hito futuro.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,40 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 12,00 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 7,00 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] | 13,80 |
+
+## Evidencia y límites
+
+[S01](https://home.treasury.gov/news/press-releases/sb0675)–[S02](https://home.treasury.gov/news/press-releases/sb0678): necesidades/planes del Tesoro y próximas subastas, no absorción ya observada. [S03](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf) registra compras semanales japonesas y [S05](https://fred.stlouisfed.org/series/SOFR)–[S09](https://fred.stlouisfed.org/series/WTREGEN) diferenciales/reservas/TGA con periodos propios; alivian una lectura uniforme de retirada. Francia combina −17,1pb TEC10 y colocación de deuda ([S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-06)–[S11](https://www.aft.gouv.fr/fr/dernieres-adjudications)) con riesgo fiscal HCFP ([R08](https://www.hcfp.fr/node/302)–[R09](https://www.hcfp.fr/sites/default/files/2026-11/Avis%20HCFP-2026-6%20-%20PLFG%202026.pdf)). C22 incorpora repricing05nov y vulnerabilidad de financiación por empresa ([R01](https://fred.stlouisfed.org/series/NASDAQCOM)–[R07](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx)/S12); rebote06nov y Microsoft delimitan la intensidad. No se demuestra crédito bloqueado generalizado ni dominancia monetaria fiscal. La carga sube por alta calibrada, sin nueva activación automática del vector.
+
+## Auditoría de condiciones propias
+
+Contadores previos heredados, sin nueva certificación universal. Condiciones propias separadas de las fichas.
+
+| ID / condición | Resultado W45 |
+|---|---|
+| V01-01 spreadinterbancario>15pb5d | No verificablebenchmark completo;SOFR−IORB es una referencia distinta. |
+| V01-02 repoemergencia>50BUSD>5d | No verificable serie/agregado;reservas promedio no usoSRF. |
+| V01-03 cobertura10/30Y<2,3dos emisiones | [S11](https://www.aft.gouv.fr/fr/dernieres-adjudications) da2,27enunaOAT y2,62enlarga; no completa dos emisiones requeridas. Cobertura global de subastas no auditada. |
+| V01-04 soberano10Y>5%>10sesiones | Francia02–06nov<5% no cumple secuencia actual; no extrapolar a todos los soberanos. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## Observatorio estructural — actualización W45
+
+**C22 activo / C29 y C39 integrados:** [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] es referencia canónica. Emisor/periodo, caja/PPE/deuda, compromisos exigibles/condicionados, emisiones/garantías y operaciones canceladas; comparadores de valoración/retorno y persistencia. Hipótesis electoral de Luis atribuida; no se toma intención como hecho. C7 crédito privado, C8 stablecoins y C9/Treasury conservan seguimiento diferenciado; sin evento genérico adicional.
+
+### Sensores de continuidad y antecedentes W44
+
+Los siguientes sensores se conservan con sus fuentes y cortes anteriores. No son nuevas observaciones W45; las cifras dinámicas deben leerse con el periodo indicado. La actualización factual W45 está arriba.
+
+**C7/C8/C9/C39/C40; C22 trasladado a ficha activa arriba:** fuente regulatoria/emisor/operador concreta; reembolsos pedidos/atendidos y pérdidas porperiodo; depósitos/redenciones/reservas poractivo; repo/SRF/USD porfecha ybenchmark; caja/deuda/PPE/obligaciones deoperadores con trimestre fiscal yguía previa/nueva compatibles. [S15](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)/S16/R06 son emisores distintos, no agregadoCAPEX homogéneo. No sumar gasto con ysinarrendamientos o guías/calendarios distintos.
+
+**C49 sucesiónBCE:** [S29](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)anuncia salida07-feb2027, fuera de60d; observar nombramiento/mandato y decisiones, sin calendario inventado del sucesor. Brasil/V06 tiene enlace financiero secundario: distinguir deudaFMI/autoridades, curva/moneda/periodo, stock de capital/flujo/pérdida [[L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)–[L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)]. PensionesV05 transmite aEspaña solo si presupuesto/ejecución lo acredita.
+
+**T05:** elegibilidad jurídica → operaciones efectivamente liquidadas → volumen recurrente, coste/plazo y origen de fondos. [R13](https://www.ipsos.com/en-us/only-one-five-americans-say-us-financial-system-secure)encuesta de uso/interés no liquidez ni colateralnuevo. Una ruptura identificable genera propuesta aLuis; no alta automática.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+Revisión semanal o evidencia primaria autorizada; no vigilancia continua ni alta automática.
+
+## Próxima comprobación C22 — repaso08nov
+
+CoreWeave10nov [Q01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx): caja/deuda, compromisos, concentración y condiciones de financiación. Caso contractual Core Scientific [Q04](https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001839341-26-000030/core-20260930.htm) integrado en [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]], sin ficha adicional ni impago supuesto. No cambiar la carga por incorporar un sensor.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 ultima_revision: 2026-10-31
 triggers_activos: 0
@@ -591,6 +670,8 @@ Registro inicial 27-sep: conservar diferencia entre CAPEX bruto, ajustado y anti
 ## Seguimiento aprobado W40 — C7/C8/C22
 
 Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de reembolsos (% de unidades y periodo), límites, mora/pérdidas y refinanciación; fuente SEC, fecha de presentación por verificar. Antecedentes heterogéneos: [PIF](https://www.sec.gov/Archives/edgar/data/1851322/000119312526395654/d154719dex99a1vi.htm) solicitudes11,4% frente a5%capacidad; [Fidelity](https://www.sec.gov/Archives/edgar/data/1920453/000119312526384555/d109827dex99a1vi.htm) solicitudes2,5% atendidas. No crisis sectorial acreditada. C8: reservas auditadas, composición en letras, redenciones y flujos (USD/mes), sin datos nuevos recuperados. C22 conserva panel de caja, deuda/vencimientos, anticipos, utilización y retorno; Micron positivo no representa agregado hyperscalers. Restricción delimitada con transmisión verificable genera propuesta humana, no alta automática.
+
+</details>
 
 </details>
 

@@ -4,6 +4,72 @@ id: TESIS_06
 estado: vigente
 soporte: alto
 soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
+ultima_actualizacion: 2026-11-08
+corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
+corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
+alcance_actualizacion: "W45; contraste factual tras A/B TASK307; definición y soporte conservados"
+vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — cierreC2/altaC22 B08-nov TASK307"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# TESIS_06: IA: infraestructura y conversión en productividad
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+**Soporte conservado: Alto solo para dependencia física.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+
+## Contraste factual W45
+
+**Apoyo:** AMD [S19](https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm) y TSMC [R11](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf) actualizan demanda/capacidad de fabricantes; Grid [S16](https://www.loudoun.gov/m/newsflash/home/detail/10938)/S18 delimita permisos/red. C22 aporta ajuste de precios observado [R01](https://fred.stlouisfed.org/series/NASDAQCOM)–[R02](https://fred.stlouisfed.org/series/SP500) y financiación/compromisos por empresa [R05](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)–[R07](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx)/S12: el canal financiero exige prueba distinta del físico.
+
+**Contraevidencia:** TSMC buenos rendimientos/capacidad futura, caja Microsoft y rebote06nov limitan escasez o colapso uniforme. Productividad [S23](https://www.bls.gov/news.release/prod2.nr0.htm) y empleo [B01](https://www.bls.gov/news.release/empsit.nr0.htm) son agregados, sin causalidad IA ni validación por tarea.
+
+**Ambigüedad / alcance:** PPE, guías, TTM y compromisos no forman agregado homogéneo; obligación condicionada no deuda anual. Repricing no prueba cancelaciones, insolvencia ni aplazamiento electoral intencionado. La tesis de Luis se preserva en C22, atribuida y falsable.
+
+**Próxima falsación:** Fabricante: entrega/yield/plazo; operador: financiación, garantías, caja y compromisos; usuario: uso recurrente, calidad y coste total/productividad. Cancelaciones por causa financiera o contratos financiados/retornos sostenibles discriminan fragilidad.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+
+## Trazabilidad
+
+Contraste factual de seis tesis ejecutado bajo A/B aprobadas. Se conservan literalmente definición, restricciones y criterios, además de grados/alcances previamente aprobados. Periodos originales y lagunas visibles; no nueva aprobación interpretativa de grados ni certeza causal por cronología.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_06
+estado: vigente
+soporte: alto
+soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
 ultima_actualizacion: 2026-10-31
 corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
 corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
@@ -793,6 +859,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

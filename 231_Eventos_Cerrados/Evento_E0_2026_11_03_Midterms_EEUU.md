@@ -1,4 +1,30 @@
 ---
+titulo: "Midterms EE. UU. — catalizador electoral consumido"
+tipo: evento_cerrado
+estado: cerrado
+fecha_cierre: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado_previo: E0
+calibracion_previa: "P2/peso4,70/→/V06; memoria histórica, sin carga activa"
+decision_cierre: "Luis — B recomendada aprobada08-nov, TASK307"
+---
+
+# Midterms EE. UU. — cierre del catalizador electoral
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+**Cierre por consumo del hito03nov, aprobado por Luis08nov.** Se retira9,40de carga activa por inventario; no se asigna peso0o1 ni se afirma desaparición del riesgo político.
+
+AP informa proyecciones de control demócrata de Senado03nov23:36ET y Cámara04nov01:24ET ([S25](https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/)). Son proyecciones del proveedor, sin certificación nacional íntegra recuperada ([S26](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)). Las elecciones han pasado; ese límite documental no perpetúa una elección futura.
+
+Seguimiento institucional en [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]: certificación/composición → capacidad legislativa → leyes/actos → ejecución. Episodio financiero posurna en [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]], con mecanismo, calibración y carga propios. La hipótesis de Luis de aplazamiento político se preserva atribuida, sin causalidad intencional probada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Ficha electoral anterior al cierre - original integro</summary>
+
+---
 titulo: "Midterms"
 fecha: 2026-09-19
 fecha_hito: 2026-11-03
@@ -284,6 +310,8 @@ Conecta con [[VECTOR_00_Indice]].
 
 
 27/09/2026 — TASK_148: Luis confirma «Perfecto todo» tras la propuesta de calibraciones. Estado vigente: P2, peso 4, tendencia →, factor 1,0, carga 8,0. Resuelta la petición previa de ajustes; las referencias anteriores a pendientes son historial. [[ACTUALIZACION_SEMANAL_231_2026_09_27]].
+
+</details>
 
 </details>
 

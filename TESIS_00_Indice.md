@@ -1,3 +1,29 @@
+# Tesis estructurales — Sistema231 / W45
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+Un soporte alto limitado al núcleo físico T06; dos moderado-altos (T02/T04) y tres moderados (T01/T03/T05). T05 permanece en validación. Las seis definiciones y grados se conservan tras el contraste factual W45; no se deducen de la carga.
+
+| Tesis | Soporte / alcance | Próxima prueba y falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Presupuesto/ejecución/subastas y financiación sostenibles; o reacción monetaria causalmente atribuible a financiación soberana bajo conflicto con precios. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; eficacia estabilizadora en validación | Texto/ámbito/vigencia → licencias/cobro → coste/plazo/entregas sostenidas por sector. Incumplimiento o interrupción persistente refutarían eficacia estabilizadora. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Cuentas netas compatibles y ratio de personas; renta/ahorro/esfuerzo residencial junto a productividad realizada. Mejoras que absorban las cargas debilitarían el nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Tránsito/flujos, seguros y alternativas efectivamente utilizadas a coste sostenible; persistencia y denominadores comunes. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Operaciones efectivamente liquidadas y recurrentes, activo/elegibilidad, volumen, coste/plazo y origen de fondos; separar nueva demanda de sustitución. Estado en validación conservado. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo para dependencia física | Fabricante: entrega/yield/plazo; operador: financiación, garantías, caja y compromisos; usuario: uso recurrente, calidad y coste total/productividad. Cancelaciones por causa financiera o contratos financiados/retornos sostenibles discriminan fragilidad. |
+
+**11 eventos activos (8 E0 / 3 E1), todos calibrados; carga primaria total 157,20.**
+
+**154,36 → 157,20 (+2,84)** = −1,56 por los pesos A −9,40 por cierre C2/Midterms +13,80 por alta C22. Las otras diez fichas conservan clase, presión y factor. Variación de calibración e inventario; no mide un deterioro económico observado de2,84puntos.
+
+Las definiciones no se reescriben para que encajen con un precio. C22 conserva atribuida la hipótesis de Luis y distingue secuencia temporal de intención política probada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
 # Tesis — índice del Sistema231
 
 > Cierre operativo W44 autorizado por Luis el01-nov: marítimo pasa de ↑ a →, factor1; publicación autorizada. Precierre factual: base de seis vectores31-oct22:25:41; comprobación adicional marítimo/OPEP+ hasta01-nov00:21:48, sin barrido exhaustivo de todas las fuentes del intervalo. El resto del domingo no está observado. Los datos conservan sus periodos originales.
@@ -274,6 +300,8 @@ Dos soportes altos, dos moderado-altos y dos moderados. TESIS_05 permanece en va
 Un vínculo no equivale a validación; stock no es flujo; proyección no es observación; norma no es transmisión económica. Los sensores cerrados son memoria. La base anterior se conserva con su fecha y no se reetiqueta como novedad W38.
 
 [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_09]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES]] · [[EVENTOS_CERRADOS_LOG]].
+
+</details>
 
 </details>
 

@@ -7,6 +7,73 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# Grid IA
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P4 · peso 4,50 · ↑ (factor 1.2) · carga 21,60 · V02.**
+
+## Evidencia, transmisión y falsación
+
+**Publicado / observado:** Loudoun20-oct aplazó a17-nov la discusión de una pausa de determinadas solicitudes urbanísticas; no aprobó moratoria energética ni denegó conexión a un CPD>50MW ([S16](https://www.loudoun.gov/m/newsflash/home/detail/10938)). MPID345, efectivo27-oct, regula FRT/recuperación; no acredita corte comercial ([S18](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications)). FERC [S17](https://ferc.gov/cost-transparency-customer-protection) es explicación de costes/procedimientos, actualizada19oct, fecha recuperada durante TASK316; sin lectura íntegra de cartas de prórroga ni nueva orden vinculante de corte auditada.
+
+**Peso desde cero: 4,50.** Alcance físico transversal y sustitución lenta; no se imputa aquí el ajuste bursátil de C22. Continuidad E0/P4/↑ aprobada en B como calibración heredada: no afirmar nueva aceleración empírica por esta semana o una expectativa regulatoria posurna.
+
+**Próxima prueba / falsación:** acto concreto, proyecto/potencia, conexión o corte realizado, horas y causa; balance de demanda, capacidad y permisos que permita puesta en servicio estable. Las colas pueden contener duplicados y no son todas demanda firme.
+
+## Auditoría íntegra de condiciones formales
+
+Las condiciones siguientes se conservan. Una cláusula parcial no activa la conjunción; las lagunas no se imputan como cero. C22 es un episodio financiero distinto.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| G-A | Moratoria energética oficial o denegación de conexiónLoudoun,CPDIA>50MW. | **No verificable completo.** [S16](https://www.loudoun.gov/m/newsflash/home/detail/10938) es aplazamiento de discusión urbanística a17nov; no acto energético/proyecto/potencia que cumpla la conjunción. Antecedente20oct recuperado. |
+| G-B | PJM/ERCOT EEA≥2 por climatización yCPD en pico estival. | **No verificable retrospectivo completo.** Sin registro suficiente de nivel, causalidad y periodo estival. Noviembre no sustituye verano. |
+| G-C | Orden vinculanteDOE/FERC/RTO/ISO aCPD/grandes cargas>50MW o generación asociada, autogeneración/corte≥4h. | **Parcial heredado; nueva ejecución no verificable.** [S17](https://ferc.gov/cost-transparency-customer-protection) explica procedimientos y costes, sin orden/registro que complete obligación, población y horas. |
+| G-D | Curtailment forzoso efectivoOfgem/EirGrid,CPDIA comerciales operativos>100MW combinados. | **Parcial normativo heredado.** [S18](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications) mantieneMPID345 efectivo27oct. Faltan corte ejecutado,MW combinados y población;FRT no implica corte. |
+| G-E | Moratoria hídricaEspaña/Irlanda bloquea licenciaCPDIA>50MW. | **No verificable.** Sin acto/proyecto/potencia/bloqueo material suficientes recuperados. No presume inexistencia. |
+| G-F | Sanción/demandaCE desdeEED demuestraWUEsectorialmedioUE>0,5L/kWh. | **No verificable.** Falta acto, media comparable y periodo. No inferirWUE del consumo eléctrico o nueva inversión. |
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_02_Energia_y_nodos_geoeconomicos]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+## Precisión08nov — FERC
+
+[Q03](https://ferc.gov/cost-transparency-customer-protection) aporta seis expedientes y plazos16/20nov. Se admiten como ANUNCIADO en radar. Interesa quién paga refuerzos de red y qué garantías cubren cancelaciones; presentación/reforma propuesta no corte≥4h ni tarifa final aprobada. No se recalibra Grid.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "Grid IA"
+fecha: 2026-07-08
+source: PJM / ERCOT / Utilities / DOE / Arizona Dept of Water Resources
+url: https://www.ferc.gov/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
+tipo: evento
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
@@ -422,6 +489,8 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 
 
 **Rectificación 27-sep:** el historial W36 atribuyó DOE38 a Stanton y afirmó expiración sin extensión. El [índice DOE 2026](https://www.energy.gov/ceser/2026-doe-202c-orders), consultado 27-sep, identifica 38 con Guam y 42 con Stanton (2-sep–30-nov). Aquella frase no se reutiliza como evidencia de alivio.
+
+</details>
 
 </details>
 

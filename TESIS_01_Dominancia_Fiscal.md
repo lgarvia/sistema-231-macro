@@ -3,6 +3,71 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
+ultima_actualizacion: 2026-11-08
+corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
+corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
+alcance_actualizacion: "W45; contraste factual tras A/B TASK307; definición y soporte conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — cierreC2/altaC22 B08-nov TASK307"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+**Soporte conservado: Moderado.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+
+## Contraste factual W45
+
+**Apoyo:** El Tesoro02/04nov publica necesidades/plan de emisión ([S01](https://home.treasury.gov/news/press-releases/sb0675)–[S02](https://home.treasury.gov/news/press-releases/sb0678)); HCFP02/04nov documenta fragilidad de previsiones francesas ([R08](https://www.hcfp.fr/node/302)–[R09](https://www.hcfp.fr/sites/default/files/2026-11/Avis%20HCFP-2026-6%20-%20PLFG%202026.pdf)). Son restricciones/planes, no prueba de subordinación monetaria. España sigue con pasos institucionales futuros ([S27](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)).
+
+**Contraevidencia:** Compras semanales japonesas [S03](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf), SOFR−IORB+2–7pb [S05](https://fred.stlouisfed.org/series/SOFR)–[S07](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm) y alivio TEC10/subasta francesa [S10](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-06)–[S11](https://www.aft.gouv.fr/fr/dernieres-adjudications) limitan una lectura de financiación rota. BoJ30oct mantiene1,25% ([R10](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf)). La nueva C22 refleja precios, no reacción monetaria subordinada al fisco.
+
+**Ambigüedad / alcance:** Diferencial cubierto, absorción por inversor y SRF/GCp99 siguen incompletos. No se demuestra cambio de reacción de un banco central para proteger financiación soberana en conflicto con precios; la hipótesis electoral de Luis no identifica ese nexo.
+
+**Próxima falsación:** Presupuesto/ejecución/subastas y financiación sostenibles; o reacción monetaria causalmente atribuible a financiación soberana bajo conflicto con precios.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+
+## Trazabilidad
+
+Contraste factual de seis tesis ejecutado bajo A/B aprobadas. Se conservan literalmente definición, restricciones y criterios, además de grados/alcances previamente aprobados. Periodos originales y lagunas visibles; no nueva aprobación interpretativa de grados ni certeza causal por cronología.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_01
+estado: vigente
+soporte: moderado
 ultima_actualizacion: 2026-10-31
 corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
 corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
@@ -752,6 +817,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

@@ -2,6 +2,78 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-08
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 7.2
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado operativo W45
+
+**🟡 Moderada · → · carga primaria 7,20.** Semáforo y tendencia estructural conservados; no se derivan de la suma ni de un hito futuro.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,20 |
+
+## Evidencia y límites
+
+Elecciones03nov ya consumidas; AP comunica proyecciones de control ([S25](https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/)), no certificación nacional íntegra ([S26](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/)). C2 se cierra por decisión B y su historia permanece enlazada. La interlocución bilateral06nov [R13](https://home.treasury.gov/news/press-releases/sb0684) actualiza posición estadounidense sobre Busan, sin probar entregas30-for-30. BrasilC48 conserva observatorio y resultado histórico con su corte anterior; no se revalida política futura. Ajuste bursátil posurna se observa en C22/V01, sin imputar su carga a V06 ni afirmar aplazamiento deliberado probado.
+
+## Auditoría de condiciones propias
+
+Contadores previos heredados, sin nueva certificación universal. Condiciones propias separadas de las fichas.
+
+| ID / condición | Resultado W45 |
+|---|---|
+| V06-01 alternativonoUSD>100BUSD/messostenido | No verificableliquidacióncomercial/moneda/persistencia. |
+| V06-02 defensa+15%dos presupuestos | No verificabledos presupuestosindividualeshomogéneos. |
+| V06-03 basedualsoberanaenestrecho | No nuevaadjudicación/usomilitar primario acreditado. |
+| V06-04 decretoreservasBC>50BUSD | No nuevoacto conpoblación/importe acreditado. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## Observatorio estructural — actualización W45
+
+**C2 — Midterms consumido y nuevo Congreso:** memoria en [[Evento_E0_2026_11_03_Midterms_EEUU]]. Comprobar certificación/escaños, composición, acto normativo, vigencia y ejecución; no mantener una exposición electoral futura. C22 [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] recoge precios/financiación y la hipótesis de Luis, sin duplicar carga ni equiparar promesas regulatorias con moratorias adoptadas.
+
+### Sensores de continuidad y antecedentes W44
+
+Los siguientes sensores se conservan con sus fuentes y cortes anteriores. No son nuevas observaciones W45; las cifras dinámicas deben leerse con el periodo indicado. La actualización factual W45 está arriba.
+
+**C6/C16/C17/C18/C19:** actos/vigencia yactivosreservasBCefectivos; volumencomercialliquidado por moneda/mes/persistencia; presupuesto→contrato→entrega→operatividad porpaís. Participantes/cumbre no liquidación; techo contractual no pago. Hecho militar soberano autónomo paraV06, sin duplicarMarítimoV02.
+
+**C48Brasil — observatorio autorizado, sin fichaE0:** [R09](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)resultadooficial25/26-oct; observarcoalición/actos delnuevo mandato, decisionesinternacionales,tratados/ratificación ytransmisión efectiva. [L01](https://www.bcb.gov.br/content/publications/directinvestmentreport/2024/DIR_2025.pdf)USD50,0B de posición decapital2024 porcontroladorúltimo español, no flujo anual ni pérdida. [L02](https://www.elibrary.imf.org/view/journals/002/2026/191/article-A001-en.xml)deuda98%proyectada enjulio no dato observado/últimavintageoctubre contrastada. EnlacesV04comercio/inversión yV01financiación, sin sumar esa exposición como carga.
+
+Sin fechafirme deactoadicional, no hito deBrasil inventado. Nueva decisión con alcance material permite proponer ficha calibrada aLuis; el altaalternativaC48 no fue elegida enB. Midterms/C2 queda cerrado; certificación y medidas posteriores se siguen en el apartado vigente W45.
+
+Indicadores con periodo/unidad yfuente primaria; ausencia de datos no equivale a ausencia de riesgo. Revisión semanal, sin vigilancia continua.
+
+Revisión semanal o evidencia primaria autorizada; no vigilancia continua ni alta automática.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 ultima_revision: 2026-10-31
 triggers_activos: 0
@@ -531,6 +603,8 @@ La fricción marítima en el corredor de Oriente Medio continúa contabilizada p
 ## Seguimiento W40 — C6/C17/C18 y ejecución bilateral C1
 
 C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es antecedente, no nuevo acto W40. C17: liquidación mensual comparable, miembros operativos y uso CIPS/mBridge, no anuncios. C18: contratos, entregas y capacidad, no equiparar presupuesto y producción. Xi mantiene [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] como E0 de ejecución, carga7,60; no nueva fecha exacta de reunión ni doble carga arancelaria.
+
+</details>
 
 </details>
 

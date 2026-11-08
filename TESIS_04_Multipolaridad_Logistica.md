@@ -3,6 +3,69 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-11-08
+corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
+corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
+alcance_actualizacion: "W45; contraste factual tras A/B TASK307; definición y soporte conservados"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — cierreC2/altaC22 B08-nov TASK307"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+**Soporte conservado: Moderado-alto.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+
+## Contraste factual W45
+
+**Apoyo:** AIE03nov [S13](https://www.iea.org/news/low-storage-buffers-in-europe-could-prolong-global-gas-market-tightness-well-into-2027) documenta vulnerabilidad gasista/recarga2027; OMI [S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx)/B03 mantiene ataques/daño. Refuerzan exposición de nodos, sin extrapolar a desabastecimiento general.
+
+**Contraevidencia:** Contratos flexibles y oferta norteamericana delimitan la ruptura inevitable ([S13](https://www.iea.org/news/low-storage-buffers-in-europe-could-prolong-global-gas-market-tightness-well-into-2027)). OPEP01nov conserva cuota requerida ([S15](https://www.opec.org/pr-detail/620-1-november-2026.html)), pero no es producción realizada. Alternativas deben medirse operativamente y con coste.
+
+**Ambigüedad / alcance:** Discrepan fecha/contador OMI:≥130/05nov en comunicado,129/04nov en panel. No inferir variación semanal, barriles o aceleración. Sin primas/volumen/duración compatibles; Urda sigue fuera de apoyo macro.
+
+**Próxima falsación:** Tránsito/flujos, seguros y alternativas efectivamente utilizadas a coste sostenible; persistencia y denominadores comunes.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+
+## Trazabilidad
+
+Contraste factual de seis tesis ejecutado bajo A/B aprobadas. Se conservan literalmente definición, restricciones y criterios, además de grados/alcances previamente aprobados. Periodos originales y lagunas visibles; no nueva aprobación interpretativa de grados ni certeza causal por cronología.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-10-31
 corte_factual_actual: "2026-10-31 22:25:41 Europe/Madrid"
 corte_factual_previo: "2026-10-24 20:23:28 Europe/Madrid"
@@ -724,6 +787,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 
 </details>
 
+
+</details>
 
 </details>
 

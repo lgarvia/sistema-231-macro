@@ -2,11 +2,17 @@
 tipo: log_cierres_eventos
 creado: 2026-04-26
 actualizador: Sistema 231 / Front Office
-ultima_actualizacion: "2026-11-01"
+ultima_actualizacion: "2026-11-08"
 ---
 
 
+
 # REGISTRO DE CIERRES DE EVENTOS
+
+## [2026-11-08] Cierre: Midterms EE. UU. / C2
+
+**Tipo:** catalizador electoral consumido, B aprobada por Luis08nov, TASK307. Elección03nov pasada; proyecciones AP sin certificación íntegra recuperada. Calibración histórica E0/P2/4,70/→/V06 conservada; retirar9,40 de carga por inventario, sin nuevo peso0o1 ni resolución de todo riesgo político. Archivo con nombre original [[Evento_E0_2026_11_03_Midterms_EEUU]]. Seguimiento institucional V06; episodio financiero independiente [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]]. Corte factual 2026-11-07 20:22:35 Europe/Madrid.
+
 
 ## [2026-11-01] Cierre: Urda / corredor Madrid–Andalucía (C47)
 

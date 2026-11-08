@@ -2,6 +2,56 @@
 titulo: "España / elecciones y ejecución fiscal"
 tipo: evento
 estado: E0
+ultima_revision: 2026-11-08
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.5
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+fecha_decision_peso: 2026-11-07
+decision_peso: "Luis — A2 desde cero; Gas4,40 aprobado previamente"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+---
+
+# España / gobernabilidad fiscal
+
+> Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
+
+## Estado vigente W45
+
+**E0 · P2 · peso 3,50 · → (factor 1) · carga 7,00 · V01.**
+
+## Evidencia, transmisión y falsación
+
+**Marco institucional:** RD806/2026, publicado06oct, mantiene elección29nov, campaña13–27nov y constitución de Cortes23dic ([S27](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742)). Fechas verificadas; gobierno, presupuesto y ejecución no observados. AIReF04nov aparece en búsqueda oficial, pero cuerpo/PDF no recuperados íntegros: no incorporar números fiscales como verificados ([R17](https://www.airef.es/es/centro-documental/informes/informe-sobre-los-proyectos-y-lineas-fundamentales-de-los-presupuestos-de-las-administraciones-publicas-para-2027)).
+
+**Peso desde cero:3,50.** Ponderación del canal español delimitado de gobernabilidad fiscal; importancia personal o cercanía electoral no equivale a alcance sistémico global. Gobernabilidad → presupuesto → ejecución → financiación/inversión, con continuidad presupuestaria y financiación privada como contrapesos. E0/P2/→ conservados.
+
+**Urda/C47:** fuera de inventario macro por decisión Luis01nov. Solo eventual contexto político, sin causalidad electoral o infrafinanciación demostrada, nueva ficha o carga. Prueba/falsación: actos presupuestarios, ejecución y financiación, bloqueo material o continuidad sostenible; no sondeos como crisis soberana.
+
+## Decisión y carga
+
+A/B resueltas y aplicadas. Primario único [[VECTOR_01_Arquitectura_monetaria_global]]; vínculos secundarios sin duplicar carga. Criterio ordinal de peso documentado en el informe: alcance, transmisión, dificultad de sustitución y persistencia. No es probabilidad ni pérdida esperada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>W44 y memoria anterior - sustituido08-nov-2026; original integro con su corte</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
 ultima_revision: 2026-10-31
 corte_factual: "2026-10-31 22:25:41 Europe/Madrid"
 calibracion: aplicada
@@ -285,6 +335,8 @@ Imputación exclusiva a [[VECTOR_01_Arquitectura_monetaria_global]]. Los canales
 [[ACTUALIZACION_SEMANAL_231_2026_10_11]] · [[Radar_Eventos_2026_10_r1]] · [[VECTOR_00_Indice]].
 
 Mayorías → capacidad presupuestaria y política fiscal → financiación soberana/inversión. Se prioriza exposición España; pensiones/vivienda siguen sus sensores, sin convertir la ficha en toda la actualidad nacional.
+
+</details>
 
 </details>
 
