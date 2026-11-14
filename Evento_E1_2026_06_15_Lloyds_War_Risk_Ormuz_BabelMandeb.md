@@ -7,6 +7,123 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [logística, fletes, guerra, ormuz, suez]
 tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.6
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E1/P4/peso4.6/→/V02"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# Riesgo marítimo
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E1 · P4 · peso4,6 · → (factor1) · carga18,40 · V02.**
+
+## Decisión aplicada
+
+Nuevos incidentes y recuperación parcial de flujos coexisten. MantenerE1/P4/→; faltan primas/duración para nueva activación íntegra. Los pesos A quedan aprobados: 4,6. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S20](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) añade incidentes10/11nov con buques dañados; sin demostrar tipoVLCC/LNG y daño estructural crítico.136incidentes acumulados al11nov no son136ataques semanales ni prueba de prima1,5%. Las filas07nov sin hora no se sitúan inequívocamente después del corte anterior. Discrepancia VELOS histórica permanece abierta. [S17](https://www.iea.org/reports/oil-market-report-november-2026) aporta recuperación de oferta/exportaciones con flujos todavía dañados; no certifica cierreOrmuz>5Mb/d/>48h. Falsación/alivio: tránsito, primas/coberturas y alternativas sostenibles por corredor; falta declaración oficial de saturación/bunkering para M-C. No se infiere desaparición del episodioE1.
+
+## Condiciones y falsación
+
+Cada fila conserva condición íntegra: una cláusula parcial no activa la conjunción; falta de prueba no equivale a cero.
+
+| ID | Condición canónica | Evidencia al corteW46 y límite |
+|---|---|---|
+| M-A | Dos brokers independientes/circularLMA prima≥1,5%casco mismo corredor, o retirada/denegación≥48h. | **No verificable.** [S20](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) documenta incidentes, sin dos cotizaciones independientes/circularLMA de prima≥1,5%casco mismo corredor ni retirada/denegación≥48h. Las48h solo pertenecen a esta segunda alternativa. |
+| M-B | Ataque y hundimiento/daño estructural críticoVLCC oLNG enOrmuz/Bab. | **Parcial con nueva evidencia.** [S20](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx): ataques10/11nov con daño. No completa tipoVLCC/LNG, corredorOrmuz/Bab y hundimiento/daño estructural crítico. Herido o ausencia de contaminación no sustituyen esas cláusulas. |
+| M-C | Declaración oficial de saturación de puertos africanos que impide bunkering desviado. | **No verificable.** Sin declaración oficial de saturación de puertos africanos con nexo de imposibilidad de bunkering de buques desviados. No sustituir por fletes altos. |
+| M-D | Cierre parcialOrmuz paraliza>5Mb/d del suministro delGolfo durante>48h. | **No verificable completo; contrapeso agregado.** [S17](https://www.iea.org/reports/oil-market-report-november-2026) muestra recuperación parcial mensual de oferta/exportaciones, pero no cierre parcialOrmuz con>5Mb/d de suministro delGolfo paralizados durante>48h. No convertir variación mensual mundial oGNL en esa conjunción. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "Riesgo marítimo"
+fecha: 2026-06-15
+source: Lloyd's Market Association Joint War Committee / IMO
+url: https://lmalloyds.com/committee/joint-war-committee/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [logística, fletes, guerra, ormuz, suez]
+tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.6
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+revision_semanal_pendiente: true
+factor_tendencia: 1
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# Riesgo marítimo
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E1 · P4 · peso4,60 · → (factor1) · carga18,40 · V02.**
+
+## Decisión de peso aplicada
+
+Peso4,60 ratificado por Luis en A R2 W46; sin cambio numérico. El juicio de alcance, transmisión, sustitución y persistencia permanece; no es nueva prueba de presión o tendencia.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Condiciones de evento conservadas
+
+Las definiciones se conservan; los diagnósticos de la siguiente tabla son W45, no revalidación W46. La auditoría W46 se incorporará junto a las decisiones B.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| M-A | Dos brokers independientes/circularLMA prima≥1,5%casco mismo corredor, o retirada/denegación≥48h. | **No verificable.** [S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx) no contiene cotizaciones ni duración de denegación. Las48h se aplican a retirada, no se añaden a la rama de prima. |
+| M-B | Ataque y hundimiento/daño estructural críticoVLCC oLNG enOrmuz/Bab. | **Parcial con nueva evidencia.** [S14](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-council-c138-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping-.aspx)/B03 confirman ataque y fallecimiento, pero discrepan fecha05/04nov y contador≥130/129; no completa tipoVLCC/LNG y daño estructural crítico. No equiparar víctima con esa categoría de daño. |
+| M-C | Declaración oficial de saturación de puertos africanos que impide bunkering desviado. | **No verificable.** No recuperada declaración/población y nexo de incapacidad. |
+| M-D | Cierre parcialOrmuz paraliza>5Mb/d del suministro delGolfo durante>48h. | **No verificable completo.** [S13](https://www.iea.org/news/low-storage-buffers-in-europe-could-prolong-global-gas-market-tightness-well-into-2027) describeGNL enbcm y periodo agregado; no permite convertirlo en petróleo diario ni acreditar la duración exacta del umbral. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "Riesgo marítimo"
+fecha: 2026-06-15
+source: Lloyd's Market Association Joint War Committee / IMO
+url: https://lmalloyds.com/committee/joint-war-committee/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [logística, fletes, guerra, ormuz, suez]
+tipo: evento
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 estado: E1
@@ -475,5 +592,11 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

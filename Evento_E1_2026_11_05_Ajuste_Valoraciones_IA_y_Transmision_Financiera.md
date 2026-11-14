@@ -4,6 +4,105 @@ fecha: 2026-11-05
 tipo: evento
 estado: E1
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+origen_alta: "C22 — B recomendada aprobada por Luis08-nov; TASK307"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.80
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+tags: [ia, valoraciones, financiacion, inversion, mercados]
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E1/P3/peso4.80/→/V01"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# Ajuste de valoraciones IA y transmisión financiera
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E1 · P3 · peso4,80 · → (factor1) · carga14,40 · V01.**
+
+## Decisión aplicada
+
+Reboteparcial y financiación/garantías; sin contagio generalizado ni desaparición del episodio. MantenerE1/P3/→. Los pesos A quedan aprobados: 4,80. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S11](https://fred.stlouisfed.org/series/NASDAQCOM) muestra recuperación parcial Nasdaq: +2,27%frente06nov y−2,33%desde04nov; limita caída continua sin probar normalización crediticia. [F01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)/[S12](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm)/[S13](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/0001769628-26-000465-index.htm) profundizan caja, deuda, inversión y garantías CoreWeave: CFO−PPE nueve meses−17.920MUSD, liquidez declarada9.837MUSD incluye crédito. Fianzas eléctricas contratadas en agosto no son margin call de esta semana. La empresa declara covenants cumplidos al30sep; contrapeso a impago supuesto. [S14](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm) actualiza compromisos Anthropic900,9BUSD/70,7en12meses/186,2condicionales: obligaciones futuras y perímetros, no gasto ni deuda exigible total. OfertaIPO/colocación condicionadas, no financiación cerrada. Falsación/alivio: precios y financiación sostenibles, contratos y retornos; intensificación: transmisión autónoma a capital/garantías/cancelación con causalidad. No acredita intención de aplazamiento político ni crisis global. Se auditan sus cuatro familias cualitativas: precios, capital/garantías, inversión/caja y alivio/salida; no se inventan umbrales retrospectivos. La diferencia CFO−PPE no es FCFajustado homogéneo. C29/IPO, C39apalancamiento y C56garantías se integran sin nueva ficha. La hipótesis de Luis sobre aplazamiento político se conserva atribuida en la memoria W45, sin elevarla a hecho causal probado.
+
+## Condiciones y falsación
+
+Criterios cualitativos conservados; no se inventan umbrales retrospectivos. Sensores, transmisión y falsación descritos arriba y en la memoria íntegra inferior. Ningún hito futuro acredita su resultado ni una nueva clase.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "Ajuste de valoraciones IA y transmisión financiera"
+fecha: 2026-11-05
+tipo: evento
+estado: E1
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+origen_alta: "C22 — B recomendada aprobada por Luis08-nov; TASK307"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.80
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — Apruebo. Adelante08-nov; E1/P3/4,60/→/V01"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+tags: [ia, valoraciones, financiacion, inversion, mercados]
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# Ajuste de valoraciones IA y transmisión financiera
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E1 · P3 · peso4,80 · → (factor1) · carga14,40 · V01.**
+
+## Decisión de peso aplicada
+
+Peso4,80: persistencia4→5 del canal financiero contractual, por deuda, garantías y compromisos plurianuales. Alcance5/transmisión5/sustitución4. No acredita impago ni propagación sistémica consumada.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Sensores y falsación conservados
+
+Cuatro familias conservadas: precios y amplitud/persistencia; capital/garantías y refinanciación por contraparte; inversión/caja y contratos por periodos compatibles; alivio/salida por financiación y retornos sostenibles. No inventar umbral retrospectivo ni dar por probada intención política.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "Ajuste de valoraciones IA y transmisión financiera"
+fecha: 2026-11-05
+tipo: evento
+estado: E1
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 origen_alta: "C22 — B recomendada aprobada por Luis08-nov; TASK307"
@@ -67,3 +166,9 @@ Revisar semanalmente o con nueva evidencia autorizada. Proponer absorción en ob
 Pruebas próximas antes omitidas: CoreWeave10nov, conferencia17:00ET/23:00Madrid [Q01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx); NVIDIA17nov, resultadosaprox13:20PT/22:20Madrid y conferencia14:00PT/23:00Madrid [Q02](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx). Observar caja/deuda/compromisos y cobros, contraparte, entregas/márgenes/guía. Son fechas futuras. La facturación de un proveedor no acredita por sí sola retorno de su cliente final. Parámetros E1/P3/4,60/→/V01 conservados.
 
 [[ACTUALIZACION_SEMANAL_231_2026_11_08]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+
+</details>
+
+
+</details>

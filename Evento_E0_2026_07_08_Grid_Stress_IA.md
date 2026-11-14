@@ -7,6 +7,129 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.70
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P4/peso4.70/↑/V02"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# Grid IA
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E0 · P4 · peso4,70 · ↑ (factor1,2) · carga22,56 · V02.**
+
+## Decisión aplicada
+
+Costes/capacidad compartidos documentados; procedimientos no corte. Mantenercontinuidad deP4/↑sometida aLuis, sin nueva aceleración medida. Los pesos A quedan aprobados: 4,70. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S22](https://www.prnewswire.com/news-releases/market-monitor-finds-pjm-wholesale-electricity-markets-competitive-302938048.html) aporta una estimación del monitor PJM:29,4BUSD adicionales de capacidad en cuatro años de entrega y9,95USD/MWh de diferencia contrafactual durante nueve meses. Es coste atribuido por el monitor, no carga anual de cada CPD ni interrupción ejecutada. [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21867.pdf) acredita petición NERC y plazo de comentarios; [F06](https://www.loudoun.gov/m/newsflash/home/detail/10938)/[F07](https://www.ferc.gov/cost-transparency-customer-protection) acreditan discusión/procedimientos futuros. No se completa orden de corte ni moratoria energética. Falsación: permisos, capacidad y conexiones que permitan servicio estable; intensificación: acto y ejecución con potencia, horas y causa compatibles. La ↑ se conserva expresamente por aprobación B; estas noticias no se presentan como nueva aceleración semanal medida. [N09](https://www.energy.gov/documents/doe-order-no-202-26-40)/[N10](https://www.energy.gov/documents/doe-order-no-202-26-49) revalidan disponibilidad de generación Eddystone/Craig; N19Campbell51del13nov comienza15nov, futura al corte. No acredita por sí sola conexión/corteCPD,≥4h ni los demás requisitos G-C/G-D. C57/NERC se integra aquí y en el observatorioV02.
+
+## Condiciones y falsación
+
+Cada fila conserva condición íntegra: una cláusula parcial no activa la conjunción; falta de prueba no equivale a cero.
+
+| ID | Condición canónica | Evidencia al corteW46 y límite |
+|---|---|---|
+| G-A | Moratoria energética oficial o denegación de conexiónLoudoun,CPDIA>50MW. | **Parcial procedimental; conjunción no verificable.** [F06](https://www.loudoun.gov/m/newsflash/home/detail/10938) aplaza discusión urbanística a17nov; no moratoria energética/denegación de conexión a proyectoIA>50MW enLoudoun. No completar acto/población/potencia por analogía. |
+| G-B | PJM/ERCOT EEA≥2 por climatización yCPD en pico estival. | **No verificable retrospectivo.** Sin registro EEA≥2PJM/ERCOT con causalidad conjunta climatización+CPD y pico estival. Noviembre no sustituye ese periodo. |
+| G-C | Orden vinculanteDOE/FERC/RTO/ISO aCPD/grandes cargas>50MW o generación asociada, autogeneración/corte≥4h. | **Parcial procedimental; ejecución no verificable.** [F07](https://www.ferc.gov/cost-transparency-customer-protection)/[S21](https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21867.pdf)/[S22](https://www.prnewswire.com/news-releases/market-monitor-finds-pjm-wholesale-electricity-markets-competitive-302938048.html): costes, petición, comentarios/recomendaciones no son orden vinculante de autogeneración/corte≥4h. Falta acto aplicable a población>50MW/generación asociada y obligación/duración. [N09](https://www.energy.gov/documents/doe-order-no-202-26-40)/N10acreditan disponibilidad generadora202(c), sin completar poblaciónCPDcausa/≥4h; N19vigencia15nov aún futura. |
+| G-D | Curtailment forzoso efectivoOfgem/EirGrid,CPDIA comerciales operativos>100MW combinados. | **Parcial normativo heredado; ejecución no verificable.** MPID345/FRT sigue como antecedente. Sin registro de corte forzoso efectivamente ejecutado porOfgem/EirGrid enCPDIA comerciales operativos>100MW combinados. No convertir norma técnica en corte. |
+| G-E | Moratoria hídricaEspaña/Irlanda bloquea licenciaCPDIA>50MW. | **No verificable.** Sin acto hídrico español/irlandés con proyectoIA>50MW, licencia y bloqueo material documentados. No se presume inexistencia. |
+| G-F | Sanción/demandaCE desdeEED demuestraWUEsectorialmedioUE>0,5L/kWh. | **No verificable.** Sin sanción/demandaCE basada enEED que acredite mediaWUEsectorialUE>0,5L/kWh con población/periodo compatibles. Electricidad o inversión no midenWUE. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "Grid IA"
+fecha: 2026-07-08
+source: PJM / ERCOT / Utilities / DOE / Arizona Dept of Water Resources
+url: https://www.ferc.gov/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
+tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.70
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# Grid IA
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E0 · P4 · peso4,70 · ↑ (factor1.2) · carga22,56 · V02.**
+
+## Decisión de peso aplicada
+
+Peso4,70: mayor dificultad de sustituir capacidad eléctrica firme en el emplazamiento y plazo pertinentes. Sustitución4→5; alcance4/transmisión5/persistencia5. Juicio ordinal, sin declarar corte físico ni subir presión.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Condiciones de evento conservadas
+
+Las definiciones se conservan; los diagnósticos de la siguiente tabla son W45, no revalidación W46. La auditoría W46 se incorporará junto a las decisiones B.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| G-A | Moratoria energética oficial o denegación de conexiónLoudoun,CPDIA>50MW. | **No verificable completo.** [S16](https://www.loudoun.gov/m/newsflash/home/detail/10938) es aplazamiento de discusión urbanística a17nov; no acto energético/proyecto/potencia que cumpla la conjunción. Antecedente20oct recuperado. |
+| G-B | PJM/ERCOT EEA≥2 por climatización yCPD en pico estival. | **No verificable retrospectivo completo.** Sin registro suficiente de nivel, causalidad y periodo estival. Noviembre no sustituye verano. |
+| G-C | Orden vinculanteDOE/FERC/RTO/ISO aCPD/grandes cargas>50MW o generación asociada, autogeneración/corte≥4h. | **Parcial heredado; nueva ejecución no verificable.** [S17](https://ferc.gov/cost-transparency-customer-protection) explica procedimientos y costes, sin orden/registro que complete obligación, población y horas. |
+| G-D | Curtailment forzoso efectivoOfgem/EirGrid,CPDIA comerciales operativos>100MW combinados. | **Parcial normativo heredado.** [S18](https://www.eirgrid.ie/grid/grid-codes-and-compliance-overview/grid-code-modifications) mantieneMPID345 efectivo27oct. Faltan corte ejecutado,MW combinados y población;FRT no implica corte. |
+| G-E | Moratoria hídricaEspaña/Irlanda bloquea licenciaCPDIA>50MW. | **No verificable.** Sin acto/proyecto/potencia/bloqueo material suficientes recuperados. No presume inexistencia. |
+| G-F | Sanción/demandaCE desdeEED demuestraWUEsectorialmedioUE>0,5L/kWh. | **No verificable.** Falta acto, media comparable y periodo. No inferirWUE del consumo eléctrico o nueva inversión. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "Grid IA"
+fecha: 2026-07-08
+source: PJM / ERCOT / Utilities / DOE / Arizona Dept of Water Resources
+url: https://www.ferc.gov/
+vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
+tipo: evento
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
@@ -499,5 +622,11 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

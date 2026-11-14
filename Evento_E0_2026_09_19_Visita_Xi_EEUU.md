@@ -4,6 +4,111 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+origen_alta: "Decisión humana C1 — TASK_118"
+calibracion: aplicada
+carga_activa: 6.60
+presion_numerica: 2
+peso_estructural: 3.30
+factor_tendencia: 1
+tags: [geopolitica, china, estados-unidos, diplomacia]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P2/peso3.30/→/V06"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# EE. UU.–China / ejecución
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E0 · P2 · peso3,30 · → (factor1) · carga6,60 · V06.**
+
+## Decisión aplicada
+
+Consejo celebrado; sin ejecución de cada compromiso. MantenerE0/P2, no mejora política supuesta. Los pesos A quedan aprobados: 3,30. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+**Rectificación14nov:** el campo antiguo7,6 no correspondía a la base correcta7,20. Tras pesoA3,30, carga6,60. Efecto de peso−0,60; no contar reparación como otra bajada. C59Consejo se integra sin ficha/carga adicional.
+
+## Evidencia, transmisión y falsación W46
+
+[S34](https://www.mfa.gov.cn/eng/wjbzhd/202611/t20261112_12058110.html)–[S36](https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_c564995ff6054093a1ed039e10c89aad.html): llamada11nov, rueda12nov y primera reunión del Consejo13nov, publicada antes del corte el14nov. Es avance institucional concreto, no aplicación acreditada de rebajas30B/30B ni entrega de bienes. Separar Washington de Busan, posiciones de parte de ejecución bilateral y diplomacia de actos aduaneros. Falsación: cumplimiento/fracaso sostenido por licencia, partida, contrato y flujo.
+
+## Condiciones y falsación
+
+Criterios cualitativos conservados; no se inventan umbrales retrospectivos. Sensores, transmisión y falsación descritos arriba y en la memoria íntegra inferior. Ningún hito futuro acredita su resultado ni una nueva clase.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "EE. UU.–China / ejecución"
+fecha: 2026-09-19
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+origen_alta: "Decisión humana C1 — TASK_118"
+calibracion: aplicada
+carga_activa: 6.60
+presion_numerica: 2
+peso_estructural: 3.30
+factor_tendencia: 1
+tags: [geopolitica, china, estados-unidos, diplomacia]
+tendencia_calibrada: "→"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# EE. UU.–China / ejecución
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E0 · P2 · peso3,30 · → (factor1) · carga6,60 · V06.**
+
+## Decisión de peso aplicada
+
+Peso3,30: transmisión4→3 al delimitar coordinación/ejecución bilateral frente a los instrumentos comerciales ya recogidos en V04. Alcance4/sustitución3/persistencia3. No implica mejora geopolítica observada.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+**Rectificación14nov:** el campo antiguo carga_activa7,6 no correspondía a P2×3,60×1=7,20. Se corrige su base y se aplica el nuevo peso3,30: carga vigente6,60. Efecto atribuible al peso−0,60, no−1,00; la rectificación no es una segunda recalibración.
+
+## Sensores y falsación conservados
+
+Acuerdo e instrumento identificados → acto aplicable → licencia/contrato → entrega o inversión realizada. Distinguir Washington y Busan, interlocución y ejecución; incumplimiento persistente o cumplimiento sostenido por población comparable.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "EE. UU.–China / ejecución"
+fecha: 2026-09-19
+tipo: evento
+estado: E0
+vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
@@ -363,5 +468,11 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

@@ -2,6 +2,130 @@
 presion: "🔴 CRÍTICA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 1
+triggers_parciales: 0
+alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+carga_primaria: 23.40
+estado_revision_W46: A_B_aplicadas_revision_local
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**🔴 Crítica · → · carga23,40.** Semáforo y tendencia estructural conservados tras contraste, sin deducirlos de la suma.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,00 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+
+## Evidencia, contraevidencia y límites W46
+
+[S23](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22867.pdf) resuelve la laguna de decisión final marítima301: suspensión efectiva09nov hasta09ene, reanudación prevista10ene. S24extensión178exclusiones de productos es otro instrumento. N16Canadá mantiene/adapta partidas50%; actos no prueban cobro ni ahorro neto.
+
+S25registro48efectivo y consulta hasta15nov, no expiración del registro; [N02](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html)–[N04](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html) revalidan vigencias18nov de49–51, con alcances distintos. [S26](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_5baeb69ccc0f44cb83dea8ac587dd327.html)/S27alivios de listas16/11entidades mantienen licencias. C59Consejo integradoC1/V06; ejecución comercial aquí, sin doble carga. C41DeepSeek permanece absorbida, sin derogación inferida.
+
+## Auditoría de condiciones propias
+
+Distintas de las condiciones de evento. Cada fila conserva umbral, periodo, población y causalidad; no verificable no significa inexistente. Los contadores describen esta auditoría y su cobertura.
+
+| ID | Condición íntegra | Resultado W46 |
+|---|---|---|
+| V04-01 | Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes. | **Activo jurídico heredado recontrastado.** N16modificaciónCanadá23oct/efecto30oct mantiene y añade partidas al50%, con otras retiradas. Condición normativa>20%en sectores estratégicos; anexos/cobro íntegros no auditados, no activaciónT-Acompleta. |
+| V04-02 | Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días. | **No verificable.** Sin serie SCFI frente media90d y persistencia. FletesOrienteMedio–Asia deS17no sustituyen índice/denominador. |
+| V04-03 | Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable. | **No verificable.** S32ETSGno comercio liquidado sinUSD>50BUSDanuales ni red bilateral/moneda/periodo auditados. |
+| V04-04 | Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring). | **No verificable.** Sin flujo industrialIEDinteranual hacia jurisdicciónpuente>30%compatible. Stocks de controlador último y contratos no sustituyen flujos. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+## Observatorio estructural — W46
+
+Registro de pequeñas señales y sensores por mecanismo; no son altas automáticas ni vigilancia continua. BaseW45 conserva el corte y los identificadores de fuentes de aquel informe.
+
+| ID | Seguimiento | Señal / fuente y alcance | Sensor | Tratamiento aprobado |
+|---|---|---|---|---|
+| C23 | ExportaciónUSchips /V04 | BaseW45: Heredado;separarBISdeOISP/C50; sin nueva revalidación integral de este asunto | Licencia/operación impedida | Observatorio,objetos separados |
+| C27 | Mineralescríticos /V04 | [S35](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y12r/index.html)/[S36](https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_c564995ff6054093a1ed039e10c89aad.html) ejecución comercial todavía en discusión; [S26](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_5baeb69ccc0f44cb83dea8ac587dd327.html)/S27alivios con licencias | Permiso/exportación/inventario/plazo/sustitución | ObservatorioV04; integrar interlocuciónC1 sin sumar cargas |
+| C34 | Defensa comercialUE /V04 | BaseW45: Pista heredada;acto concreto pendiente; sin nueva revalidación integral de este asunto | Texto/autoridad/vigencia/operación | Aplazar alta |
+| C38 | RegistroChina /V04 | S25MOFCOM48releído; registro vigente y consulta hasta15nov | Texto final/ámbito/expediente/plazo/transferencia | MantenerE0/P2/3,50/→; no sumar49–52 |
+| C41 | DeepSeekfederalcivil /V04 | BaseW45: Absorción01nov;anexoJuly24enV04canónico; sin nueva revalidación integral de este asunto | Retirada/excepción/contrato/coste | Mantener absorbida;no prohibición privada general |
+| C42 | Chinaaduanas52 /V04 | S25registro48distinto; instrumento52 y ejecución siguen antecedentes | Producto/documento/días/resolución | ObservatorioV04 separado; recontraste jurídico pendiente en radar |
+| C43 | Chinadrones49 /V04 | [N02](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html): cuerpoMOFCOM49/19oct y vigencia18nov recontrastados; Productos/umbrales/licencias y facilidades propios; efectos/entregas aún no medidos | Texto primario vigente/licencia/producto/entrega | ObservatorioV04; hito18nov recontrastado, sin ficha duplicada |
+| C44 | Chinatuneladoras50 /V04 | [N03](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_1628d886f39840489513af242f93517b.html): cuerpoMOFCOM50/19oct y vigencia18nov recontrastados; Destinos sensibles/licencia frente a otros destinos/registro; ejecución pendiente | Texto primario vigente/licencia/producto/entrega | ObservatorioV04 separado; hito18nov recontrastado, sin alta propia |
+| C45 | Chinadragas51 /V04 | [N04](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html): cuerpoMOFCOM51/19oct y vigencia18nov recontrastados; Ámbito dragas/componentes y licencias; volumen/entregas afectados pendientes | Texto primario vigente/licencia/producto/entrega | ObservatorioV04 separado; hito18nov recontrastado, sin alta propia |
+| C50 | OISPpropuesto /V04 | [N11](https://www.govinfo.gov/content/pkg/FR-2026-10-26/html/2026-21786.htm): NPRM26oct, fecha07dic recontrastada en cláusulaDATES; Se leyó fecha/objeto de propuesta, no4910líneas ni norma final | Texto final/ámbito/operación | ObservatorioV04; plazo07dic recontrastado en radar, sin bloqueo consumado |
+| C51 | Robótica232US /V04 | BaseW45: Proclamación/negociaciónheredadas; sin nueva revalidación integral de este asunto | Acuerdo/tasa/vigencia/coste | Observatorio;no duplicarUnitree |
+| C52 | Tasasmarítimas301 /V04 | S23aviso finalFR10nov, suspensión efectiva09nov→09ene23:59ET | Anexo/partida/entrada/cobro/flujo | IntegrarTariff/V04; actualizar de propuesta a acto final, sin ficha nueva |
+| C53 | China–Suiza /V04 | BaseW45: Firma30octheredada; sin nueva revalidación integral de este asunto | Texto/actos/entregas | Observatorio;sin fecha inventada |
+| C54 | 178exclusiones301 /V04 | [S24](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22925.pdf): FR10nov/178exclusiones/HTSpropios; fecha y vigencia recontrastadas; CBP/cobro/volumen pendientes; publicación y vigencia no dos alivios independientes | Partida/fecha/guíaCBP/operación | IntegraciónTariff/V04 conservada; entrada10nov resuelta y vencimiento09ene en radar |
+
+Base heredada y decisiones previas: [[ACTUALIZACION_SEMANAL_231_2026_11_08]].
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 1
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 23.40
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 04 Reconfiguracion del comercio global
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Carga local tras A
+
+**🔴 Crítica · → · carga23,40.** Semáforo, tendencia y contadores conservan W45, sin nueva revalidación ni derivación desde la carga.
+
+| Evento primario | Carga local |
+|---|---:|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,00 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Escalada Arancelaria):** Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes.
+- **Trigger 02 (Volatilidad SCFI):** Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días.
+- **Trigger 03 (Liquidación de Bypass):** Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable.
+- **Trigger 04 (Bypass de IED):** Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring).
+
+La evidencia, auditoría y observatorios W45 se preservan íntegros abajo. Su revisión W46 es posterior; no se dan por resueltos hitos vencidos por esta recalibración.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 ultima_revision: 2026-11-08
 triggers_activos: 1
@@ -627,5 +751,11 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

@@ -2,6 +2,110 @@
 titulo: "España / elecciones y ejecución fiscal"
 tipo: evento
 estado: E0
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.5
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P2/peso3.5/→/V01"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# España / elecciones y ejecución fiscal
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E0 · P2 · peso3,5 · → (factor1) · carga7,00 · V01.**
+
+## Decisión aplicada
+
+Calendario legal ya entra en campaña; sin resultado, presupuesto o bloqueo fiscal acreditados. Los pesos A quedan aprobados: 3,5. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S39](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742) acredita calendario legal13–27nov/29nov/23dic; no gasto de campaña efectivo, resultado, gobierno, presupuesto aprobado ni transmisión a tipos. [S29](https://ine.es/dyngs/Prensa/IPC1026.htm)/[S31](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261109-1) aportan contexto de precios/esfuerzo residencial, no prueba de bloqueo fiscal electoral. AIReF y cuentas netas no se completan con una búsqueda indexada. Falsación: continuidad presupuestaria/financiación y ejecución; intensificación: bloqueo y efecto material documentados. Urda permanece fuera del inventario por la decisión anterior; no se reabre aquí.
+
+## Condiciones y falsación
+
+Criterios cualitativos conservados; no se inventan umbrales retrospectivos. Sensores, transmisión y falsación descritos arriba y en la memoria íntegra inferior. Ningún hito futuro acredita su resultado ni una nueva clase.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.5
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+fecha: 2026-10-10
+fecha_hito: 2026-11-29
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+origen_alta: "C35 — selección/calibración Luis, TASK_202"
+tags: [espana, elecciones, gobernabilidad, politica-fiscal]
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+revision_inventario: "2026-11-01"
+decision_inventario: "Luis — retirar Urda y absorber DeepSeek;TASK271"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# España / elecciones y ejecución fiscal
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E0 · P2 · peso3,50 · → (factor1) · carga7,00 · V01.**
+
+## Decisión de peso aplicada
+
+Peso3,50 ratificado por Luis en A R2 W46; sin cambio numérico. El juicio de alcance, transmisión, sustitución y persistencia permanece; no es nueva prueba de presión o tendencia.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Sensores y falsación conservados
+
+Gobernabilidad → presupuesto → ejecución → financiación/inversión. Calendario no acredita resultado, gobierno o bloqueo. Actos y efectos materiales, frente a continuidad presupuestaria/financiación sostenible; Urda sigue fuera del inventario.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "España / elecciones y ejecución fiscal"
+tipo: evento
+estado: E0
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 calibracion: aplicada
@@ -345,5 +449,11 @@ Mayorías → capacidad presupuestaria y política fiscal → financiación sobe
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

@@ -3,6 +3,69 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado
+ultima_actualizacion: 2026-11-14
+corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
+corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
+alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Formulación causal conjunta; evidencia diferenciada por mecanismo"
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+---
+
+# TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**Soporte conservado: Moderado para formulación causal conjunta.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+El esfuerzo residencial y la carga fiscal/contributiva pueden limitar ahorro y movilidad de determinados hogares cuando superan su mejora de renta y productividad. Su contribución respectiva y el eventual desplazamiento de inversión requieren medición separada por cohorte, territorio y tenencia
+
+España es el ámbito prioritario. Se distinguen propietarios e inquilinos, cohortes y territorios. La formulación no atribuye intención general a pensionistas o propietarios; tampoco traslada evidencia de un mecanismo a toda la explicación.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+
+## Contraste factual W46
+
+**Apoyo:** [S31](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261109-1) aporta evidencia española: ratio de índices precio-vivienda/renta2025 +24,5%frente2015, contra+6,8%UE. S29IPC4,9%ygrupoVivienda7,6%YoY añaden presión de precios, sin ser compraventa o nuevos alquileres.
+
+**Contraevidencia:** S31muestra heterogeneidad europea17países suben/10bajan; índice porpersona no experiencia de cada cohorte. S28industria y S30PIB/empleo son contrapesos a colapso uniforme, sin demostrar salarios reales/ahorro de hogares expuestos.
+
+**Ambigüedad / alcance:** Nueva evidencia fortalece el componente residencial español, no identifica la causalidad conjunta pensiones/vivienda/productividadIA. Faltan cuentas contributivas netas, personas y panel comparable por cohorte/tenencia/territorio; no atribuir intención ni generalizar una media.
+
+**Próxima falsación:** Renta/ahorro/esfuerzo por población comparable, saldo contributivo neto/PIB y ratio de personas; productividad realizada y su incidencia. Mejoras que absorban cargas o inversión preservada debilitarían el nexo conjunto.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+
+## Trazabilidad
+
+Revisión factual bajo A/B aprobadas; conservar grado expresa juicio tras contraste, no inercia ni decisión por cuota. Definiciones/restricciones/criterios y puertas T05 permanecen literalmente; nueva evidencia no acredita por sí sola toda causalidad.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_03
+estado: vigente
+soporte: moderado
 ultima_actualizacion: 2026-11-08
 corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
 corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
@@ -804,5 +867,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>

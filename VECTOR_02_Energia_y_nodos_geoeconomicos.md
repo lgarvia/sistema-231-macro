@@ -2,6 +2,129 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 1
+triggers_parciales: 0
+alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+carga_primaria: 54.160
+estado_revision_W46: A_B_aplicadas_revision_local
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 02 Energia y nodos geoeconomicos
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**🔴 Crítica · ↑ · carga54,16.** Semáforo y tendencia estructural conservados tras contraste, sin deducirlos de la suma.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | 22,56 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | 13,20 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | 18,40 |
+
+## Evidencia, contraevidencia y límites W46
+
+S18modeliza almacenamiento alemán61%al01nov: normal/cálido seguro, frío extremo con faltantes posibles; no racionamiento observado. S17recuperación parcial de oferta/exportaciones petroleras coexiste con daño de flujos, costes y nuevos incidentesS20. No trasladar petróleo diario a GNL o barcos.
+
+S22estima costes de capacidad compartidos, no corte. [N09](https://www.energy.gov/documents/doe-order-no-202-26-40)/[N10](https://www.energy.gov/documents/doe-order-no-202-26-49)/[N18](https://www.energy.gov/ceser/2026-doe-202c-orders)–[N24](https://www.energy.gov/ceser/federal-power-act-section-202c-schahfer-order-no-202-26-46) permiten seguir órdenes de disponibilidad de generación con vigencia propia; Campbell51del13nov se incorpora como señal jurídica y sensor15nov. S21NERC se integra C57/Grid, sin norma aprobada ni cuatro horas de interrupción demostradas.
+
+## Auditoría de condiciones propias
+
+Distintas de las condiciones de evento. Cada fila conserva umbral, periodo, población y causalidad; no verificable no significa inexistente. Los contadores describen esta auditoría y su cobertura.
+
+| ID | Condición íntegra | Resultado W46 |
+|---|---|---|
+| V02-01 | Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito. | **No verificable.** Sin serie comparable de incremento de prima>0,5%casco por tránsito. S20incidentes no cotizaciones; distinguir de M-A nivel≥1,5%y fuentes. |
+| V02-02 | Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días. | **No verificable.** S17exportaciones mensuales delGolfo no tránsito de buques/promedio14d ni prueba de caída>20%. |
+| V02-03 | Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd. | **No verificable.** S20daño a buques no terminales de exportación ni capacidadglobal reducida>1Mb/d. |
+| V02-04 | Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia. | **No verificable.** Petróleo en tránsitoS17no proporción>30%del volumen nominal desviado ni rutas/población compatibles. |
+| V02-05 | Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema. | **Activo jurídico; ejecución separada.** [N09](https://www.energy.gov/documents/doe-order-no-202-26-40)/N10órdenes202(c) de disponibilidad Eddystone/Craig dentro de su vigencia según textos, no despacho diario acreditado. N19Campbell51emitida13nov empieza15nov: futura al corte. No activa G-C/G-D de CPD por sí sola. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Prima de Seguro):** Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito.
+- **Trigger 02 (Interrupción de Tránsito):** Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días.
+- **Trigger 03 (Daño de Infraestructura):** Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd.
+- **Trigger 04 (Desvío de Rutas):** Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia.
+- **Trigger 05 (Emergencia Física de Red):** Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema.
+
+## Observatorio estructural — W46
+
+Registro de pequeñas señales y sensores por mecanismo; no son altas automáticas ni vigilancia continua. BaseW45 conserva el corte y los identificadores de fuentes de aquel informe.
+
+| ID | Seguimiento | Señal / fuente y alcance | Sensor | Tratamiento aprobado |
+|---|---|---|---|---|
+| C12 | OPEP+ /V02 | [S17](https://www.iea.org/reports/oil-market-report-november-2026)/[N15](https://www.opec.org/pr-detail/620-1-november-2026.html): oferta observada AIE y fecha OPEP29nov recontrastada al renovar radar; Cuota no producción; resultados futuros no adelantados | Producción/compensación/exportación y próxima decisión con fuente | IntegradoMarítimo/V02; hito29nov recontrastadoN15 en radar |
+| C13 | GasUE /V02 | S18INES10nov: Alemania61%al01nov y escenarios; S17contrapeso oferta | Stock/país/gasday/flujo/clima/precio/restricción | MantenerE0/P3/4,40/→; integrarC36 |
+| C14 | Agua/permisosCPD /V02 | [F06](https://www.loudoun.gov/m/newsflash/home/detail/10938)/[F07](https://www.ferc.gov/cost-transparency-customer-protection) yS21/[S22](https://www.prnewswire.com/news-releases/market-monitor-finds-pjm-wholesale-electricity-markets-competitive-302938048.html): procedimientos/permisos/costes/registroNERC | Acto/proyecto/MW/horas/causa | IntegrarGrid; mantenerE0/P4/4,70/↑ como propuesta de continuidad |
+| C15 | Cables/sabotaje /V02 | BaseW45: Heredado,sin episodio nuevo contrastado; sin nueva revalidación integral de este asunto | Parte operador/capacidad/restauración | Aplazar alta;no atribuir sabotaje |
+| C32 | GNSSmarítimo /V02 | BaseW45: Absorción previa;sin consecuencia autónoma nueva; sin nueva revalidación integral de este asunto | Incidente/desvío/tiempo | Mantener integradoMarítimo |
+| C36 | Energía/rentaEspaña /V02 | S29IPC energía/vivienda yS18escenario gasista alemán | Factura/componentes/demanda/renta/periodo | IntegrarGas y contextoV05; sin doble carga |
+| C46 | IrlandaMPID345 /V02 | MPID34527oct antecedente; sin corte comercial nuevo compatible | Cumplimiento/derogación/MW/horas/población | IntegrarGrid; no alta duplicada |
+| C57 | NERC/grandes cargas /V02 | [S21](https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21867.pdf): petición21oct/aviso27oct, comentarios20nov | Texto/ámbito/vigencia/proyecto/MW/horas | IntegrarGrid/observatorio y radar20nov; alta separada aplazada |
+
+Fuente de la base heredada: [[ACTUALIZACION_SEMANAL_231_2026_11_08]]. Nueva señalCampbell13nov y otras órdenes de disponibilidad integradas enV02/Grid por el mecanismo ya autorizado, sin ficha, reclasificación o presión añadidas.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "↑ Acelerando"
+tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 1
+triggers_parciales: 2
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 54.16
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 02 Energia y nodos geoeconomicos
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Carga local tras A
+
+**🔴 Crítica · ↑ · carga54,16.** Semáforo, tendencia y contadores conservan W45, sin nueva revalidación ni derivación desde la carga.
+
+| Evento primario | Carga local |
+|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | 22,56 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | 13,20 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | 18,40 |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Prima de Seguro):** Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito.
+- **Trigger 02 (Interrupción de Tránsito):** Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días.
+- **Trigger 03 (Daño de Infraestructura):** Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd.
+- **Trigger 04 (Desvío de Rutas):** Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia.
+- **Trigger 05 (Emergencia Física de Red):** Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema.
+
+La evidencia, auditoría y observatorios W45 se preservan íntegros abajo. Su revisión W46 es posterior; no se dan por resueltos hitos vencidos por esta recalibración.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+presion: "🔴 CRÍTICA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 ultima_revision: 2026-11-08
 triggers_activos: 1
@@ -657,5 +780,11 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibraci�
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

@@ -7,6 +7,123 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P4/peso4.5/↑/V03"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# CoWoS
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E0 · P4 · peso4,5 · ↑ (factor1,2) · carga21,60 · V03.**
+
+## Decisión aplicada
+
+VentasTSMCagregadas fuertes no midenyield/plazo. Propuesta decontinuidadP4/↑con alternativa→visible; no nueva aceleración medida. Los pesos A quedan aprobados: 4,5. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[F02](https://pr.tsmc.com/english/news/3349) registra crecimiento de ventas agregadas TSMC en octubre; limita colapso uniforme de demanda, sin medir yields, entregas Blackwell o plazo de empaquetado. [F03](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx)/[F04](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm) acreditan relevo NVIDIA, no retraso físico; su seguimiento autónomo C55E0 ha sido seleccionado y calibrado en B. [F01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx) eleva guía CAPEX CoreWeave37–39BUSD desde35–39, un emisor y otro perímetro, no agregado comparable de hyperscalers. No se completa ninguna nueva condición física. Falsación: ampliación operativa, entregas y normalización generalizada de plazos; Q4calendario no cerrado. La ↑ se conserva por aprobación B, sin nueva aceleración semanal medida.
+
+## Condiciones y falsación
+
+Cada fila conserva condición íntegra: una cláusula parcial no activa la conjunción; falta de prueba no equivale a cero.
+
+| ID | Condición canónica | Evidencia al corteW46 y límite |
+|---|---|---|
+| C-A | Anuncio oficialAP7Chiayi retrasa equipamiento/conexión y producción más alláH1-2027. | **No verificable.** [F02](https://pr.tsmc.com/english/news/3349) no es anuncio oficial específico de retraso equipamiento/conexión y producciónAP7Chiayi más alláH1-2027. Sin calendario primario que complete ambas fases. |
+| C-B | YieldsCoWoS-L causan entregasBlackwell20%bajo guíaQ4-2026. | **Periodo incompleto; causalidad no verificable.** Q4calendario2026 no cerrado al14nov; faltan guía comparable, entregasBlackwell y nexo conyieldsCoWoS-L. VentasTSMCagregadas/relevoNVIDIA no completan producto ni causa. |
+| C-C | Recorte agregado>10%de guíaCAPEXhyperscalersQ3/Q4 señala freno físico en aceleradores. | **No verificable agregado.** [F01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx) eleva guíaCAPEXCoreWeave37–39BUSD frente35–39; no universo homogéneo de hyperscalers. Falta agregadoQ3/Q4 guías previas/nuevas y causa física en aceleradores para recorte>10%. |
+| C-D | Sobrecapacidad/contracción de pedidos→plazoCoWoS<20semanas generalizado. | **No verificable.** No recuperada distribución comparable generalizada de plazosCoWoS<20semanas ni nexo sobrecapacidad/contracción pedidos. Crecimiento de ventas agregado no mide esa distribución. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "CoWoS"
+fecha: 2026-06-28
+source: TSMC / TrendForce / Micron / Silicon Analysts
+url: https://www.tsmc.com/
+vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
+tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.5
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+factor_tendencia: 1.2
+tendencia_calibrada: "↑"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# CoWoS
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E0 · P4 · peso4,50 · ↑ (factor1.2) · carga21,60 · V03.**
+
+## Decisión de peso aplicada
+
+Peso4,50 ratificado por Luis en A R2 W46; sin cambio numérico. El juicio de alcance, transmisión, sustitución y persistencia permanece; no es nueva prueba de presión o tendencia.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Condiciones de evento conservadas
+
+Las definiciones se conservan; los diagnósticos de la siguiente tabla son W45, no revalidación W46. La auditoría W46 se incorporará junto a las decisiones B.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| C-A | Anuncio oficialAP7Chiayi retrasa equipamiento/conexión y producción más alláH1-2027. | **No verificable.** Sin anuncio primario específico recuperado; resultadosAMD y rumores de ampliación no prueban retrasoAP7. |
+| C-B | YieldsCoWoS-L causan entregasBlackwell20%bajo guíaQ4-2026. | **Periodo incompleto/no verificable.** Q4no cerrado; faltan guía, entregas y causalidad. VentasAMD no sustituyen productosNVIDIA. |
+| C-C | Recorte agregado>10%de guíaCAPEXhyperscalersQ3/Q4 señala freno físico en aceleradores. | **No verificable agregado.** No recuperado universo homogéneo de guías anteriores/nuevas. [S12](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm) contiene compromisos de otro perímetro; [S19](https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm) no es CAPEXagregado de clientes. |
+| C-D | Sobrecapacidad/contracción de pedidos→plazoCoWoS<20semanas generalizado. | **No verificable.** Sin distribución comparable de plazos/pedidos/causa. Demanda fabricante no prueba todos los plazos. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "CoWoS"
+fecha: 2026-06-28
+source: TSMC / TrendForce / Micron / Silicon Analysts
+url: https://www.tsmc.com/
+vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+moc: "[[MOC_Tecnologia]]"
+tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
+tipo: evento
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 estado: E0
@@ -474,5 +591,11 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

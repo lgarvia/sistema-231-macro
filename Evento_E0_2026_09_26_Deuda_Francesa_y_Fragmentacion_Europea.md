@@ -4,6 +4,105 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.0
+fecha_decision_peso: 2026-11-14
+revision_semanal_pendiente: false
+factor_tendencia: 1
+tags: [francia, deuda-soberana, euro, fragmentacion]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P3/peso4.0/→/V01"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# Deuda francesa
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E0 · P3 · peso4,0 · → (factor1) · carga12,00 · V01.**
+
+## Decisión aplicada
+
+TEC10sube12,9pb, sin contagio bancario/absorción nueva completos. P3permanece; no ↑por una serie. Los pesos A quedan aprobados: 4,0. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-13): TEC10 termina13nov4,888%, +12,9pb frente06nov; las cinco sesiones recuperadas quedan bajo5%. Es vencimiento constante, no OAT–Bund ni tipo de adjudicación. No completa contagio bancario, fracaso de colocación o deterioro fiscal ejecutado. Antecedente AFT05nov permanece con su fecha; vencimiento de liquidación09nov no acredita por sí solo cumplimiento. El antiguo dato de una cobertura2,27 no completa dos emisiones. Falsación: absorción sostenida, ejecución fiscal y financiación compatibles; intensificación necesita persistencia y transmisión separadas. No se inventa nuevo umbral de admisión.
+
+## Condiciones y falsación
+
+Criterios cualitativos conservados; no se inventan umbrales retrospectivos. Sensores, transmisión y falsación descritos arriba y en la memoria íntegra inferior. Ningún hito futuro acredita su resultado ni una nueva clase.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "Deuda francesa"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
+calibracion: aplicada
+presion_numerica: 3
+peso_estructural: 4.0
+fecha_decision_peso: 2026-11-14
+revision_semanal_pendiente: true
+factor_tendencia: 1
+tags: [francia, deuda-soberana, euro, fragmentacion]
+tendencia_calibrada: "→"
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# Deuda francesa
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E0 · P3 · peso4,00 · → (factor1) · carga12,00 · V01.**
+
+## Decisión de peso aplicada
+
+Peso4,00 ratificado por Luis en A R2 W46; sin cambio numérico. El juicio de alcance, transmisión, sustitución y persistencia permanece; no es nueva prueba de presión o tendencia.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Sensores y falsación conservados
+
+Curva y spread sincronizado, absorción de colocaciones, ejecución fiscal y transmisión bancaria. Intensificación requiere persistencia y nexo material; financiación/ejecución sostenibles debilitan el mecanismo. No inventar umbral nuevo ni completar dos emisiones con una.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "Deuda francesa"
+fecha: 2026-09-26
+tipo: evento
+estado: E0
+vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
@@ -351,5 +450,11 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANS
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

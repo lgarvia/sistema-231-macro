@@ -7,6 +7,127 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E1/P4/peso4.1/→/V04"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# Tariff Stack
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E1 · P4 · peso4,1 · → (factor1) · carga16,40 · V04.**
+
+## Decisión aplicada
+
+Pausas y excepciones jurídicas sin cobertura neta/cobro medidos. MantenerE1/P4/→; T-Bactivoheredado con revalidación incompleta. Los pesos A quedan aprobados: 4,1. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S23](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22867.pdf) acredita suspensión final de tasas marítimas efectiva09nov, distinta de [S24](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22925.pdf)/exclusiones de178productos para10nov–09ene. [S26](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_5baeb69ccc0f44cb83dea8ac587dd327.html)/[S27](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_137cb86f6deb442c963c906c2ca97e79.html) añaden alivios chinos condicionados por licencias. Son aplicación jurídica y pausas, no volumen neto liberado ni ahorro ejecutado. T-B mantiene procedencia heredada con revalidación incompleta, sin nueva activación ni desactivación por silencio. CPI/PPI no aportan causalidad oficial requerida; agregados comerciales no sustituyen dos meses sectoriales. Falsación: rebajas/excepciones con cobro y flujo; intensificación: las conjunciones de§5, sin sumar dos veces publicación y vigencia.
+
+## Condiciones y falsación
+
+Cada fila conserva condición íntegra: una cláusula parcial no activa la conjunción; falta de prueba no equivale a cero.
+
+| ID | Condición canónica | Evidencia al corteW46 y límite |
+|---|---|---|
+| T-A | Aplicación material50%vehículos/alcohol/lácteosCanadá, sin neutralización. | **Parcial jurídico heredado; cobro no verificable.** Sin cotejo integral de partidas, cobro material50% y neutralizaciones de vehículos/alcohol/lácteosCanadá. [S23](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22867.pdf)/[S24](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22925.pdf) tienen otro perímetro y no cierran los tres grupos. |
+| T-B | Contramedidas vinculantesCanadá/Brasil/UE>10.000M$comercioanual. | **Activo heredado; revalidación íntegra pendiente.** Se conserva atribución de fichaW45, sin afirmar nueva activación. InvestigaciónW46 no revalida integralmente actosCanadá/Brasil/UE y comercio anual>10.000MUSD. Alivios de otros perímetros no prueban derogación. |
+| T-C | Dos fabricantes afectados cuantifican>5%costeunitario/margenbruto/producción o relocalización física atribuible. | **No verificable completo.** No recuperados dos fabricantes afectados con cuantificación>5%en costeunitario/margenbruto/producción o relocalización física atribuible. No usar resultados de semiconductores sin causalidad arancelaria. |
+| T-D | Importaciones de sectores cubiertos−15%YoYdurante2meses consecutivos,Census/BEA. | **Publicación disponible; activación sectorial no verificable.** SeptiembreBEA/Census ya disponible según expedienteW45; falta cálculo por sectores/partidas cubiertas−15%YoY dos meses consecutivos homogéneos. No usar agregado ni excusa de publicación futura. |
+| T-E | Fuenteoficial atribuye≥0,3ppdeinflaciónYoYbienesbásicos a nuevos aranceles en2publicaciones. | **No verificable.** [F05](https://www.bls.gov/news.release/archives/cpi_11102026.htm)/[S16](https://www.bls.gov/news.release/archives/ppi_11132026.htm) son inflaciónIPC/PPI; no atribución causal oficial≥0,3ppYoY de bienesbásicos a nuevos aranceles en dos publicaciones. Frecuencias y poblaciones no se sustituyen. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "Tariff Stack"
+fecha: 2026-07-24
+source: USTR / Federal Register / CBP
+url: https://ustr.gov/
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
+tipo: evento
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
+estado: E1
+calibracion: aplicada
+presion_numerica: 4
+peso_estructural: 4.1
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# Tariff Stack
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E1 · P4 · peso4,10 · → (factor1) · carga16,40 · V04.**
+
+## Decisión de peso aplicada
+
+Peso4,10 ratificado por Luis en A R2 W46; sin cambio numérico. El juicio de alcance, transmisión, sustitución y persistencia permanece; no es nueva prueba de presión o tendencia.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Condiciones de evento conservadas
+
+Las definiciones se conservan; los diagnósticos de la siguiente tabla son W45, no revalidación W46. La auditoría W46 se incorporará junto a las decisiones B.
+
+| ID | Condición canónica | Evidencia y límite W45 |
+|---|---|---|
+| T-A | Aplicación material50%vehículos/alcohol/lácteosCanadá, sin neutralización. | **Parcial jurídico heredado, no revalidación íntegra nueva.** Sin auditoría del cobro/partidas de los tres grupos ni de todas las excepciones vigentes. |
+| T-B | Contramedidas vinculantesCanadá/Brasil/UE>10.000M$comercioanual. | **Activo heredado según ficha; sin revalidación íntegra.** No se atribuye nueva activación a noticias de investigaciones o medidas chinas de otro perímetro. |
+| T-C | Dos fabricantes afectados cuantifican>5%costeunitario/margenbruto/producción o relocalización física atribuible. | **No verificable completo.** No recuperados dos emisores con cuantificación/población/causalidad completas. No usar ventasAMD como prueba arancelaria. |
+| T-D | Importaciones de sectores cubiertos−15%YoYdurante2meses consecutivos,Census/BEA. | **Publicación ya disponible; activación sectorial no verificable.** [S21](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026) publica septiembre; falta pareja de datos compatibles por sectores/partidas. Se retira del diagnóstico la excusa de publicación todavía futura, sin inventar resolución material. |
+| T-E | Fuenteoficial atribuye≥0,3ppdeinflaciónYoYbienesbásicos a nuevos aranceles en2publicaciones. | **No verificable.** Sin atribución causal oficial repetida con esa población. Inflación general o costes laborales no cumplen la condición. |
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "Tariff Stack"
+fecha: 2026-07-24
+source: USTR / Federal Register / CBP
+url: https://ustr.gov/
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+moc: "[[MOC_Geopolitica]]"
+tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
+tipo: evento
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
@@ -493,5 +614,11 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

@@ -2,6 +2,121 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+carga_primaria: 28.80
+estado_revision_W46: A_B_aplicadas_revision_local
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**🟠 Elevada · → · carga28,80.** Semáforo y tendencia estructural conservados tras contraste, sin deducirlos de la suma.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 21,60 |
+| [[Evento_E0_2026_11_11_NVIDIA_Sucesion_y_Continuidad_Operativa]] | 7,20 |
+
+## Evidencia, contraevidencia y límites W46
+
+F02TSMCoctubre fuerte en agregado; no yieldsCoWoS/entregaBlackwell. [F03](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx)/[F04](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm) prueban relevo del11nov comunicado12nov; C55E0/P2/3,60/→ aprobado para continuidad operativa. Promesa empresarial de continuidad no resultado de cada producto.
+
+CoWoS conservaP4/↑por decisión B, sin nueva aceleración semanal medida. C20HBM, C21coste útil yC37litografía conservan sensores específicos; C33Alibaba sigue absorbida. El relevo no demuestra un bloqueo físico o impago.
+
+## Auditoría de condiciones propias
+
+Distintas de las condiciones de evento. Cada fila conserva umbral, periodo, población y causalidad; no verificable no significa inexistente. Los contadores describen esta auditoría y su cobertura.
+
+| ID | Condición íntegra | Resultado W46 |
+|---|---|---|
+| V03-01 | Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo. | **No verificable agregado.** F01guíaCoreWeave37–39frente35–39BUSD es un operador; no agregado homogéneo de hyperscalers ni desviación>15%con guía trimestral comparable. |
+| V03-02 | Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada. | **No verificable.** F02ventasTSMCno distribución generalizada de plazos de hardware>24semanas; no intercambiar con CoWoS<20semanas. |
+| V03-03 | Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave. | **No verificable completo.** S25registro tecnológico48yN02–N04otros productos no acreditan por sí solos nuevo nodo litográfico/arquitectura avanzada restringidos con ámbito completo. |
+| V03-04 | Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales. | **No verificable.** Sin evidencia técnica auditada de fabricación comercial sub5nm sin litografía occidental. Roadmap/ventas agregadas no cumplen proceso/producto/coste. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+## Observatorio estructural — W46
+
+Registro de pequeñas señales y sensores por mecanismo; no son altas automáticas ni vigilancia continua. BaseW45 conserva el corte y los identificadores de fuentes de aquel informe.
+
+| ID | Seguimiento | Señal / fuente y alcance | Sensor | Tratamiento aprobado |
+|---|---|---|---|---|
+| C20 | HBM/memoria /V03 | F02ventasTSMCagregadas; sin nueva serie primaria compatible de yields/plazosHBM | Generación/entrega/yield/plazo/cliente | SubsecciónV03/CoWoS; ficha propia aplazada hasta fricción autónoma |
+| C21 | Inferencia/modelos /V03 | BaseW45: Heredado;no benchmark nuevo auditado; sin nueva revalidación integral de este asunto | Calidad/coste/energía/latencia/uso | Observatorio |
+| C30 | Conferencia/presentación /V03 | BaseW45: Opción metodológica heredada; sin nueva revalidación integral de este asunto | Cliente/entrega/prueba | Descartar alta por mera presentación |
+| C33 | Alibaba/chipsChina /V03 | BaseW45: Absorción previa;sin entrega nueva auditada; sin nueva revalidación integral de este asunto | Modelo/entrega/yield/prueba | Mantener absorción;reapertura solo episodio distinto |
+| C37 | ASML/litografía /V03 | BaseW45: Antecedentes;R11no entregaASML; sin nueva revalidación integral de este asunto | Pedido/aceptación/plazo/capacidad | Observatorio;ficha futura recuperable |
+| C55 | NVIDIA/sucesión operativa /V03 | [F03](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx)/[F04](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm): acto11nov, comunicado y8-K12nov | Dirección/cliente/producto/guía/entrega y causa | AltaE0observación/P2/3,60/→; alternativaV03sin ficha |
+
+Base heredada y decisiones previas: [[ACTUALIZACION_SEMANAL_231_2026_11_08]].
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 21.60
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 03 Semiconductores y soberania tecnologica
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Carga local tras A
+
+**🟠 Elevada · → · carga21,60.** Semáforo, tendencia y contadores conservan W45, sin nueva revalidación ni derivación desde la carga.
+
+| Evento primario | Carga local |
+|---|---:|
+| [[Evento_E0_2026_CoWoS_Capacity]] | 21,60 |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Evolución de CAPEX):** Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo.
+- **Trigger 02 (Lead Times):** Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada.
+- **Trigger 03 (Sanciones a la Vanguardia):** Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave.
+- **Trigger 04 (Bypass de Litografía):** Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales.
+
+La evidencia, auditoría y observatorios W45 se preservan íntegros abajo. Su revisión W46 es posterior; no se dan por resueltos hitos vencidos por esta recalibración.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 ultima_revision: 2026-11-08
 triggers_activos: 0
@@ -619,5 +734,11 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

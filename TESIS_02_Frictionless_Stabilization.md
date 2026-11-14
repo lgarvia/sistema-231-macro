@@ -3,6 +3,69 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-11-14
+corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
+corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
+alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Coerción modular; estabilización con validación propia"
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**Soporte conservado: Moderado-alto para coerción; eficacia estabilizadora en validación.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+
+## Contraste factual W46
+
+**Apoyo:** [S23](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22867.pdf)/[S24](https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22925.pdf) acreditan pausas y exclusiones selectivas, junto al registroS25ylicencias de listasS26/[S27](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_137cb86f6deb442c963c906c2ca97e79.html). [N02](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html)–[N04](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html) mantienen instrumentos de ámbito propio. La modularidad tiene nueva concreción jurídica.
+
+**Contraevidencia:** S36primer Consejo y los alivios comerciales son contrapesos a ruptura total, pero sus costes/plazos y entregas no están medidos. La recuperación parcial de flujosS17tampoco identifica por sí sola eficacia de estos acuerdos.
+
+**Ambigüedad / alcance:** C52marítimo final ya recuperado, distinto de C54productos. Busan/Washington, registro/licencia y acto/cobro no se intercambian. Continúa la laguna económica por sector; no subir soporte por sumar actos.
+
+**Próxima falsación:** Texto/ámbito/vigencia→licencias/cobro→coste/plazo/entregas sostenidas; incumplimiento o interrupción persistente debilitan estabilización. Retirada duradera de coerción o ruptura total modificarían el patrón modular.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+
+## Trazabilidad
+
+Revisión factual bajo A/B aprobadas; conservar grado expresa juicio tras contraste, no inercia ni decisión por cuota. Definiciones/restricciones/criterios y puertas T05 permanecen literalmente; nueva evidencia no acredita por sí sola toda causalidad.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-11-08
 corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
 corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
@@ -802,5 +865,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>

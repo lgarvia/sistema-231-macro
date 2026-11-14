@@ -2,6 +2,120 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+carga_primaria: 0
+estado_revision_W46: A_B_aplicadas_revision_local
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**🟡 Moderada · → · carga0,00.** Semáforo y tendencia estructural conservados tras contraste, sin deducirlos de la suma.
+
+| Evento primario | Carga |
+|---|---:|
+| Sin ficha primaria; observatorio activo | 0,00 |
+
+## Evidencia, contraevidencia y límites W46
+
+S28IPIseptiembre publicado06nov ahora leído: +0,8%MoM/+2,0%YoYajustado; antecedente recuperado, no novedad estadística W46. S30Q3PIB+0,4%eurozona/+0,5%UE y empleo estable, sin horas ni causalidadIA.
+
+S29IPC español4,9%YoY/subyacente3,1% yS31precio-vivienda/renta2025 +24,5%España frente2015 aportan contexto propio; IPC vivienda no compraventa, ratioíndices no proporción de gasto. C5requiere cuentas netas/personas; Unitree sigue absorbida con sensores de uso, fallos y recompra. Carga0no riesgo ausente.
+
+## Auditoría de condiciones propias
+
+Distintas de las condiciones de evento. Cada fila conserva umbral, periodo, población y causalidad; no verificable no significa inexistente. Los contadores describen esta auditoría y su cobertura.
+
+| ID | Condición íntegra | Resultado W46 |
+|---|---|---|
+| V05-01 | Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona. | **No verificable.** Sin cuentas anuales netas compatibles/PIB.2026no cerrado; nómina mensual/PNC no prueba déficitneto>2%. |
+| V05-02 | Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo. | **No verificable.** Faltan promedios de personas cotizantes/pensionistas y ejercicio completo; prestaciones no personas. Sin prueba<1,4sostenido un año. |
+| V05-03 | Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal. | **No verificable.** Sin salida neta transfronteriza de CAPEXfísico>5BUSD/año. CFO−PPEnegativo no es fuga de inversión de una jurisdicción. |
+| V05-04 | Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses. | **No verificable.** S28IPI y S30PIB/empleo no cuota de plataformas importadas avanzadas>25%6meses. Falta origen/mercado/periodo. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+## Observatorio estructural — W46
+
+Registro de pequeñas señales y sensores por mecanismo; no son altas automáticas ni vigilancia continua. BaseW45 conserva el corte y los identificadores de fuentes de aquel informe.
+
+| ID | Seguimiento | Señal / fuente y alcance | Sensor | Tratamiento aprobado |
+|---|---|---|---|---|
+| C3 | Unitree /V05 | BaseW45: Absorción autorizadaW43;sinKPIprimario nuevo; sin nueva revalidación integral de este asunto | Cliente,tarea,uso,fallos,recompra | Mantener absorción/observatorio |
+| C4 | IndustriaUE /V05 | S28IPIseptiembre leído ahora, S30PIB/empleoQ3; datosagregados | Producción/planta/utilización/horas/CAPEXejecutado | Mantener observatorio industrial V05 conC24/C25 |
+| C5 | PensionesEspaña /V05 | Sin cuentas contributivas netas/personas compatibles nuevas conciliadas | Liquidación anual/PIB/cotizantes/personaspensionistas | Mantener observatorio autorizado; no alta por anualización de nómina |
+| C24 | AutomociónUE /V05 | S28bienesdeequipo+2,8%YoYajustado/durables−5,2%; no dos fabricantes causales | Producción/origen/utilización/plantas/CAPEX | IntegrarC4/V05; separar condición Tariffdos fabricantes |
+| C25 | Empleo cualificado/IA /V05 | S30PIB/empleoQ3Eurostat; BLSUS sigue como antecedenteW45 | Tarea/adopción/horas/renta/comparador | ObservatorioV05; sin alta por cada dato de empleo |
+| C26 | Vivienda/salarios/movilidad /V05 | S29IPC13nov yS31precio/rentaEspaña2025 vs2015 | Cohorte/territorio/tenencia/renta/esfuerzo comparables | Reforzar observatorioV05/T03; aplazar ficha autónoma |
+
+Base heredada y decisiones previas: [[ACTUALIZACION_SEMANAL_231_2026_11_08]].
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 0.00
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 05 Transformacion industrial y demografia
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Carga local tras A
+
+**🟡 Moderada · → · carga0,00.** Semáforo, tendencia y contadores conservan W45, sin nueva revalidación ni derivación desde la carga.
+
+| Evento primario | Carga local |
+|---|---:|
+| Sin ficha primaria; observatorio conservado | 0,00 |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Déficit de Pensiones):** Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona.
+- **Trigger 02 (Erosión del Soporte):** Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo.
+- **Trigger 03 (Fuga de CAPEX Industrial):** Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal.
+- **Trigger 04 (Cuota Importadora Avanzada):** Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses.
+
+La evidencia, auditoría y observatorios W45 se preservan íntegros abajo. Su revisión W46 es posterior; no se dan por resueltos hitos vencidos por esta recalibración.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 ultima_revision: 2026-11-08
 triggers_activos: 0
@@ -653,5 +767,11 @@ Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026»
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

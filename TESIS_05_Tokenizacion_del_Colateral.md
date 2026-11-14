@@ -3,6 +3,71 @@ tipo: tesis_estructural
 id: TESIS_05
 estado: en_validacion
 soporte: moderado
+ultima_actualizacion: 2026-11-14
+corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
+corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
+alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Admisibilidad jurídica acotada; uso/eficiencia/demanda neta en validación"
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+---
+
+# TESIS_05: Tokenización, liquidación y movilidad del colateral
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**Soporte conservado: Moderado; efecto económico en validación.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+La tokenización empieza a integrarse en infraestructuras reguladas de garantías y liquidación. Que un activo sea admisible es un avance institucional; su mejora de eficiencia y su efecto sobre la liquidez o demanda neta de deuda dependen del uso, costes y origen de los fondos
+
+Admisibilidad jurídica, utilización efectiva y beneficio económico son pruebas distintas. Stablecoins, depósitos y bonos tokenizados se diferencian por derechos, reservas e infraestructura; digitalizar un activo no crea automáticamente liquidez ni colateral nuevos.
+
+## 2. Restricción estructural asociada
+
+- **Confianza:** el dinero tokenizado depende de la calidad, custodia y liquidez del activo de reserva.
+- **Regulación:** admisibilidad de reservas, reembolso, segregación patrimonial y acceso a sistemas de pago.
+- **Financiación bancaria:** migraciones desde depósitos pueden reducir crédito y alterar la demanda bancaria de deuda.
+- **Soberanía monetaria:** la adopción de stablecoins en economías débiles puede intensificar dolarización y volatilidad de capitales.
+
+
+## Contraste factual W46
+
+**Apoyo:** S32convoca ETSG con plazo27nov: nuevo paso institucional sobre interoperabilidad/estándares, sin convertir el grupo en operación de liquidación. Se integra C58/V01.
+
+**Contraevidencia:** No se recupera nueva prueba adversa directa sobre liquidaciones tokenizadas; tampoco operación recurrente que verifique eficiencia o demanda adicional. Repo, deuda o financiaciónIAno prueban ni refutan uso tokenizado.
+
+**Ambigüedad / alcance:** Elegibilidad, estándar, ejecución y efecto monetario son pasos distintos. Stablecoin/depósito/bono y nueva demanda/sustitución conservan perímetros. La falta de operaciones recuperadas es laguna de cobertura, no inexistencia.
+
+**Próxima falsación:** Liquidación recurrente con activo/elegibilidad, volumen, costes/plazos y origen de fondos, comparando sustitución de depósitos/compradores. Conservar puertas previas y estado en_validacion; convocatoria no basta para alta.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Mejora operativa | Liquidación recurrente con reducción verificable de costes/plazos y garantías reconocidas | Pilotos sin uso recurrente, costes de integración elevados o inadmisibilidad |
+| Efecto monetario | Demanda neta adicional acreditada junto con reservas, procedencia de fondos y convertibilidad | Sustitución completa de otros compradores o traslado que reduce financiación bancaria |
+| Resiliencia | Reembolso, custodia y liquidez del subyacente verificados bajo condiciones exigentes | Pérdida de paridad, bloqueo jurídico o liquidez insuficiente |
+
+**Puertas previas a abrir un evento:** norma final con efecto material; o tres observaciones mensuales comparables de demanda neta no explicada por sustitución completa; o infraestructura supervisada con uso sostenido de bonos públicos tokenizados en DvP o como garantía; o evidencia oficial de migración de depósitos atribuible. Requieren delimitación del hecho, mecanismo y calibración humana, sin alta automática.
+
+
+## Trazabilidad
+
+Revisión factual bajo A/B aprobadas; conservar grado expresa juicio tras contraste, no inercia ni decisión por cuota. Definiciones/restricciones/criterios y puertas T05 permanecen literalmente; nueva evidencia no acredita por sí sola toda causalidad.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_05
+estado: en_validacion
+soporte: moderado
 ultima_actualizacion: 2026-11-08
 corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
 corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
@@ -843,5 +908,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>

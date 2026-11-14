@@ -2,6 +2,135 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+carga_primaria: 47.20
+estado_revision_W46: A_B_aplicadas_revision_local
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**🟠 Elevada · ↑ · carga47,20.** Semáforo y tendencia estructural conservados tras contraste, sin deducirlos de la suma.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 13,80 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 12,00 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 7,00 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] | 14,40 |
+
+## Evidencia, contraevidencia y límites W46
+
+[S01](https://fred.stlouisfed.org/series/SOFR)–[S10](https://fred.stlouisfed.org/series/DGS10) contrastan financiación: repo contenido y reservas promedio recuperándose, con TGA menor; flujosJapón por frecuencia/inversor mixtos. TEC10Francia+12,9pb hasta13nov y UST10Y+24pb hasta12nov; no sumar medias semanales con posiciones instantáneas. JapónP3 aprobado no normalización total.
+
+S11rebote Nasdaq parcial limita caída continua. [F01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)/[S12](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm)/[S14](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm) aportan caja, garantías y compromisos por emisor, sin crisis de crédito generalizada. C56 se integra C22; C58ETSG/[S32](https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en) institucional, sin liquidación recurrente o demanda neta demostradas.
+
+## Auditoría de condiciones propias
+
+Distintas de las condiciones de evento. Cada fila conserva umbral, periodo, población y causalidad; no verificable no significa inexistente. Los contadores describen esta auditoría y su cobertura.
+
+| ID | Condición íntegra | Resultado W46 |
+|---|---|---|
+| V01-01 | Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos. | **No activado en serie recuperada.** [S01](https://fred.stlouisfed.org/series/SOFR)–[S03](https://fred.stlouisfed.org/series/IORB):SOFR−IORB−1/−2/−1/0pb en06/09/10/12nov, no>15pb5d. No generalizar mediana aGCp99 u otros spreads. |
+| V01-02 | Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles. | **No verificable.** Sin serie completa SRF que permita comprobar>50BUSD y>5d hábiles. No confundir con J-D>20B/>2d en septiembre. |
+| V01-03 | Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas. | **No verificable completo.** Tres resultadosTreasury09/10/12nov no recuperados; anuncioS40no adjudicación. Una cobertura francesa2,27 del05nov no completa dos emisiones sucesivas<2,3. |
+| V01-04 | Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación. | **Parcial; duración no completada.** [S09](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-13):Francia09–13nov<5%; [S10](https://fred.stlouisfed.org/series/DGS10):UST10Y5,10%12nov, comparador06nov4,86%. No completa>10sesiones>5%; no afirmar regla global de todos los soberanos. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+## Observatorio estructural — W46
+
+Registro de pequeñas señales y sensores por mecanismo; no son altas automáticas ni vigilancia continua. BaseW45 conserva el corte y los identificadores de fuentes de aquel informe.
+
+| ID | Seguimiento | Señal / fuente y alcance | Sensor | Tratamiento aprobado |
+|---|---|---|---|---|
+| C7 | Crédito privado /V01 | [S12](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm)/[S14](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm) concretan financiaciónIA, sin expediente nuevo de fondo privado | Fondo/reembolsos/mora/activo/pérdida | Observatorio; no nueva ficha genérica |
+| C8 | Stablecoins/depósitos /V01 | BaseW45: Heredado;sin ruptura nueva identificada; sin nueva revalidación integral de este asunto | Reserva,redención,depósito por periodo | Observatorio |
+| C9 | Treasury/repo /V01 | [S01](https://fred.stlouisfed.org/series/SOFR)–[S10](https://fred.stlouisfed.org/series/DGS10): repo/flujos/reservas; resultados primariosTreasury09/10/12no recuperados | Series diarias/resultado de adjudicación/conjunciónJapón | Integrar Japón/V01; resolver hitos vencidos como no verificables con esta cobertura |
+| C10 | Francia /V01 | S09TEC10+12,9pb hasta13nov; HCFP/AFT antecedentes W45 | Curva/spread/cobertura/ejecución | MantenerE0/P3/4,00/→ |
+| C11 | InmobiliarioChina /V01 | BaseW45: Heredado;sin expediente nuevo delimitado; sin nueva revalidación integral de este asunto | Filing,vencimiento,pérdida | Aplazar ficha |
+| C22 | AjusteIA/financiación /V01 | S11reboteparcialNasdaq; [F01](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)/S12CoreWeave; S14Anthropic | Precio/spread/emisión/garantía/cobro/pago/cancelación por contraparte | MantenerE1/P3/4,80/→; integrarC29/C39/C56; no alta nuevaC22 |
+| C28 | CadaCPI/NFP /V01 | F05CPI10nov/S16PPI13nov, datos publicados | Sorpresa/transmisión/condición de ficha | Descartar alta automática; integrar series y radar según contrato |
+| C29 | IPO/rondaIALab /V01 | [S14](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)/S15AnthropicS-1/A-2 yFWP10nov; oferta propuesta/colocación condicionada | Filing/precio/cierre/uso de fondos/contratos financiados | IntegrarC22; sin fichaIPOduplicada ni fecha inventada |
+| C31 | Cada reuniónBC /V01 | BaseW45: R10/S07decisiones publicadas; sin nueva revalidación integral de este asunto | Acto/implementación/transmisión | Integrar;descartar automatismo de ficha |
+| C35 | España/fiscal /V01 | S39calendario legal13–27nov/29nov/23dic | Acto/acuerdo/ley/financiación/ejecución | MantenerE0/P2/3,50/→; sin reabrirUrda |
+| C39 | Hedgefundleverage /V01 | S11repricing/rebote yS12garantías pactadas; sin venta forzosa concreta acreditada | Fondo/garantía/financiación/venta/contraparte | ObservatorioV01; enlaceC22/C56, sin otra carga |
+| C40 | Ciberdependencia financiera /V01 | BaseW45: Heredado;sin incidente nuevo documentado; sin nueva revalidación integral de este asunto | Parte operador/transacciones | Observatorio;sin autoría supuesta |
+| C49 | SucesiónBCE /V01 | BaseW45: Anuncio heredado,sin recontraste nuevo; sin nueva revalidación integral de este asunto | Nombramiento/mandato/decisión | Observatorio;salidafebfuera60d |
+| C56 | Garantías eléctricas/financiación /V01→V02 | [S12](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000465/crwv-20260930.htm): fianzas/colateral y obligaciones eléctricas a4años | Contraparte/garantía exigida/ejecutada/caja/causa | IntegrarC22; Gridsolo mecanismo físico; alta propia aplazada |
+| C58 | ETSG/tokenización /V01 | S32convocatoria09nov/plazo27nov | Operación/activo/elegibilidad/volumen/coste/origen fondos | ObservatorioV01+radar27nov; alta propia aplazada |
+
+Base heredada y decisiones previas: [[ACTUALIZACION_SEMANAL_231_2026_11_08]].
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 51.80
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 01 Arquitectura monetaria global
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Carga local tras A
+
+**🟠 Elevada · ↑ · carga51,80.** Semáforo, tendencia y contadores conservan W45, sin nueva revalidación ni derivación desde la carga.
+
+| Evento primario | Carga local |
+|---|---:|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 18,40 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 12,00 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 7,00 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] | 14,40 |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Presión de Colateral):** Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos.
+- **Trigger 02 (Uso de SRF):** Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles.
+- **Trigger 03 (Demanda de Subastas):** Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas.
+- **Trigger 04 (Rendimiento Crítico):** Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación.
+
+La evidencia, auditoría y observatorios W45 se preservan íntegros abajo. Su revisión W46 es posterior; no se dan por resueltos hitos vencidos por esta recalibración.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+presion: "🟠 ELEVADA"
+tendencia: "↑ Acelerando"
+tipo: vector
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 ultima_revision: 2026-11-08
 triggers_activos: 0
@@ -682,5 +811,11 @@ Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

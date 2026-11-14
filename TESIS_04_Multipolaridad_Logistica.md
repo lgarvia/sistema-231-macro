@@ -3,6 +3,69 @@ tipo: tesis_estructural
 id: TESIS_04
 estado: vigente
 soporte: moderado_alto
+ultima_actualizacion: 2026-11-14
+corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
+corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
+alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+soporte_alcance: "Vulnerabilidad logística y coste de resiliencia"
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**Soporte conservado: Moderado-alto.** No se eleva el grado por sumar carga o enlaces.
+
+## 1. Definición
+La fragmentación y el riesgo de nodos críticos elevan la necesidad de redundancia logística. Su efecto depende de alternativas utilizables y del coste de sostenerlas; una interrupción local no implica desabastecimiento general
+
+La autonomía depende de alternativas operativas y capacidad de absorber fricción a coste sostenible. Se evalúan tanto escenarios de interrupción como de continuidad mediante redundancia, sin presumir desabastecimiento general.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+
+## Contraste factual W46
+
+**Apoyo:** S20incidentes10/11nov y S17exportacionesGolfo todavía−26%prebélico apoyan vulnerabilidad de nodos. Fletes elevados y diésel europeo77%por encima del nivel prebélico son atribuciones deAIE, no pérdidas sumables a cada evento.
+
+**Contraevidencia:** S17oferta octubre105,4Mb/d,+2,3mensual y exportaciones recuperándose, con descenso deNorthSeaDated a unos93USD al redactar, limitan ruptura uniforme. S18normal/cálido seguro delimita el riesgo gasista.
+
+**Ambigüedad / alcance:** Primas, duración, población de buques y alternativas operativas comparables no completadas. No resolver el desacuerdo histórico VELOS por contador; daños a buques no prueban terminal>1Mb/d o cierreOrmuz>5Mb/d/>48h.
+
+**Próxima falsación:** Normalización sostenida de tránsito, cobertura, tiempos/costes o sustitución efectiva; o interrupción persistente con denominadores y duración compatibles. No usar cuotaOPEPcomo producción.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+
+## Trazabilidad
+
+Revisión factual bajo A/B aprobadas; conservar grado expresa juicio tras contraste, no inercia ni decisión por cuota. Definiciones/restricciones/criterios y puertas T05 permanecen literalmente; nueva evidencia no acredita por sí sola toda causalidad.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
 ultima_actualizacion: 2026-11-08
 corte_factual_actual: "2026-11-07 20:22:35 Europe/Madrid"
 corte_factual_previo: "2026-10-31 22:25:41 Europe/Madrid"
@@ -801,5 +864,8 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>

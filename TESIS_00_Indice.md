@@ -1,3 +1,109 @@
+# Tesis estructurales — W46
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**12 eventos activos (9 E0 / 3 E1), todos calibrados; carga primaria total160,16.**
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Primario | Carga |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,70 | ↑ | 1,2 | V02 | 22,56 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 3 | 4,60 | → | 1 | V01 | 13,80 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,30 | → | 1 | V06 | 6,60 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,00 | → | 1 | V01 | 12,00 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,40 | → | 1 | V02 | 13,20 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,50 | → | 1 | V04 | 7,00 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 3,50 | → | 1 | V01 | 7,00 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,50 | ↑ | 1,2 | V03 | 21,60 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,60 | → | 1 | V02 | 18,40 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera\|Ajuste de valoraciones IA y transmisión financiera]] | E1 | 3 | 4,80 | → | 1 | V01 | 14,40 |
+| [[Evento_E0_2026_11_11_NVIDIA_Sucesion_y_Continuidad_Operativa\|NVIDIA / sucesión y continuidad operativa]] | E0 | 2 | 3,60 | → | 1 | V03 | 7,20 |
+
+| Vector | Presión / tendencia estructural | Carga primaria |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 47,20 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 54,16 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 28,80 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 23,40 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 6,60 |
+
+**157,20 → 160,16 (+2,96)** = +0,36por pesosA −4,60por moderaciónPJapón +7,20por altaC55NVIDIA. Variaciones de calibración e inventario: no pérdidas ni deterioro económico medidos. Una sola imputación por vector primario; enlaces secundarios sin carga añadida.
+
+Se conservan los seis grados tras contraste factual: T01/T03/T05moderado, T02/T04moderado-alto, T06alto solo para dependencia física. T05sigue en validación. Nuevas observaciones y contraevidencia se distinguen por mecanismo; soporte no deriva de carga o enlaces.
+
+**Radar:35hitos abiertos (1Régimen / 2Crítico / 28Elevado / 4Latente),6observatorios,0ventanas enriquecidas y60resoluciones acumuladas.** Horizonte14nov2026–13ene2027 inclusive:60días transcurridos/61fechas. Dos ventanas heredadas se conservan con su intervalo íntegro y la intersección identificada.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+## Seis contrastes ejecutados
+
+| Tesis | Soporte / alcance | Próxima falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Absorción privada/financiación y ejecución presupuestaria sostenibles; o acto y causalidad de subordinación monetaria bajo tensión fiscal/precios. En España distinguir elección, mayoría, presupuesto y gasto ejecutado. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; eficacia estabilizadora en validación | Texto/ámbito/vigencia→licencias/cobro→coste/plazo/entregas sostenidas; incumplimiento o interrupción persistente debilitan estabilización. Retirada duradera de coerción o ruptura total modificarían el patrón modular. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Renta/ahorro/esfuerzo por población comparable, saldo contributivo neto/PIB y ratio de personas; productividad realizada y su incidencia. Mejoras que absorban cargas o inversión preservada debilitarían el nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Normalización sostenida de tránsito, cobertura, tiempos/costes o sustitución efectiva; o interrupción persistente con denominadores y duración compatibles. No usar cuotaOPEPcomo producción. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Liquidación recurrente con activo/elegibilidad, volumen, costes/plazos y origen de fondos, comparando sustitución de depósitos/compradores. Conservar puertas previas y estado en_validacion; convocatoria no basta para alta. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo para dependencia física | Fabricante: producto/entrega/yield/plazo; operador: caja, deuda, garantías, financiación y contratos por periodo; usuario: uso recurrente/calidad/coste total. Retornos sostenibles debilitan fragilidad; cancelación atribuible la refuerza. Grado alto solo para dependencia física. |
+
+
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+# Tesis estructurales — W46 en curso / A aplicada
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+**11 eventos (8 E0 / 3 E1); carga primaria local tras A:157,56.** Cuatro pesos cambian; siete quedan ratificados. Inventario, clases, presión y factores conservan W45 hasta B.
+
+| Evento | Clase | P | Peso A W46 | Tendencia W45 | Factor W45 | Primario | Carga local |
+|---|---|---:|---:|---|---:|---|---:|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,70 | ↑ | 1,2 | V02 | 22,56 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 4 | 4,60 | → | 1 | V01 | 18,40 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,30 | → | 1 | V06 | 6,60 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,00 | → | 1 | V01 | 12,00 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,40 | → | 1 | V02 | 13,20 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,50 | → | 1 | V04 | 7,00 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 3,50 | → | 1 | V01 | 7,00 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,50 | ↑ | 1,2 | V03 | 21,60 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,60 | → | 1 | V02 | 18,40 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera\|Ajuste de valoraciones IA y transmisión financiera]] | E1 | 3 | 4,80 | → | 1 | V01 | 14,40 |
+
+| Vector | Presión/tendencia estructural W45 | Carga local tras A |
+|---|---|---:|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 Elevada · ↑ | 51,80 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 Crítica · ↑ | 54,16 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 Elevada · → | 21,60 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 Crítica · → | 23,40 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 Moderada · → | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 Moderada · → | 6,60 |
+
+**157,20 → 157,56 (+0,36)** por pesos aprobados: +0,96Grid +0,60financieraIA −0,60registroChina −0,60ejecuciónbilateral. Es calibración, no deterioro económico observado ni nueva activación.
+
+Las seis tesis conservan sus grados y corte W45; revisión factual W46 pendiente. T05 sigue en validación. El cambio de peso no modifica automáticamente su soporte.
+
+**Radar todavía W45:**31hitos en su edición anterior,6observatorios/51resoluciones; no renovado al corte14nov y con fechas ya vencidas por resolver. No se presenta como inventario futuro W46. Horizonte previsto al renovar:14nov–13ene2027.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+## Grados heredados, revisión W46 pendiente
+
+| Tesis | Soporte / alcance | Próxima prueba y falsación |
+|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | Moderado | Presupuesto/ejecución/subastas y financiación sostenibles; o reacción monetaria causalmente atribuible a financiación soberana bajo conflicto con precios. |
+| [[TESIS_02_Frictionless_Stabilization]] | Moderado-alto para coerción; eficacia estabilizadora en validación | Texto/ámbito/vigencia → licencias/cobro → coste/plazo/entregas sostenidas por sector. Incumplimiento o interrupción persistente refutarían eficacia estabilizadora. |
+| [[TESIS_03_Captura_de_Renta]] | Moderado para formulación causal conjunta | Cuentas netas compatibles y ratio de personas; renta/ahorro/esfuerzo residencial junto a productividad realizada. Mejoras que absorban las cargas debilitarían el nexo conjunto. |
+| [[TESIS_04_Multipolaridad_Logistica]] | Moderado-alto | Tránsito/flujos, seguros y alternativas efectivamente utilizadas a coste sostenible; persistencia y denominadores comunes. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | Moderado; efecto económico en validación | Operaciones efectivamente liquidadas y recurrentes, activo/elegibilidad, volumen, coste/plazo y origen de fondos; separar nueva demanda de sustitución. Estado en validación conservado. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | Alto solo para dependencia física | Fabricante: entrega/yield/plazo; operador: financiación, garantías, caja y compromisos; usuario: uso recurrente, calidad y coste total/productividad. Cancelaciones por causa financiera o contratos financiados/retornos sostenibles discriminan fragilidad. |
+
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
 # Tesis estructurales — Sistema231 / W45
 
 > Precierre W45 · nominal 08-nov-2026 · corte factual 2026-11-07 20:22:35 Europe/Madrid. A aprobada por Luis el07-nov y B recomendada el08-nov, TASK_307_ACTUALIZACION_231_W45. Publicación W45 autorizada por Luis el08-nov-2026. La fecha de aplicación no renueva los hechos ni observa el domingo08-nov.
@@ -320,5 +426,11 @@ Un vínculo no equivale a validación; stock no es flujo; proyección no es obse
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

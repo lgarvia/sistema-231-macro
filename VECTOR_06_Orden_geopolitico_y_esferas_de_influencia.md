@@ -2,6 +2,123 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 0
+alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
+revision_inventario: 2026-11-14
+decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+cierre_operativo: "2026-11-14T23:49:26+01:00"
+carga_primaria: 6.60
+estado_revision_W46: A_B_aplicadas_revision_local
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**🟡 Moderada · → · carga6,60.** Semáforo y tendencia estructural conservados tras contraste, sin deducirlos de la suma.
+
+| Evento primario | Carga |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 6,60 |
+
+## Evidencia, contraevidencia y límites W46
+
+[S34](https://www.mfa.gov.cn/eng/wjbzhd/202611/t20261112_12058110.html)/[S35](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y12r/index.html)/[S36](https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_c564995ff6054093a1ed039e10c89aad.html): llamada11nov, rueda12nov y primer Consejo13nov publicado antes del corte14nov. Se integra C59 en C1: institución observada, ejecución de rebajas/licencias/compras todavía por demostrar; no igualar Busan y Washington.
+
+S33posicionesG7 se atribuyen a sus firmantes, no prueba independiente de cada incidente ni tratado nuevo. S37confirmaAPEC18–19nov, pero sin acto específico que admita fila automática; S38trilateral no confirmada. BrasilC48ycertificación/nuevoCongresoC2siguen observatorios; Urda excluida.
+
+## Auditoría de condiciones propias
+
+Distintas de las condiciones de evento. Cada fila conserva umbral, periodo, población y causalidad; no verificable no significa inexistente. Los contadores describen esta auditoría y su cobertura.
+
+| ID | Condición íntegra | Resultado W46 |
+|---|---|---|
+| V06-01 | Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos. | **No verificable.** Sin liquidación comercial noUSD>100BUSDmensuales sostenidos en plataformas alternativas. Participación en grupos o tokenización no volumen. |
+| V06-02 | Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos. | **No verificable.** S33declaracionesG7no dos presupuestos nacionales comparables+15%YoY ejecutados/aprobados con mismo perímetro. |
+| V06-03 | Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos. | **No verificable.** S33posiciones sobreTaiwán/navegación no concesión o uso militar de base dual soberana en estrecho. |
+| V06-04 | Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción. | **No verificable.** Sin decreto nuevo de reservasBCextranjeros>50BUSD verificado; listas de entidadesS26/S27no activos de bancos centrales. |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+## Observatorio estructural — W46
+
+Registro de pequeñas señales y sensores por mecanismo; no son altas automáticas ni vigilancia continua. BaseW45 conserva el corte y los identificadores de fuentes de aquel informe.
+
+| ID | Seguimiento | Señal / fuente y alcance | Sensor | Tratamiento aprobado |
+|---|---|---|---|---|
+| C1 | EE.UU.–China /V06 | [S34](https://www.mfa.gov.cn/eng/wjbzhd/202611/t20261112_12058110.html)–[S36](https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_c564995ff6054093a1ed039e10c89aad.html): llamada11nov/Consejo13nov, publicado14nov antes del corte | Acuerdo/acto/partida/licencia/flujo | MantenerE0/P2/3,30/→; integrarC59 |
+| C2 | Midterms /V06 | Cierre W45 aprobado y aplicado; no nueva certificación nacional completa | Certificación/ley/acto/ejecución posterior | Conservar cerrado; observatorio institucional V06, sin nueva carga |
+| C6 | SancionesUE–Rusia /V06 | [S33](https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-conjointe-a-l-issue-de-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris): declaraciónG7 con posiciones sobreUcrania/Iran | Acto/importe/población/vigencia | Observatorio; aplazar alta autónoma |
+| C16 | Taiwán/bloqueo /V06 | S33G7 expresa preocupaciónTaiwán; S37APECconfirmada | Aviso/despliegue/ruta/capacidad/duración | Aplazar alta; conservar escenario recuperable, sin bloqueo supuesto |
+| C17 | CIPS/mBridge/BRICS /V06 | BaseW45: Heredado,sin liquidación comparable nueva; sin nueva revalidación integral de este asunto | Moneda/mes/volumen/persistencia | Observatorio |
+| C18 | RearmeUE /V06 | BaseW45: Cooperación/contratosmarco heredados; sin nueva revalidación integral de este asunto | Presupuesto/pago/entrega/operatividad | Observatorio |
+| C19 | OrienteMedio interestatal /V06 | S20incidentes marítimos yS33posicionesG7 | Acto/despliegue/tratado independiente | Aplazar ficha propia; no duplicarMarítimo |
+| C48 | Brasil /V06 | ResultadoTSEheredado; sin acto brasileño nuevo primario suficiente | Acto/coalición/tratado/flujo/ejecución | Mantener observatorio autorizado; no nueva ficha por elección |
+| C59 | Primer Consejo Comercial /V06→V04 | S36reunión13nov/publicación14nov antes del corte | Acuerdo/partida/licencia/flujo comparables | IntegrarC1; ejecución comercialV04; sin nueva ficha |
+
+Base heredada y decisiones previas: [[ACTUALIZACION_SEMANAL_231_2026_11_08]].
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado previo conservado íntegro — cortes y calibraciones históricos; prevalece W46 superior</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+ultima_revision: 2026-11-14
+triggers_activos: 0
+triggers_parciales: 1
+alcance_contadores: "Contadores heredados; no equivalen a activaciones revalidadas W45"
+revision_inventario: "2026-11-08"
+decision_inventario: "Luis — A07-nov/B08-nov TASK307; cierreC2/altaC22"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+carga_primaria: 6.60
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+---
+
+# VECTOR 06 Orden geopolitico y esferas de influencia
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Carga local tras A
+
+**🟡 Moderada · → · carga6,60.** Semáforo, tendencia y contadores conservan W45, sin nueva revalidación ni derivación desde la carga.
+
+| Evento primario | Carga local |
+|---|---:|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 6,60 |
+
+### Definiciones canónicas conservadas
+
+- **Trigger 01 (Bypass SWIFT):** Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos.
+- **Trigger 02 (Escalada Militar Coactiva):** Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos.
+- **Trigger 03 (Despliegue Dual):** Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos.
+- **Trigger 04 (Congelación de Reservas):** Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción.
+
+La evidencia, auditoría y observatorios W45 se preservan íntegros abajo. Su revisión W46 es posterior; no se dan por resueltos hitos vencidos por esta recalibración.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+presion: "🟡 MODERADA"
+tendencia: "→ Estable"
+tipo: vector
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 ultima_revision: 2026-11-08
 triggers_activos: 0
@@ -615,5 +732,11 @@ C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es a
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>

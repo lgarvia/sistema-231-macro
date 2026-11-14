@@ -7,6 +7,109 @@ tipo: evento
 vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 estado_seguimiento: en_observacion
 candidato_origen: C38
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.50
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: false
+decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+cierre_operativo: "2026-11-14T23:44:46+01:00"
+estado_revision_W46: A_B_aplicadas
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+revision_inventario: 2026-11-14
+decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P2/peso3.50/→/V04"
+aplicacion_B: "2026-11-14T23:44:46+01:00"
+---
+
+# China: registro y controles de exportación de tecnologías estratégicas
+
+> Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. A R2 y B aprobadas por Luis14nov, TASK325; aplicación local 2026-11-14T23:44:46+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
+
+**E0 · P2 · peso3,50 · → (factor1) · carga7,00 · V04.**
+
+## Decisión aplicada
+
+Registro efectivo/consulta pendiente; no denegación material nueva completa. E0/P2/→delimitado48. Los pesos A quedan aprobados: 3,50. Clase, presión y factor son la selección B; no efectos automáticos del radar.
+
+## Evidencia, transmisión y falsación W46
+
+[S25](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html) recontrasta anuncio48 y excepción de dominio público; consulta15nov sigue futura al corte14nov. Anexos WPS no auditados. [S26](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_5baeb69ccc0f44cb83dea8ac587dd327.html)/[S27](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_137cb86f6deb442c963c906c2ca97e79.html) son suspensiones de listas de entidades distintas, con solicitudes/licencias todavía necesarias: no amplían ni derogan automáticamente48. No se acredita bloqueo material nuevo de transferencias. Falsación: texto final, expedientes, plazos/licencias y entregas por tecnología comparable; consulta vencida no implica nueva prohibición aprobada. [N02](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html)–[N04](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html) recontrastan vigencias18nov de49–51, que se mantienen en observatorioV04 sin ampliar el objeto48.
+
+## Condiciones y falsación
+
+Criterios cualitativos conservados; no se inventan umbrales retrospectivos. Sensores, transmisión y falsación descritos arriba y en la memoria íntegra inferior. Ningún hito futuro acredita su resultado ni una nueva clase.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]].
+
+<details>
+<summary>Estado anterior — A parcial y memoria W45 conservadas; prevalece revisión W46 superior</summary>
+
+---
+titulo: "China: registro y controles de exportación de tecnologías estratégicas"
+fecha: 2026-10-16
+source: "MOFCOM / Ministerio de Ciencia y Tecnología"
+url: https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html
+tipo: evento
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+estado_seguimiento: en_observacion
+candidato_origen: C38
+ultima_revision: 2026-11-14
+corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
+estado: E0
+calibracion: aplicada
+presion_numerica: 2
+peso_estructural: 3.50
+factor_tendencia: 1
+tendencia_calibrada: "→"
+revision_semanal_pendiente: true
+decision_aplicada: "Luis — A07-nov/B08-nov TASK307; paquete recomendado aplicado"
+fecha_decision_peso: 2026-11-14
+decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+cierre_operativo: "2026-11-08T21:16:13+01:00"
+estado_revision_W46: A_aplicada_B_pendiente
+aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
+---
+
+# China: registro y controles de exportación de tecnologías estratégicas
+
+**Aplicación parcial local — A W46 aprobada y aplicada.** Pesos decididos por Luis el14nov; B, presión/tendencia, tesis y renovación del radar pendientes. Corte de investigación14nov21:49:38 Madrid; clase/P/factores y evidencia canónica anterior conservan corte07nov20:22:35. No es cierre ni publicación W46.
+
+## Estado local tras A
+
+**E0 · P2 · peso3,50 · → (factor1) · carga7,00 · V04.**
+
+## Decisión de peso aplicada
+
+Peso3,50: transmisión4→3 para el registro del anuncio48, sin atribuirle toda prohibición/controles de otros instrumentos. Alcance4/sustitución3/persistencia4. Fin de consulta15nov no es expiración automática del registro.
+
+Decisión: «Perfecto. Apruebo y aplica»,14nov, TASK325. Aplicación:2026-11-14T23:13:22+01:00. Evidencia y criterios W45 completos en el estado anterior conservado abajo; auditoría W46 y selección B todavía no aplicadas.
+
+## Sensores y falsación conservados
+
+Texto final, ámbito/vigencia y excepciones; expedientes, plazos/licencias y transferencias/entregas. No ampliar automáticamente48 con49–52 o listas de entidades. Fin de consulta no acredita prohibición final.
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_15|Revisión W46 en curso]] · [[ACTUALIZACION_SEMANAL_231_2026_11_08|Último informe completo/publicado W45]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11|Radar W45 pendiente de renovación]].
+
+<details>
+<summary>Estado anterior a la aplicación A W46 — conservado íntegro; no es la calibración local vigente</summary>
+
+---
+titulo: "China: registro y controles de exportación de tecnologías estratégicas"
+fecha: 2026-10-16
+source: "MOFCOM / Ministerio de Ciencia y Tecnología"
+url: https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html
+tipo: evento
+vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+estado_seguimiento: en_observacion
+candidato_origen: C38
 ultima_revision: 2026-11-08
 corte_factual: "2026-11-07 20:22:35 Europe/Madrid"
 estado: E0
@@ -250,5 +353,11 @@ Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones
 </details>
 
 </details>
+
+</details>
+
+
+</details>
+
 
 </details>
