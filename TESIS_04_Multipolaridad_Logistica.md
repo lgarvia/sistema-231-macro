@@ -6,6 +6,96 @@ soporte: moderado_alto
 ultima_actualizacion: "2026-11-22"
 corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
 corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "Revisión interpretativa TASK391 aprobada; formulación, pruebas y soporte por afirmación actualizados; mismo corte W47"
+vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
+revision_interpretativa: "Luis el 22 de noviembre — Perfecto. Adelante con todo; seis revisiones aprobadas TASK391"
+soporte_alcance: "Vulnerabilidad y coste de resiliencia; reordenación logística ejecutada en validación"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22_TASK391"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
+revision_interpretativa_previa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+decision_revision_tesis: "Luis — Perfecto. Adelante con todo; paquete completo presentado22nov TASK391"
+aplicacion_revision_tesis: "2026-11-22T14:48:45+01:00"
+estado_revision_tesis: "aplicada_publicacion_autorizada"
+---
+
+# TESIS_04: Multipolaridad logística
+
+> Revisión interpretativa aprobada por Luis el 22 de noviembre: «Perfecto. Adelante con todo»; TASK391. Corte factual conservado: 2026-11-21 18:11:49 Europe/Madrid. Aplicación 2026-11-22T14:48:45+01:00. Publicación autorizada; recepción remota documentada por separado. Los antecedentes recuperados el 22 de noviembre no son noticias nuevas del domingo.
+
+**Soporte global: moderado_alto · estado: vigente · alcance: Vulnerabilidad y coste de resiliencia; reordenación logística ejecutada en validación.**
+
+## 1. Definición
+
+Las restricciones y riesgos sobre nodos difíciles de sustituir pueden elevar el coste total y el capital necesario para mantener el suministro. El impacto depende de rutas/proveedores alternativos operativos, inventarios y capacidad disponible. Una reordenación geopolítica de la logística se acredita cuando acuerdos e inversiones se convierten en flujos o capacidades utilizables y persistentes.
+
+## 2. Restricción estructural asociada
+
+- **Geográfica:** Ormuz, Bab el-Mandeb, Suez, Malaca y Panamá no tienen sustitutos equivalentes sin coste.
+- **Energética:** crudo y GNL siguen dependiendo de flujos físicos concentrados.
+- **Aseguradora:** listed areas, disponibilidad de cobertura y primas adicionales pueden alterar rutas y costes.
+- **Tecnológica:** interferencia GNSS y dependencia de infraestructuras digitales añaden riesgo operativo al tránsito.
+
+## Contraste factual W47 y límites
+
+**Apoyo pertinente:** El riesgo de nodos y las alternativas operativas permiten contrastar coste de continuidad, inventarios y sustitución.
+
+**Contraevidencia y ambigüedad:** Incidentes no son primas ni volúmenes; declaración de Shenzhen no es ruta, capacidad o flujo ejecutados. Continuidad sin sobrecoste medido cuenta como contrapeso.
+
+**Próxima falsación:** Servicio y coste total por corredor; capacidad alternativa utilizada; contratos y flujos persistentes para reordenación geopolítica.
+
+## Pruebas operativas de la revisión aprobada
+
+RT11 distingue exposición del nodo y capacidad de sustitución/amortiguación. Da fundamento a comprobar precios y actividad por separado: mantener la producción puede requerir mayor coste, pero no debe presumirse ese coste si no se mide. RT15 documenta incidentes; no prima, tránsito o volumen interrumpido. RT14 no prueba por sí sola rutas nuevas.
+
+**Pruebas:** corredor/origen/destino, volumen comparable y entrega final; coste total, tiempo, seguros e inventario; capacidad alternativa disponible y utilizada. Para la hipótesis de multipolaridad, contratos, instalaciones, derechos de acceso y flujos que persisten, además de la declaración política. La transmisión a España requiere identificar importador/sector y repercusión concreta.
+
+**Qué la debilita:** normalización sostenida del servicio y coste total comparable; o sustitución suficientemente barata que neutralice la vulnerabilidad económica atribuida. El mantenimiento de rutas comerciales previas o concesiones no ejecutadas limita la subhipótesis de redistribución del poder. No declarar que todo resultado confirma la tesis: continuidad sin sobrecoste medido cuenta como contrapeso.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Vulnerabilidad logística | Desvíos persistentes, cobertura retirada, primas verificadas o interrupción física con duración | Normalización duradera de rutas, cobertura, tiempos y costes |
+| Autonomía efectiva | Sustitución operativa mediante proveedores, rutas o inventarios utilizables | Alternativas sólo anunciadas o dependencia trasladada sin redundancia efectiva |
+| Transmisión española | Cambios de suministro y costes atribuibles que afectan actividad | Sustitución eficaz que amortigua interrupciones o ausencia de impacto diferencial |
+
+## Soporte y juicio interpretativo aplicado
+
+Moderado-alto para vulnerabilidad/coste de resiliencia; reordenación logística y autonomía ejecutadas, en validación. No elevarlo por Shenzhen ni deducirlo de la carga del vector.
+
+## Visión de Luis y atribución
+
+La visión de Luis orienta las preguntas sobre financiación/demanda, reposición, productividad, distribución y geopolítica. Se conserva la alternativa de ajuste endógeno frente a coordinación intencional. No cuenta como una confirmación externa ni transforma una interpretación en hecho.
+
+## Fuentes y trazabilidad
+
+[RT11](https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences.pdf), [RT14](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/), [RT15](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx). Metadatos, alcance y antecedentes en [[REVISION_TESIS_2026_11_22]]. Los estudios BIS expresan las conclusiones de sus autores; no se atribuyen necesariamente al BIS ni a sus bancos centrales.
+
+[[TESIS_00_Indice]] · [[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[Radar_Eventos_2026_11]].
+
+---
+
+<details>
+<summary>Texto publicado anterior a la revisión interpretativa TASK391 — conserva decisiones, criterios y cortes históricos</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_04
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
 alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
@@ -922,6 +1012,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

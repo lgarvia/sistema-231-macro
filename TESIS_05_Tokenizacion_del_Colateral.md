@@ -6,6 +6,98 @@ soporte: moderado
 ultima_actualizacion: "2026-11-22"
 corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
 corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "Revisión interpretativa TASK391 aprobada; formulación, pruebas y soporte por afirmación actualizados; mismo corte W47"
+vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
+revision_interpretativa: "Luis el 22 de noviembre — Perfecto. Adelante con todo; seis revisiones aprobadas TASK391"
+soporte_alcance: "Avance jurídico e infraestructural; uso recurrente y beneficio económico en validación"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22_TASK391"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
+revision_interpretativa_previa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+decision_revision_tesis: "Luis — Perfecto. Adelante con todo; paquete completo presentado22nov TASK391"
+aplicacion_revision_tesis: "2026-11-22T14:48:45+01:00"
+estado_revision_tesis: "aplicada_publicacion_autorizada"
+---
+
+# TESIS_05: Tokenización, liquidación y movilidad del colateral
+
+> Revisión interpretativa aprobada por Luis el 22 de noviembre: «Perfecto. Adelante con todo»; TASK391. Corte factual conservado: 2026-11-21 18:11:49 Europe/Madrid. Aplicación 2026-11-22T14:48:45+01:00. Publicación autorizada; recepción remota documentada por separado. Los antecedentes recuperados el 22 de noviembre no son noticias nuevas del domingo.
+
+**Soporte global: moderado · estado: en_validacion · alcance: Avance jurídico e infraestructural; uso recurrente y beneficio económico en validación.**
+
+## 1. Definición
+
+La tokenización puede modificar la movilización y liquidación de activos cuando existe infraestructura regulada utilizable y derechos jurídicos compatibles. Su valor económico depende del uso recurrente y de menores costes, plazos o riesgos frente a una alternativa comparable. Un cambio de soporte registral o de tenedor no demuestra por sí solo más liquidez o demanda neta de deuda.
+
+## 2. Restricción estructural asociada
+
+- **Confianza:** el dinero tokenizado depende de la calidad, custodia y liquidez del activo de reserva.
+- **Regulación:** admisibilidad de reservas, reembolso, segregación patrimonial y acceso a sistemas de pago.
+- **Financiación bancaria:** migraciones desde depósitos pueden reducir crédito y alterar la demanda bancaria de deuda.
+- **Soberanía monetaria:** la adopción de stablecoins en economías débiles puede intensificar dolarización y volatilidad de capitales.
+
+## Contraste factual W47 y límites
+
+**Apoyo pertinente:** Se identifican admisibilidad limitada, lanzamiento de Pontes y convocatoria ETSG, cada uno con función propia.
+
+**Contraevidencia y ambigüedad:** No se ha contrastado una serie completa de uso recurrente, ahorro neto o nueva demanda neta. Diseño, uso y efecto económico conservan pruebas independientes.
+
+**Próxima falsación:** Mismo activo/riesgo/moneda: uso recurrente, coste/plazo total, fallos, origen de fondos y sustitución de tenedores.
+
+## Pruebas operativas de la revisión aprobada
+
+RT04/RT05/RT06 fuentes identifican, respectivamente, admisibilidad limitada, lanzamiento de infraestructura y coordinación de estándares. No tratarlos como una misma operación financiera ni como tres pruebas de ahorro. El marco de aceptación tiene requisitos; no se extiende a cualquier token. No se ha leído en esta fase una serie completa de volúmenes ni todos los anexos técnicos.
+
+**Prueba:** mismo activo/riesgo/moneda y servicio comparable: volumen realmente liquidado, recurrencia, coste total incluidas integración/custodia/cumplimiento, tiempos y fallos. Para demanda neta, identificar compradores/origen de fondos y sustitución de depósitos u otros tenedores. Para resiliencia, demostrar reembolso, acceso y comportamiento bajo estrés.
+
+**Qué la debilita:** coste total igual o superior, ahorro solo dentro de un perímetro que omite integración, falta de recurrencia, inadmisibilidad o límites de acceso relevantes. La sustitución completa de tenedores debilita el efecto monetario adicional aunque exista una mejora operativa.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Mejora operativa | Liquidación recurrente con reducción verificable de costes/plazos y garantías reconocidas | Pilotos sin uso recurrente, costes de integración elevados o inadmisibilidad |
+| Efecto monetario | Demanda neta adicional acreditada junto con reservas, procedencia de fondos y convertibilidad | Sustitución completa de otros compradores o traslado que reduce financiación bancaria |
+| Resiliencia | Reembolso, custodia y liquidez del subyacente verificados bajo condiciones exigentes | Pérdida de paridad, bloqueo jurídico o liquidez insuficiente |
+
+**Puertas previas a abrir un evento:** norma final con efecto material; o tres observaciones mensuales comparables de demanda neta no explicada por sustitución completa; o infraestructura supervisada con uso sostenido de bonos públicos tokenizados en DvP o como garantía; o evidencia oficial de migración de depósitos atribuible. Requieren delimitación del hecho, mecanismo y calibración humana, sin alta automática.
+
+## Soporte y juicio interpretativo aplicado
+
+Moderado/en validación para beneficio económico. No cambiar las puertas canónicas de apertura de evento: se conservan literalmente en la ficha vigente, incluida la cláusula de tres observaciones mensuales comparables cuando corresponda. Ninguna de estas propuestas abre eventos o cambia el radar.
+
+## Visión de Luis y atribución
+
+La visión de Luis orienta las preguntas sobre financiación/demanda, reposición, productividad, distribución y geopolítica. Se conserva la alternativa de ajuste endógeno frente a coordinación intencional. No cuenta como una confirmación externa ni transforma una interpretación en hecho.
+
+## Fuentes y trazabilidad
+
+[RT04](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260127_1~a946167ce1.en.html), [RT05](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html), [RT06](https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en). Metadatos, alcance y antecedentes en [[REVISION_TESIS_2026_11_22]]. Los estudios BIS expresan las conclusiones de sus autores; no se atribuyen necesariamente al BIS ni a sus bancos centrales.
+
+[[TESIS_00_Indice]] · [[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[Radar_Eventos_2026_11]].
+
+---
+
+<details>
+<summary>Texto publicado anterior a la revisión interpretativa TASK391 — conserva decisiones, criterios y cortes históricos</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_05
+estado: en_validacion
+soporte: moderado
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
 alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
@@ -968,6 +1060,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

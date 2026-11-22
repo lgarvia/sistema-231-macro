@@ -33,6 +33,10 @@
 
 ## Mecanismos y atribución
 
+Revisión interpretativa de las seis tesis aprobada y aplicada el 22 de noviembre, TASK391. Los grados globales se conservan con alcance por afirmación; T06 añade soporte moderado para interdependencias financieras concretas. T03 vuelve al mecanismo residencial/fiscal. No altera los 13 eventos, la carga 171,76 ni el radar. [[REVISION_TESIS_2026_11_22]].
+
+
+
 | Evento | Primario | Mecanismo; transmisiones secundarias sin duplicar carga |
 |---|---|---|
 | Grid IA | V02 | Costes y disponibilidad de electricidad → conexión y ritmo de despliegue de IA. |

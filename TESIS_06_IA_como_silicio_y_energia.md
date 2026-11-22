@@ -3,6 +3,111 @@ tipo: tesis_estructural
 id: TESIS_06
 estado: vigente
 soporte: alto
+soporte_alcance: "Alto solo para dependencia física; interdependencia financiera moderado; restricción marginal y retorno por validar"
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "Revisión interpretativa TASK391 aprobada; formulación, pruebas y soporte por afirmación actualizados; mismo corte W47"
+vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
+revision_interpretativa: "Luis el 22 de noviembre — Perfecto. Adelante con todo; seis revisiones aprobadas TASK391"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22_TASK391"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
+revision_interpretativa_previa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+decision_revision_tesis: "Luis — Perfecto. Adelante con todo; paquete completo presentado22nov TASK391"
+aplicacion_revision_tesis: "2026-11-22T14:48:45+01:00"
+estado_revision_tesis: "aplicada_publicacion_autorizada"
+soporte_por_componente: {"dependencia_fisica": "alto", "interdependencia_financiera_concreta": "moderado", "restriccion_marginal": "en_validacion_por_proyecto", "rentabilidad_productividad": "en_validacion_por_operador_y_tarea"}
+---
+
+# TESIS_06: IA: capacidad física, financiación y conversión en valor
+
+> Revisión interpretativa aprobada por Luis el 22 de noviembre: «Perfecto. Adelante con todo»; TASK391. Corte factual conservado: 2026-11-21 18:11:49 Europe/Madrid. Aplicación 2026-11-22T14:48:45+01:00. Publicación autorizada; recepción remota documentada por separado. Los antecedentes recuperados el 22 de noviembre no son noticias nuevas del domingo.
+
+**Soporte global: alto · estado: vigente · alcance: Alto solo para dependencia física; interdependencia financiera moderado; restricción marginal y retorno por validar.**
+
+## 1. Definición
+
+El despliegue rentable de IA depende de coordinar capacidad física utilizable, financiación sostenible y demanda final que genere caja o mejoras productivas suficientes. El factor limitante puede desplazarse entre cómputo, memoria, empaquetado, energía, conexión, contratos y clientes. Las relaciones entre proveedores y financiadores pueden facilitar el despliegue y amplificar exposiciones correlacionadas; sus consecuencias se contrastan por contraparte, contrato y destino de la producción.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## Contraste factual W47 y límites
+
+**Apoyo pertinente:** Dependencia física y relaciones contractuales entre proveedores, clientes y financiadores aportan pruebas de mecanismos distintos.
+
+**Contraevidencia y ambigüedad:** Beneficio del proveedor y capital captado no acreditan retorno del operador ni productividad del usuario. Circularidad no demuestra fraude; compromisos contingentes no son pérdidas ejecutadas. Se contrasta también la evidencia de financiación y caja sostenibles.
+
+**Próxima falsación:** Cuello marginal y entrega; contraparte/contrato/cobro/garantía; utilización, reposición y caja del operador; productividad útil del usuario.
+
+## Pruebas operativas de la revisión aprobada
+
+**Cuatro pruebas separadas:**
+
+| Afirmación | Qué habría que demostrar | Contrapeso o falsación relevante |
+|---|---|---|
+| Cuello físico efectivo | Recurso/proyecto/producto, capacidad utilizable, espera, coste y entrega; identificar el factor que limita el incremento | Capacidad y entregas suficientes con coste/plazo normalizados; eficiencia que neutraliza el cuello propuesto |
+| Dependencia financiera | Inversión/crédito, compra/aceptación/cobro, garantía y financiador último por contraparte | Clientes que pagan con caja independiente y retornos compatibles; riesgo no ejecutado se mantiene contingente |
+| Sostenibilidad del operador/inversor | Utilización, precio/coste, caja disponible, servicio contractual y reposición; separar chip, edificio y red | Financiación y caja sostenibles; menor retorno financiero aunque la tecnología sea útil también es una salida posible |
+| Productividad y distribución | Ahorro/ingreso adicional, calidad y coste total de tarea para usuario; incidencia en salarios, márgenes y clientes | Uso escaso, ganancias no capturadas por quien invierte o ahorro que se consume en mantenimiento/otros costes |
+
+**Nuevo antecedente para tu visión:** RT09 documenta relaciones simultáneas de inversión y proveedor/cliente en2021–25. Su definición es amplia y no prueba que cada inversión financie una venta concreta. Puede haber motivos económicos legítimos y riesgos de demanda endógena/correlación. Es apoyo a estudiar el mecanismo, no un porcentaje de ingresos falsos. RT08 aporta contratos/contingencias concretas que deben conciliarse por empresa.
+
+RT10 describe deuda, vehículos y garantías y encuentra spillovers pequeños/transitorios en su muestra de noticias, mediante asociaciones de eventos, no causalidad identificada. Ayuda a localizar riesgo y aporta un contrapeso a crisis general ya ejecutada. RT16 acredita capital captado; no resuelve el retorno final. Ni garantías máximas ni compromisos plurianuales se suman como pérdidas o deuda exigible hoy.
+
+**Reposición y denominadores:** distinguir expansión/mantenimiento, vida contable/vida económica, CAPEX en caja/arrendamientos y periodos. La prueba de ingresos del ecosistema debe evitar sumar repetidamente ventas entre capas; cifras de intervenciones no se convierten en agregado auditado. No asumir reposición anual de todo el activo ni que ingreso del fabricante sea beneficio del usuario.
+
+**Tu visión del ajuste controlado:** mantener como alternativa atribuida frente a ajuste endógeno por expectativas, tipos, resultados y liquidez. Para atribuir coordinación hacen falta decisiones, actor y mecanismo documentables, además de proximidad temporal. La tesis principal debe poder analizar un ajuste sin necesidad de demostrar un coordinador.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+## Soporte y juicio interpretativo aplicado
+
+Alto solo para dependencia física. Moderado para la existencia de interdependencias financieras concretas; no demuestra que todo el sector dependa de ellas o esté en crisis. Restricción marginal, rentabilidad y productividad siguen por proyecto/tarea. No cambian peso, presión ni clase deC22/C23/CoWoS/Grid/NVIDIA por esta revisión.
+
+## Visión de Luis y atribución
+
+La visión de Luis orienta las preguntas sobre financiación/demanda, reposición, productividad, distribución y geopolítica. Se conserva la alternativa de ajuste endógeno frente a coordinación intencional. No cuenta como una confirmación externa ni transforma una interpretación en hecho.
+
+## Fuentes y trazabilidad
+
+[RT07](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.es.html), [RT08](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm), [RT09](https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms.pdf), [RT10](https://www.bis.org/publications/bulletin-140-building-ai-credit-structures-and-spillovers.pdf), [RT12](https://www.bis.org/publications/bulletin-135-old-workers-young-machines-can-ai-and-automation-offset-population-ageing.pdf), [RT16](https://www.anthropic.com/news/ipo-close). Metadatos, alcance y antecedentes en [[REVISION_TESIS_2026_11_22]]. Los estudios BIS expresan las conclusiones de sus autores; no se atribuyen necesariamente al BIS ni a sus bancos centrales.
+
+[[TESIS_00_Indice]] · [[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[Radar_Eventos_2026_11]].
+
+---
+
+<details>
+<summary>Texto publicado anterior a la revisión interpretativa TASK391 — conserva decisiones, criterios y cortes históricos</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_06
+estado: vigente
+soporte: alto
 soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
 ultima_actualizacion: "2026-11-22"
 corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
@@ -1000,6 +1105,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

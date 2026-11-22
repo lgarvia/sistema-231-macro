@@ -6,6 +6,105 @@ soporte: moderado
 ultima_actualizacion: "2026-11-22"
 corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
 corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "Revisión interpretativa TASK391 aprobada; formulación, pruebas y soporte por afirmación actualizados; mismo corte W47"
+vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
+revision_interpretativa: "Luis el 22 de noviembre — Perfecto. Adelante con todo; seis revisiones aprobadas TASK391"
+soporte_alcance: "Contexto residencial y distributivo; contribución fiscal y causalidad conjunta en validación"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22_TASK391"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
+revision_interpretativa_previa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+decision_revision_tesis: "Luis — Perfecto. Adelante con todo; paquete completo presentado22nov TASK391"
+aplicacion_revision_tesis: "2026-11-22T14:48:45+01:00"
+estado_revision_tesis: "aplicada_publicacion_autorizada"
+---
+
+# TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> Revisión interpretativa aprobada por Luis el 22 de noviembre: «Perfecto. Adelante con todo»; TASK391. Corte factual conservado: 2026-11-21 18:11:49 Europe/Madrid. Aplicación 2026-11-22T14:48:45+01:00. Publicación autorizada; recepción remota documentada por separado. Los antecedentes recuperados el 22 de noviembre no son noticias nuevas del domingo.
+
+**Soporte global: moderado · estado: vigente · alcance: Contexto residencial y distributivo; contribución fiscal y causalidad conjunta en validación.**
+
+## 1. Definición
+
+En hogares expuestos, el crecimiento del coste de acceso a vivienda y de cargas fiscales netas puede reducir renta disponible, ahorro y movilidad si supera las mejoras de ingresos y productividad. La contribución de cada mecanismo se identifica por cohorte, tenencia y territorio. La presión residencial observada no prueba por sí sola que las pensiones desplacen inversión ni que todos los mayores o propietarios se beneficien.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## Contraste factual W47 y límites
+
+**Apoyo pertinente:** Eurostat, 9 de noviembre: el índice español precio-vivienda/renta de 2025 supera en un 24,5 % el de 2015; antecedente pertinente recuperado de W46.
+
+**Contraevidencia y ambigüedad:** Es una variación relativa de índice, no porcentaje de renta dedicado a vivienda. No identifica esfuerzo por hogar ni atribución fiscal/intergeneracional. La concentración de clientes de NVIDIA se retira como apoyo directo a esta tesis.
+
+**Próxima falsación:** Renta disponible real, esfuerzo residencial, ahorro y transferencias netas por cohorte/tenencia/territorio; desplazamiento de inversión con mecanismo.
+
+## Pruebas operativas de la revisión aprobada
+
+**Apoyo factual pertinente:** RT03/Eurostat aporta un deterioro relativo del indicador español precio-vivienda/renta entre2015y2025 (+24,5%). Es un índice comparativo de cambios; no significa que la vivienda absorba24,5% de la renta ni acredita el esfuerzo de cada hogar. El antecedente ya estaba en W46 y debe recuperarse con su fecha, no presentarlo como novedadW47.
+
+**Prueba y falsación:**
+
+| Componente | Dato pertinente | Lo que no lo sustituye |
+|---|---|---|
+| Acceso residencial | Renta disponible real, pago/alquiler/financiación y ahorro de grupos comparables | Precio medio nacional o revalorización patrimonial como experiencia de todos |
+| Transferencia fiscal/contributiva | Saldo neto de cotizaciones, impuestos, prestaciones y servicios recibidos por hogares/cohortes | Nómina mensual de pensiones, número de prestaciones o edad por sí solos |
+| Desplazamiento de inversión | Ejecución presupuestaria y financiación efectivamente reasignada, con mecanismo | Coexistencia de gasto social creciente e inversión débil sin identificar causalidad |
+| Compensación productiva | Ganancias realizadas, distribución en salarios/rentas/tributación y grupos beneficiados | Producción de robots o posibilidad técnica de automatizar tareas |
+
+El estudio RT12 sobre envejecimiento/automatización incorpora una cautela útil: el potencial de compensación depende de qué sectores envejecen y se pueden automatizar. Sus medidas de exposición no son productividad realizada ni prueba de sostenibilidad de las pensiones españolas. Refuerza la necesidad de prueba sectorial, no un desenlace optimista o pesimista prefijado.
+
+**Qué la debilita:** mejoras sostenidas de renta y ahorro en los grupos expuestos, menor esfuerzo de acceso o financiación neta compatible con inversión preservada. Esa mejora puede proceder de oferta residencial, salarios, productividad o política redistributiva. No elegir una única causa por afinidad narrativa.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+## Soporte y juicio interpretativo aplicado
+
+Se conserva moderado como etiqueta limitada al problema distributivo/contexto residencial; explicitar que la atribución fiscal y la causalidad conjunta siguen en validación. No devolver el moderado-alto anterior al17oct ni convertir datos agregados en validación causal.
+
+## Visión de Luis y atribución
+
+La visión de Luis orienta las preguntas sobre financiación/demanda, reposición, productividad, distribución y geopolítica. Se conserva la alternativa de ajuste endógeno frente a coordinación intencional. No cuenta como una confirmación externa ni transforma una interpretación en hecho.
+
+## Fuentes y trazabilidad
+
+[RT03](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261109-1), [RT12](https://www.bis.org/publications/bulletin-135-old-workers-young-machines-can-ai-and-automation-offset-population-ageing.pdf). Metadatos, alcance y antecedentes en [[REVISION_TESIS_2026_11_22]]. Los estudios BIS expresan las conclusiones de sus autores; no se atribuyen necesariamente al BIS ni a sus bancos centrales.
+
+[[TESIS_00_Indice]] · [[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[Radar_Eventos_2026_11]].
+
+---
+
+<details>
+<summary>Texto publicado anterior a la revisión interpretativa TASK391 — conserva decisiones, criterios y cortes históricos</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_03
+estado: vigente
+soporte: moderado
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
 alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
@@ -925,6 +1024,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

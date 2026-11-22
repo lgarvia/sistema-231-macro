@@ -278,14 +278,18 @@ Una condición vectorial puede estar jurídicamente activa sin completar poblaci
 
 ## Tesis revisadas
 
+Rectificación interpretativa posterior al cierre factual: revisión de las seis tesis aprobada y aplicada el 22 de noviembre, TASK391. Los grados globales se conservan con alcance por afirmación; T06 añade soporte moderado para interdependencias financieras concretas. T03 vuelve al mecanismo residencial/fiscal. No altera los 13 eventos, la carga 171,76 ni el radar. [[REVISION_TESIS_2026_11_22]].
+
+
+
 | Tesis | Soporte | Estado | Alcance | Próxima falsación |
 |---|---|---|---|---|
-| [[TESIS_01_Dominancia_Fiscal]] | moderado | vigente | Restricción fiscal y ejecución; dominancia monetaria condicional | Medidas/ejecución fiscal y monetaria, persistencia y nexo a financiación. |
-| [[TESIS_02_Frictionless_Stabilization]] | moderado_alto | vigente | Coerción modular; estabilización con validación propia | Acto/licencia y excepción aplicados, estabilización material; comparar hipótesis sin coordinador. |
-| [[TESIS_03_Captura_de_Renta]] | moderado | vigente | Formulación causal conjunta; evidencia diferenciada por mecanismo | Rentas/horas/cohortes/territorios y propiedad comparables; margen y coste/beneficio por capa. |
-| [[TESIS_04_Multipolaridad_Logistica]] | moderado_alto | vigente | Vulnerabilidad logística y coste de resiliencia | Ruta/volumen/coste/capacidad, plazo y persistencia; acto/entrega que ejecute concesión. |
-| [[TESIS_05_Tokenizacion_del_Colateral]] | moderado | en_validacion | Admisibilidad jurídica acotada; uso/eficiencia/demanda neta en validación | Activo, elegibilidad, origen de fondos, volumen liquidado recurrente y coste total frente a alternativa. |
-| [[TESIS_06_IA_como_silicio_y_energia]] | alto | vigente | Dependencia física; financiación y productividad con pruebas independientes | Entregas/yield/plazo y energía; después utilización/tarea/coste/caja/retorno. Reposición distinta de expansión y vidas útiles por activo. |
+| [[TESIS_01_Dominancia_Fiscal]] | moderado | vigente | Restricción fiscal y ejecución; dominancia monetaria no acreditada por la evidencia revisada | Intereses/ingresos, presupuesto/ejecución, refinanciación y reacción monetaria atribuible; comparar continuidad y ajuste sin subordinación. |
+| [[TESIS_02_Frictionless_Stabilization]] | moderado_alto | vigente | Coerción selectiva; estabilización material por sector en validación; coordinación no acreditada | Acto/licencia y efecto sobre entrega/coste/plazo por producto y destino; comparar continuidad sin acuerdo e hipótesis sin coordinador. |
+| [[TESIS_03_Captura_de_Renta]] | moderado | vigente | Contexto residencial y distributivo; contribución fiscal y causalidad conjunta en validación | Renta disponible real, esfuerzo residencial, ahorro y transferencias netas por cohorte/tenencia/territorio; desplazamiento de inversión con mecanismo. |
+| [[TESIS_04_Multipolaridad_Logistica]] | moderado_alto | vigente | Vulnerabilidad y coste de resiliencia; reordenación logística ejecutada en validación | Servicio y coste total por corredor; capacidad alternativa utilizada; contratos y flujos persistentes para reordenación geopolítica. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | moderado | en_validacion | Avance jurídico e infraestructural; uso recurrente y beneficio económico en validación | Mismo activo/riesgo/moneda: uso recurrente, coste/plazo total, fallos, origen de fondos y sustitución de tenedores. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | alto | vigente | Alto solo para dependencia física; interdependencia financiera moderado; restricción marginal y retorno por validar | Cuello marginal y entrega; contraparte/contrato/cobro/garantía; utilización, reposición y caja del operador; productividad útil del usuario. |
 
 ## Visión de Luis y contraste
 
@@ -405,3 +409,18 @@ Catálogo heredado de la investigación:60 fuentes externas más ocho relecturas
 | R08 | [Anthropic /cierre OPV y privada](https://www.anthropic.com/news/ipo-close) | 2026-11-20 | Antecedente recontrastado | Captación cerrada por emisor; no retorno ni independencia de toda la demanda demostrados. |
 
 [[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]] · [[PROPUESTA_DECISION_EVENTOS_2026_11_22]]
+
+<details>
+<summary>Filas interpretativas anteriores, sustituidas el 22 de noviembre por decisión TASK391; no son soporte vigente</summary>
+
+| Tesis | Soporte | Estado | Alcance previo | Falsación previa |
+|---|---|---|---|---|
+| [[TESIS_01_Dominancia_Fiscal]] | moderado | vigente | Restricción fiscal y ejecución; dominancia monetaria condicional | Medidas/ejecución fiscal y monetaria, persistencia y nexo a financiación. |
+| [[TESIS_02_Frictionless_Stabilization]] | moderado_alto | vigente | Coerción modular; estabilización con validación propia | Acto/licencia y excepción aplicados, estabilización material; comparar hipótesis sin coordinador. |
+| [[TESIS_03_Captura_de_Renta]] | moderado | vigente | Formulación causal conjunta; evidencia diferenciada por mecanismo | Rentas/horas/cohortes/territorios y propiedad comparables; margen y coste/beneficio por capa. |
+| [[TESIS_04_Multipolaridad_Logistica]] | moderado_alto | vigente | Vulnerabilidad logística y coste de resiliencia | Ruta/volumen/coste/capacidad, plazo y persistencia; acto/entrega que ejecute concesión. |
+| [[TESIS_05_Tokenizacion_del_Colateral]] | moderado | en_validacion | Admisibilidad jurídica acotada; uso/eficiencia/demanda neta en validación | Activo, elegibilidad, origen de fondos, volumen liquidado recurrente y coste total frente a alternativa. |
+| [[TESIS_06_IA_como_silicio_y_energia]] | alto | vigente | Dependencia física; financiación y productividad con pruebas independientes | Entregas/yield/plazo y energía; después utilización/tarea/coste/caja/retorno. Reposición distinta de expansión y vidas útiles por activo. |
+
+
+</details>

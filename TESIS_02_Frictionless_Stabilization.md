@@ -6,6 +6,96 @@ soporte: moderado_alto
 ultima_actualizacion: "2026-11-22"
 corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
 corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "Revisión interpretativa TASK391 aprobada; formulación, pruebas y soporte por afirmación actualizados; mismo corte W47"
+vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
+revision_interpretativa: "Luis el 22 de noviembre — Perfecto. Adelante con todo; seis revisiones aprobadas TASK391"
+soporte_alcance: "Coerción selectiva; estabilización material por sector en validación; coordinación no acreditada"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22_TASK391"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
+revision_interpretativa_previa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
+decision_revision_tesis: "Luis — Perfecto. Adelante con todo; paquete completo presentado22nov TASK391"
+aplicacion_revision_tesis: "2026-11-22T14:48:45+01:00"
+estado_revision_tesis: "aplicada_publicacion_autorizada"
+---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Revisión interpretativa aprobada por Luis el 22 de noviembre: «Perfecto. Adelante con todo»; TASK391. Corte factual conservado: 2026-11-21 18:11:49 Europe/Madrid. Aplicación 2026-11-22T14:48:45+01:00. Publicación autorizada; recepción remota documentada por separado. Los antecedentes recuperados el 22 de noviembre no son noticias nuevas del domingo.
+
+**Soporte global: moderado_alto · estado: vigente · alcance: Coerción selectiva; estabilización material por sector en validación; coordinación no acreditada.**
+
+## 1. Definición
+
+Las potencias pueden combinar restricciones sobre tecnologías o actores concretos con acuerdos que preserven otros intercambios. La estabilización táctica se confirma solo cuando actos ejecutados mantienen o recuperan flujos comparables a un coste y plazo observables. La existencia de diálogo o excepciones no acredita ese resultado ni una coordinación general del mercado financiero.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## Contraste factual W47 y límites
+
+**Apoyo pertinente:** Controles selectivos y compromisos diplomáticos son objetos distintos que permiten seguir la coexistencia entre fricción e interlocución.
+
+**Contraevidencia y ambigüedad:** La existencia jurídica de la selectividad no demuestra entregas preservadas. No se acredita coordinación general del ajuste financiero por coincidencia temporal.
+
+**Próxima falsación:** Acto/licencia y efecto sobre entrega/coste/plazo por producto y destino; comparar continuidad sin acuerdo e hipótesis sin coordinador.
+
+## Pruebas operativas de la revisión aprobada
+
+**Contraste operativo:** por producto/servicio y destino, identificar acto vigente, población cubierta y excepciones, licencia/decisión y entrega/coste/plazo. Comparar con el periodo previo y, si es posible, con una actividad no afectada. Son hipótesis y comparaciones aprobadas para el seguimiento; no condiciones nuevas que activen eventos.
+
+RT13 permite contrastar acceso remoto estadounidense con China48 y la interlocución diplomática ya registrada. RT14 es un compromiso político de tres partes. No sumar ambos como dos pruebas de estabilización material. Una restricción puede funcionar, ser sorteada o trasladar actividad: cada salida deja observables diferentes.
+
+**Qué la debilita:** ruptura general duradera que sustituya la selectividad; o controles sin efecto diferencial porque las alternativas preservan acceso/costes. La falta de efecto comercial no refuta por sí sola la existencia jurídica del patrón selectivo: debilita atribuirle fricción material. Para la subhipótesis estabilizadora, interrupciones y costes persistentes pese al acuerdo. La continuidad comercial sin acuerdo puede ser una explicación alternativa, no éxito diplomático atribuido por defecto.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+## Soporte y juicio interpretativo aplicado
+
+Moderado-alto para patrón de coerción modular; eficacia estabilizadora en validación. La hipótesis de Luis sobre relato y ajuste controlado exige actor, decisión, canal y cronología; se compara con ajuste por resultados, tipos e inercia del mercado.
+
+## Visión de Luis y atribución
+
+La visión de Luis orienta las preguntas sobre financiación/demanda, reposición, productividad, distribución y geopolítica. Se conserva la alternativa de ajuste endógeno frente a coordinación intencional. No cuenta como una confirmación externa ni transforma una interpretación en hecho.
+
+## Fuentes y trazabilidad
+
+[RT13](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm), [RT14](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/). Metadatos, alcance y antecedentes en [[REVISION_TESIS_2026_11_22]]. Los estudios BIS expresan las conclusiones de sus autores; no se atribuyen necesariamente al BIS ni a sus bancos centrales.
+
+[[TESIS_00_Indice]] · [[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[Radar_Eventos_2026_11]].
+
+---
+
+<details>
+<summary>Texto publicado anterior a la revisión interpretativa TASK391 — conserva decisiones, criterios y cortes históricos</summary>
+
+---
+tipo: tesis_estructural
+id: TESIS_02
+estado: vigente
+soporte: moderado_alto
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
 alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
@@ -923,6 +1013,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 
