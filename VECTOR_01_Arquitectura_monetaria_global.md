@@ -2,18 +2,74 @@
 presion: "🟠 ELEVADA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
-ultima_revision: 2026-11-14
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
+ultima_revision: "2026-11-22"
 triggers_activos: 0
 triggers_parciales: 1
-alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
-carga_primaria: 47.20
+alcance_contadores: "W47: 25 condiciones íntegras; estados de tabla. Actividad jurídica separada de ejecución y de condiciones de evento."
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+carga_primaria: 47.50
 estado_revision_W46: A_B_aplicadas_revision_local
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
+carga_primaria_subtotal_conocido: 47.50
+eventos_calibracion_pendiente: 0
+decision_inventario_W47: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+estado_revision_W47: "completa_publicacion_autorizada"
+revision_estructural_W47: "Continuidad motivada de presión/tendencia; no medición semanal nueva"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# V01 — Liquidez y financiación
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**🟠 ELEVADA · ↑ Acelerando · carga47,50.**
+
+Repo contenido en muestra, reservas promedio recuperadas y subastas UST con cobertura2,46/2,36 limitan inferir crisis inmediata. Duración, deuda francesa y financiación de infraestructura siguen conectadas; una semana MOF/TIC no completa J-A.
+
+Mantener semáforo elevada/↑ estructural por canal soberano/colateral y obligaciones financieras, sin derivarlo del subtotal ni afirmar nueva aceleración semanal. Comparar emisiones, diferenciales cubiertos y caja/garantía ejecutada.
+
+## Imputación primaria
+
+| Evento | Carga |
+|---|---|
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre]] | 13,80 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea]] | 12,90 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal]] | 6,40 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera]] | 14,40 |
+
+Transmisiones secundarias no se suman de nuevo.
+
+## Auditoría de condiciones propias
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| V01-01 | Spread de liquidez interbancaria > 15 bps durante 5 días hábiles consecutivos. | **NO ACTIVADO EN COBERTURA**. El proxy SOFR−IORB recuperado permanece bajo umbral; otros spreads no auditados. | S01,S02 |
+| V01-02 | Uso de facilidades de repo de emergencia > $50 B sostenido por más de 5 días hábiles. | **NO VERIFICABLE**. Repo semanal muy bajo no sustituye la serie diaria completa de facilidades de emergencia >5 días. | S04 |
+| V01-03 | Ratio de cobertura (bid-to-cover) en subastas de deuda a 10 Y/30 Y < 2.3 en dos emisiones sucesivas. | **NO ACTIVADO EN MUESTRA**. Las dos subastas UST elegibles recuperadas no bajan de 2,3; 3Y no es elegible. No certifica todo soberano/emisión. | S57,S58,S59 |
+| V01-04 | Rendimiento del bono soberano de referencia a 10 años > 5% sostenido por más de 10 días de negociación. | **PARCIAL**. UST10Y supera 5% en las cinco sesiones visibles; Francia no. Falta demostrar >10 sesiones consecutivas. | S07,S60 |
+
+## Observatorio y pequeñas señales W47
+
+Variables, fuentes y condiciones de paso en [[Radar_Eventos_2026_11#Observatorios estructurales]]. Repo contenido en muestra, reservas promedio recuperadas y subastas UST con cobertura2,46/2,36 limitan inferir crisis inmediata. Duración, deuda francesa y financiación de infraestructura siguen conectadas; una semana MOF/TIC no completa J-A.
+
+## Fuentes
+
+[S01](https://fred.stlouisfed.org/series/SOFR), [S02](https://fred.stlouisfed.org/series/IORB), [S04](https://www.federalreserve.gov/releases/h41/Current/), [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf), [S06](https://home.treasury.gov/news/press-releases/sb0693), [S07](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-20), [S08](https://www.aft.gouv.fr/fr/publications/communiques-presse/19-novembre-2026-emission-oat), [S09](https://fred.stlouisfed.org/series/NASDAQCOM), [S10](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.es.html), [S11](https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm), [S14](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm), [S16](https://www.anthropic.com/news/ipo-close), [S55](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html), [S56](https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en), [S57](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261110_1.pdf), [S58](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261112_4.pdf), [S60](https://fred.stlouisfed.org/series/DGS10). Periodos/fechas/alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]].
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # VECTOR 01 Arquitectura monetaria global
 
@@ -811,6 +867,9 @@ Sin nuevas fichas ni carga propia. C7 crédito privado: solicitudes/atención de
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

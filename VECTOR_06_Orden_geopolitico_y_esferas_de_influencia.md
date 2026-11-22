@@ -2,18 +2,75 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
-ultima_revision: 2026-11-14
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
+ultima_revision: "2026-11-22"
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
-carga_primaria: 6.60
+alcance_contadores: "W47: 25 condiciones íntegras; estados de tabla. Actividad jurídica separada de ejecución y de condiciones de evento."
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+carga_primaria: 7.20
 estado_revision_W46: A_B_aplicadas_revision_local
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
+carga_primaria_subtotal_conocido: 7.20
+eventos_calibracion_pendiente: 0
+decision_inventario_W47: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+estado_revision_W47: "completa_publicacion_autorizada"
+revision_estructural_W47: "Continuidad motivada de presión/tendencia; no medición semanal nueva"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# V06 — Interlocución y ejecución soberana
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**🟡 MODERADA · → Estable · carga7,20.**
+
+Bilateral y trilateral19nov verificadas. C60 introduce cuatro compromisos políticos: reformaONU, comercio de refinados, inmunidadesICC y diálogo de riesgo nuclear; no tratado/flujo/ejecución. NominaciónBCE no nombramiento ni posiciones nacionales probadas.
+
+Mantener moderada/→ estructural. Interlocución amplía opciones, pero ejecución y capacidad de negociación deben probarse. C60 integrado en observatorio existente sin evento/carga ni fecha inventada.
+
+## Imputación primaria
+
+| Evento | Carga |
+|---|---|
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU]] | 7,20 |
+
+Transmisiones secundarias no se suman de nuevo.
+
+## Auditoría de condiciones propias
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| V06-01 | Volumen de liquidaciones comerciales no denominadas en la divisa hegemónica transaccionadas en plataformas alternativas superando los $100 B mensuales sostenidos. | **NO VERIFICABLE**. No volumen comercial no-USD mensual sostenido; tokenización europea no prueba esta condición. | S55,S56 |
+| V06-02 | Aumento del presupuesto de defensa en economías de primer nivel > 15% interanual durante dos presupuestos consecutivos. | **NO VERIFICABLE**. Declaración de seguridad no dos presupuestos nacionales comparables >15% YoY. | S49,S50 |
+| V06-03 | Adjudicación de concesión o uso militar de una base dual soberana en zonas de estrechos militares estratégicos. | **NO VERIFICABLE**. Cumbre/diplomacia no concesión o uso militar de base dual en estrecho. | S49,S50 |
+| V06-04 | Congelación o incautación judicial y ejecutiva formal de activos de bancos centrales extranjeros que superen los $50 B en un solo decreto de sanción. | **NO VERIFICABLE**. Sin decreto individual compatible de congelación/incautación de banco central extranjero >50 BUSD. | S50 |
+
+## Observatorio y pequeñas señales W47
+
+| Objeto | Hecho/periodo | Sensor de ejecución y falsación | Fuente |
+|---|---|---|---|
+| C1/C59 bilateral | Consejo13nov confirmado19nov; reunión19nov | Acto/partida/licencia/entrega; incumplimiento y continuidad previa como alternativas | [S40](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y19r/index.html), [S48](https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html) |
+| C60 Shenzhen, integrado | Declaración trilateral19nov, cuatro compromisos políticos | Acuerdo operativo, calendario, concesión/acto/flujo; magnitud/unidad/fecha; incumplimiento o statu quo. Sin fecha primaria próxima, sin evento/carga | [S49](https://www.mfa.gov.cn/eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202611/t20261119_12063266.html), [S50](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/) |
+| Gobernanza monetaria | Nominaciones6nov; salida7feb2027 futura | Nombramiento/decisión y transmisión; no apoyo nacional inferido | [S46](https://www.consilium.europa.eu/es/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/), [S47](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.pt.html) |
+
+## Fuentes
+
+[S40](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y19r/index.html), [S45](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742), [S46](https://www.consilium.europa.eu/es/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/), [S47](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.pt.html), [S48](https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html), [S49](https://www.mfa.gov.cn/eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202611/t20261119_12063266.html), [S50](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/). Periodos/fechas/alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]].
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # VECTOR 06 Orden geopolitico y esferas de influencia
 
@@ -732,6 +789,9 @@ C6: actos de sanción, alcance, activos y cumplimiento; la prórroga 22-sep es a
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

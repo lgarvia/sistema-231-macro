@@ -7,8 +7,8 @@ tipo: evento
 vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 estado_seguimiento: en_observacion
 candidato_origen: C38
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 estado: E0
 calibracion: aplicada
 presion_numerica: 2
@@ -16,17 +16,63 @@ peso_estructural: 3.50
 factor_tendencia: 1
 tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P2/peso3.50/→/V04"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 7.00
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# China: registro y controles de exportación de tecnologías estratégicas
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P2 · peso 3,50 · → (factor 1) · carga 7,00 · V04.**
+
+## Mecanismo y evidencia W47
+
+Registro/autorización china de transferencia tecnológica → acceso, plazos y coste comercial.
+
+Anuncio48: consulta programada hasta15nov, sin texto final recuperado; el preregistro temporal no expira por terminar consulta.49–51 entraron jurídicamente18nov con otros objetos/destinos. BIS remoto es C23 autónomo: no extender48 por analogía.
+
+## Decisión y continuidad de calibración
+
+Mantener: mecanismo de registro/transferencia delimitado, con excepciones. Ni49–51 ni BIS se imputan automáticamente a esta ficha.
+
+P2/→: acto y trámite vigentes, sin expediente de denegación/entrega material que justifique escalada. Mantener E0 en seguimiento. Alivio: norma final/excepciones y licencias que permitan transferencias; intensificación: requisito y transferencia afectada unidos por expediente.
+
+## Pruebas de seguimiento cualitativo
+
+| Ficha | Evidencia | Próxima prueba / límite | Fuentes |
+|---|---|---|---|
+| Registro tecnológico China48 | La consulta terminó según calendario, pero no se recuperó texto final. Las vigencias de49–51 son instrumentos separados. | Preregistro transitorio no expira automáticamente el15nov; verificar norma final, ámbito/anexo y expediente de transferencia. | S34,S35,S36,S37,S40 |
+
+## Fuentes y procedencia
+
+[S34](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html), [S35](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html), [S36](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_1628d886f39840489513af242f93517b.html), [S37](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html), [S39](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # China: registro y controles de exportación de tecnologías estratégicas
 
@@ -353,6 +399,9 @@ Carga exclusiva en [[VECTOR_04_Reconfiguracion_del_comercio_global]]; relaciones
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

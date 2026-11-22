@@ -7,27 +7,80 @@ vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [energía, agua, grid-stress, ia, cpd, infraestructura]
 tipo: evento
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 aliases: [Evento_E1_2026_07_08_Grid_Stress_IA]
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
 peso_estructural: 4.70
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
 factor_tendencia: 1.2
 tendencia_calibrada: "↑"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P4/peso4.70/↑/V02"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 22.560
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# Grid IA
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P4 · peso 4,70 · ↑ (factor 1.2) · carga 22,56 · V02.**
+
+## Mecanismo y evidencia W47
+
+Costes y disponibilidad de electricidad → conexión y ritmo de despliegue de IA.
+
+Loudoun aprobó pausa de ciertas solicitudes urbanísticas, con excepciones; no acredita G-A completo. Las órdenes DOE de disponibilidad y las propuestas PJM/MISO son actos diferentes de cortes ejecutados. Eddystone52 continúa 21-nov–18-feb y Wagner25B 18-nov–31-dic.
+
+## Decisión y continuidad de calibración
+
+Mantener: capacidad firme/conexión difíciles de sustituir, condicionan varias cadenas y exigen activos/permisos plurianuales. Alcance regional documentado no equivale a toda red mundial.
+
+P4/↑ heredados de decisión B W46: persistencia de la restricción y sustitución lenta; esta revisión no acredita una aceleración semanal adicional. No elevar E0 sin completar las conjunciones. Alivio: permisos, capacidad y conexiones operativas suficientes; intensificación: acto, potencia, duración y causa compatibles.
+
+## Condiciones y falsación
+
+Cada conjunción conserva umbral, población, periodo y causalidad. ND no prueba ausencia; las E1 mantienen procedencia histórica.
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| G-A | Moratoria energética oficial o denegación de conexiónLoudoun,CPDIA>50MW. | **PARCIAL** | Pausa urbanística aprobada con excepciones; no demuestra el acto energético requerido. Faltan denegación/moratoria eléctrica, proyecto IA y potencia >50 MW unidos causalmente. Fuentes: S24. |
+| G-B | PJM/ERCOT EEA≥2 por climatización yCPD en pico estival. | **NO VERIFICABLE** | Las reformas y órdenes de noviembre no resuelven el sensor retrospectivo estival. Faltan registro EEA>=2, operador, pico de verano y causalidad conjunta climatización/CPD. Fuentes: S25,S29,S30. |
+| G-C | Orden vinculanteDOE/FERC/RTO/ISO aCPD/grandes cargas>50MW o generación asociada, autogeneración/corte≥4h. | **PARCIAL** | Hay órdenes de fiabilidad y propuestas sobre grandes cargas; son categorías jurídicas diferentes. No acreditados conjuntamente destinatario >50 MW/generación asociada y obligación de autogeneración/corte >=4 horas. Fuentes: S25,S27,S29,S30,S31. |
+| G-D | Curtailment forzoso efectivoOfgem/EirGrid,CPDIA comerciales operativos>100MW combinados. | **NO VERIFICABLE** | MPID345 permanece como antecedente de la base; no se recupera ejecución nueva compatible. Ofgem/EirGrid, CPD IA comerciales operativos, >100 MW combinados y corte forzoso ejecutado. Fuentes: —. |
+| G-E | Moratoria hídricaEspaña/Irlanda bloquea licenciaCPDIA>50MW. | **NO VERIFICABLE** | El permiso urbanístico de otro país no prueba la condición hídrica. Acto hídrico España/Irlanda, bloqueo de licencia, proyecto IA y >50 MW. Fuentes: —. |
+| G-F | Sanción/demandaCE desdeEED demuestraWUEsectorialmedioUE>0,5L/kWh. | **NO VERIFICABLE** | No recuperada actuación CE compatible ni media sectorial WUE. Sanción/demanda EED y media UE >0,5 L/kWh con universo y periodo definidos. Fuentes: —. |
+
+## Fuentes y procedencia
+
+[S24](https://sheriff.loudoun.gov/Archive/ViewFile/Item/15495), [S25](https://www.pjm.com/-/media/DotCom/documents/ferc/filings/2026/20261116-er27-522-000.pdf), [S27](https://cdn.misoenergy.org/Fact%20Sheet%20-%20MISO%20Large%20Load%20Filings796428.pdf), [S29](https://www.energy.gov/documents/202-26-52-eddystone-order), [S30](https://www.energy.gov/documents/202-26-25b-wagner), [S31](https://www.energy.gov/ceser/federal-power-act-section-202c-midcontinent-independent-system-operator-miso-order-no-202-2). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # Grid IA
 
@@ -622,6 +675,9 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

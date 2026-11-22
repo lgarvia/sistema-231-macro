@@ -4,27 +4,73 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_02_Energia_y_nodos_geoeconomicos]]"
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 origen_alta: "C13 — autorización Luis 27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
-peso_estructural: 4.4
+peso_estructural: 4.00
 factor_tendencia: 1
 tags: [gas, europa, energia, almacenamiento, invierno]
 tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P3/peso4.4/→/V02"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 12.00
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# Gas europeo / invierno
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P3 · peso 4,00 · → (factor 1) · carga 12,00 · V02.**
+
+## Mecanismo y evidencia W47
+
+Inventarios, clima y suministro de gas → capacidad industrial y coste energético.
+
+BNetzA20nov: almacenamiento alemán57,1%=141,4TWh; flujos12–18nov de19,1TWh por tubería y2,1TWh LNG. Regulador considera estable el suministro y bajo el riesgo. Alemania no equivale a toda Europa; no hay racionamiento europeo acreditado.
+
+## Decisión y continuidad de calibración
+
+Recalibrar a4/4/4/4: exposición europea elevada; distintas vías de suministro con costes y fricción. No equiparar el episodio estacional/recarga con dependencia prácticamente insustituible e irreversible.
+
+P3/→: colchón bajo justifica vigilancia; suministro estable impide tratarlo como escasez consumada o nueva aceleración. Peso4,00 por menor alcance demostrado y sustitución parcial. Cierre requiere persistencia del alivio durante invierno y cobertura territorial, no una lectura semanal.
+
+## Pruebas de seguimiento cualitativo
+
+| Ficha | Evidencia | Próxima prueba / límite | Fuentes |
+|---|---|---|---|
+| Gas europeo / invierno | La evidencia alemana combina colchón bajo con suministro considerado estable por el regulador. | Desagregar país, gas day, flujos, clima, precio y restricciones. Ni racionamiento europeo ni normalización de toda Europa quedan demostrados. | S32 |
+
+## Fuentes y procedencia
+
+[R06](https://bundesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/artikel.html), [S32](https://bundesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/artikel.html). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # Gas europeo / invierno
 
@@ -436,6 +482,9 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANS
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

@@ -7,27 +7,79 @@ vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 moc: "[[MOC_Politica_Monetaria]]"
 tags: [liquidez, japon, jgb, carry-trade, treasuries, repo, srf, tga, banca-central]
 tipo: evento
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 aliases: [Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre, Evento_E0_Japon_Carry_Trade_y_Liquidez_Septiembre]
 estado: E0
 calibracion: aplicada
 presion_numerica: 3
-peso_estructural: 4.6
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+peso_estructural: 4.60
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
 factor_tendencia: 1
 tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P3/peso4.6/→/V01"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 13.80
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# Japón / liquidez
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P3 · peso 4,60 · → (factor 1) · carga 13,80 · V01.**
+
+## Mecanismo y evidencia W47
+
+Asignación de duración/divisa y financiación mayorista → liquidez y coste de capital.
+
+SOFR−IORB en cinco sesiones recuperadas: 0/+3/+2/0/+1 pb; falta 20-nov. Reservas medias H4.1: 2.979.656 MUSD; repo semanal no sustituye serie diaria SRF. MOF: deuda exterior larga neta −440.700 MJPY, semana8–14nov; revisión previa +3.500 MJPY. Dos subastas elegibles UST con BTC2,46/2,36, no bajo2,3.
+
+## Decisión y continuidad de calibración
+
+Mantener: asignación global de duración/divisa/colateral. Absorción y repo contenidos afectan tensión actual; el canal estructural sigue global y de transmisión múltiple.
+
+P3/→: financiación contenida en cobertura y absorción efectiva limitan escalada; persisten duración/tipo y faltan diferencial cubierto, dos meses de ventas y SRF/GCp99. No declarar normalización ni activar J-A con una semana. No cerrar por datos actuales un sensor retrospectivo septiembre aún no resuelto.
+
+## Condiciones y falsación
+
+Cada conjunción conserva umbral, población, periodo y causalidad. ND no prueba ausencia; las E1 mantienen procedencia histórica.
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| J-A | JGB30Y>UST30Y cubiertoJPY>15d hábiles consecutivos y2meses de ventas/no reinversión institucional exterior. | **PARCIAL** | Flujo semanal vendedor; TIC es otra frecuencia/población. No hay conjunción íntegra. Diferencial JGB30Y/UST30Y cubierto JPY durante >15 días hábiles y dos meses institucionales comparables. Fuentes: S05,S06. |
+| J-B | Impuesto15sep→TGA>900BUSD y reservas<3,1TUSD en misma quincena. | **NO VERIFICABLE** | Los niveles actuales no completan retrospectivamente la ventana fiscal de septiembre. Misma quincena del impuesto 15 sep, series compatibles y causalidad impuesto→TGA/reservas. Fuentes: S04. |
+| J-C1 | SOFR−IORB>8pb durante3d hábiles consecutivos. | **NO ACTIVADO EN COBERTURA** | El cálculo de cinco sesiones recuperadas no supera el umbral en ninguna. Falta sesión 20 nov; no extrapolar al resto de instrumentos o al futuro. Fuentes: S01,S02,S03. |
+| J-C2 | Alternativamente, dispersiónGCp99>25pb. | **NO VERIFICABLE** | SOFR es mediana; no mide la alternativa GCp99. Benchmark y dispersión GCp99 >25 pb con definición compatible. Fuentes: S01. |
+| J-D | SRF>20BUSDdiarios>2d consecutivos alrededor25–30sep. | **NO VERIFICABLE** | El agregado repo de H.4.1 no reconstruye la serie SRF diaria de septiembre. SRF >20 BUSD/día durante >2 días consecutivos alrededor 25–30 sep. Fuentes: S04. |
+
+## Fuentes y procedencia
+
+[S01](https://fred.stlouisfed.org/series/SOFR), [S04](https://www.federalreserve.gov/releases/h41/Current/), [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf), [S06](https://home.treasury.gov/news/press-releases/sb0693), [S57](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261110_1.pdf), [S58](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261112_4.pdf), [R04](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.es.html). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # Japón / liquidez
 
@@ -655,6 +707,9 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

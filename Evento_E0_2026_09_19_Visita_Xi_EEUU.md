@@ -4,28 +4,74 @@ fecha: 2026-09-19
 tipo: evento
 estado: E0
 vector: "[[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]]"
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 origen_alta: "Decisión humana C1 — TASK_118"
 calibracion: aplicada
 carga_activa: 6.60
 presion_numerica: 2
-peso_estructural: 3.30
+peso_estructural: 3.60
 factor_tendencia: 1
 tags: [geopolitica, china, estados-unidos, diplomacia]
 tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P2/peso3.30/→/V06"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 7.20
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# EE. UU.–China / ejecución
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P2 · peso 3,60 · → (factor 1) · carga 7,20 · V06.**
+
+## Mecanismo y evidencia W47
+
+Coordinación bilateral → acto de ejecución → licencia/contrato/entrega.
+
+La bilateral del19nov y el Consejo Comercial antecedente están documentados; se anuncia coordinación/estabilidad e interlocución agrícola. Una declaración no demuestra ejecución por partidas. El objeto trilateral C60 queda en V06, sin otra carga.
+
+## Decisión y continuidad de calibración
+
+Subir transmisión3→4: el marco bilateral vuelve a mostrar un canal de coordinación estratégica/IA autónomo del arancel. No incluye el peso de toda la trilateral.
+
+P2/→: avance político reduce incertidumbre de interlocución, sin demostrar cumplimiento o ruptura material. Mantener E0 por ejecución pendiente; cerrar/absorber solo tras balance verificable de compromisos. Reversión: incumplimiento, acto restrictivo o flujo compatible.
+
+## Pruebas de seguimiento cualitativo
+
+| Ficha | Evidencia | Próxima prueba / límite | Fuentes |
+|---|---|---|---|
+| EE. UU.–China / ejecución | La bilateral y nueva cumbre sí ocurrieron. La ejecución de compromisos comerciales sigue siendo otro objeto. | Comprobar acto, partida, licencia, contrato y flujo; no elevar clase por una foto ni por declaración conjunta. | S40,S48,S49,S50 |
+
+## Fuentes y procedencia
+
+[R03](https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html), [S40](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y19r/index.html), [S48](https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html), [S49](https://www.mfa.gov.cn/eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202611/t20261119_12063266.html), [S50](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # EE. UU.–China / ejecución
 
@@ -468,6 +514,9 @@ Conecta con [[Radar_Eventos_2026_09]] · [[VECTOR_00_Indice]].
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

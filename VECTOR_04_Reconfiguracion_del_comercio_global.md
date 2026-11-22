@@ -2,18 +2,74 @@
 presion: "🔴 CRÍTICA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
-ultima_revision: 2026-11-14
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
+ultima_revision: "2026-11-22"
 triggers_activos: 1
 triggers_parciales: 0
-alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
-carga_primaria: 23.40
+alcance_contadores: "W47: 25 condiciones íntegras; estados de tabla. Actividad jurídica separada de ejecución y de condiciones de evento."
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+carga_primaria: 36.30
 estado_revision_W46: A_B_aplicadas_revision_local
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
+carga_primaria_subtotal_conocido: 36.30
+eventos_calibracion_pendiente: 0
+decision_inventario_W47: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+estado_revision_W47: "completa_publicacion_autorizada"
+revision_estructural_W47: "Continuidad motivada de presión/tendencia; no medición semanal nueva"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+aplicacion_calibracion_C23: "2026-11-22T00:41:56+01:00"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# V04 — Reglas de acceso y comercio
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**🔴 CRÍTICA · → Estable · carga36,30.**
+
+China48 conserva preregistro hasta desenlace;49–51 son instrumentos diferentes. C23 añade acceso remotoBIS efectivo19nov. T-B activo heredado exige revalidación parcial, no convertir CAD en USD. Censo futuro observa sectores, sin resultado adelantado.
+
+Mantener crítica/→ estructural por fragmentación jurídica persistente; no aceleración inferida por contar instrumentos. Carga completa36,30 tras calibración aprobada de C23. Seguir expedientes/ámbito/vigencia, cobro y flujo compatibles.
+
+## Imputación primaria
+
+| Evento | Carga |
+|---|---|
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica]] | 7,00 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack]] | 16,40 |
+| [[Evento_E0_2026_11_19_US_Acceso_Remoto_Computo_Avanzado]] | 12,90 |
+
+Transmisiones secundarias no se suman de nuevo.
+
+## Auditoría de condiciones propias
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| V04-01 | Imposición de aranceles extraordinarios > 20% en sectores industriales estratégicos en economías líderes. | **ACTIVO JURIDICO HEREDADO**. Parte dispositiva confirma aranceles extraordinarios; anexos/cobro íntegro no auditados. No completa T-A. | S52 |
+| V04-02 | Desviación sostenida > 20% del índice de fletes de contenedores en comparación con su media móvil de 90 días. | **NO VERIFICABLE**. Falta serie de contenedores, media móvil 90 días y persistencia >20%. | — |
+| V04-03 | Liquidación de operaciones comerciales sin dólares que superen los $50 B agregados anuales en una red bilateral verificable. | **NO VERIFICABLE**. Infraestructura/grupo de tokenización no acredita comercio bilateral no-USD >50 BUSD/año. | S55,S56 |
+| V04-04 | Incremento > 30% interanual en la IED industrial hacia jurisdicciones puente (friend-shoring). | **NO VERIFICABLE**. Falta flujo de IED industrial y comparación YoY >30% en jurisdicción puente; stock no es flujo. | — |
+
+## Observatorio y pequeñas señales W47
+
+Variables, fuentes y condiciones de paso en [[Radar_Eventos_2026_11#Observatorios estructurales]]. China48 conserva preregistro hasta desenlace;49–51 son instrumentos diferentes. C23 añade acceso remotoBIS efectivo19nov. T-B activo heredado exige revalidación parcial, no convertir CAD en USD. Censo futuro observa sectores, sin resultado adelantado.
+
+## Fuentes
+
+[S34](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html), [S35](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_b2fa4e60bcd24bdf8c658e476b808785.html), [S36](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_1628d886f39840489513af242f93517b.html), [S37](https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_f4ab31f0b7e94c159b357e39f5a12fc9.html), [S38](https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology), [S39](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm), [S40](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y19r/index.html), [S51](https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-response-us-tariffs/complete-list-us-products-subject-to-counter-tariffs.html), [S52](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/), [S53](https://www.census.gov/foreign-trade/schedule.html), [S54](https://www.bls.gov/news.release/archives/cpi_11102026.htm). Periodos/fechas/alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]].
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # VECTOR 04 Reconfiguracion del comercio global
 
@@ -751,6 +807,9 @@ A nivel agregado, la OMC estima que la proporción del comercio mundial bajo tra
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

@@ -2,18 +2,75 @@
 presion: "🟡 MODERADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
-ultima_revision: 2026-11-14
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
+ultima_revision: "2026-11-22"
 triggers_activos: 0
 triggers_parciales: 0
-alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
+alcance_contadores: "W47: 25 condiciones íntegras; estados de tabla. Actividad jurídica separada de ejecución y de condiciones de evento."
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 carga_primaria: 0
 estado_revision_W46: A_B_aplicadas_revision_local
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
+carga_primaria_subtotal_conocido: 0
+eventos_calibracion_pendiente: 0
+decision_inventario_W47: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+estado_revision_W47: "completa_publicacion_autorizada"
+revision_estructural_W47: "Continuidad motivada de presión/tendencia; no medición semanal nueva"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# V05 — Actividad, adopción y distribución
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**🟡 MODERADA · → Estable · carga0,00.**
+
+Producción septiembreEA +0,2% mensual/−1,5% anual no productividad. Robots industriales chinos octubre+26% en unidades no ahorro por tarea; servicios difiere. Nómina mensual de pensiones no déficit anual ni personas intercambiables con prestaciones.
+
+Mantener moderada/→; cero carga de eventos no implica ausencia de presión estructural. Registrar pequeñas señales en este vector, sin altas temáticas, y contrastar uso útil, coste, horas, utilización, recompra y cuentas netas.
+
+## Imputación primaria
+
+| Evento | Carga |
+|---|---|
+
+Transmisiones secundarias no se suman de nuevo.
+
+## Auditoría de condiciones propias
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| V05-01 | Desviación anual del déficit neto de previsión social > 2% del PIB en una economía del G 7 o eurozona. | **NO VERIFICABLE**. Nómina mensual no déficit neto anual sobre PIB; ejercicio 2026 no cerrado. | S43 |
+| V05-02 | Caída del ratio de soporte demográfico por debajo de 1.4 cotizantes por pensionista sostenido durante un ejercicio fiscal completo. | **NO VERIFICABLE**. Faltan personas cotizantes/pensionistas comparables y ejercicio completo; prestaciones no personas. | S43 |
+| V05-03 | Salida neta documentada de inversión corporativa (CAPEX de activos físicos) > $5 B anuales desde una jurisdicción industrial principal. | **NO VERIFICABLE**. IPI no salida neta de CAPEX físico transfronterizo anual >5 BUSD. | S41 |
+| V05-04 | Penetración de mercado de plataformas manufacturadas importadas de nueva generación (ej. VE) superando el 25% de la cuota local de forma sostenida por 6 meses. | **NO VERIFICABLE**. Propulsión BEV/PHEV no demuestra origen importado ni cuota mantenida seis meses del universo requerido. | S44 |
+
+## Observatorio y pequeñas señales W47
+
+| Señal/publicación | Unidad y periodo | Límite y siguiente prueba | Fuente |
+|---|---|---|---|
+| Eurostat16nov | Índice ajustado septiembre2026: EA+0,2%mes/−1,5%año; EU+0,5%/−0,8% | Producción no utilización, CAPEX ni productividad; siguiente15dic | [S41](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-16112026-ap) |
+| NBS17nov | IVAoct+4,8%realYoY; robots industriales82.846 unidades/+26%; ene–oct874.141/+32,3% | No despliegue/recompra/ahorro industrial por tarea; robots servicio−4,9%oct | [S42](https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html) |
+| Pensiones27oct, antecedente | 14.540MEUR/mes;10.565.782 prestaciones, ~9,6M personas | No anualizar ni intercambiar prestación/persona; faltan liquidación anual y denominadores | [S43](https://www.inclusion.gob.es/w/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano) |
+| ANFAC2nov, antecedente | MatriculacionesBEV/PHEV, octubre | No origen de importaciones durante seis meses ni cuota de fabricantes por nacionalidad | [S44](https://anfac.com/wp-content/uploads/2026/11/Informe-Matriculaciones-CCAA-FFEE-Octubre-2026.pdf) |
+
+## Fuentes
+
+[S41](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-16112026-ap), [S42](https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html), [S43](https://www.inclusion.gob.es/w/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano), [S44](https://anfac.com/wp-content/uploads/2026/11/Informe-Matriculaciones-CCAA-FFEE-Octubre-2026.pdf). Periodos/fechas/alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]].
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # VECTOR 05 Transformacion industrial y demografia
 
@@ -767,6 +824,9 @@ Se conserva el observatorio y sus unidades/periodos. Nota BYD de «octubre2026»
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

@@ -4,16 +4,77 @@ id: TESIS_06
 estado: vigente
 soporte: alto
 soporte_alcance: "Dependencia física; financiación y productividad con pruebas independientes"
-ultima_actualizacion: 2026-11-14
-corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
-corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
-alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# TESIS_06: IA: infraestructura y conversión en productividad
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**Soporte: alto · estado: vigente · alcance: Dependencia física; financiación y productividad con pruebas independientes.**
+
+## 1. Definición
+La expansión de IA está condicionada por la coordinación de capacidad industrial y energética. Su rentabilidad y productividad dependen además de que la capacidad disponible se convierta en uso recurrente y resultados útiles a un coste total sostenible
+
+Dependencia física: soporte alto. Fragilidad financiera: hipótesis por empresa/proyecto. Productividad y autonomía: validación condicionada. Los cuellos de botella pueden desplazarse entre fabricación, empaquetado, HBM, electricidad, interconexión y permisos.
+
+## 2. Restricción estructural asociada
+
+- **Semiconductores:** concentración de fundición avanzada, litografía EUV y empaquetado.
+- **Memoria:** disponibilidad de HBM y coordinación con plataformas de aceleradores.
+- **Eléctrica:** generación firme, subestaciones, transmisión y tiempo de interconexión.
+- **Térmica e hídrica:** disipación de calor, refrigeración y permisos ambientales.
+- **Industrial:** plazos de construcción, equipamiento y mano de obra especializada.
+- **Financiera — hipótesis diferenciada:** caja, coste de financiación y obligaciones comprometidas pueden limitar despliegues; debe medirse por empresa, sin deducir desplazamiento general de crédito de la suma de CAPEX y déficit público.
+- **De adopción y autonomía — hipótesis condicionada:** tareas útiles, mantenimiento, capacidades humanas y dependencia externa por capa determinan la conversión en productividad.
+
+## Contraste factual W47
+
+**Apoyo:** Capacidad, electricidad y compromisos contractuales conectan despliegue físico y financiación.
+
+**Contraevidencia y ambigüedad:** Caja/guía del proveedor y captación efectiva limitan crisis uniforme. Dependencia física no demuestra ROI/productividad; CAPEX no es homogéneo ni garantía pérdida ejecutada.
+
+**Próxima falsación:** Entregas/yield/plazo y energía; después utilización/tarea/coste/caja/retorno. Reposición distinta de expansión y vidas útiles por activo.
+
+## Criterios de validación o refutación
+| Afirmación / alcance | Refuerza | Debilita o delimita |
+|---|---|---|
+| Dependencia física — alto | Restricciones verificadas de capacidad, entregas, electricidad, agua o permisos | Eficiencia y capacidad suficiente reducen escasez o congestión, sin eliminar toda dependencia física |
+| Fragilidad financiera — hipótesis | Aplazamientos atribuibles a financiación, compromisos incompatibles con caja y acceso sostenible a capital | Inversión financiada y retornos sostenibles por empresa/proyecto |
+| Productividad y autonomía — validación condicionada | Uso recurrente con menor coste total, calidad suficiente y dependencias externas reducidas por capa | Bajo uso, retornos ausentes, mantenimiento elevado o sustitución de una dependencia por otra |
+
+> Criterios operativos vigentes conservados de W46. Restituidos al bloque actual en auditoría22nov; no se modifica su formulación ni el grado de soporte.
+
+## Visión atribuida y juicio
+
+Las lecturas de Luis orientan las preguntas y las alternativas; no cuentan como una confirmación independiente. La atribución y las pruebas están en [[ACTUALIZACION_SEMANAL_231_2026_11_22#Visión de Luis y contraste]]. Se conserva el grado porque el nuevo apoyo no elimina estos límites causales; el soporte no deriva de cargas.
+
+## Fuentes
+
+[S12](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm), [S13](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/supplementalfinancialinfor.htm), [S14](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm), [S16](https://www.anthropic.com/news/ipo-close), [S17](https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1), [S18](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/), [S19](https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx), [S20](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx), [S21](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026), [S22](https://news.skhynix.com/en/q3-2026-business-results/), [S24](https://sheriff.loudoun.gov/Archive/ViewFile/Item/15495), [S25](https://www.pjm.com/-/media/DotCom/documents/ferc/filings/2026/20261116-er27-522-000.pdf), [S29](https://www.energy.gov/documents/202-26-52-eddystone-order), [R01](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf).
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # TESIS_06: IA: infraestructura y conversión en productividad
 
@@ -939,6 +1000,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

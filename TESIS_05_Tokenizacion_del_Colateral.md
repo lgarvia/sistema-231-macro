@@ -3,17 +3,77 @@ tipo: tesis_estructural
 id: TESIS_05
 estado: en_validacion
 soporte: moderado
-ultima_actualizacion: 2026-11-14
-corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
-corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
-alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
 soporte_alcance: "Admisibilidad jurídica acotada; uso/eficiencia/demanda neta en validación"
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# TESIS_05: Tokenización, liquidación y movilidad del colateral
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**Soporte: moderado · estado: en_validacion · alcance: Admisibilidad jurídica acotada; uso/eficiencia/demanda neta en validación.**
+
+## 1. Definición
+La tokenización empieza a integrarse en infraestructuras reguladas de garantías y liquidación. Que un activo sea admisible es un avance institucional; su mejora de eficiencia y su efecto sobre la liquidez o demanda neta de deuda dependen del uso, costes y origen de los fondos
+
+Admisibilidad jurídica, utilización efectiva y beneficio económico son pruebas distintas. Stablecoins, depósitos y bonos tokenizados se diferencian por derechos, reservas e infraestructura; digitalizar un activo no crea automáticamente liquidez ni colateral nuevos.
+
+## 2. Restricción estructural asociada
+
+- **Confianza:** el dinero tokenizado depende de la calidad, custodia y liquidez del activo de reserva.
+- **Regulación:** admisibilidad de reservas, reembolso, segregación patrimonial y acceso a sistemas de pago.
+- **Financiación bancaria:** migraciones desde depósitos pueden reducir crédito y alterar la demanda bancaria de deuda.
+- **Soberanía monetaria:** la adopción de stablecoins en economías débiles puede intensificar dolarización y volatilidad de capitales.
+
+## Contraste factual W47
+
+**Apoyo:** Pontes y convocatoriaETSG muestran infraestructura y coordinación institucional, con objetos distintos.
+
+**Contraevidencia y ambigüedad:** Lanzamiento y estándares no acreditan liquidación recurrente, ahorro efectivo o nueva demanda neta de colateral.
+
+**Próxima falsación:** Activo, elegibilidad, origen de fondos, volumen liquidado recurrente y coste total frente a alternativa.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Mejora operativa | Liquidación recurrente con reducción verificable de costes/plazos y garantías reconocidas | Pilotos sin uso recurrente, costes de integración elevados o inadmisibilidad |
+| Efecto monetario | Demanda neta adicional acreditada junto con reservas, procedencia de fondos y convertibilidad | Sustitución completa de otros compradores o traslado que reduce financiación bancaria |
+| Resiliencia | Reembolso, custodia y liquidez del subyacente verificados bajo condiciones exigentes | Pérdida de paridad, bloqueo jurídico o liquidez insuficiente |
+
+**Puertas previas a abrir un evento:** norma final con efecto material; o tres observaciones mensuales comparables de demanda neta no explicada por sustitución completa; o infraestructura supervisada con uso sostenido de bonos públicos tokenizados en DvP o como garantía; o evidencia oficial de migración de depósitos atribuible. Requieren delimitación del hecho, mecanismo y calibración humana, sin alta automática.
+
+> Criterios operativos vigentes conservados de W46. Restituidos al bloque actual en auditoría22nov; no se modifica su formulación ni el grado de soporte.
+
+## Visión atribuida y juicio
+
+Las lecturas de Luis orientan las preguntas y las alternativas; no cuentan como una confirmación independiente. La atribución y las pruebas están en [[ACTUALIZACION_SEMANAL_231_2026_11_22#Visión de Luis y contraste]]. Se conserva el grado porque el nuevo apoyo no elimina estos límites causales; el soporte no deriva de cargas.
+
+## Fuentes
+
+[S55](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html), [S56](https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en).
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # TESIS_05: Tokenización, liquidación y movilidad del colateral
 
@@ -908,6 +968,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

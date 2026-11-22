@@ -3,17 +3,75 @@ tipo: tesis_estructural
 id: TESIS_03
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-11-14
-corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
-corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
-alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_05_Transformacion_industrial_y_demografia]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
 soporte_alcance: "Formulación causal conjunta; evidencia diferenciada por mecanismo"
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# TESIS_03: Renta disponible, vivienda y presión intergeneracional
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**Soporte: moderado · estado: vigente · alcance: Formulación causal conjunta; evidencia diferenciada por mecanismo.**
+
+## 1. Definición
+El esfuerzo residencial y la carga fiscal/contributiva pueden limitar ahorro y movilidad de determinados hogares cuando superan su mejora de renta y productividad. Su contribución respectiva y el eventual desplazamiento de inversión requieren medición separada por cohorte, territorio y tenencia
+
+España es el ámbito prioritario. Se distinguen propietarios e inquilinos, cohortes y territorios. La formulación no atribuye intención general a pensionistas o propietarios; tampoco traslada evidencia de un mecanismo a toda la explicación.
+
+## 2. Restricción estructural asociada
+
+- **Demográfica:** aumento de pensionistas y menor crecimiento de la población activa.
+- **Inmobiliaria:** oferta de vivienda lenta frente a demanda concentrada en polos urbanos.
+- **Fiscal:** gasto indexado y transferencias que compiten con inversión pública productiva.
+- **Productiva:** crecimiento insuficiente de productividad y salarios reales para absorber simultáneamente vivienda, impuestos y ahorro previsional.
+
+## Contraste factual W47
+
+**Apoyo:** Concentración de clientes y barreras de acceso permiten observar distribución del valor.
+
+**Contraevidencia y ambigüedad:** Producción de robots, nómina de pensiones o precios de activos no completan causalidad a renta de hogares ni productividad.
+
+**Próxima falsación:** Rentas/horas/cohortes/territorios y propiedad comparables; margen y coste/beneficio por capa.
+
+## Criterios de validación o refutación
+| Mecanismo | Refuerza | Debilita o delimita |
+|---|---|---|
+| Presión sobre hogares expuestos | Deterioro persistente de renta disponible, esfuerzo residencial, ahorro o movilidad en cohortes comparables | Mejora sostenida de salarios/productividad y menor esfuerzo de vivienda |
+| Presión intergeneracional | Mayor necesidad de financiación tributaria con desplazamiento documentado de inversión o renta | Equilibrio contributivo sostenible o inversión preservada; cambios demográficos compensatorios |
+| Compensación productiva | Productividad realizada que mejora salarios, renta o capacidad fiscal | Bajo uso, ausencia de ganancias o ganancias que no llegan a los grupos expuestos |
+
+> Criterios operativos vigentes conservados de W46. Restituidos al bloque actual en auditoría22nov; no se modifica su formulación ni el grado de soporte.
+
+## Visión atribuida y juicio
+
+Las lecturas de Luis orientan las preguntas y las alternativas; no cuentan como una confirmación independiente. La atribución y las pruebas están en [[ACTUALIZACION_SEMANAL_231_2026_11_22#Visión de Luis y contraste]]. Se conserva el grado porque el nuevo apoyo no elimina estos límites causales; el soporte no deriva de cargas.
+
+## Fuentes
+
+[S13](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/supplementalfinancialinfor.htm), [S39](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm), [S41](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-16112026-ap), [S42](https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html), [S43](https://www.inclusion.gob.es/w/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano), [S44](https://anfac.com/wp-content/uploads/2026/11/Informe-Matriculaciones-CCAA-FFEE-Octubre-2026.pdf).
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # TESIS_03: Renta disponible, vivienda y presión intergeneracional
 
@@ -867,6 +925,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

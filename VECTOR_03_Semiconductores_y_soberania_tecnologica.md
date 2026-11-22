@@ -2,18 +2,72 @@
 presion: "🟠 ELEVADA"
 tendencia: "→ Estable"
 tipo: vector
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
-ultima_revision: 2026-11-14
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
+ultima_revision: "2026-11-22"
 triggers_activos: 0
-triggers_parciales: 0
-alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
-carga_primaria: 28.80
+triggers_parciales: 1
+alcance_contadores: "W47: 25 condiciones íntegras; estados de tabla. Actividad jurídica separada de ejecución y de condiciones de evento."
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+carga_primaria: 27.800
 estado_revision_W46: A_B_aplicadas_revision_local
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
+carga_primaria_subtotal_conocido: 27.800
+eventos_calibracion_pendiente: 0
+decision_inventario_W47: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+estado_revision_W47: "completa_publicacion_autorizada"
+revision_estructural_W47: "Continuidad motivada de presión/tendencia; no medición semanal nueva"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# V03 — Capacidad y continuidad industrial
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**🟠 ELEVADA · → Estable · carga27,80.**
+
+CoWoS y HBM/litografía requieren medidas por producto; ventas agregadas no yields. Primera prueba NVIDIA es positiva para resultados/guía, con trimestre previo al relevo; 10-Q y entregas posteriores pendientes.
+
+Mantener elevada/→ estructural. CoWoS conserva↑ calibrada de W46 sin trasladarla automáticamente al vector. Desagregar capacidad/plazo/entrega de acceso jurídico (C23, primarioV04).
+
+## Imputación primaria
+
+| Evento | Carga |
+|---|---|
+| [[Evento_E0_2026_11_11_NVIDIA_Sucesion_y_Continuidad_Operativa]] | 6,20 |
+| [[Evento_E0_2026_CoWoS_Capacity]] | 21,60 |
+
+Transmisiones secundarias no se suman de nuevo.
+
+## Auditoría de condiciones propias
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| V03-01 | Desviación trimestral > 15% en el guidance de inversión agregada de los hyperscalers de cómputo. | **NO VERIFICABLE**. No agregado trimestral homogéneo; no usar suma de guías anuales, TTM y gastos de caja. | S17,S18,S19,S20 |
+| V03-02 | Aumento del lead time de hardware de cómputo avanzado por encima de las 24 semanas de forma generalizada. | **NO VERIFICABLE**. Comentarios de capacidad futura no prueban lead time generalizado >24 semanas. | S21,S22 |
+| V03-03 | Publicación formal de restricciones de exportación sobre nuevos nodos litográficos o arquitecturas de hardware avanzado en registros regulatorios clave. | **PARCIAL**. Restricción formal de acceso remoto a cómputo; falta cotejo técnico que acredite nuevo nodo/arquitectura frente a ampliación de acceso/destinos. | S38,S39 |
+| V03-04 | Evidencia técnica auditada de procesamiento comercial viable de obleas sub-5 nm en jurisdicciones restringidas sin el uso de equipos de litografía occidentales. | **NO VERIFICABLE**. Producción agregada de circuitos integrados no audita oblea comercial sub-5 nm sin litografía occidental. | S42 |
+
+## Observatorio y pequeñas señales W47
+
+Variables, fuentes y condiciones de paso en [[Radar_Eventos_2026_11#Observatorios estructurales]]. CoWoS y HBM/litografía requieren medidas por producto; ventas agregadas no yields. Primera prueba NVIDIA es positiva para resultados/guía, con trimestre previo al relevo; 10-Q y entregas posteriores pendientes.
+
+## Fuentes
+
+[S12](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm), [S13](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/supplementalfinancialinfor.htm), [S14](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm), [S17](https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1), [S18](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/), [S19](https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx), [S20](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx), [S21](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026), [S22](https://news.skhynix.com/en/q3-2026-business-results/), [S23](https://news.skhynix.com/en/sc26-ai-hpc-exhibition/), [R01](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf). Periodos/fechas/alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]].
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # VECTOR 03 Semiconductores y soberania tecnologica
 
@@ -734,6 +788,9 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Chips_Chinos_Alibaba]], con calibraci�
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

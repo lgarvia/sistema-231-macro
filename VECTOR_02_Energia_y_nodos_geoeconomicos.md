@@ -2,18 +2,76 @@
 presion: "🔴 CRÍTICA"
 tendencia: "↑ Acelerando"
 tipo: vector
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
-ultima_revision: 2026-11-14
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
+ultima_revision: "2026-11-22"
 triggers_activos: 1
 triggers_parciales: 0
-alcance_contadores: "W46: estados de la tabla; activos jurídicos separados de ejecución. Cero confirmaciones no equivale a cero riesgo ni a variable ausente."
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
-carga_primaria: 54.160
+alcance_contadores: "W47: 25 condiciones íntegras; estados de tabla. Actividad jurídica separada de ejecución y de condiciones de evento."
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+carga_primaria: 52.960
 estado_revision_W46: A_B_aplicadas_revision_local
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
+carga_primaria_subtotal_conocido: 52.960
+eventos_calibracion_pendiente: 0
+decision_inventario_W47: "Luis22nov TASK390; C23E0/V04 y C60 observatorio; ninguna baja"
+estado_revision_W47: "completa_publicacion_autorizada"
+revision_estructural_W47: "Continuidad motivada de presión/tendencia; no medición semanal nueva"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B W46 aprobadas14nov; JapónP3/altaC55"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# V02 — Electricidad, gas y corredores
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**🔴 CRÍTICA · ↑ Acelerando · carga52,96.**
+
+Pausa urbanística, reformas y disponibilidad DOE documentadas; no corteCPD demostrado. Almacenamiento alemán bajo convive con suministro estable. OMI acredita incidente/acumulado, sin precio homogéneo de seguro o tránsito14d.
+
+Mantener crítica/↑ estructural por dificultad de sustitución y fricciones de red/rutas; ↑ no prueba nueva aceleración medida. Condiciones energéticas completas y datos físicos pueden justificar propuesta posterior.
+
+## Imputación primaria
+
+| Evento | Carga |
+|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA]] | 22,56 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]] | 12,00 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb]] | 18,40 |
+
+Transmisiones secundarias no se suman de nuevo.
+
+## Auditoría de condiciones propias
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| V02-01 | Incremento de las primas de seguro de guerra marítimo > 0.5% del valor del buque por tránsito. | **NO VERIFICABLE**. No hay serie homogénea de incremento de prima por tránsito; distinta de nivel de M-A. | S33 |
+| V02-02 | Caída en el tránsito de buques energéticos en chokepoints > 20% en promedio móvil de 14 días. | **NO VERIFICABLE**. Falta tráfico de buques energéticos y promedio móvil 14 días por chokepoint. | S33 |
+| V02-03 | Daño estructural físico confirmado en terminales clave de exportación que reduzca la capacidad global en > 1 M bpd. | **NO VERIFICABLE**. Daño a buque no acredita terminal ni pérdida de capacidad global >1 Mb/d. | S33 |
+| V02-04 | Desvío de más del 30% del volumen nominal del tráfico naviero regular hacia rutas alternativas de larga distancia. | **NO VERIFICABLE**. Falta denominador nominal y volumen >30% desviado a rutas largas. | — |
+| V02-05 | Orden 202(c), EEA 3 o instrucción equivalente que obligue a despachar generación fuera de régimen ordinario, activar respaldo o interrumpir grandes cargas para preservar la fiabilidad del sistema. | **ACTIVO JURIDICO**. Órdenes vigentes de disponibilidad/despacho por fiabilidad. Operación efectivamente realizada se verifica aparte; no completa G-C. | S29,S30,S31 |
+
+## Observatorio y pequeñas señales W47
+
+Variables, fuentes y condiciones de paso en [[Radar_Eventos_2026_11#Observatorios estructurales]]. Pausa urbanística, reformas y disponibilidad DOE documentadas; no corteCPD demostrado. Almacenamiento alemán bajo convive con suministro estable. OMI acredita incidente/acumulado, sin precio homogéneo de seguro o tránsito14d.
+
+PJM16nov pide orden15ene/efecto16ene para ride-through≥25MW. Son fechas solicitadas, no aprobación ni obligación de corte≥4h; seguimiento de expedienteER27-522. Eddystone52: informe disponibilidad5dic; despacho y operación real separados.
+
+## Fuentes
+
+[S24](https://sheriff.loudoun.gov/Archive/ViewFile/Item/15495), [S25](https://www.pjm.com/-/media/DotCom/documents/ferc/filings/2026/20261116-er27-522-000.pdf), [S26](https://www.ferc.gov/cost-transparency-customer-protection), [S27](https://cdn.misoenergy.org/Fact%20Sheet%20-%20MISO%20Large%20Load%20Filings796428.pdf), [S28](https://www.pjm.com/Home/), [S29](https://www.energy.gov/documents/202-26-52-eddystone-order), [S30](https://www.energy.gov/documents/202-26-25b-wagner), [S31](https://www.energy.gov/ceser/federal-power-act-section-202c-midcontinent-independent-system-operator-miso-order-no-202-2), [S32](https://bundesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/artikel.html), [S33](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx). Periodos/fechas/alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]].
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # VECTOR 02 Energia y nodos geoeconomicos
 
@@ -780,6 +838,9 @@ Alta E0 autorizada [[Evento_E0_2026_09_26_Gas_Europeo_Invierno]], con calibraci�
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

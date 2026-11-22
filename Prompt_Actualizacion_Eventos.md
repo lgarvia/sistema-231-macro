@@ -1,6 +1,6 @@
 # PROMPT CANÓNICO — ACTUALIZACIÓN DEL SISTEMA 231
 
-> **Versión:** 0.7 — 2026-09-26 (TASK_147; intervención humana probada en TASK_118)
+> **Versión:** 0.8 — 2026-11-15 (TASK_325; contexto inicial permanente aprobado por Luis; conserva intervención humana TASK_147)
 > **Frecuencia recomendada:** semanal y tras un trigger crítico
 > **Activación:** toda petición de actualizar, revisar o calibrar el Sistema 231, también dentro del ritual semanal, ejecuta las decisiones humanas de §2.1 antes de aplicar cambios de calibración o inventario.
 
@@ -17,7 +17,13 @@ El Sistema 231 distingue formal y operativamente cuatro capas epistemológicas:
 
 ## 2. Flujo Canónico de Actualización
 
-**FUENTES Y EXPLORACIÓN DE LOS SEIS VECTORES → DIAGNÓSTICO Y PROPUESTAS → LUIS: PESOS → LUIS: SELECCIÓN DE EVENTOS Y CALIBRACIÓN DE ALTAS → APLICACIÓN AUTORIZADA → CARGA PRIMARIA → TESIS → RADAR (VENTANAS) → SUPERFICIES Y COMM**
+**CONTEXTO BREVE DE APERTURA → FUENTES Y EXPLORACIÓN DE LOS SEIS VECTORES → DIAGNÓSTICO Y PROPUESTAS → LUIS: PESOS → LUIS: SELECCIÓN DE EVENTOS Y CALIBRACIÓN DE ALTAS → APLICACIÓN AUTORIZADA → CARGA PRIMARIA → TESIS → RADAR (VENTANAS) → SUPERFICIES Y COMM**
+
+### 2.0. Contexto inicial de la revisión semanal
+
+Al abrir la primera fase de cada actualización semanal, tras fijar el corte factual y comprobar las fuentes necesarias, presenta a Luis **dos o tres líneas en total**: lo más relevante de la semana que se cierra, lo más relevante que conviene vigilar en la entrante y qué continuidad o posibles cambios supone para el sistema de eventos. Identifica las semanas o fechas de referencia dentro de esa apertura. Es una orientación breve, no un informe adicional.
+
+Distingue hechos observados de hitos futuros y de interpretación; si el cierre es parcial o falta evidencia decisiva, indícalo brevemente. No anticipes resultados futuros ni des por aprobadas nuevas fichas, pesos o calibraciones: las implicaciones son propuestas y conservan las decisiones de §2.1. En revisiones sucesivas no vuelvas a pedir autorización para este formato, aprobado por Luis el 15-nov-2026 tras el ensayo W46 (TASK_325).
 
 ### 2.1. Intervención humana obligatoria
 
@@ -99,7 +105,7 @@ Las inferencias y tesis nunca se anotan como hechos consumados del mundo.
 
 Ejecuta la preparación técnica con autonomía y conserva la arquitectura actual. Aplica la intervención humana de §2.1 antes de modificar calibración o inventario y sus superficies derivadas. Lee el protocolo del vault, el inventario, las decisiones pendientes y la última revisión. Antes de modificar, comprueba tareas concurrentes y cambios locales; preserva los ajenos.
 
-1. **Fijar el corte.** Registra semana ISO, fecha nominal del informe y hora/zona del corte factual real. Si el domingo aún no ha terminado, entrega un precierre. Cubre también el intervalo desde el corte anterior para no perder noticias del fin de semana. No incorpores información publicada después del corte aunque se conozca durante la ejecución.
+1. **Fijar el corte.** Registra semana ISO, fecha nominal del informe y hora/zona del corte factual real. Si el domingo aún no ha terminado, entrega un precierre. Cubre también el intervalo desde el corte anterior para no perder noticias del fin de semana. No incorpores información publicada después del corte aunque se conozca durante la ejecución. Abre la primera fase con el contexto breve de §2.0, contrastando lo necesario antes de presentarlo.
 2. **Verificar hechos.** Usa documentos primarios específicos con periodo, unidad, publicación, vigencia y fecha de consulta. Separa observación, anuncio, proyección, antecedente e inferencia. En revisiones de series, registra el valor previo y el nuevo. Un calendario no acredita un resultado; una norma no prueba cobro ni efecto económico.
 3. **Auditar y someter a decisión.** Evalúa cada cláusula de cada trigger: umbral, duración, población, geografía, fuente y causalidad. Usa activo, parcial, no activado con evidencia, no verificable o periodo incompleto, según corresponda. No reduzcas requisitos para obtener una conclusión. Distingue triggers de evento y de vector. Explora los seis vectores y presenta primero pesos (A), después selección amplia (B) y calibraciones pendientes, conforme a §2.1. Espera las decisiones de Luis antes de aplicar los cambios. Presión, clase, peso y tendencia se justifican por separado; ni la clase ni el total vienen impuestos por el encargo.
 4. **Aplicar, calcular y revisar tesis.** Aplica lo autorizado y deriva carga desde el inventario resultante: presión × peso × tendencia, una vez por vector primario. Explica por separado variaciones por hechos, recalibración e inventario; declara subtotal si quedan fichas sin calibrar. Revisa las seis tesis con apoyo, contraevidencia, ambigüedad y próxima falsación; conserva o cambia soporte por evidencia, no por cuota ni por vínculos.

@@ -7,26 +7,77 @@ vector: "[[VECTOR_03_Semiconductores_y_soberania_tecnologica]]"
 moc: "[[MOC_Tecnologia]]"
 tags: [semiconductores, cowos, tsmc, hardware, ia, capex, hyperscalers]
 tipo: evento
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 estado: E0
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4.5
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+peso_estructural: 4.50
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
 factor_tendencia: 1.2
 tendencia_calibrada: "↑"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P4/peso4.5/↑/V03"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 21.600
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# CoWoS
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P4 · peso 4,50 · ↑ (factor 1.2) · carga 21,60 · V03.**
+
+## Mecanismo y evidencia W47
+
+Empaquetado avanzado y coordinación HBM/producto → capacidad y entregas.
+
+TSMC/R01 es antecedente15oct recontrastado: preferencia CoWoS y hoja de ruta de capacidad; no auditoría independiente de yields/plazos. ASML113 sistemas totales no producción EUV anual; SKHynix presenta otros productos. CAPEX de emisores usa bases heterogéneas; no suma trimestral homogénea ni caída física>10% demostrada.
+
+## Decisión y continuidad de calibración
+
+Mantener: cuello de empaquetado específico, sustitución difícil y transmisión crítica. Capacidad/roadmaps alternativos no prueban normalización ni dependencia inmutable.
+
+P4/↑ heredados de B W46 por restricción difícil de sustituir; no nueva aceleración cuantificada. Peso4,50 conserva alcance. Sin datos de plazo generalizado<20semanas, yields o guía compatible, no declarar alivio estructural ni intensificación. Resultados NVIDIA no demuestran causa CoWoS.
+
+## Condiciones y falsación
+
+Cada conjunción conserva umbral, población, periodo y causalidad. ND no prueba ausencia; las E1 mantienen procedencia histórica.
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| C-A | Anuncio oficialAP7Chiayi retrasa equipamiento/conexión y producción más alláH1-2027. | **NO VERIFICABLE** | Los datos comerciales de otros proveedores no fijan el calendario AP7. Anuncio oficial Chiayi/AP7: equipamiento/conexión y producción después de H1-2027. Fuentes: S21. |
+| C-B | YieldsCoWoS-L causan entregasBlackwell20%bajo guíaQ4-2026. | **PERIODO INCOMPLETO** | El Q4 calendario sigue abierto; Q3 FY2027 no es ese periodo ni Blackwell aislado. Entregas/guía comparable, déficit del 20% y causalidad yields CoWoS-L. Fuentes: S12,S13,S14. |
+| C-C | Recorte agregado>10%de guíaCAPEXhyperscalersQ3/Q4 señala freno físico en aceleradores. | **NO VERIFICABLE** | La comparación por emisor aporta contrapesos; no forma agregado homogéneo ni demuestra freno físico. Universo fijo, guía Q3/Q4 previa y actual, criterio leases/caja y causa física del recorte >10%. Fuentes: S17,S18,S19,S20. |
+| C-D | Sobrecapacidad/contracción de pedidos→plazoCoWoS<20semanas generalizado. | **NO VERIFICABLE** | Capacidad futura y acuerdos de memoria no constituyen serie de plazos CoWoS. Plazo <20 semanas generalizado y causa sobrecapacidad/contracción de pedidos. Fuentes: S21,S22. |
+
+## Fuentes y procedencia
+
+[R01](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf), [S13](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/supplementalfinancialinfor.htm), [S17](https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1), [S18](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/), [S19](https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx), [S20](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # CoWoS
 
@@ -591,6 +642,9 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

@@ -4,27 +4,73 @@ fecha: 2026-09-26
 tipo: evento
 estado: E0
 vector: "[[VECTOR_01_Arquitectura_monetaria_global]]"
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 origen_alta: "C10 — autorización Luis 26–27 septiembre, TASK_148"
 calibracion: aplicada
 presion_numerica: 3
-peso_estructural: 4.0
-fecha_decision_peso: 2026-11-14
+peso_estructural: 4.30
+fecha_decision_peso: "2026-11-22"
 revision_semanal_pendiente: false
 factor_tendencia: 1
 tags: [francia, deuda-soberana, euro, fragmentacion]
 tendencia_calibrada: "→"
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E0/P3/peso4.0/→/V01"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 12.90
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# Deuda francesa
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E0 · P3 · peso 4,30 · → (factor 1) · carga 12,90 · V01.**
+
+## Mecanismo y evidencia W47
+
+Financiación soberana francesa → fragmentación y transmisión a banca/crédito.
+
+TEC10 termina20nov en4,874%, frente4,888% del13nov (−1,4pb); no es spread OAT–Bund. AFT19nov adjudica11.996MEUR; liquidación23nov futura al corte. BCE documenta canales de sensibilidad soberana/IA; no crisis bancaria ejecutada.
+
+## Decisión y continuidad de calibración
+
+Subir transmisión4→5: riesgo soberano conectado a absorción internacional, inversores apalancados y crédito, además del presupuesto nacional. No es una subida por TEC10.
+
+P3/→: adjudicación y alivio semanal limitan presión adicional, pero no resuelven deuda, fragmentación o ejecución fiscal. Subir peso a4,30 reconoce conexión estructural, no mayor presión medida. Falsación/alivio: ejecución fiscal y spreads/coberturas comparables sostenidos, sin contagio bancario.
+
+## Pruebas de seguimiento cualitativo
+
+| Ficha | Evidencia | Próxima prueba / límite | Fuentes |
+|---|---|---|---|
+| Deuda francesa | Nueva curva y adjudicación aportan financiación efectiva en subasta; falta liquidación y transmisión bancaria. | Seguir spread OAT–Bund, cobertura de vencimientos comparables, ejecución fiscal y exposición bancaria. No usar TEC30 para el trigger a diez años. | S07,S08,S10 |
+
+## Fuentes y procedencia
+
+[R04](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.es.html), [S07](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-20), [S08](https://www.aft.gouv.fr/fr/publications/communiques-presse/19-novembre-2026-emission-oat), [S10](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.es.html). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # Deuda francesa
 
@@ -450,6 +496,9 @@ Conecta con [[VECTOR_00_Indice]] · [[Radar_Eventos_2026_10_r1]] · [[MAPA_TRANS
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

@@ -3,17 +3,77 @@ tipo: tesis_estructural
 id: TESIS_01
 estado: vigente
 soporte: moderado
-ultima_actualizacion: 2026-11-14
-corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
-corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
-alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_01_Arquitectura_monetaria_global]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
 soporte_alcance: "Restricción fiscal y ejecución; dominancia monetaria condicional"
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# TESIS_01: Restricción fiscal y dominancia monetaria condicional
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**Soporte: moderado · estado: vigente · alcance: Restricción fiscal y ejecución; dominancia monetaria condicional.**
+
+## 1. Definición
+La rigidez de compromisos fiscales y la dificultad para ejecutar ajustes o inversión pueden estrechar el margen de actuación pública. La dominancia monetaria es un resultado adicional y condicional: exige demostrar que el banco central cambia su reacción para proteger financiación soberana en conflicto con estabilidad de precios
+
+España es un ámbito prioritario de contraste: gobernabilidad → presupuesto → ejecución → financiación e inversión. Cada transición requiere evidencia y se comprueban mecanismos compensatorios de continuidad, reasignación y financiación privada.
+
+## 2. Restricción estructural asociada
+
+- **Fiscal:** refinanciación recurrente de grandes volúmenes de deuda y déficits persistentes.
+- **Demográfica:** crecimiento automático de pensiones, sanidad y otras transferencias ligadas al envejecimiento.
+- **De absorción de duración (Japón y compradores estructurales):** el mayor rendimiento doméstico puede reducir el incentivo marginal a comprar duración exterior cubierta. Esa hipótesis sólo se valida con flujos oficiales; el stock TIC no demuestra repatriación.
+- **De balance e intermediación:** capacidad limitada de dealers y compradores privados para absorber simultáneamente letras, cupones y duración cuando coinciden drenajes de liquidez (pagos fiscales a la TGA) y cierres contables (*quarter-end*).
+- **Institucional:** obligación del banco central de preservar la transmisión monetaria y el funcionamiento ordenado de los mercados soberanos vía facilidades de respaldo (SRF).
+- **Capacidad política de ejecución:** acuerdos de gobernabilidad y presupuesto condicionan ajuste e inversión; sus efectos deben medirse.
+
+## Contraste factual W47
+
+**Apoyo:** Soberanos y financiación de infraestructura compiten por absorción, con canales descritos por BCE.
+
+**Contraevidencia y ambigüedad:** Subastas colocadas y repo contenido limitan inferir subordinación monetaria; intereses altos no prueban dominancia fiscal.
+
+**Próxima falsación:** Medidas/ejecución fiscal y monetaria, persistencia y nexo a financiación.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Restricción fiscal | Deterioro persistente de absorción de deuda, coste de refinanciación o ejecución presupuestaria, con mecanismo documentado | Continuidad fiscal, consolidación y absorción privada estable |
+| Dominancia monetaria condicional | Cambio de reacción monetaria atribuible a proteger financiación soberana en conflicto con estabilidad de precios | Política antiinflacionista sostenida bajo estrés fiscal sin subordinación de su reacción |
+| Canal español | Bloqueo o medidas fiscales materiales con transmisión acreditada a financiación o inversión | Gobernabilidad y continuidad presupuestaria sin fricción material; debilita el escenario de estrés, sin probar independencia monetaria bajo estrés |
+
+> Criterios operativos vigentes conservados de W46. Restituidos al bloque actual en auditoría22nov; no se modifica su formulación ni el grado de soporte.
+
+## Visión atribuida y juicio
+
+Las lecturas de Luis orientan las preguntas y las alternativas; no cuentan como una confirmación independiente. La atribución y las pruebas están en [[ACTUALIZACION_SEMANAL_231_2026_11_22#Visión de Luis y contraste]]. Se conserva el grado porque el nuevo apoyo no elimina estos límites causales; el soporte no deriva de cargas.
+
+## Fuentes
+
+[S04](https://www.federalreserve.gov/releases/h41/Current/), [S05](https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf), [S06](https://home.treasury.gov/news/press-releases/sb0693), [S07](https://www.banque-france.fr/fr/statistiques/taux-et-cours/indices-obligataires-2026-11-20), [S08](https://www.aft.gouv.fr/fr/publications/communiques-presse/19-novembre-2026-emission-oat), [S10](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.es.html), [S57](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261110_1.pdf), [S58](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261112_4.pdf).
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # TESIS_01: Restricción fiscal y dominancia monetaria condicional
 
@@ -896,6 +956,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

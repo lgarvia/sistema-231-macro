@@ -3,17 +3,75 @@ tipo: tesis_estructural
 id: TESIS_02
 estado: vigente
 soporte: moderado_alto
-ultima_actualizacion: 2026-11-14
-corte_factual_actual: "2026-11-14 21:49:38 Europe/Madrid"
-corte_factual_previo: "2026-11-07 20:22:35 Europe/Madrid"
-alcance_actualizacion: "W46; apoyo/contraevidencia/ambigüedad/falsación contrastados; definición, criterios y soporte conservados"
+ultima_actualizacion: "2026-11-22"
+corte_factual_actual: "2026-11-21 18:11:49 Europe/Madrid"
+corte_factual_previo: "2026-11-14 21:49:38 Europe/Madrid"
+alcance_actualizacion: "W47: evidencia/contraevidencia/falsación y visión atribuida revisadas; definición y grado conservados con justificación"
 vector_dominante: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 revision_interpretativa: "2026-10-17; seis revisiones aprobadas por Luis, TASK_226"
 soporte_alcance: "Coerción modular; estabilización con validación propia"
-revision_inventario: 2026-11-14
-decision_inventario: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
-cierre_operativo: "2026-11-14T23:49:26+01:00"
+revision_inventario: "2026-11-22"
+decision_inventario: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+decision_inventario_W47: "Luis22nov TASK390; altaC23 observación y C60 integrado; sin cierres"
+revision_soporte_W47: "Conservado por alcance: apoyo y contrapesos expuestos, no conteo de noticias o carga"
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+estado_revision_W47: "completa_publicacion_autorizada"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:49:26+01:00"
+decision_inventario_antes_rectificacion_2026_11_22: "Luis — A/B aprobadas14nov; altaC55/JapónP3 TASK325"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# TESIS_02: Coerción modular y estabilización táctica
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**Soporte: moderado_alto · estado: vigente · alcance: Coerción modular; estabilización con validación propia.**
+
+## 1. Definición
+Los acuerdos parciales pueden preservar determinados flujos críticos mientras persisten o aumentan las restricciones sobre otros. La estabilización debe medirse por continuidad, coste y previsibilidad de flujos concretos, además de por la existencia de canales diplomáticos
+
+La coerción modular tiene soporte moderado-alto; la eficacia estabilizadora requiere su propia prueba por sector. Diálogo diplomático, registro administrativo y continuidad de entregas se observan separadamente.
+
+## 2. Restricción estructural asociada
+
+- **Interdependencia económica:** materias primas, semiconductores, demanda final y activos financieros continúan conectando a bloques rivales.
+- **Disuasión militar:** el coste de una confrontación directa favorece presión híbrida, sanciones y coerción limitada.
+- **Infraestructura heredada:** puertos, estándares, contratos y cadenas de suministro no pueden duplicarse de forma instantánea.
+- **Coste político:** una ruptura total eleva simultáneamente inflación, escasez y riesgo financiero para todos los participantes.
+
+## Contraste factual W47
+
+**Apoyo:** Acuerdos políticos y controles con destinos/excepciones son compatibles con coerción modular.
+
+**Contraevidencia y ambigüedad:** Compatibilidad no prueba coordinación ni estabilización lograda. El ajuste puede ser endógeno sin orquestación.
+
+**Próxima falsación:** Acto/licencia y excepción aplicados, estabilización material; comparar hipótesis sin coordinador.
+
+## Criterios de validación o refutación
+| Afirmación | Refuerza | Debilita o delimita |
+|---|---|---|
+| Coerción modular | Combinación efectiva de aranceles, controles y acuerdos selectivos | Retirada duradera de coerción o ruptura total que sustituya el patrón modular |
+| Estabilización táctica | Acuerdos ejecutados que sostienen entregas y flujos críticos durante un periodo comparable | Incumplimiento, interrupción persistente o costes que impiden preservar esos flujos |
+| Transmisión española | Cambios sectoriales atribuibles a medidas concretas | Ausencia de efecto diferencial o explicación alternativa suficiente |
+
+> Criterios operativos vigentes conservados de W46. Restituidos al bloque actual en auditoría22nov; no se modifica su formulación ni el grado de soporte.
+
+## Visión atribuida y juicio
+
+Las lecturas de Luis orientan las preguntas y las alternativas; no cuentan como una confirmación independiente. La atribución y las pruebas están en [[ACTUALIZACION_SEMANAL_231_2026_11_22#Visión de Luis y contraste]]. Se conserva el grado porque el nuevo apoyo no elimina estos límites causales; el soporte no deriva de cargas.
+
+## Fuentes
+
+[S34](https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html), [S38](https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology), [S39](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm), [S40](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y19r/index.html), [S48](https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html), [S50](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/).
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # TESIS_02: Coerción modular y estabilización táctica
 
@@ -865,6 +923,9 @@ Revisión técnica, sin validación adicional por cambiar pesos o archivar Xi. C
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

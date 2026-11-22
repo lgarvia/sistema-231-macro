@@ -7,27 +7,79 @@ vector: "[[VECTOR_04_Reconfiguracion_del_comercio_global]]"
 moc: "[[MOC_Geopolitica]]"
 tags: [comercio, aranceles, section-301, section-338, estados-unidos, canada, brasil]
 tipo: evento
-ultima_revision: 2026-11-14
-corte_factual: "2026-11-14 21:49:38 Europe/Madrid"
+ultima_revision: "2026-11-22"
+corte_factual: "2026-11-21 18:11:49 Europe/Madrid"
 aliases: [Evento_E0_2026_07_24_US_Tariff_Stack]
 estado: E1
 calibracion: aplicada
 presion_numerica: 4
-peso_estructural: 4.1
+peso_estructural: 4.10
 factor_tendencia: 1
 tendencia_calibrada: "→"
 revision_semanal_pendiente: false
-decision_aplicada: "Luis — A R2 y paquete B aprobados14nov TASK325"
-cierre_operativo: "2026-11-14T23:44:46+01:00"
-fecha_decision_peso: 2026-11-14
-decision_peso: "Luis — Perfecto. Apruebo y aplica; A R2 W46 TASK325"
+decision_aplicada: "Luis22nov TASK390 — A e inventario aprobados; calibración C23 aprobada después mediante Si; aplicación W47 local completa"
+cierre_operativo: "2026-11-22T00:41:56+01:00"
+fecha_decision_peso: "2026-11-22"
+decision_peso: "Luis — Perfecto. Adelante con todo; tabla A W47 aprobada TASK390"
 estado_revision_W46: A_B_aplicadas
-aplicacion_pesos: "2026-11-14T23:13:22+01:00"
+aplicacion_pesos: "2026-11-22T00:33:37+01:00"
 corte_investigacion_W46: "2026-11-14 21:49:38 Europe/Madrid"
-revision_inventario: 2026-11-14
+revision_inventario: "2026-11-22"
 decision_calibracion_B: "Luis — paquete recomendado B14nov; E1/P4/peso4.1/→/V04"
 aplicacion_B: "2026-11-14T23:44:46+01:00"
+decision_inventario_W47: "Luis — mantener las doce fichas; ningún cierre/reclasificación; TASK390"
+estado_revision_W47: "completa_publicacion_autorizada"
+aplicacion_pesos_W47: "2026-11-22T00:33:37+01:00"
+procedencia_P_factor: "Selección B W46, Luis14nov TASK325; revisados W47 sin propuesta de cambio"
+carga_primaria: 16.40
+cierre_operativo_W47: "2026-11-22T00:41:56+01:00"
+decision_aplicada_antes_rectificacion_2026_11_22: "Luis — A R2 y paquete B aprobados14nov TASK325"
+cierre_operativo_antes_rectificacion_2026_11_22: "2026-11-14T23:44:46+01:00"
+aplicacion_pesos_antes_rectificacion_2026_11_22: "2026-11-14T23:13:22+01:00"
+rectificacion_documental_W47: "2026-11-22T00:52:17+01:00"
+alcance_metadatos_previos: "Los campos *_antes_rectificacion_2026_11_22 conservan el valor anterior; los campos sin sufijo y *_W47 describen el cierre actual. Las decisiones históricas mantienen fecha propia."
+publicacion: "autorizada_por_Luis_2026_11_22"
+fecha_autorizacion_publicacion: "2026-11-22T00:58:27+01:00"
 ---
+
+# Tariff Stack
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**E1 · P4 · peso 4,10 · → (factor 1) · carga 16,40 · V04.**
+
+## Mecanismo y evidencia W47
+
+Instrumentos arancelarios y represalias → precio/cobro/volumen y producción.
+
+Lista canadiense27,6B CAD es cobertura informativa, no27,6B USD recaudados. T-B activo heredado, revalidación jurídica/moneda parcial. Proclamación23oct modificó alcance desde30oct. Calendario Census confirma octubre8dic y noviembre7ene; calendario no caída sectorial observada.
+
+## Decisión y continuidad de calibración
+
+Mantener: régimen comercial de alcance global, transmisión por sectores y sustitución parcial; cambios de partidas/pausas no retiran toda fricción persistente. BIS tiene otro objeto.
+
+E1/P4/→ conserva episodio y mecanismo. Falta de dos periodos no borra activación previa ni permite afirmar nuevos impactos cuantitativos. Cierre exige retirada/sustitución y alivio de cobertura/cobro/flujo; no basta anuncio. Separar C52 marítimo y C54 exclusiones.
+
+## Condiciones y falsación
+
+Cada conjunción conserva umbral, población, periodo y causalidad. ND no prueba ausencia; las E1 mantienen procedencia histórica.
+
+| ID | Condición canónica íntegra | Evaluación W47 | Evidencia / requisito pendiente |
+|---|---|---|---|
+| T-A | Aplicación material50%vehículos/alcohol/lácteosCanadá, sin neutralización. | **PARCIAL** | Texto jurídico recontrastado; las modificaciones de partidas no equivalen a cobro completo. Perímetros vehículos/alcohol/lácteos, aplicación material 50% y ausencia de neutralización. Fuentes: S52. |
+| T-B | Contramedidas vinculantesCanadá/Brasil/UE>10.000M$comercioanual. | **ACTIVO HEREDADO; REVALIDACION PARCIAL** | Se conserva procedencia W45/W46. Resumen canadiense aporta cobertura nominal, con límite jurídico/divisa. Actos vinculantes consolidados y comercio anual >10.000 MUSD conciliado. No nueva activación/desactivación por silencio. Fuentes: S51. |
+| T-C | Dos fabricantes afectados cuantifican>5%costeunitario/margenbruto/producción o relocalización física atribuible. | **NO VERIFICABLE** | No recuperados dos fabricantes con cuantificación y atribución compatibles. Dos afectados, >5% en métrica requerida o relocalización física atribuible a aranceles. Fuentes: —. |
+| T-D | Importaciones de sectores cubiertos−15%YoYdurante2meses consecutivos,Census/BEA. | **NO VERIFICABLE** | Septiembre ya estaba publicado; el calendario no entrega las celdas sectoriales. Partidas de sectores cubiertos, comparación YoY homogénea y dos meses consecutivos -15%. Fuentes: S53. |
+| T-E | Fuenteoficial atribuye≥0,3ppdeinflaciónYoYbienesbásicos a nuevos aranceles en2publicaciones. | **NO VERIFICABLE** | La publicación de CPI no acredita atribución causal oficial a nuevos aranceles. >=0,3 pp YoY en bienes básicos en dos publicaciones oficiales con ese nexo. Fuentes: S54. |
+
+## Fuentes y procedencia
+
+[S51](https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-response-us-tariffs/complete-list-us-products-subject-to-counter-tariffs.html), [S52](https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/), [S39](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm). Metadatos de publicación, periodo y alcance en [[ACTUALIZACION_SEMANAL_231_2026_11_22]]. Pesos ordinales: no probabilidades ni medición empírica.
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
 
 # Tariff Stack
 
@@ -614,6 +666,9 @@ Matriz de evidencia, fuentes y límites: [[ACTUALIZACION_SEMANAL_231_2026_09_20]
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 

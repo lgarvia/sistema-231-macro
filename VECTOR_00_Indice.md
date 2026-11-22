@@ -1,3 +1,49 @@
+# Inventario y vectores — W47
+
+> Precierre W47 · nominal 22-nov-2026 · corte factual 2026-11-21 18:11:49 Europe/Madrid. Aplicación local 2026-11-22T00:33:37+01:00; TASK390. A y selección de inventario aprobadas por Luis: «Perfecto. Adelante con todo». C23: alta y calibración aprobadas por Luis22nov («Si»); P3/peso4,30/→factor1, carga12,90. Aplicación final 2026-11-22T00:41:56+01:00. No incorpora hechos posteriores al corte. Publicación autorizada por Luis22nov («Perfecto. Publica»); recepción remota verificada por separado.
+
+**13 eventos activos (10 E0 / 3 E1), todos calibrados; carga primaria total 171,76.** Puente respecto a W46: 160,16 − 1,30 por los pesos aprobados + 12,90 del alta C23. Calibración C23 aprobada por Luis22nov («Si») y aplicada; no equivale a una activación E1 ni a efectos materiales demostrados.
+
+| Evento | Clase | P | Peso | Tendencia | Factor | Primario | Carga |
+|---|---|---|---|---|---|---|---|
+| [[Evento_E0_2026_07_08_Grid_Stress_IA\|Grid IA]] | E0 | 4 | 4,70 | ↑ | 1.2 | V02 | 22,56 |
+| [[Evento_E0_2026_08_16_Japon_Carry_Trade_y_Liquidez_Septiembre\|Japón / liquidez]] | E0 | 3 | 4,60 | → | 1 | V01 | 13,80 |
+| [[Evento_E0_2026_09_19_Visita_Xi_EEUU\|EE. UU.–China / ejecución]] | E0 | 2 | 3,60 | → | 1 | V06 | 7,20 |
+| [[Evento_E0_2026_09_26_Deuda_Francesa_y_Fragmentacion_Europea\|Deuda francesa]] | E0 | 3 | 4,30 | → | 1 | V01 | 12,90 |
+| [[Evento_E0_2026_09_26_Gas_Europeo_Invierno\|Gas europeo / invierno]] | E0 | 3 | 4,00 | → | 1 | V02 | 12,00 |
+| [[Evento_E0_2026_10_16_China_Controles_Exportacion_Tecnologica\|China: registro y controles de exportación de tecnologías estratégicas]] | E0 | 2 | 3,50 | → | 1 | V04 | 7,00 |
+| [[Evento_E0_2026_11_11_NVIDIA_Sucesion_y_Continuidad_Operativa\|NVIDIA / sucesión y continuidad operativa]] | E0 | 2 | 3,10 | → | 1 | V03 | 6,20 |
+| [[Evento_E0_2026_11_29_Elecciones_Espana_Gobernabilidad_Fiscal\|España / elecciones y ejecución fiscal]] | E0 | 2 | 3,20 | → | 1 | V01 | 6,40 |
+| [[Evento_E0_2026_CoWoS_Capacity\|CoWoS]] | E0 | 4 | 4,50 | ↑ | 1.2 | V03 | 21,60 |
+| [[Evento_E1_2026_06_15_Lloyds_War_Risk_Ormuz_BabelMandeb\|Riesgo marítimo]] | E1 | 4 | 4,60 | → | 1 | V02 | 18,40 |
+| [[Evento_E1_2026_07_24_US_Tariff_Stack\|Tariff Stack]] | E1 | 4 | 4,10 | → | 1 | V04 | 16,40 |
+| [[Evento_E1_2026_11_05_Ajuste_Valoraciones_IA_y_Transmision_Financiera\|Ajuste de valoraciones IA y transmisión financiera]] | E1 | 3 | 4,80 | → | 1 | V01 | 14,40 |
+| [[Evento_E0_2026_11_19_US_Acceso_Remoto_Computo_Avanzado\|EE. UU. / acceso remoto a cómputo avanzado]] | E0 | 3 | 4,30 | → | 1 | V04 | 12,90 |
+
+## Carga primaria por vector
+
+| Vector | Presión estructural | Tendencia estructural | Carga primaria |
+|---|---|---|---|
+| [[VECTOR_01_Arquitectura_monetaria_global]] | 🟠 ELEVADA | ↑ Acelerando | 47,50 |
+| [[VECTOR_02_Energia_y_nodos_geoeconomicos]] | 🔴 CRÍTICA | ↑ Acelerando | 52,96 |
+| [[VECTOR_03_Semiconductores_y_soberania_tecnologica]] | 🟠 ELEVADA | → Estable | 27,80 |
+| [[VECTOR_04_Reconfiguracion_del_comercio_global]] | 🔴 CRÍTICA | → Estable | 36,30 |
+| [[VECTOR_05_Transformacion_industrial_y_demografia]] | 🟡 MODERADA | → Estable | 0,00 |
+| [[VECTOR_06_Orden_geopolitico_y_esferas_de_influencia]] | 🟡 MODERADA | → Estable | 7,20 |
+
+## Radar
+
+**34 hitos abiertos (1 Régimen / 0 Crítico / 28 Elevado / 5 Latente), seis observatorios y 73 resoluciones acumuladas.** Horizonte21-nov-2026–20-ene-2027 inclusive (+60d). Retirados13 vencidos (11 MATERIAL, dos NO VERIFICABLE; coberturas parciales explícitas), admitidos12. Dos ventanas intersectan el horizonte y conservan sus límites íntegros. Cero ventanas enriquecidas.
+
+## Decisiones y continuidad
+
+[[ACTUALIZACION_SEMANAL_231_2026_11_22]] · [[VECTOR_00_Indice]] · [[TESIS_00_Indice]] · [[Radar_Eventos_2026_11]] · [[PROPUESTA_DECISION_EVENTOS_2026_11_22]]
+
+---
+
+<details>
+<summary>Estado W46 y memoria anterior conservados — histórico; prevalece el bloque W47 superior</summary>
+
 # Inventario y vectores — W46
 
 > Precierre W46 · nominal15nov2026 · corte factual 2026-11-14 21:49:38 Europe/Madrid. Decisiones A R2/B aprobadas por Luis14nov, TASK325; revisión aplicada localmente. Ejecución 2026-11-14T23:49:26+01:00. El corte no observa hechos del domingo15. Publicación autorizada por Luis15nov; recepción remota se verifica por separado.
@@ -627,6 +673,9 @@ Conecta con [[TESIS_00_Indice]] · [[SALUD_DEL_SISTEMA]] · [[MAPA_TRANSMISIONES
 </details>
 
 </details>
+
+</details>
+
 
 </details>
 
